@@ -6,7 +6,7 @@ Here's some awesome PHP libraries that are awesome. Yes, so awesome I've used th
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
 * [Symfony2 Components](https://github.com/symfony) - The components that make Symfony2.
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
-* [Silex Propel ServiceProvider](https://github.com/propelorm/PropelServiceProvider)
+* [Silex Propel ServiceProvider](https://github.com/propelorm/PropelServiceProvider) - A Silex Propel ORM service provider.
 * [Silex Extensions](https://github.com/igorw/Silex-Extensions) - A set of Silex extensions.
 * [Twig](http://twig.sensiolabs.org/) - A comprehensive templating language.
 * [SwiftMailer](http://swiftmailer.org/) - A mailer solution.
