@@ -1,6 +1,6 @@
 # Awesome PHP Libraries
 
-Here's some awesome PHP libraries that are awesome. Yes, so awesome I've used the word three times! You should be using them already:
+A list of amazingly awesome PHP libraries that you should be using:
 
 * [Packagist](http://packagist.org/) - A package and dependency manager.
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
@@ -30,3 +30,5 @@ Here's some awesome PHP libraries that are awesome. Yes, so awesome I've used th
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [Phly Mustache](https://github.com/weierophinney/phly_mustache) - A mustache template implementation.
 * [GeoCoder](http://geocoder-php.org/) - A geocoding library.
+
+By [Ziadoz](https://bitbucket.org/ziadoz)
