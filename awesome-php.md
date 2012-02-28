@@ -30,3 +30,4 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [Phly Mustache](https://github.com/weierophinney/phly_mustache) - A mustache template implementation.
 * [GeoCoder](http://geocoder-php.org/) - A geocoding library.
+* [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
