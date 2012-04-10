@@ -29,3 +29,4 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Phly Mustache](https://github.com/weierophinney/phly_mustache) - A mustache template implementation.
 * [GeoCoder](http://geocoder-php.org/) - A geocoding library.
 * [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
+* [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
