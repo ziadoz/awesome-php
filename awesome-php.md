@@ -22,6 +22,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
 * [Pirum](https://github.com/symfony) - A PEAR channel manager.
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server.
+* [KnpRadBundle](http://rad.knplabs.com/) - A Symfony2 rapid application development library.
 * [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
@@ -30,3 +31,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [GeoCoder](http://geocoder-php.org/) - A geocoding library.
 * [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
+
+# Bonus Extras
+
+* [PHPEnv](https://github.com/CHH/phpenv) and [PHP Build](https://github.com/CHH/php-build) - PHP version management and installation.
