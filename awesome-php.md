@@ -31,6 +31,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [GeoCoder](http://geocoder-php.org/) - A geocoding library.
 * [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
+* [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standard compliant HTML filter.
 
 # Bonus Extras
 
