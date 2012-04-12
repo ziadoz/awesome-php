@@ -34,5 +34,5 @@ A list of amazingly awesome PHP libraries that you should be using:
 
 # Bonus Extras
 
-* [PHPEnv](https://github.com/CHH/phpenv) - A PHP version manager.
+* [PHP Env](https://github.com/CHH/phpenv) - A PHP version manager.
 * [PHP Build](https://github.com/CHH/php-build) - A PHP version installer.
