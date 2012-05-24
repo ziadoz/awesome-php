@@ -31,6 +31,8 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standard compliant HTML filter.
 * [PHP CS Fixer](https://github.com/fabpot/PHP-CS-Fixer) - A coding standard fixer library.
 * [React](https://github.com/react-php/react) - An event driven non-blocking I/O library.
+* [Événement](https://github.com/igorw/evenement) - A event dispatcher library.
+* [Sami](https://github.com/fabpot/Sami) - An API documentation generator.
 
 # Bonus Extras
 
