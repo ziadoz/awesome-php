@@ -33,7 +33,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
 * [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standard compliant HTML filter.
 * [PHP CS Fixer](https://github.com/fabpot/PHP-CS-Fixer) - A coding standard fixer library.
-* [React](https://github.com/react-php/react) - An event driven non-blocking library.
+* [React](https://github.com/react-php/react) - An event driven non-blocking I/O library.
 
 # Bonus Extras
 
