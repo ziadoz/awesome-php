@@ -6,6 +6,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
 * [Symfony2 Components](https://github.com/symfony) - The components that make Symfony2.
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
+* [Silex Extensions](https://github.com/fate/Silex-Extensions) - A handy bunch of Silex extensions.
 * [Twig](http://twig.sensiolabs.org/) - A comprehensive templating language.
 * [SwiftMailer](http://swiftmailer.org/) - A mailer solution.
 * [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
