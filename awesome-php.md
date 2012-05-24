@@ -20,8 +20,6 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Buzz](https://github.com/kriswallsmith/Buzz) - A HTTP client.
 * [Guzzle](http://guzzlephp.org/) - Another HTTP client.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
-* [Pirum](https://github.com/symfony) - A PEAR channel manager.
-* [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server.
 * [KnpRadBundle](http://rad.knplabs.com/) - A Symfony2 rapid application development library.
 * [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
