@@ -37,5 +37,6 @@ A list of amazingly awesome PHP libraries that you should be using:
 
 # Bonus Extras
 
+* [PHP Standards Working Group](https://groups.google.com/group/php-standards) - The PHP standards working group.
 * [PHP Env](https://github.com/CHH/phpenv) - A PHP version manager.
 * [PHP Build](https://github.com/CHH/php-build) - A PHP version installer.
