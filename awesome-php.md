@@ -27,7 +27,6 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
-* [Phly Mustache](https://github.com/weierophinney/phly_mustache) - A mustache template implementation.
 * [GeoCoder](http://geocoder-php.org/) - A geocoding library.
 * [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
