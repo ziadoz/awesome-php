@@ -6,7 +6,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
 * [Symfony2 Components](https://github.com/symfony) - The components that make Symfony2.
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
-* [Silex Extensions](https://github.com/fate/Silex-Extensions) - A handy bunch of Silex extensions.
+* [Slim](http://www.slimframework.com/) - Another simple micro framework.
 * [Twig](http://twig.sensiolabs.org/) - A comprehensive templating language.
 * [SwiftMailer](http://swiftmailer.org/) - A mailer solution.
 * [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
@@ -34,9 +34,11 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [React](https://github.com/react-php/react) - An event driven non-blocking I/O library.
 * [Événement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [Sami](https://github.com/fabpot/Sami) - An API documentation generator.
+* [Bob](https://github.com/CHH/bob) - A simple project automation tool.
 
 # Bonus Extras
 
+* [PHP The Right Way](http://www.phptherightway.com/)
 * [PHP Standards Working Group](https://groups.google.com/group/php-standards) - The PHP standards working group.
 * [PHP Env](https://github.com/CHH/phpenv) - A PHP version manager.
 * [PHP Build](https://github.com/CHH/php-build) - A PHP version installer.
