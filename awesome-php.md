@@ -38,13 +38,6 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Bob](https://github.com/CHH/bob) - A simple project automation tool.
 * [PHPAss](http://www.openwall.com/phpass/) - A portable PHP password hashing framework.
 
-# Resources
-
-* [PHP The Right Way](http://www.phptherightway.com/) - A PHP best practice quick reference guide.
-* [PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html) - A guide to PHP security.
-* [PHP Standards Working Group](https://groups.google.com/group/php-standards) - The PHP standards working group.
-* [Easy Package Management with Composer](http://net.tutsplus.com/tutorials/php/easy-package-management-with-composer/) - A Composer tutorial by Phil Sturgeon.
-
 # Utilities
 
 * [HomeBrew](http://mxcl.github.com/homebrew/) - A package manager for OSX.
@@ -52,3 +45,10 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [PHP Env](https://github.com/CHH/phpenv) - A PHP version manager.
 * [PHP Build](https://github.com/CHH/php-build) - A PHP version installer.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
+
+# Resources
+
+* [PHP The Right Way](http://www.phptherightway.com/) - A PHP best practice quick reference guide.
+* [PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html) - A guide to PHP security.
+* [PHP Standards Working Group](https://groups.google.com/group/php-standards) - The PHP standards working group.
+* [Easy Package Management with Composer](http://net.tutsplus.com/tutorials/php/easy-package-management-with-composer/) - A Composer tutorial by Phil Sturgeon.
