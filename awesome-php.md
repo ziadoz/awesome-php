@@ -5,6 +5,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Packagist](http://packagist.org/) - A package and dependency manager.
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
 * [Symfony2 Components](https://github.com/symfony) - The components that make Symfony2.
+* [Aura Components](http://auraphp.github.com/) - A package of PHP 5.4 components. 
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
 * [Twig](http://twig.sensiolabs.org/) - A comprehensive templating language.
