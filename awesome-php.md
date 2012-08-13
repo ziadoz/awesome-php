@@ -47,3 +47,4 @@ A list of amazingly awesome PHP libraries that you should be using:
 
 * [PHP Env](https://github.com/CHH/phpenv) - A PHP version manager.
 * [PHP Build](https://github.com/CHH/php-build) - A PHP version installer.
+* [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
