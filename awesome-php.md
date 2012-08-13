@@ -36,6 +36,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Événement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [Sami](https://github.com/fabpot/Sami) - An API documentation generator.
 * [Bob](https://github.com/CHH/bob) - A simple project automation tool.
+* [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility for PHP.
 * [PHPAss](http://www.openwall.com/phpass/) - A portable PHP password hashing framework.
 
 # Utilities
