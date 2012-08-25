@@ -8,6 +8,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Aura Components](http://auraphp.github.com/) - A package of PHP 5.4 components. 
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
+* [Phalcon PHP](http://phalconphp.com/) - A high performance C extension PHP framework.
 * [Twig](http://twig.sensiolabs.org/) - A comprehensive templating language.
 * [SwiftMailer](http://swiftmailer.org/) - A mailer solution.
 * [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
