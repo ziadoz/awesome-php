@@ -50,6 +50,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 # Resources
 
 * [PHP The Right Way](http://www.phptherightway.com/) - A PHP best practice quick reference guide.
+* [PHP Best Practices](http://phpbestpractices.org/) - A PHP best practice guide.
 * [PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html) - A guide to PHP security.
 * [PHP Standards Working Group](https://groups.google.com/group/php-standards) - The PHP standards working group.
 * [Easy Package Management with Composer](http://net.tutsplus.com/tutorials/php/easy-package-management-with-composer/) - A Composer tutorial by Phil Sturgeon.
