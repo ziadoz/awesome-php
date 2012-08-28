@@ -39,6 +39,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Bob](https://github.com/CHH/bob) - A simple project automation tool.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility for PHP.
 * [PHPAss](http://www.openwall.com/phpass/) - A portable PHP password hashing framework.
+* [Box](https://github.com/kherge/Box) - A utility to build PHAR files.
 
 # Utilities
 
