@@ -2,7 +2,7 @@
 
 A list of amazingly awesome PHP libraries that you should be using:
 
-* [Packagist](http://packagist.org/) - A package and dependency manager.
+* [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - A package and dependency manager.
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
 * [Symfony2 Components](https://github.com/symfony) - The components that make Symfony2.
 * [Aura Components](http://auraphp.github.com/) - A package of PHP 5.4 components. 
