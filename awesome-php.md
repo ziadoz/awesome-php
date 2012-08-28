@@ -42,8 +42,8 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Wisdom](https://github.com/kherge/Wisdom) - A library for loading config data.
 
 # C Extension Frameworks
-* [Phalcon PHP](http://phalconphp.com/) - A high performance C extension PHP framework.
-* [Yaf](http://php.net/manual/en/book.yaf.php) - Another C extension framework.
+* [Phalcon PHP](http://phalconphp.com/) - A high performance C extension framework.
+* [Yaf](http://php.net/manual/en/book.yaf.php) - A PECL extension framework.
 
 # Utilities
 
