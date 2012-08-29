@@ -44,7 +44,6 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Wisdom](https://github.com/kherge/Wisdom) - A library for loading config data.
 * [GetOpt](ulrichsg/getopt-php) - A command line opt parser.
 * [OptParse](https://github.com/CHH/optparse) - Another command line opt parser.
-* [FTP PHP](https://github.com/rjkip/ftp-php) - An FTP wrapper class.
 
 # C Extension Frameworks
 * [Phalcon PHP](http://phalconphp.com/) - A high performance C extension framework.
