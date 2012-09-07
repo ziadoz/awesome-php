@@ -47,6 +47,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [OptParse](https://github.com/CHH/optparse) - Another command line opt parser.
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 * [Tala Payments](https://github.com/adrianmacneil/tala-payments) - A payment processing library.
+* [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 
 # C Extension Frameworks
 * [Phalcon PHP](http://phalconphp.com/) - A high performance C extension framework.
