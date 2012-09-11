@@ -49,6 +49,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Tala Payments](https://github.com/adrianmacneil/tala-payments) - A payment processing library.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 * [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
+* [Upload](https://github.com/codeguy/Upload) - A library for handling file uploads and validation.
 
 # C Extension Frameworks
 * [Phalcon PHP](http://phalconphp.com/) - A high performance C extension framework.
