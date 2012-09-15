@@ -45,6 +45,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Wisdom](https://github.com/kherge/Wisdom) - A library for loading config data.
 * [GetOpt](ulrichsg/getopt-php) - A command line opt parser.
 * [OptParse](https://github.com/CHH/optparse) - Another command line opt parser.
+* [Commando](https://github.com/nategood/commando) - Another simple command line opt parser.
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 * [Tala Payments](https://github.com/adrianmacneil/tala-payments) - A payment processing library.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
