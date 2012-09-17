@@ -17,6 +17,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Goutte](https://github.com/fabpot/Goutte) - A simple web scraper.
 * [Assetic](https://github.com/kriswallsmith/assetic) - An asset manager.
 * [Imagine](http://imagine.readthedocs.org/en/latest/index.html) - An image manipulation library.
+* [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
 * [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
 * [Behat](http://behat.org/) - A Behaviour Driven Development framework.
 * [Mink](http://mink.behat.org/) - Web acceptance testing.
