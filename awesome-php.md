@@ -15,7 +15,8 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Doctrine](http://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
 * [Propel](http://www.propelorm.org/) - A fast ORM.
 * [Goutte](https://github.com/fabpot/Goutte) - A simple web scraper.
-* [Assetic](https://github.com/kriswallsmith/assetic) - An asset manager.
+* [Assetic](https://github.com/kriswallsmith/assetic) - An asset manager pipeline library.
+* [Pipe](https://github.com/CHH/pipe) - Another asset manager pipeline library.
 * [Imagine](http://imagine.readthedocs.org/en/latest/index.html) - An image manipulation library.
 * [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
 * [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
