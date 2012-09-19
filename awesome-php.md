@@ -55,6 +55,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Upload](https://github.com/codeguy/Upload) - A library for handling file uploads and validation.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
+* [Fetch](https://github.com/tedivm/Fetch) - An IMAP library.
 
 # C Extension Frameworks
 * [Phalcon PHP](http://phalconphp.com/) - A high performance C extension framework.
