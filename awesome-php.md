@@ -53,6 +53,8 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 * [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
 * [Upload](https://github.com/codeguy/Upload) - A library for handling file uploads and validation.
+* [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
+* [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
 
 # C Extension Frameworks
 * [Phalcon PHP](http://phalconphp.com/) - A high performance C extension framework.
