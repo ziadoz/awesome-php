@@ -29,7 +29,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [KnpRadBundle](http://rad.knplabs.com/) - A Symfony2 rapid application development library.
 * [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
-* [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
+* [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library (uses [WKHTMLToPDF](https://github.com/antialize/wkhtmltopdf)).
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [GeoCoder](http://geocoder-php.org/) - A geocoding library.
 * [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
