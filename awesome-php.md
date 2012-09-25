@@ -57,6 +57,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
 * [Fetch](https://github.com/tedivm/Fetch) - An IMAP library.
+* [Lex](https://github.com/fuelphp/lex) - A lightweight template parser.
 
 # C Extension Frameworks
 * [Phalcon PHP](http://phalconphp.com/) - A high performance C extension framework.
