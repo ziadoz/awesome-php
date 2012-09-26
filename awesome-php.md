@@ -20,6 +20,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Imagine](http://imagine.readthedocs.org/en/latest/index.html) - An image manipulation library.
 * [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
 * [GIF Frame Extractor](https://github.com/Sybio/GifFrameExtractor) - A library to extract GIF animation frame information.
+* [GIF Creator](https://github.com/Sybio/GifCreator) - A library to create GIF animations from multiple images.
 * [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
 * [Behat](http://behat.org/) - A Behaviour Driven Development framework.
 * [Mink](http://mink.behat.org/) - Web acceptance testing.
