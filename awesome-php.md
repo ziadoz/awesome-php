@@ -59,7 +59,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
 * [Fetch](https://github.com/tedivm/Fetch) - An IMAP library.
 * [Lex](https://github.com/fuelphp/lex) - A lightweight template parser.
-* [Sslurp](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL in PHP suck less.
+* [Sslurp](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL suck less.
 
 # C Extension Frameworks
 * [Phalcon PHP](http://phalconphp.com/) - A high performance C extension framework.
