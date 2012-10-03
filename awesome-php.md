@@ -64,6 +64,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Composition](https://github.com/composition/composition) - A library to check your Composer environment at runtime.
 
 # C Extension Frameworks
+
 * [Phalcon PHP](http://phalconphp.com/) - A high performance C extension framework.
 * [Yaf](http://php.net/manual/en/book.yaf.php) - A PECL extension framework.
 
@@ -71,7 +72,6 @@ A list of amazingly awesome PHP libraries that you should be using:
 
 * [HomeBrew](http://mxcl.github.com/homebrew/) - A package manager for OSX.
 * [HomeBrew PHP](https://github.com/josegonzalez/homebrew-php) - A PHP tap for HomeBrew.
-
 * [PHP Env](https://github.com/CHH/phpenv) - A PHP version manager.
 * [PHP Build](https://github.com/CHH/php-build) - A PHP version installer.
 * [PHP CS Fixer](https://github.com/fabpot/PHP-CS-Fixer) - A coding standard fixer library.
