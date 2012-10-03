@@ -39,7 +39,6 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
 * [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
-* [PHP CS Fixer](https://github.com/fabpot/PHP-CS-Fixer) - A coding standard fixer library.
 * [React](https://github.com/react-php/react) - An event driven non-blocking I/O library.
 * [Événement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [Sami](https://github.com/fabpot/Sami) - An API documentation generator.
@@ -74,6 +73,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [HomeBrew PHP](https://github.com/josegonzalez/homebrew-php) - A PHP tap for HomeBrew.
 * [PHP Env](https://github.com/CHH/phpenv) - A PHP version manager.
 * [PHP Build](https://github.com/CHH/php-build) - A PHP version installer.
+* [PHP CS Fixer](https://github.com/fabpot/PHP-CS-Fixer) - A coding standard fixer library.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 
 # Resources
