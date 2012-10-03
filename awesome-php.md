@@ -41,6 +41,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [React](https://github.com/react-php/react) - An event driven non-blocking I/O library.
 * [Événement](https://github.com/igorw/evenement) - An event dispatcher library.
+* [FuelPHP Event](https://github.com/fuelphp/event) - Another event dispatcher library.
 * [Sami](https://github.com/fabpot/Sami) - An API documentation generator.
 * [Bob](https://github.com/CHH/bob) - A simple project automation tool.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
