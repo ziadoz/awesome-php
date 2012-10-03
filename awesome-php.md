@@ -62,6 +62,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Fetch](https://github.com/tedivm/Fetch) - An IMAP library.
 * [Lex](https://github.com/fuelphp/lex) - A lightweight template parser.
 * [Sslurp](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL suck less.
+* [Composition](https://github.com/composition/composition) - A library to check your Composer environment at runtime.
 
 # C Extension Frameworks
 * [Phalcon PHP](http://phalconphp.com/) - A high performance C extension framework.
