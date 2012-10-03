@@ -29,6 +29,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Guzzle](http://guzzlephp.org/) - Another HTTP client.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
 * [Mockery](https://github.com/padraic/mockery) - A mock object library for unit testing.
+* [Phake](https://github.com/mlively/Phake) - Another mock object library for unit testing.
 * [KnpRadBundle](http://rad.knplabs.com/) - A Symfony2 rapid application development library.
 * [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
