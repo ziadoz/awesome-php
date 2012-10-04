@@ -90,4 +90,4 @@ A list of amazingly awesome PHP libraries that you should be using:
 # Tutorials 
 
 * [Easy Package Management with Composer](http://net.tutsplus.com/tutorials/php/easy-package-management-with-composer/) - A Composer tutorial by Phil Sturgeon.
-* [Composer Namespaces in Five Minutes](http://jtreminio.com/2012/10/composer-namespaces-in-5-minutes/) - A Composer namespace tutorial by Juan Treminio.
+* [Composer and Namespaces in Five Minutes](http://jtreminio.com/2012/10/composer-namespaces-in-5-minutes/) - A Composer namespace tutorial by Juan Treminio.
