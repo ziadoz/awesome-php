@@ -62,6 +62,8 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Lex](https://github.com/fuelphp/lex) - A lightweight template parser.
 * [Sslurp](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL suck less.
 * [Composition](https://github.com/composition/composition) - A library to check your Composer environment at runtime.
+* [Entities](https://github.com/kherge/Entities) - A Doctrine ORM service provider for Silex.
+* [Elf](https://github.com/kherge/Elf) - A collection of helpers for the Symfony Console component.
 
 # C Extension Frameworks
 
