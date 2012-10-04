@@ -64,6 +64,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Composition](https://github.com/composition/composition) - A library to check your Composer environment at runtime.
 * [Entities](https://github.com/kherge/Entities) - A Doctrine ORM service provider for Silex.
 * [Elf](https://github.com/kherge/Elf) - A collection of helpers for the Symfony Console component.
+* [Doctrine Extensions](https://github.com/l3pp4rd/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 
 # C Extension Frameworks
 
