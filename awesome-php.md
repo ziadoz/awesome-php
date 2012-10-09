@@ -66,6 +66,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Elf](https://github.com/kherge/Elf) - A collection of helpers for the Symfony Console component.
 * [Doctrine Extensions](https://github.com/l3pp4rd/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
+* [Poser](https://github.com/FrenkyNet/Poser) - A Composer class aliasing library.
 
 # C Extension Frameworks
 
