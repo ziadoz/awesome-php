@@ -69,6 +69,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
 * [Poser](https://github.com/FrenkyNet/Poser) - A Composer class aliasing library.
 * [Version](https://github.com/kherge/Version) - A parsing and comparison library for semantic versioning.
+* [Respect Validate](https://github.com/Respect/Validation) - A simple validation library.
 
 # C Extension Frameworks
 
