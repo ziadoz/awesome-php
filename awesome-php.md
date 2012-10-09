@@ -68,6 +68,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Doctrine Extensions](https://github.com/l3pp4rd/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
 * [Poser](https://github.com/FrenkyNet/Poser) - A Composer class aliasing library.
+* [Version](https://github.com/kherge/Version) - A parsing and comparison library for semantic versioning.
 
 # C Extension Frameworks
 
