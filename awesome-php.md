@@ -13,6 +13,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Twig](http://twig.sensiolabs.org/) - A comprehensive templating language.
 * [SwiftMailer](http://swiftmailer.org/) - A mailer solution.
 * [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
+* [Auryn](https://github.com/rdlowrey/Auryn) - Another dependency injection container.
 * [Doctrine](http://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
 * [Propel](http://www.propelorm.org/) - A fast ORM.
 * [Goutte](https://github.com/fabpot/Goutte) - A simple web scraper.
