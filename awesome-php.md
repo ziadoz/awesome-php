@@ -15,6 +15,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
 * [Auryn](https://github.com/rdlowrey/Auryn) - Another dependency injection container.
 * [Doctrine](http://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
+* [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - A migration library for Doctrine.
 * [Propel](http://www.propelorm.org/) - A fast ORM.
 * [Goutte](https://github.com/fabpot/Goutte) - A simple web scraper.
 * [Assetic](https://github.com/kriswallsmith/assetic) - An asset manager pipeline library.
