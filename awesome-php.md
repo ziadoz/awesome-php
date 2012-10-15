@@ -66,7 +66,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Composition](https://github.com/composition/composition) - A library to check your Composer environment at runtime.
 * [Entities](https://github.com/kherge/Entities) - A Doctrine ORM service provider for Silex.
 * [Elf](https://github.com/kherge/Elf) - A collection of helpers for the Symfony Console component.
-* [Amend](https://github.com/kherge/Amend) - A Symfony Console component helper and command set for updating and upgrading applications.
+* [Amend](https://github.com/kherge/Amend) - A Symfony Console library for updating and upgrading applications.
 * [Doctrine Extensions](https://github.com/l3pp4rd/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
 * [Poser](https://github.com/FrenkyNet/Poser) - A Composer class aliasing library.
