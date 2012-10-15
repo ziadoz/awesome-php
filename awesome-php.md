@@ -73,8 +73,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Poser](https://github.com/FrenkyNet/Poser) - A Composer class aliasing library.
 * [Version](https://github.com/kherge/Version) - A parsing and comparison library for semantic versioning.
 * [Respect Validate](https://github.com/Respect/Validation) - A simple validation library.
-* [Ziadoz BCrypt](https://bitbucket.org/ziadoz/bcrypt) - A BCrypt password hashing library.
-* [Kherge BCrypt](https://github.com/kherge/Bcrypt) - Another BCrypt password hashing library.
+* [Kherge BCrypt](https://github.com/kherge/Bcrypt) - A BCrypt password hashing library.
 
 # C Extension Frameworks
 
