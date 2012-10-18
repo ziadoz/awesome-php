@@ -31,6 +31,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Guzzle](http://guzzlephp.org/) - Another HTTP client.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
 * [RunkitTestCase](https://github.com/kherge/RunkitTestCase) - A library for creating PHPUnit test cases that use runkit.
+* [PHPSpec](https://github.com/phpspec/phpspec2) - A design by specification unit testing library.
 * [Mockery](https://github.com/padraic/mockery) - A mock object library for unit testing.
 * [Phake](https://github.com/mlively/Phake) - Another mock object library for unit testing.
 * [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
