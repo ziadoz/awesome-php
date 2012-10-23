@@ -77,6 +77,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [BCrypt](https://github.com/kherge/Bcrypt) - A BCrypt password hashing library.
 * [ShellWrap](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
 * [Streamer](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
+* [Cron Expression](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
 
 # C Extension Frameworks
 
