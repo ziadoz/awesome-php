@@ -78,6 +78,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Streamer](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
 * [Cron Expression](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
 * [OPAuth](https://github.com/uzyn/opauth) - A multi-provider authentication framework.
+* [Ratchet](https://github.com/cboden/Ratchet) - A web socket library.
 
 # C Extension Frameworks
 
