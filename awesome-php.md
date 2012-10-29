@@ -93,6 +93,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [PHP Build](https://github.com/CHH/php-build) - A PHP version installer.
 * [PHP CS Fixer](https://github.com/fabpot/PHP-CS-Fixer) - A coding standard fixer library.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
+* [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
 
 # Resources
 
