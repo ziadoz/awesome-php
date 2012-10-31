@@ -47,6 +47,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [FuelPHP Event](https://github.com/fuelphp/event) - Another event dispatcher library.
 * [Sami](https://github.com/fabpot/Sami) - An API documentation generator.
 * [Bob](https://github.com/CHH/bob) - A simple project automation tool.
+* [Phake](https://github.com/jaz303/phake) - A rake PHP clone library.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 * [PHPAss](http://www.openwall.com/phpass/) - A portable password hashing framework.
 * [PHPSecLib](http://phpseclib.sourceforge.net/) - A pure PHP secure communications library.
