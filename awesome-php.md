@@ -82,6 +82,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [OPAuth](https://github.com/uzyn/opauth) - A multi-provider authentication framework.
 * [Ratchet](https://github.com/cboden/Ratchet) - A web socket library.
 * [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
+* [PHP Option](https://github.com/schmittjoh/php-option) An option type library.
 
 # C Extension Frameworks
 
