@@ -85,6 +85,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [PHP Option](https://github.com/schmittjoh/php-option) An option type library.
 * [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
+* [AWS SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 
 # C Extension Frameworks
 
