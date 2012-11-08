@@ -84,6 +84,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
 * [PHP Option](https://github.com/schmittjoh/php-option) An option type library.
 * [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
+* [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 
 # C Extension Frameworks
 
