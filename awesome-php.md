@@ -83,6 +83,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Ratchet](https://github.com/cboden/Ratchet) - A web socket library.
 * [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
 * [PHP Option](https://github.com/schmittjoh/php-option) An option type library.
+* [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 
 # C Extension Frameworks
 
