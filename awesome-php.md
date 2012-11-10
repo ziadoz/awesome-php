@@ -87,6 +87,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [AWS SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 * [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
+* [JShrink](https://github.com/tedivm/JShrink) - A JavaScript minifier library.
 
 # C Extension Frameworks
 
