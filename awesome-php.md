@@ -90,6 +90,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [JShrink](https://github.com/tedivm/JShrink) - A JavaScript minifier library.
 * [PHP Datastructures](https://github.com/morrisonlevi/PHP-Datastructures) - A library of data structures.
 * [HAL](https://github.com/blongden/hal) - A HAL builder library.
+* [MongoQB](https://github.com/alexbilbie/MongoQB) - A MongoDB query builder library.
 
 # C Extension Frameworks
 
@@ -104,7 +105,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [PHP Build](https://github.com/CHH/php-build) - A PHP version installer.
 * [PHP CS Fixer](https://github.com/fabpot/PHP-CS-Fixer) - A coding standard fixer library.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
-* [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code
+* [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
 
 # Resources
 
