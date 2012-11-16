@@ -91,6 +91,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [PHP Datastructures](https://github.com/morrisonlevi/PHP-Datastructures) - A library of data structures.
 * [HAL](https://github.com/blongden/hal) - A HAL builder library.
 * [MongoQB](https://github.com/alexbilbie/MongoQB) - A MongoDB query builder library.
+* [Monga](https://github.com/FrenkyNet/Monga) - A MongoDB abstraction library.
 
 # C Extension Frameworks
 
