@@ -107,8 +107,8 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [PHP CS Fixer](https://github.com/fabpot/PHP-CS-Fixer) - A coding standard fixer library.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 * [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
-* [PHP Queue](https://github.com/miccheng/php-queue) - A frontend for managing queueing backends.
-* [DBV](http://dbv.vizuina.com/) - A database version control frontend.
+* [PHP Queue](https://github.com/miccheng/php-queue) - An application for managing queueing backends.
+* [DBV](http://dbv.vizuina.com/) - A database version control application.
 
 # Resources
 
