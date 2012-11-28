@@ -18,7 +18,6 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Doctrine](http://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
 * [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - A migration library for Doctrine.
 * [Propel](http://www.propelorm.org/) - A fast ORM.
-* [DBV](http://dbv.vizuina.com/) - A database version control application.
 * [Goutte](https://github.com/fabpot/Goutte) - A simple web scraper.
 * [Assetic](https://github.com/kriswallsmith/assetic) - An asset manager pipeline library.
 * [Pipe](https://github.com/CHH/pipe) - Another asset manager pipeline library.
@@ -108,6 +107,8 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [PHP CS Fixer](https://github.com/fabpot/PHP-CS-Fixer) - A coding standard fixer library.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 * [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
+* [PHP Queue](https://github.com/miccheng/php-queue) - A frontend for queueing backends.
+* [DBV](http://dbv.vizuina.com/) - A database version control frontend.
 
 # Resources
 
