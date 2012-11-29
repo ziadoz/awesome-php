@@ -119,8 +119,3 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [PHP Standards Working Group](https://groups.google.com/group/php-standards) - The PHP standards working group.
 * [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
 * [WebSec IO](http://websec.io/) - A web security community resource.
-
-# Tutorials 
-
-* [Easy Package Management with Composer](http://net.tutsplus.com/tutorials/php/easy-package-management-with-composer/) - A Composer tutorial by Phil Sturgeon.
-* [Composer and Namespaces in Five Minutes](http://jtreminio.com/2012/10/composer-namespaces-in-5-minutes/) - A Composer namespace tutorial by Juan Treminio.
