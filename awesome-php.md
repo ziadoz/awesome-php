@@ -91,7 +91,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 * [JShrink](https://github.com/tedivm/JShrink) - A JavaScript minifier library.
 * [PHP Datastructures](https://github.com/morrisonlevi/PHP-Datastructures) - A library of data structures.
-* [HAL](https://github.com/blongden/hal) - A HAL builder library.
+* [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
 * [MongoQB](https://github.com/alexbilbie/MongoQB) - A MongoDB query builder library.
 * [Monga](https://github.com/FrenkyNet/Monga) - A MongoDB abstraction library.
 
