@@ -121,3 +121,4 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [PHP Standards Working Group](https://groups.google.com/group/php-standards) - The PHP standards working group.
 * [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
 * [WebSec IO](http://websec.io/) - A web security community resource.
+* [Web Advent](http://webadvent.org) - An advent calendar for web developers.
