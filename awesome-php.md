@@ -52,6 +52,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 * [PHPAss](http://www.openwall.com/phpass/) - A portable password hashing framework.
 * [PHPSecLib](http://phpseclib.sourceforge.net/) - A pure PHP secure communications library.
+* [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
 * [Box](https://github.com/kherge/Box) - A utility to build PHAR files.
 * [Wisdom](https://github.com/kherge/Wisdom) - A library for loading config data.
 * [GetOpt](ulrichsg/getopt-php) - A command line opt parser.
