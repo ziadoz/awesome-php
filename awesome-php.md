@@ -114,6 +114,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
 * [PHP Queue](https://github.com/miccheng/php-queue) - An application for managing queueing backends.
 * [DBV](http://dbv.vizuina.com/) - A database version control application.
+* [Sublime Text 2 Composer Plugin](https://github.com/francodacosta/composer-sublime) - A Composer plugin for Sublime Text 2.
 
 # Resources
 
