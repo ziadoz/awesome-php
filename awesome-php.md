@@ -96,6 +96,7 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
 * [MongoQB](https://github.com/alexbilbie/MongoQB) - A MongoDB query builder library.
 * [Monga](https://github.com/FrenkyNet/Monga) - A MongoDB abstraction library.
+* [Sabre VObject](https://github.com/evert/sabre-vobject) - A library for parsing VCard and iCalendar objects.
 
 # C Extension Frameworks
 
