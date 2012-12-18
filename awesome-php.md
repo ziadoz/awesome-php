@@ -89,14 +89,17 @@ A list of amazingly awesome PHP libraries that you should be using:
 * [PHP Option](https://github.com/schmittjoh/php-option) An option type library.
 * [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
-* [AWS SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
-* [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 * [JShrink](https://github.com/tedivm/JShrink) - A JavaScript minifier library.
 * [PHP Datastructures](https://github.com/morrisonlevi/PHP-Datastructures) - A library of data structures.
 * [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
 * [MongoQB](https://github.com/alexbilbie/MongoQB) - A MongoDB query builder library.
 * [Monga](https://github.com/FrenkyNet/Monga) - A MongoDB abstraction library.
 * [Sabre VObject](https://github.com/evert/sabre-vobject) - A library for parsing VCard and iCalendar objects.
+
+# Official APIs
+
+* [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
+* [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 
 # C Extension Frameworks
 
