@@ -1,6 +1,6 @@
 # Awesome PHP Libraries
 
-A list of amazingly awesome PHP libraries that you should be using:
+A list of amazingly awesome PHP libraries that you should consider using (and some shiny little extras).
 
 * [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - A package and dependency manager.
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
