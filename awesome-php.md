@@ -97,7 +97,6 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Monga](https://github.com/FrenkyNet/Monga) - A MongoDB abstraction library.
 * [Predis](https://github.com/nrk/predis) - A feature complete Redis library.
 * [Sabre VObject](https://github.com/evert/sabre-vobject) - A library for parsing VCard and iCalendar objects.
-* [LESS PHP](https://github.com/leafo/lessphp) - A LESS compiler written in PHP.
 
 # Official APIs
 
