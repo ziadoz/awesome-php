@@ -133,4 +133,4 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
  
 # Videos
 
-* [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A programming video series by Anthony Ferrara.
+* [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
