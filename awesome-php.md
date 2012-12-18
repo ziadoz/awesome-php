@@ -107,8 +107,8 @@ A list of amazingly awesome PHP libraries that you should be using:
 
 * [HomeBrew](http://mxcl.github.com/homebrew/) - A package manager for OSX.
 * [HomeBrew PHP](https://github.com/josegonzalez/homebrew-php) - A PHP tap for HomeBrew.
-* [PHP Env](https://github.com/CHH/phpenv) - A PHP version manager.
-* [PHP Brew](https://github.com/c9s/phpbrew) - A PHP version installer.
+* [PHP Brew](https://github.com/c9s/phpbrew) - A PHP version manager and installer.
+* [PHP Env](https://github.com/CHH/phpenv) - Another PHP version manager.
 * [PHP Build](https://github.com/CHH/php-build) - Another PHP version installer.
 * [PHP CS Fixer](https://github.com/fabpot/PHP-CS-Fixer) - A coding standard fixer library.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
