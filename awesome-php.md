@@ -94,7 +94,9 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
 * [MongoQB](https://github.com/alexbilbie/MongoQB) - A MongoDB query builder library.
 * [Monga](https://github.com/FrenkyNet/Monga) - A MongoDB abstraction library.
+* [Predis](https://github.com/nrk/predis) - A feature complete Redis library.
 * [Sabre VObject](https://github.com/evert/sabre-vobject) - A library for parsing VCard and iCalendar objects.
+* [LESS PHP](https://github.com/leafo/lessphp) - A LESS compiler written in PHP.
 
 # Official APIs
 
