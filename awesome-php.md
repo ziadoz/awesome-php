@@ -98,6 +98,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Predis](https://github.com/nrk/predis) - A feature complete Redis library.
 * [Sabre VObject](https://github.com/evert/sabre-vobject) - A library for parsing VCard and iCalendar objects.
 * [OAuth2](https://github.com/lncd/OAuth2) - An OAuth2 authentication server, resource server and client library.
+* [CurlBack](https://github.com/jwoodcock/CurlBack) - A simple wrapper library for cURL.
 
 # Official APIs
 
