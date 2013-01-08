@@ -135,8 +135,8 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
 * [WebSec IO](http://websec.io/) - A web security community resource.
 * [Web Advent](http://webadvent.org) - An advent calendar for web developers.
-* [Scaling PHP Applications](http://www.scalingphpbook.com) - An ebook about scaling PHP applications by Steve Corona.
 * [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
+* [Scaling PHP Applications](http://www.scalingphpbook.com) - A paid ebook about scaling PHP applications by Steve Corona.
 
 # Reading
 
