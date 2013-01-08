@@ -136,6 +136,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Web Advent](http://webadvent.org) - An advent calendar for web developers.
 * [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 * [Scaling PHP Applications](http://www.scalingphpbook.com) - A paid ebook about scaling PHP applications by Steve Corona.
+* [Semantic Versioning](http://semver.org/) - A website explaining semantic versioning.
 
 # Reading
 
