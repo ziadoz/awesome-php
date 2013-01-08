@@ -144,6 +144,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [You're Being Lied To](http://blog.golemon.com/2007/01/youre-being-lied-to.html) - An article about internal ZVALs.
 * [How Long is a Piece of String](http://blog.golemon.com/2006/06/how-long-is-piece-of-string.html) - An article about string interals.
 * [Disproving the Single Quotes Myth](http://nikic.github.com/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - An article about single quotes vs double quotes.
+* [Print vs Echo, Which One is Faster?](http://fabien.potencier.org/article/8/print-vs-echo-which-one-is-faster) - An article about the print and echo functions.
 * [When Does Foreach Copy?](http://nikic.github.com/2011/11/11/PHP-Internals-When-does-foreach-copy.html) - An article about the internals of foreach.
 * [How Big Are PHP Arrays (And Values) Really?](http://nikic.github.com/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html)
 * [The PHP Ternary Operator. Fast or Not?](http://fabien.potencier.org/article/48/the-php-ternary-operator-fast-or-not) - An article ternary performance.
