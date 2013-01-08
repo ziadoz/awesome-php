@@ -124,7 +124,6 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [PHP Queue](https://github.com/miccheng/php-queue) - An application for managing queueing backends.
 * [PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP.
 * [DBV](http://dbv.vizuina.com/) - A database version control application.
-* [Sublime Text 2 Composer Plugin](https://github.com/francodacosta/composer-sublime) - A Composer plugin for Sublime Text 2.
 
 # Resources
 
