@@ -91,7 +91,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [JShrink](https://github.com/tedivm/JShrink) - A JavaScript minifier library.
-* [PHP Datastructures](https://github.com/morrisonlevi/PHP-Datastructures) - A library of data structures.
+* [Ardent](https://github.com/morrisonlevi/Ardent) - A library of data structures.
 * [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
 * [MongoQB](https://github.com/alexbilbie/MongoQB) - A MongoDB query builder library.
 * [Monga](https://github.com/FrenkyNet/Monga) - A MongoDB abstraction library.
