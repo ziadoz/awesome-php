@@ -36,8 +36,9 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
 * [RunkitTestCase](https://github.com/kherge/RunkitTestCase) - A library for creating PHPUnit test cases that use runkit.
 * [PHPSpec](https://github.com/phpspec/phpspec2) - A design by specification unit testing library.
-* [Mockery](https://github.com/padraic/mockery) - A mock object library for unit testing.
-* [Phake](https://github.com/mlively/Phake) - Another mock object library for unit testing.
+* [Mockery](https://github.com/padraic/mockery) - A mock object library for testing.
+* [Phake](https://github.com/mlively/Phake) - Another mock object library for testing.
+* [Parody](https://github.com/dotink/Parody) - Yet another mock object library for testing.
 * [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library (uses [WKHTMLToPDF](https://github.com/antialize/wkhtmltopdf)).
@@ -66,6 +67,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Tala Payments](https://github.com/adrianmacneil/tala-payments) - A payment processing library.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 * [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
+* [ExpressiveDate](https://github.com/jasonlewis/expressive-date) - Another DateTime extension.
 * [Upload](https://github.com/codeguy/Upload) - A library for handling file uploads and validation.
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
 * [Fetch](https://github.com/tedivm/Fetch) - An IMAP library.
