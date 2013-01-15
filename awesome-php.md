@@ -103,6 +103,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [CurlBack](https://github.com/jwoodcock/CurlBack) - A simple wrapper library for cURL.
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
 * [Cache](https://github.com/doctrine/cache) - A caching library (part of Doctrine).
+* [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 
 # Official APIs
