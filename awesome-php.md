@@ -67,7 +67,8 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Tala Payments](https://github.com/adrianmacneil/tala-payments) - A payment processing library.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 * [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
-* [ExpressiveDate](https://github.com/jasonlewis/expressive-date) - Another DateTime extension.
+* [Datum](https://github.com/dandoescode/datum) - A fork of the Carbon DateTime API extension.
+* [ExpressiveDate](https://github.com/jasonlewis/expressive-date) - Another DateTime API extension.
 * [Upload](https://github.com/codeguy/Upload) - A library for handling file uploads and validation.
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
 * [Fetch](https://github.com/tedivm/Fetch) - An IMAP library.
