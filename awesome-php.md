@@ -105,6 +105,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
 * [Cache](https://github.com/doctrine/cache) - A caching library (part of Doctrine).
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
+* [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 
 # Official APIs
