@@ -109,6 +109,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
 * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
+* [Elastica](https://github.com/ruflin/Elastica) - A client library for [Elastic Search](http://www.elasticsearch.org/).
 
 # Official APIs
 
