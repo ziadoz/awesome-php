@@ -4,7 +4,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 
 * [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - A package and dependency manager.
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
-* [Zend Framework 2](https://github.com/zendframework/zf2) - Another framework comprised of individual components.
+* [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
 * [Laravel 4](https://github.com/laravel/framework) - A simple PHP framework.
 * [Lithium](http://lithify.me/) - Another framework of components.
 * [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony2.
