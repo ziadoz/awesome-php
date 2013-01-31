@@ -116,6 +116,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 
 * [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 * [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
+* [Campaign Monitor](http://campaignmonitor.github.com/createsend-php/) - The official Campaign Monitor PHP library.
 
 # C Extension Frameworks
 
