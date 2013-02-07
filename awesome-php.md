@@ -8,6 +8,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Laravel 4](https://github.com/laravel/framework) - A simple PHP framework.
 * [Lithium](http://lithify.me/) - Another framework of components.
 * [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony2.
+* [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make ZF2.
 * [Aura Components](http://auraphp.github.com/) - A package of PHP 5.4 components. 
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
