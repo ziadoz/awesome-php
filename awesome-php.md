@@ -11,6 +11,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make ZF2.
 * [Aura Components](http://auraphp.github.com/) - A package of PHP 5.4 components. 
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
+* [Silex Skeleton](https://github.com/fabpot/Silex-Skeleton) - A skeleton for Silex.
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
 * [Twig](http://twig.sensiolabs.org/) - A comprehensive templating language.
 * [Mustache](https://packagist.org/packages/phly/mustache) - A PHP implementation of the Mustache template language.
