@@ -76,6 +76,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Upload](https://github.com/codeguy/Upload) - A library for handling file uploads and validation.
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
 * [Fetch](https://github.com/tedivm/Fetch) - An IMAP library.
+* [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
 * [Sslurp](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL suck less.
 * [Composition](https://github.com/composition/composition) - A library to check your Composer environment at runtime.
