@@ -144,6 +144,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 
 * [PHP The Right Way](http://www.phptherightway.com/) - A PHP best practice quick reference guide.
 * [PHP Best Practices](http://phpbestpractices.org/) - A PHP best practice guide.
+* [PHP Weekly](http://phpweekly.info/archive/) - A weekly PHP newsletter.
 * [PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html) - A guide to PHP security.
 * [PHP Standards Working Group](https://groups.google.com/group/php-standards) - The PHP standards working group.
 * [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
