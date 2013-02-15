@@ -56,6 +56,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Événement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [FuelPHP Event](https://github.com/fuelphp/event) - Another event dispatcher library.
 * [Sami](https://github.com/fabpot/Sami) - An API documentation generator.
+* [Pake](https://github.com/herrera-io/php-pake) - A simple PHP build tool.
 * [Bob](https://github.com/CHH/bob) - A simple project automation tool.
 * [Phake](https://github.com/jaz303/phake) - A rake PHP clone library.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
