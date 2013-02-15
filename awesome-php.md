@@ -124,11 +124,6 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 * [Campaign Monitor](http://campaignmonitor.github.com/createsend-php/) - The official Campaign Monitor PHP library.
 
-# C Extension Frameworks
-
-* [Phalcon PHP](http://phalconphp.com/) - A high performance C extension framework.
-* [Yaf](http://php.net/manual/en/book.yaf.php) - A PECL extension framework.
-
 # Utilities
 
 * [HomeBrew](http://mxcl.github.com/homebrew/) - A package manager for OSX.
