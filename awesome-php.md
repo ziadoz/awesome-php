@@ -115,7 +115,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
 * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
-* [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
+* [PHP File Locator](https://github.com/herrera-io/php-file-locator) - A library for locating files in large projects.
 * [Elastica](https://github.com/ruflin/Elastica) - A client library for [Elastic Search](http://www.elasticsearch.org/).
 
 # Official APIs
@@ -143,6 +143,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [PHP Queue](https://github.com/miccheng/php-queue) - An application for managing queueing backends.
 * [PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP.
 * [DBV](http://dbv.vizuina.com/) - A database version control application.
+* [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 
 # Resources
 
