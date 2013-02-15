@@ -62,6 +62,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
 * [Password Compat](https://github.com/ircmaxell/password_compat) - A library that provides compatibility with the new PHP 5.5 password functions.
 * [Password Policy](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
+* [RandomLib](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings. 
 * [Box](https://github.com/kherge/Box) - A utility to build PHAR files.
 * [Wisdom](https://github.com/kherge/Wisdom) - A library for loading config data.
 * [GetOpt](ulrichsg/getopt-php) - A command line opt parser.
@@ -106,7 +107,6 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Predis](https://github.com/nrk/predis) - A feature complete Redis library.
 * [Sabre VObject](https://github.com/evert/sabre-vobject) - A library for parsing VCard and iCalendar objects.
 * [OAuth2](https://github.com/lncd/OAuth2) - An OAuth2 authentication server, resource server and client library.
-* [CurlBack](https://github.com/jwoodcock/CurlBack) - A simple wrapper library for cURL.
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
 * [Cache](https://github.com/doctrine/cache) - A caching library (part of Doctrine).
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
