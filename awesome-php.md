@@ -14,6 +14,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Silex Skeleton](https://github.com/fabpot/Silex-Skeleton) - A skeleton for Silex.
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
 * [Twig](http://twig.sensiolabs.org/) - A comprehensive templating language.
+* [Twig Cache Extension](https://github.com/asm89/twig-cache-extension) - A template fragment cache library for Twig.
 * [Mustache](https://packagist.org/packages/phly/mustache) - A PHP implementation of the Mustache template language.
 * [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
 * [SwiftMailer](http://swiftmailer.org/) - A mailer solution.
@@ -69,7 +70,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [OptParse](https://github.com/CHH/optparse) - Another command line opt parser.
 * [Commando](https://github.com/nategood/commando) - Another simple command line opt parser.
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
-* [Tala Payments](https://github.com/adrianmacneil/tala-payments) - A payment processing library.
+* [OmniPay](https://github.com/adrianmacneil/omnipay) - A framework agnostic multi-gateway payment processing library.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 * [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
 * [Datum](https://github.com/dandoescode/datum) - A fork of the Carbon DateTime API extension.
