@@ -3,6 +3,7 @@
 A list of amazingly awesome PHP libraries that you should consider using (and some other shiny extras).
 
 * [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - A package and dependency manager.
+* [Composer Installers](https://github.com/composer/installers) - A  multi framework Composer library installer.
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
 * [Laravel 4](https://github.com/laravel/framework) - A simple PHP framework.
