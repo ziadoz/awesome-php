@@ -117,6 +117,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
 * [PHP File Locator](https://github.com/herrera-io/php-file-locator) - A library for locating files in large projects.
 * [Elastica](https://github.com/ruflin/Elastica) - A client library for [Elastic Search](http://www.elasticsearch.org/).
+* [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 
 # Official APIs
 
