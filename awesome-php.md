@@ -120,6 +120,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 * [Numbers PHP](https://github.com/powder96/numbers.php) - A library for working with numbers.
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
+* [Boris](https://github.com/d11wtq/boris) - A tiny PHP REPL.
 
 # Official APIs
 
