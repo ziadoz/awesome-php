@@ -123,7 +123,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
 * [Boris](https://github.com/d11wtq/boris) - A tiny PHP REPL.
 * [LiteCQRS](https://github.com/beberlei/litecqrs-php) - A CQRS (Command Query Responsibility Separation) library.
-* [NameSpacer](https://github.com/ralphschindler/Namespacer) - A library to convert underscore-separated class structures to namespaces.
+* [NameSpacer](https://github.com/ralphschindler/Namespacer) - A library to convert from underscores to namespaces.
 
 # Official APIs
 
