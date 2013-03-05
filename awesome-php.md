@@ -49,6 +49,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library (uses [WKHTMLToPDF](https://github.com/antialize/wkhtmltopdf)).
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [GeoCoder](http://geocoder-php.org/) - A geocoding library.
+* [GeoTools](https://github.com/toin0u/Geotools) - A library of geo-related tools.
 * [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
 * [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
