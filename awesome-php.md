@@ -122,6 +122,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Numbers PHP](https://github.com/powder96/numbers.php) - A library for working with numbers.
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
 * [Boris](https://github.com/d11wtq/boris) - A tiny PHP REPL.
+* [LiteCQRS](https://github.com/beberlei/litecqrs-php) - A CQRS (Command Query Responsibility Segregation) library.
 
 # Official APIs
 
