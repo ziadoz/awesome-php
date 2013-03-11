@@ -67,6 +67,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Password Compat](https://github.com/ircmaxell/password_compat) - A library that provides compatibility with the new PHP 5.5 password functions.
 * [Password Policy](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
 * [RandomLib](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings. 
+* [SecurityMultiTool](https://github.com/padraic/SecurityMultiTool) - A PHP security library.
 * [Box](https://github.com/kherge/Box) - A utility to build PHAR files.
 * [Wisdom](https://github.com/kherge/Wisdom) - A library for loading config data.
 * [GetOpt](ulrichsg/getopt-php) - A command line opt parser.
