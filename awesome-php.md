@@ -114,6 +114,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [OAuth2](https://github.com/lncd/OAuth2) - An OAuth2 authentication server, resource server and client library.
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
 * [Cache](https://github.com/doctrine/cache) - A caching library (part of Doctrine).
+* [Stash](https://github.com/tedivm/Stash) - Another library for caching.
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
 * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
@@ -125,6 +126,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Boris](https://github.com/d11wtq/boris) - A tiny PHP REPL.
 * [LiteCQRS](https://github.com/beberlei/litecqrs-php) - A CQRS (Command Query Responsibility Separation) library.
 * [NameSpacer](https://github.com/ralphschindler/Namespacer) - A library to convert from underscores to namespaces.
+* [Purl](https://github.com/jwage/purl) - A URL manipulation library.
 
 # Official APIs
 
@@ -146,6 +148,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Zend Optimizer Plus](https://github.com/zend-dev/ZendOptimizerPlus) - A Zend engine opcode cacher and optimiser.
 * [PHP Queue](https://github.com/miccheng/php-queue) - An application for managing queueing backends.
 * [PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP.
+* [PHPSandbox](https://github.com/fieryprophet/php-sandbox) - A PHP sandbox environment.
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependecies for security advisories.
 * [DBV](http://dbv.vizuina.com/) - A database version control application.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
