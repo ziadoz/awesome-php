@@ -36,8 +36,8 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
 * [Behat](http://behat.org/) - A Behaviour Driven Development framework.
 * [Mink](http://mink.behat.org/) - Web acceptance testing.
-* [Buzz](https://github.com/kriswallsmith/Buzz) - A HTTP client.
-* [Guzzle](http://guzzlephp.org/) - Another HTTP client.
+* [Guzzle](http://guzzlephp.org/) - A HTTP client.
+* [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
 * [RunkitTestCase](https://github.com/kherge/RunkitTestCase) - A library for creating PHPUnit test cases that use runkit.
 * [PHPSpec](https://github.com/phpspec/phpspec2) - A design by specification unit testing library.
