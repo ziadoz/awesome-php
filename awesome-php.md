@@ -128,6 +128,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [LiteCQRS](https://github.com/beberlei/litecqrs-php) - A CQRS (Command Query Responsibility Separation) library.
 * [NameSpacer](https://github.com/ralphschindler/Namespacer) - A library to convert from underscores to namespaces.
 * [Purl](https://github.com/jwage/purl) - A URL manipulation library.
+* [S3 Stream Wrapper](https://github.com/gwkunze/S3StreamWrapper) - A stream wrapper library for Amazon S3.
 
 # Official APIs
 
