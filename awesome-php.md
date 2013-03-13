@@ -21,6 +21,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [SwiftMailer](http://swiftmailer.org/) - A mailer solution.
 * [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
 * [Auryn](https://github.com/rdlowrey/Auryn) - Another dependency injection container.
+* [Di](https://github.com/orno/di) - Another flexible dependency injection container.
 * [PHP DI](http://mnapoli.github.com/PHP-DI/) - A dependency injection implementation using annotations.
 * [Doctrine](http://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
 * [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - A migration library for Doctrine.
