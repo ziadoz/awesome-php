@@ -95,6 +95,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Poser](https://github.com/FrenkyNet/Poser) - A Composer class aliasing library.
 * [Version](https://github.com/kherge/Version) - A parsing and comparison library for semantic versioning.
 * [Respect Validate](https://github.com/Respect/Validation) - A simple validation library.
+* [Valitron](https://github.com/vlucas/valitron) - Another validation library.
 * [BCrypt](https://github.com/kherge/Bcrypt) - A BCrypt password hashing library.
 * [ShellWrap](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
 * [Streamer](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
