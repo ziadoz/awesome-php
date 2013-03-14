@@ -41,6 +41,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
 * [RunkitTestCase](https://github.com/kherge/RunkitTestCase) - A library for creating PHPUnit test cases that use runkit.
+* [ParaTest](https://github.com/brianium/paratest) - A parallel testing library for PHPUnit.
 * [PHPSpec](https://github.com/phpspec/phpspec2) - A design by specification unit testing library.
 * [Mockery](https://github.com/padraic/mockery) - A mock object library for testing.
 * [Phake](https://github.com/mlively/Phake) - Another mock object library for testing.
