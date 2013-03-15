@@ -131,6 +131,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [NameSpacer](https://github.com/ralphschindler/Namespacer) - A library to convert from underscores to namespaces.
 * [Purl](https://github.com/jwage/purl) - A URL manipulation library.
 * [S3 Stream Wrapper](https://github.com/gwkunze/S3StreamWrapper) - A stream wrapper library for Amazon S3.
+* [Damnit](https://github.com/filp/damnit) - A pretty error handling library.
 
 # Official APIs
 
