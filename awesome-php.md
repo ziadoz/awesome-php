@@ -74,7 +74,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [SecurityMultiTool](https://github.com/padraic/SecurityMultiTool) - A PHP security library.
 * [Box](https://github.com/kherge/Box) - A utility to build PHAR files.
 * [Wisdom](https://github.com/kherge/Wisdom) - A library for loading config data.
-* [GetOpt](ulrichsg/getopt-php) - A command line opt parser.
+* [GetOpt](https://github.com/ulrichsg/getopt-php) - A command line opt parser.
 * [OptParse](https://github.com/CHH/optparse) - Another command line opt parser.
 * [Commando](https://github.com/nategood/commando) - Another simple command line opt parser.
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
@@ -134,6 +134,8 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Purl](https://github.com/jwage/purl) - A URL manipulation library.
 * [S3 Stream Wrapper](https://github.com/gwkunze/S3StreamWrapper) - A stream wrapper library for Amazon S3.
 * [Damnit](https://github.com/filp/damnit) - A pretty error handling library.
+* [CalendR](http://yohan.giarel.li/CalendR) - A calendar management library.
+* [Finite](http://yohan.giarel.li/Finite) - A simple PHP finite state machine.
 
 # Official APIs
 
