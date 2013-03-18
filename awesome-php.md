@@ -43,6 +43,8 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [RunkitTestCase](https://github.com/kherge/RunkitTestCase) - A library for creating PHPUnit test cases that use runkit.
 * [ParaTest](https://github.com/brianium/paratest) - A parallel testing library for PHPUnit.
 * [PHPSpec](https://github.com/phpspec/phpspec2) - A design by specification unit testing library.
+* [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
+* [Atoum](https://github.com/atoum/atoum) - A simple testing library.
 * [Mockery](https://github.com/padraic/mockery) - A mock object library for testing.
 * [Phake](https://github.com/mlively/Phake) - Another mock object library for testing.
 * [Parody](https://github.com/dotink/Parody) - Yet another mock object library for testing.
@@ -145,6 +147,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [HomeBrew PHP](https://github.com/josegonzalez/homebrew-php) - A PHP tap for HomeBrew.
 * [PHP Brew](https://github.com/c9s/phpbrew) - A PHP version manager and installer.
 * [PHP Env](https://github.com/CHH/phpenv) - Another PHP version manager.
+* [PHP Switch](https://github.com/jubianchi/phpswitch) - Another version manager.
 * [PHP Build](https://github.com/CHH/php-build) - Another PHP version installer.
 * [PHP CS Fixer](https://github.com/fabpot/PHP-CS-Fixer) - A coding standard fixer library.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
