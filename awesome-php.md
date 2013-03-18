@@ -193,3 +193,4 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * Collecting Garbage: [1](http://derickrethans.nl/collecting-garbage-phps-take-on-variables.html) [2](http://derickrethans.nl/collecting-garbage-cleaning-up.html) [3](http://derickrethans.nl/collecting-garbage-performance-considerations.html) - A series about the PHP garbage collection internals.
 * [PHP Sucks! But I Like It!](http://blog.ircmaxell.com/2012/04/php-sucks-but-i-like-it.html) - An article about the pros and cons of PHP.
 * [PHP Is Much Better Than You Think](http://fabien.potencier.org/article/64/php-is-much-better-than-you-think) - An article about the PHP lanaguage and ecosystem.
+* [Innocent Villagefolk or a Pillagin’ Pirate?](http://blog.astrumfutura.com/2012/04/php-innocent-villagefolk-or-a-pillagin-pirate/) - An article about PHP taking ideas from other language by Pádraic Brady.
