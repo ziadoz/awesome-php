@@ -137,6 +137,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Damnit](https://github.com/filp/damnit) - A pretty error handling library.
 * [CalendR](http://yohan.giarel.li/CalendR) - A calendar management library.
 * [Finite](http://yohan.giarel.li/Finite) - A simple PHP finite state machine.
+* [LadyBug](https://github.com/raulfraile/Ladybug) - A dumper library.
 
 # Official APIs
 
