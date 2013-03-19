@@ -30,6 +30,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Goutte](https://github.com/fabpot/Goutte) - A simple web scraper.
 * [Assetic](https://github.com/kriswallsmith/assetic) - An asset manager pipeline library.
 * [Pipe](https://github.com/CHH/pipe) - Another asset manager pipeline library.
+* [Munee](https://github.com/meenie/munee) - An asset optimiser library.
 * [Imagine](http://imagine.readthedocs.org/en/latest/index.html) - An image manipulation library.
 * [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
 * [GIF Frame Extractor](https://github.com/Sybio/GifFrameExtractor) - A library to extract GIF animation frame information.
