@@ -14,6 +14,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
 * [Silex Skeleton](https://github.com/fabpot/Silex-Skeleton) - A skeleton for Silex.
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
+* [Bullet PHP](http://bulletphp.com/) - A mico framework for building REST APIs.
 * [Twig](http://twig.sensiolabs.org/) - A comprehensive templating language.
 * [Twig Cache Extension](https://github.com/asm89/twig-cache-extension) - A template fragment cache library for Twig.
 * [Mustache](https://packagist.org/packages/phly/mustache) - A PHP implementation of the Mustache template language.
