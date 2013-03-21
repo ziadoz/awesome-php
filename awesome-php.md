@@ -59,7 +59,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
 * [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
-* [React](https://github.com/react-php/react) - An event driven non-blocking I/O library.
+* [React](https://github.com/reactphp/react) - An event driven non-blocking I/O library.
 * [Événement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [FuelPHP Event](https://github.com/fuelphp/event) - Another event dispatcher library.
 * [Sami](https://github.com/fabpot/Sami) - An API documentation generator.
@@ -140,6 +140,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [CalendR](http://yohan.giarel.li/CalendR) - A calendar management library.
 * [Finite](http://yohan.giarel.li/Finite) - A simple PHP finite state machine.
 * [LadyBug](https://github.com/raulfraile/Ladybug) - A dumper library.
+* [Plum](https://github.com/aerialls/Plum) - A deployer library.
 
 # Official APIs
 
