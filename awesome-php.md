@@ -161,7 +161,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
 * [PHP Analyser](https://github.com/scrutinizer-ci/php-analyzer) - A library for analysing PHP code to find bugs and errors.
 * [Zend Optimizer Plus](https://github.com/zend-dev/ZendOptimizerPlus) - A Zend engine opcode cacher and optimiser.
-* [PHP Queue](https://github.com/miccheng/php-queue) - An application for managing queueing backends.
+* [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 * [PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP.
 * [PHPSandbox](https://github.com/fieryprophet/php-sandbox) - A PHP sandbox environment.
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependecies for security advisories.
