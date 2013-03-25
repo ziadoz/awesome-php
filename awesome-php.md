@@ -168,6 +168,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP.
 * [PHPSandbox](https://github.com/fieryprophet/php-sandbox) - A PHP sandbox environment.
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependecies for security advisories.
+* [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
 * [DBV](http://dbv.vizuina.com/) - A database version control application.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 
