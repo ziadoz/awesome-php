@@ -123,6 +123,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Predis](https://github.com/nrk/predis) - A feature complete Redis library.
 * [Sabre VObject](https://github.com/evert/sabre-vobject) - A library for parsing VCard and iCalendar objects.
 * [OAuth2](https://github.com/lncd/OAuth2) - An OAuth2 authentication server, resource server and client library.
+* [PHP oAuthLib](https://github.com/Lusitanian/PHPoAuthLib) - Another OAuth library.
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
 * [Cache](https://github.com/doctrine/cache) - A caching library (part of Doctrine).
 * [Stash](https://github.com/tedivm/Stash) - Another library for caching.
@@ -145,6 +146,10 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Finite](http://yohan.giarel.li/Finite) - A simple PHP finite state machine.
 * [LadyBug](https://github.com/raulfraile/Ladybug) - A dumper library.
 * [Plum](https://github.com/aerialls/Plum) - A deployer library.
+* [Decoda](http://milesj.me/code/php/decoda) - A lightweight markup parser library.
+* [PHP Markdown](https://github.com/michelf/php-markdown) - A markdown parser library.
+* [Dflydev Markdown](https://github.com/dflydev/dflydev-markdown) - Another markdown parser library.
+* [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 convertor library.
 
 # Official APIs
 
