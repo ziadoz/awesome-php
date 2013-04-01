@@ -18,7 +18,8 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Bullet PHP](http://bulletphp.com/) - A mico framework for building REST APIs.
 * [Twig](http://twig.sensiolabs.org/) - A comprehensive templating language.
 * [Twig Cache Extension](https://github.com/asm89/twig-cache-extension) - A template fragment cache library for Twig.
-* [Mustache](https://packagist.org/packages/phly/mustache) - A PHP implementation of the Mustache template language.
+* [Mustache](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
+* [Phly Mustache](https://github.com/weierophinney/phly_mustache) - Another PHP implementation of the Mustache template language.
 * [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
 * [SwiftMailer](http://swiftmailer.org/) - A mailer solution.
 * [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
