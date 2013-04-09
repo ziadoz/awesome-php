@@ -151,6 +151,8 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [PHP Markdown](https://github.com/michelf/php-markdown) - A markdown parser library.
 * [Dflydev Markdown](https://github.com/dflydev/dflydev-markdown) - Another markdown parser library.
 * [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 convertor library.
+* [Procrastinator](https://github.com/lstrojny/Procrastinator) - A library for running time consuming tasks.
+* [Sentry](https://github.com/cartalyst/sentry) - A framework agnostic authentication & authorisation library.
 
 # Official APIs
 
@@ -170,6 +172,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 * [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
 * [PHP Analyser](https://github.com/scrutinizer-ci/php-analyzer) - A library for analysing PHP code to find bugs and errors.
+* [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
 * [Zend Optimizer Plus](https://github.com/zend-dev/ZendOptimizerPlus) - A Zend engine opcode cacher and optimiser.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 * [PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP.
