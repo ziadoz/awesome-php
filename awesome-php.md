@@ -1,6 +1,6 @@
 # Awesome PHP
 
-A list of amazingly awesome PHP libraries and resources (and some other shiny extras).
+A list of amazingly awesome PHP libraries, resources and shiny things.
 
 
 ## Composer
