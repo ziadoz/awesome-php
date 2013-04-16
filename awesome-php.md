@@ -227,7 +227,7 @@ A list of amazingly awesome PHP libraries that you should consider using (and so
 * [Cache](https://github.com/doctrine/cache) - A caching library (part of Doctrine).
 * [Stash](https://github.com/tedivm/Stash) - Another library for caching.
 
-## Data
+## Data Structure
 
 * [Ardent](https://github.com/morrisonlevi/Ardent) - A library of data structures.
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
