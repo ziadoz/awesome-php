@@ -1,6 +1,6 @@
-# Awesome PHP Libraries
+# Awesome PHP
 
-A list of amazingly awesome PHP libraries that you should consider using (and some other shiny extras).
+A list of amazingly awesome PHP libraries and resources (and some other shiny extras).
 
 
 ## Composer
