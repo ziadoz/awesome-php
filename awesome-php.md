@@ -208,7 +208,9 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 convertor library.
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
 * [Numbers PHP](https://github.com/powder96/numbers.php) - A library for working with numbers.
+* [Math](https://github.com/moontoast/math) - A library for working with large numbers.
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
+* [UUID](https://github.com/ramsey/uuid) - A library for generating UUIDs.
 
 ## Filtering and Validation
 
@@ -257,7 +259,6 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [LadyBug](https://github.com/raulfraile/Ladybug) - A dumper library.
 * [Plum](https://github.com/aerialls/Plum) - A deployer library.
 * [Procrastinator](https://github.com/lstrojny/Procrastinator) - A library for running time consuming tasks.
-
 
 ## Official APIs
 
