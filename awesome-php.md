@@ -211,6 +211,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Math](https://github.com/moontoast/math) - A library for working with large numbers.
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
 * [UUID](https://github.com/ramsey/uuid) - A library for generating UUIDs.
+* [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 
 ## Filtering and Validation
 
