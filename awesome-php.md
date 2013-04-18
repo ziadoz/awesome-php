@@ -285,6 +285,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 * [PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP.
 * [PHPSandbox](https://github.com/fieryprophet/php-sandbox) - A PHP sandbox environment.
+* [PHPStack](http://dunkels.com/adam/phpstack/) - A TCP/IP stack proof of concept written in PHP.
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependecies for security advisories.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
 * [DBV](http://dbv.vizuina.com/) - A database version control application.
