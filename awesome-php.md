@@ -259,6 +259,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [LadyBug](https://github.com/raulfraile/Ladybug) - A dumper library.
 * [Plum](https://github.com/aerialls/Plum) - A deployer library.
 * [Procrastinator](https://github.com/lstrojny/Procrastinator) - A library for running time consuming tasks.
+* [Compose](https://github.com/igorw/compose) - A function composition library.
 
 ## Official APIs
 
