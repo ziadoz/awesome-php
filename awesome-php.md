@@ -289,6 +289,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependecies for security advisories.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
 * [DBV](http://dbv.vizuina.com/) - A database version control application.
+* [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 
 # Resources
@@ -302,7 +303,6 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [WebSec IO](http://websec.io/) - A web security community resource.
 * [Web Advent](http://webadvent.org) - An advent calendar for web developers.
 * [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
-* [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 
 ## E-Books
 
