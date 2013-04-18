@@ -302,6 +302,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [WebSec IO](http://websec.io/) - A web security community resource.
 * [Web Advent](http://webadvent.org) - An advent calendar for web developers.
 * [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
+* [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 
 ## E-Books
 
