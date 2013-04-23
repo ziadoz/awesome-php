@@ -19,7 +19,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 ## Frameworks
 
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
-* [Knp RAD Bundle](http://rad.knplabs.com/) - A Rapid Application Development bundle for Symfony 2.
+* [Knp RAD Bundle](http://rad.knplabs.com/) - A Rapid Application Development (RAD) bundle for Symfony 2.
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
 * [Laravel 4](https://github.com/laravel/framework) - A simple PHP framework.
 * [Lithium](http://lithify.me/) - Another framework of components.
