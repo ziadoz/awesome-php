@@ -190,6 +190,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 ## Authentication
 
 * [Sentry](https://github.com/cartalyst/sentry) - A framework agnostic authentication & authorisation library.
+* [Sentry Social](http://docs.cartalyst.com/sentry-social-2/introduction) - A library for social network authentication.
 * [OPAuth](https://github.com/uzyn/opauth) - A multi-provider authentication framework.
 
 ## OAuth
