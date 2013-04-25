@@ -15,6 +15,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Poser](https://github.com/FrenkyNet/Poser) - A Composer class aliasing library.
 * [Version](https://github.com/kherge/Version) - A parsing and comparison library for semantic versioning.
 * [NameSpacer](https://github.com/ralphschindler/Namespacer) - A library to convert from underscores to namespaces.
+* [Patch Installer](https://github.com/goatherd/patch-installer) - A library to install patches using Composer.
 
 ## Frameworks
 
