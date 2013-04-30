@@ -61,6 +61,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 ## Email
 
 * [SwiftMailer](http://swiftmailer.org/) - A mailer solution.
+* [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 * [Fetch](https://github.com/tedivm/Fetch) - An IMAP library.
 * [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 
