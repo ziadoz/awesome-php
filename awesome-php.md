@@ -265,6 +265,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Plum](https://github.com/aerialls/Plum) - A deployer library.
 * [Procrastinator](https://github.com/lstrojny/Procrastinator) - A library for running time consuming tasks.
 * [Compose](https://github.com/igorw/compose) - A function composition library.
+* [Nod](https://github.com/filp/nod) - A notification library (e.g. Growl).
 
 ## Official APIs
 
