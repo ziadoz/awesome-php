@@ -179,6 +179,10 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Monga](https://github.com/FrenkyNet/Monga) - A MongoDB abstraction library.
 * [Predis](https://github.com/nrk/predis) - A feature complete Redis library.
 
+## Queue
+
+* [Pheanstalk](https://github.com/pda/pheanstalk) - A Beanstalkd client library.
+
 ## Command Line
 
 * [Boris](https://github.com/d11wtq/boris) - A tiny PHP REPL.
