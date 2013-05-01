@@ -114,6 +114,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Password Policy](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
 * [PHPSecLib](http://phpseclib.sourceforge.net/) - A pure PHP secure communications library.
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
+* [PHP IDS](https://github.com/PHPIDS/PHPIDS) - A structured PHP security layer.
 
 ## Build Tools
 
