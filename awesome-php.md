@@ -169,7 +169,9 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - A migration library for Doctrine. 
 * [Doctrine Extensions](https://github.com/l3pp4rd/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 * [Propel](http://www.propelorm.org/) - A fast ORM.
+* [Eloquent](https://github.com/illuminate/database) - The Laravel 4 ORM.
 * [Spot](https://github.com/vlucas/Spot) - A MySQL datamapper ORM.
+* [PHP ActiveRecord](https://github.com/kla/php-activerecord) - A PHP Active Record implementation.
 * [Migrations](https://github.com/icomefromthenet/Migrations) - A migration management library.
 * [Phinx](https://github.com/robmorgan/phinx) - Another database migration library.
 * [Entities](https://github.com/kherge/Entities) - A Doctrine ORM service provider for Silex.
