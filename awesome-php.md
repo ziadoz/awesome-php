@@ -145,7 +145,6 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 ## Date and Time
 
 * [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
-* [Datum](https://github.com/dandoescode/datum) - A fork of the Carbon DateTime API extension.
 * [ExpressiveDate](https://github.com/jasonlewis/expressive-date) - Another DateTime API extension.
 * [CalendR](http://yohan.giarel.li/CalendR) - A calendar management library.
 
