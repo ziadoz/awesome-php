@@ -66,6 +66,13 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Fetch](https://github.com/tedivm/Fetch) - An IMAP library.
 * [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 
+## File
+
+* [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
+* [Canal](https://github.com/dflydev/dflydev-canal) - A library to determine internet media types.
+* [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - A library that parses Apache MIME types and determines file types and extensions.
+* [Ferret](https://github.com/versionable/Ferret) - A MIME detection library.
+
 ## Dependency Injection
 
 * [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
@@ -252,7 +259,6 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 * [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
-* [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
