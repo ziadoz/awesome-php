@@ -211,7 +211,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## OAuth
 
-* [OAuth2](https://github.com/lncd/OAuth2) - An OAuth2 authentication server, resource server and client library.
+* [OAuth2](https://github.com/php-loep/oauth2-server) - An OAuth2 authentication server, resource server and client library.
 * [PHP oAuthLib](https://github.com/Lusitanian/PHPoAuthLib) - Another OAuth library. 
 * [TwitterOAuth](https://github.com/ruudk/twitteroauth) - A Twitter OAuth library.
 
