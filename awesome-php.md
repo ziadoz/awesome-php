@@ -176,6 +176,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Doctrine Extensions](https://github.com/l3pp4rd/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 * [Propel](http://www.propelorm.org/) - A fast ORM.
 * [Eloquent](https://github.com/illuminate/database) - The Laravel 4 ORM.
+* [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
 * [Spot](https://github.com/vlucas/Spot) - A MySQL datamapper ORM.
 * [PHP ActiveRecord](https://github.com/kla/php-activerecord) - A PHP Active Record implementation.
 * [Migrations](https://github.com/icomefromthenet/Migrations) - A migration management library.
