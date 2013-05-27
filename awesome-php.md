@@ -103,6 +103,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
 * [Behat](http://behat.org/) - A Behaviour Driven Development framework.
 * [Mink](http://mink.behat.org/) - Web acceptance testing.
+* [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
 
 ## Documentation
 
