@@ -261,7 +261,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 ## Notifications
 
 * [Nod](https://github.com/filp/nod) - A notification library (e.g. Growl).
-* [notificato](https://github.com/wrep/notificato) - A library for handling push notifications.
+* [Notificato](https://github.com/wrep/notificato) - A library for handling push notifications.
 
 ## Miscellaneous
 
