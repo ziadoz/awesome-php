@@ -124,6 +124,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHPSecLib](http://phpseclib.sourceforge.net/) - A pure PHP secure communications library.
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 * [PHP IDS](https://github.com/PHPIDS/PHPIDS) - A structured PHP security layer.
+* [PHP SSH](https://github.com/Herzult/php-ssh) - An experimental object orientated SSH wrapper library.
 
 ## Build Tools
 
@@ -233,6 +234,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
 * [UUID](https://github.com/ramsey/uuid) - A library for generating UUIDs.
 * [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
+* [Urlify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
 
 ## Filtering and Validation
 
@@ -255,6 +257,11 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Ardent](https://github.com/morrisonlevi/Ardent) - A library of data structures.
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
+
+## Notifications
+
+* [Nod](https://github.com/filp/nod) - A notification library (e.g. Growl).
+* [notificato](https://github.com/wrep/notificato) - A library for handling push notifications.
 
 ## Miscellaneous
 
@@ -281,7 +288,6 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Plum](https://github.com/aerialls/Plum) - A deployer library.
 * [Procrastinator](https://github.com/lstrojny/Procrastinator) - A library for running time consuming tasks.
 * [Compose](https://github.com/igorw/compose) - A function composition library.
-* [Nod](https://github.com/filp/nod) - A notification library (e.g. Growl).
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
 
 ## Official APIs
