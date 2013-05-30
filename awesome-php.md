@@ -126,6 +126,17 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP IDS](https://github.com/PHPIDS/PHPIDS) - A structured PHP security layer.
 * [PHP SSH](https://github.com/Herzult/php-ssh) - An experimental object orientated SSH wrapper library.
 
+## Code Analysis
+
+* [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
+* [PHP Mess Detector](http://phpmd.org/) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
+* [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
+* [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
+* [PHP Analyser](https://github.com/scrutinizer-ci/php-analyzer) - A library for analysing PHP code to find bugs and errors.
+* [PHP CS Fixer](https://github.com/fabpot/PHP-CS-Fixer) - A coding standard fixer library.
+* [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
+* [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
+
 ## Build Tools
 
 * [Go](https://github.com/herrera-io/php-go) - A simple PHP build tool.
@@ -165,7 +176,6 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 ## Payment
 
 * [OmniPay](https://github.com/adrianmacneil/omnipay) - A framework agnostic multi-gateway payment processing library.
-
 
 ## PDF
 
@@ -305,11 +315,6 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP Env](https://github.com/CHH/phpenv) - Another PHP version manager.
 * [PHP Switch](https://github.com/jubianchi/phpswitch) - Another version manager.
 * [PHP Build](https://github.com/CHH/php-build) - Another PHP version installer.
-* [PHP CS Fixer](https://github.com/fabpot/PHP-CS-Fixer) - A coding standard fixer library.
-* [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
-* [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
-* [PHP Analyser](https://github.com/scrutinizer-ci/php-analyzer) - A library for analysing PHP code to find bugs and errors.
-* [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 * [PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP.
 * [PHPSandbox](https://github.com/fieryprophet/php-sandbox) - A PHP sandbox environment.
