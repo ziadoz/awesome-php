@@ -205,6 +205,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 ## Queue
 
 * [Pheanstalk](https://github.com/pda/pheanstalk) - A Beanstalkd client library.
+* [Thumper](https://github.com/videlalvaro/Thumper) - A RabbitMQ pattern library.
 
 ## Command Line
 
