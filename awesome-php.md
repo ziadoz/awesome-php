@@ -311,6 +311,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [HomeBrew](http://mxcl.github.com/homebrew/) - A package manager for OSX.
 * [HomeBrew PHP](https://github.com/josegonzalez/homebrew-php) - A PHP tap for HomeBrew.
 * [Vagrant](http://www.vagrantup.com/) - A portable development environment utility.
+* [PuPHPet](https://puphpet.com/) - A web tool for building development virtual machines.
 * [PHP Brew](https://github.com/c9s/phpbrew) - A PHP version manager and installer.
 * [PHP Env](https://github.com/CHH/phpenv) - Another PHP version manager.
 * [PHP Switch](https://github.com/jubianchi/phpswitch) - Another version manager.
