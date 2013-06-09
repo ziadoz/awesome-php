@@ -37,6 +37,8 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Silex Skeleton](https://github.com/fabpot/Silex-Skeleton) - A skeleton for Silex.
 * [Stack](https://github.com/stackphp) - A library of stackable middleware for Silex/Symfony.
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
+* [Slim Skeleton](https://github.com/codeguy/Slim-Skeleton) - A skeleton for Slim.
+* [Slim Extras](https://github.com/codeguy/Slim-Extras) - A collection of extras for Slim.
 * [Bullet PHP](http://bulletphp.com/) - A mico framework for building REST APIs.
 * [Klein](https://github.com/chriso/klein.php) - A fast routing library.
 
