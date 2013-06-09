@@ -136,6 +136,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP CS Fixer](https://github.com/fabpot/PHP-CS-Fixer) - A coding standard fixer library.
 * [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
 * [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
+* [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
 
 ## Build Tools
 
@@ -155,6 +156,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [GeoCoder](http://geocoder-php.org/) - A geocoding library.
 * [GeoTools](https://github.com/toin0u/Geotools) - A library of geo-related tools.
+* [PHPGeo](https://github.com/mjaschen/phpgeo) - A simple geo library.
 
 ## Date and Time
 
@@ -301,6 +303,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Procrastinator](https://github.com/lstrojny/Procrastinator) - A library for running time consuming tasks.
 * [Compose](https://github.com/igorw/compose) - A function composition library.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
+* [Underscore](http://brianhaveri.github.io/Underscore.php/) - A PHP port of the Underscore JS library.
 
 ## Official APIs
 
