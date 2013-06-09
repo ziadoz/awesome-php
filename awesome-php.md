@@ -38,6 +38,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Stack](https://github.com/stackphp) - A library of stackable middleware for Silex/Symfony.
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
 * [Bullet PHP](http://bulletphp.com/) - A mico framework for building REST APIs.
+* [Klein](https://github.com/chriso/klein.php) - A fast routing library.
 
 ## Templating
 
