@@ -242,6 +242,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Decoda](http://milesj.me/code/php/decoda) - A lightweight markup parser library.
 * [PHP Markdown](https://github.com/michelf/php-markdown) - A markdown parser library.
 * [Dflydev Markdown](https://github.com/dflydev/dflydev-markdown) - Another markdown parser library.
+* [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
 
 ## Text and Numbers
 
@@ -308,6 +309,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Compose](https://github.com/igorw/compose) - A function composition library.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
 * [Underscore](http://brianhaveri.github.io/Underscore.php/) - A PHP port of the Underscore JS library.
+* [PHP PassBook](https://github.com/eymengunay/php-passbook) - A PHP library for iOS PassBook.
 
 ## Official APIs
 
@@ -334,6 +336,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
 * [DBV](http://dbv.vizuina.com/) - A database version control application.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
+* [Locust](http://locust.io/) - A modern load test library written in Python.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 
 # Resources
