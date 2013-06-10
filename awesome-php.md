@@ -345,6 +345,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP Best Practices](http://phpbestpractices.org/) - A PHP best practice guide.
 * [PHP Weekly](http://phpweekly.info/archive/) - A weekly PHP newsletter.
 * [PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html) - A guide to PHP security.
+* [PHP Internals](http://www.phpinternalsbook.com/) - A book about the PHP internals.
 * [PHP Standards Working Group](https://groups.google.com/group/php-standards) - The PHP standards working group.
 * [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
 * [WebSec IO](http://websec.io/) - A web security community resource.
