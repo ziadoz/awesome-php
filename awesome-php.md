@@ -171,7 +171,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [React](https://github.com/reactphp/react) - An event driven non-blocking I/O library.
 * [Ratchet](https://github.com/cboden/Ratchet) - A web socket library.
-* [Événement](https://github.com/igorw/evenement) - An event dispatcher library.
+* [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [FuelPHP Event](https://github.com/fuelphp/event) - Another event dispatcher library.
 
 ## Logging
