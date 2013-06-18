@@ -68,6 +68,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 * [Fetch](https://github.com/tedivm/Fetch) - An IMAP library.
 * [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
+* [Stampie](https://github.com/henrikbjorn/Stampie) - A library for email services such as [SendGrid](http://sendgrid.com), [PostMark](http://postmarkapp.com) and [MailGun](http://www.mailgun.com).
 
 ## File
 
@@ -75,6 +76,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Canal](https://github.com/dflydev/dflydev-canal) - A library to determine internet media types.
 * [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - A library that parses Apache MIME types.
 * [Ferret](https://github.com/versionable/Ferret) - A MIME detection library.
+* [Lurker](https://github.com/henrikbjorn/Lurker) - A resource tracking library.
 
 ## Dependency Injection
 
@@ -282,6 +284,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Nod](https://github.com/filp/nod) - A notification library (e.g. Growl).
 * [Notificato](https://github.com/wrep/notificato) - A library for handling push notifications.
 * [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - A standalone library for device push notifications.
+* [Bernard](https://github.com/henrikbjorn/Bernard) - A structured message library for queues.
 
 ## Miscellaneous
 
