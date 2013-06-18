@@ -2,7 +2,6 @@
 
 A list of amazingly awesome PHP libraries, resources and shiny things.
 
-
 ## Composer
 
 * [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - A package and dependency manager.
@@ -132,6 +131,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 ## Code Analysis
 
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
+* [Dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
 * [PHP Mess Detector](http://phpmd.org/) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
 * [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
@@ -181,6 +181,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 ## Payment
 
 * [OmniPay](https://github.com/adrianmacneil/omnipay) - A framework agnostic multi-gateway payment processing library.
+* [Payum](https://github.com/payum/payum) - A payment abstraction library.
 
 ## PDF
 
@@ -266,6 +267,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 * [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
+* [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
 
 ## Caching
 
@@ -281,6 +283,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Nod](https://github.com/filp/nod) - A notification library (e.g. Growl).
 * [Notificato](https://github.com/wrep/notificato) - A library for handling push notifications.
+* [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - A standalone library for device push notifications.
 
 ## Miscellaneous
 
@@ -308,8 +311,11 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Procrastinator](https://github.com/lstrojny/Procrastinator) - A library for running time consuming tasks.
 * [Compose](https://github.com/igorw/compose) - A function composition library.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
+* [Jumper](https://github.com/kakawait/Jumper) - A remote service executor library.
 * [Underscore](http://brianhaveri.github.io/Underscore.php/) - A PHP port of the Underscore JS library.
 * [PHP PassBook](https://github.com/eymengunay/php-passbook) - A PHP library for iOS PassBook.
+* [PHP Expression](https://github.com/Kitano/php-expression) - A PHP expression language.
+* [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
 
 ## Official APIs
 
@@ -355,7 +361,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## E-Books
 
-* [Scaling PHP Applications](http://www.scalingphpbook.com) - A paid ebook about scaling PHP applications by Steve Corona.
+* [Scaling PHP Applications](http://www.scalingphpbook.com) - An ebook about scaling PHP applications by Steve Corona.
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
 
 ## Reading
