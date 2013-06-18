@@ -222,8 +222,6 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [GetOpt](https://github.com/ulrichsg/getopt-php) - A command line opt parser.
 * [OptParse](https://github.com/CHH/optparse) - Another command line opt parser.
 * [Commando](https://github.com/nategood/commando) - Another simple command line opt parser.
-* [Elf](https://github.com/kherge/Elf) - A collection of helpers for the Symfony Console component.
-* [Amend](https://github.com/kherge/Amend) - A Symfony Console helper and command set for updating and upgrading applications.
 * [Cron Expression](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
 * [ShellWrap](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
 
