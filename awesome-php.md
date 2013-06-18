@@ -77,6 +77,12 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - A library that parses Apache MIME types.
 * [Ferret](https://github.com/versionable/Ferret) - A MIME detection library.
 * [Lurker](https://github.com/henrikbjorn/Lurker) - A resource tracking library.
+* [PHP File Locator](https://github.com/herrera-io/php-file-locator) - A library for locating files in large projects.
+
+## Streams
+
+* [S3 Stream Wrapper](https://github.com/gwkunze/S3StreamWrapper) - A stream wrapper library for Amazon S3.
+* [Streamer](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
 
 ## Dependency Injection
 
@@ -216,6 +222,10 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP AMPQ](https://github.com/videlalvaro/php-amqplib) - An AMPQ library.
 * [Thumper](https://github.com/videlalvaro/Thumper) - A RabbitMQ pattern library.
 
+## Search
+
+* [Elastica](https://github.com/ruflin/Elastica) - A client library for [Elastic Search](http://www.elasticsearch.org/).
+
 ## Command Line
 
 * [Boris](https://github.com/d11wtq/boris) - A tiny PHP REPL.
@@ -277,6 +287,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Ardent](https://github.com/morrisonlevi/Ardent) - A library of data structures.
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
+* [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 
 ## Notifications
 
@@ -292,17 +303,12 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
-* [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 * [LiteCQRS](https://github.com/beberlei/litecqrs-php) - A CQRS (Command Query Responsibility Separation) library.
-* [S3 Stream Wrapper](https://github.com/gwkunze/S3StreamWrapper) - A stream wrapper library for Amazon S3.
 * [Sslurp](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL suck less.
-* [Streamer](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
 * [PHP Option](https://github.com/schmittjoh/php-option) An option type library.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [Sabre VObject](https://github.com/evert/sabre-vobject) - A library for parsing VCard and iCalendar objects.
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
-* [PHP File Locator](https://github.com/herrera-io/php-file-locator) - A library for locating files in large projects.
-* [Elastica](https://github.com/ruflin/Elastica) - A client library for [Elastic Search](http://www.elasticsearch.org/).
 * [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
 * [Finite](http://yohan.giarel.li/Finite) - A simple PHP finite state machine.
 * [LadyBug](https://github.com/raulfraile/Ladybug) - A dumper library.
