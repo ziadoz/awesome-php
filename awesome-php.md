@@ -93,7 +93,6 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 ## Testing
 
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
-* [RunkitTestCase](https://github.com/kherge/RunkitTestCase) - A library for creating PHPUnit test cases that use runkit.
 * [ParaTest](https://github.com/brianium/paratest) - A parallel testing library for PHPUnit.
 * [PHPSpec](https://github.com/phpspec/phpspec2) - A design by specification unit testing library.
 * [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
@@ -315,6 +314,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP PassBook](https://github.com/eymengunay/php-passbook) - A PHP library for iOS PassBook.
 * [PHP Expression](https://github.com/Kitano/php-expression) - A PHP expression language.
 * [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
+* [Wise](https://github.com/herrera-io/php-wise) - A configuration manager.
 
 ## Official APIs
 
