@@ -12,7 +12,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Satis](https://github.com/composer/satis) - A static Composer repository generator.
 * [Composition](https://github.com/bamarni/composition) - A library to check your Composer environment at runtime.
 * [Poser](https://github.com/FrenkyNet/Poser) - A Composer class aliasing library.
-* [Version](https://github.com/kherge/Version) - A parsing and comparison library for semantic versioning.
+* [Version](https://github.com/herrera-io/php-version) - A parsing and comparison library for semantic versioning.
 * [NameSpacer](https://github.com/ralphschindler/Namespacer) - A library to convert from underscores to namespaces.
 * [Patch Installer](https://github.com/goatherd/patch-installer) - A library to install patches using Composer.
 
@@ -119,7 +119,6 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [RandomLib](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings. 
 * [SecurityMultiTool](https://github.com/padraic/SecurityMultiTool) - A PHP security library.
 * [Password Compat](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
-* [BCrypt](https://github.com/kherge/Bcrypt) - A BCrypt password hashing library.
 * [PHPAss](http://www.openwall.com/phpass/) - A portable password hashing framework.
 * [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
 * [Password Policy](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
