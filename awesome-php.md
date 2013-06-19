@@ -240,9 +240,6 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Sentry](https://github.com/cartalyst/sentry) - A framework agnostic authentication & authorisation library.
 * [Sentry Social](http://docs.cartalyst.com/sentry-social-2/introduction) - A library for social network authentication.
 * [OPAuth](https://github.com/opauth/opauth) - A multi-provider authentication framework.
-
-## OAuth
-
 * [OAuth2](https://github.com/php-loep/oauth2-server) - An OAuth2 authentication server, resource server and client library.
 * [PHP oAuthLib](https://github.com/Lusitanian/PHPoAuthLib) - Another OAuth library. 
 * [TwitterOAuth](https://github.com/ruudk/twitteroauth) - A Twitter OAuth library.
@@ -322,6 +319,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP Expression](https://github.com/Kitano/php-expression) - A PHP expression language.
 * [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
 * [Wise](https://github.com/herrera-io/php-wise) - A configuration manager.
+* [Opengraph](https://github.com/euskadi31/Opengraph) - An opengraph library.
 
 ## Official APIs
 
