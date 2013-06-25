@@ -166,6 +166,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [GeoCoder](http://geocoder-php.org/) - A geocoding library.
 * [GeoTools](https://github.com/toin0u/Geotools) - A library of geo-related tools.
 * [PHPGeo](https://github.com/mjaschen/phpgeo) - A simple geo library.
+* [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
 
 ## Date and Time
 
@@ -176,6 +177,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 ## Event
 
 * [React](https://github.com/reactphp/react) - An event driven non-blocking I/O library.
+* [Rx.PHP](https://github.com/asm89/Rx.PHP) - A reactive extension library.
 * [Ratchet](https://github.com/cboden/Ratchet) - A web socket library.
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [FuelPHP Event](https://github.com/fuelphp/event) - Another event dispatcher library.
@@ -281,11 +283,12 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Cache](https://github.com/doctrine/cache) - A caching library (part of Doctrine).
 * [Stash](https://github.com/tedivm/Stash) - Another library for caching.
 
-## Data Structure
+## Data Structure and Storage
 
 * [Ardent](https://github.com/morrisonlevi/Ardent) - A library of data structures.
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
+* [PHP Object Storage](https://github.com/herrera-io/php-object-storage) - A library for object storage.
 
 ## Notifications
 
@@ -321,6 +324,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
 * [Wise](https://github.com/herrera-io/php-wise) - A configuration manager.
 * [Opengraph](https://github.com/euskadi31/Opengraph) - An opengraph library.
+* [Essence](https://github.com/felixgirault/essence) - A library for extracting web media.
 
 ## Official APIs
 
