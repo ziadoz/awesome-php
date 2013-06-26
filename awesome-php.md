@@ -207,6 +207,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Spot](https://github.com/vlucas/Spot) - A MySQL datamapper ORM.
 * [PHP ActiveRecord](https://github.com/kla/php-activerecord) - A PHP Active Record implementation.
 * [Paris and Idiorm](http://j4mie.github.io/idiormandparis/) - A minimalist database library.
+* [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 * [Migrations](https://github.com/icomefromthenet/Migrations) - A migration management library.
 * [PHPMig](https://github.com/davedevelopment/phpmig) - Another migration management library.
 * [Phinx](https://github.com/robmorgan/phinx) - Another database migration library.
