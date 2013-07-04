@@ -146,6 +146,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
 * [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
 * [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
+* [Athletic](https://github.com/polyfractal/athletic) - An annotation based benchmark framework.
 
 ## Build Tools
 
