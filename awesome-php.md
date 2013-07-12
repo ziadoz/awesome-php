@@ -300,6 +300,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Notificato](https://github.com/wrep/notificato) - A library for handling push notifications.
 * [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - A standalone library for device push notifications.
 * [Bernard](https://github.com/henrikbjorn/Bernard) - A structured message library for queues.
+* [Notificator](https://github.com/namshi/notificator) - A lightweight notification library.
 
 ## Miscellaneous
 
@@ -329,6 +330,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Wise](https://github.com/herrera-io/php-wise) - A configuration manager.
 * [Opengraph](https://github.com/euskadi31/Opengraph) - An opengraph library.
 * [Essence](https://github.com/felixgirault/essence) - A library for extracting web media.
+* [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 
 ## Official APIs
 
