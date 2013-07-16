@@ -330,7 +330,9 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Wise](https://github.com/herrera-io/php-wise) - A configuration manager.
 * [Opengraph](https://github.com/euskadi31/Opengraph) - An opengraph library.
 * [Essence](https://github.com/felixgirault/essence) - A library for extracting web media.
+* [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
 * [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
+* [Monad PHP](https://github.com/ircmaxell/monad-php) - A simple Monad library.
 
 ## Official APIs
 
