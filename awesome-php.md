@@ -188,10 +188,11 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
 
-## Payment
+## Payment and Ecommerce
 
 * [OmniPay](https://github.com/adrianmacneil/omnipay) - A framework agnostic multi-gateway payment processing library.
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
+* [Sylius](http://www.sylius.com/) - An open source ecommerce solution.
 
 ## PDF
 
