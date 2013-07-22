@@ -124,6 +124,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [RandomLib](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings. 
+* [True Random](https://github.com/pixeloution/true-random) - A library that generates random numbers using [www.random.org](http://www.random.org/).
 * [SecurityMultiTool](https://github.com/padraic/SecurityMultiTool) - A PHP security library.
 * [Password Compat](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
 * [PHPAss](http://www.openwall.com/phpass/) - A portable password hashing framework.
