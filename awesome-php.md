@@ -336,7 +336,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 * [Monad PHP](https://github.com/ircmaxell/monad-php) - A simple Monad library.
 * [Verbal Expressions PHP](https://github.com/markwilson/VerbalExpressionsPhp) - A regular expression building library.
-* [Patchword](http://antecedent.github.io/patchwork/) - A library for redefining userland functions.
+* [Patchwork](http://antecedent.github.io/patchwork/) - A library for redefining userland functions.
 
 ## Official APIs
 
