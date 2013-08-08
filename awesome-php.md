@@ -251,6 +251,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [OAuth2](https://github.com/php-loep/oauth2-server) - An OAuth2 authentication server, resource server and client library.
 * [PHP oAuthLib](https://github.com/Lusitanian/PHPoAuthLib) - Another OAuth library. 
 * [TwitterOAuth](https://github.com/ruudk/twitteroauth) - A Twitter OAuth library.
+* [Hawk](https://github.com/dflydev/dflydev-hawk) - A Hawk HTTP authentication library.
 
 ## Markup
 
@@ -337,6 +338,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Monad PHP](https://github.com/ircmaxell/monad-php) - A simple Monad library.
 * [Verbal Expressions PHP](https://github.com/markwilson/VerbalExpressionsPhp) - A regular expression building library.
 * [Patchwork](http://antecedent.github.io/patchwork/) - A library for redefining userland functions.
+* [Galapagos](https://github.com/igorw/galapagos) - Evolutionary language transformation.
 
 ## Official APIs
 
