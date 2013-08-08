@@ -78,6 +78,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Ferret](https://github.com/versionable/Ferret) - A MIME detection library.
 * [Lurker](https://github.com/henrikbjorn/Lurker) - A resource tracking library.
 * [PHP File Locator](https://github.com/herrera-io/php-file-locator) - A library for locating files in large projects.
+* [PHP FFmpeg](https://github.com/alchemy-fr/PHP-FFmpeg/) - A wrapper for the [FFmpeg](http://www.ffmpeg.org/) video library.
 
 ## Streams
 
@@ -194,6 +195,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [OmniPay](https://github.com/adrianmacneil/omnipay) - A framework agnostic multi-gateway payment processing library.
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
 * [Sylius](http://www.sylius.com/) - An open source ecommerce solution.
+* [Money](https://github.com/bussnet/money) - A PHP implementation of Fowler's money pattern.
 
 ## PDF
 
@@ -270,6 +272,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [UUID](https://github.com/ramsey/uuid) - A library for generating UUIDs.
 * [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 * [Urlify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
+* [Text](https://github.com/kzykhys/Text) - A text manipulation library.
 
 ## Filtering and Validation
 
