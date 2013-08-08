@@ -343,11 +343,12 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Patchwork](http://antecedent.github.io/patchwork/) - A library for redefining userland functions.
 * [Galapagos](https://github.com/igorw/galapagos) - Evolutionary language transformation.
 
-## Official APIs
+## Third Party APIs
 
 * [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 * [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 * [Campaign Monitor](http://campaignmonitor.github.com/createsend-php/) - The official Campaign Monitor PHP library.
+* [Digital Ocean](https://github.com/toin0u/DigitalOcean) - A library to interface with the Digital Ocean API.
 
 ## Utilities
 
