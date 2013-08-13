@@ -339,7 +339,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
 * [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 * [Monad PHP](https://github.com/ircmaxell/monad-php) - A simple Monad library.
-* [Verbal Expressions PHP](https://github.com/markwilson/VerbalExpressionsPhp) - A regular expression building library.
+* [Flux](https://github.com/selvinortiz/flux) - A regular expression building library.
 * [Patchwork](http://antecedent.github.io/patchwork/) - A library for redefining userland functions.
 * [Galapagos](https://github.com/igorw/galapagos) - Evolutionary language transformation.
 
