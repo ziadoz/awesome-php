@@ -34,6 +34,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
 * [Silex Skeleton](https://github.com/fabpot/Silex-Skeleton) - A skeleton for Silex.
+* [Silex Web Profiler](https://github.com/silexphp/Silex-WebProfiler) - A web debug toolbar for Silex.
 * [Stack](https://github.com/stackphp) - A library of stackable middleware for Silex/Symfony.
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
 * [Slim Skeleton](https://github.com/codeguy/Slim-Skeleton) - A skeleton for Slim.
@@ -150,6 +151,7 @@ A list of amazingly awesome PHP libraries, resources and shiny things.
 * [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
 * [Athletic](https://github.com/polyfractal/athletic) - An annotation based benchmark framework.
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
+* [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 
 ## Build Tools
 
