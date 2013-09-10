@@ -345,6 +345,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Flux](https://github.com/selvinortiz/flux) - A regular expression building library.
 * [Patchwork](http://antecedent.github.io/patchwork/) - A library for redefining userland functions.
 * [Galapagos](https://github.com/igorw/galapagos) - Evolutionary language transformation.
+* [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP) - A repository of software patterns implemented in PHP.
 
 ## Third Party APIs
 
