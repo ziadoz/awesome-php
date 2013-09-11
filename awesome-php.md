@@ -116,6 +116,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Behat](http://behat.org/) - A Behaviour Driven Development framework.
 * [Mink](http://mink.behat.org/) - Web acceptance testing.
 * [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
+* [VFS Stream](https://github.com/mikey179/vfsStream) - A virtual filesystem stream wrapper for testing.
 
 ## Documentation
 
@@ -346,6 +347,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Patchwork](http://antecedent.github.io/patchwork/) - A library for redefining userland functions.
 * [Galapagos](https://github.com/igorw/galapagos) - Evolutionary language transformation.
 * [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP) - A repository of software patterns implemented in PHP.
+* [PHPCR](https://github.com/phpcr/phpcr) - A PHP port of the Java Content Repository (JCR).
 
 ## Third Party APIs
 
