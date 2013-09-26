@@ -278,6 +278,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 * [Urlify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
 * [Text](https://github.com/kzykhys/Text) - A text manipulation library.
+* [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
 
 ## Filtering and Validation
 
