@@ -248,6 +248,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [GetOpt](https://github.com/ulrichsg/getopt-php) - A command line opt parser.
 * [OptParse](https://github.com/CHH/optparse) - Another command line opt parser.
 * [Commando](https://github.com/nategood/commando) - Another simple command line opt parser.
+* [GetOptionKit](https://github.com/c9s/php-GetOptionKit) - Another command line opt parser.
 * [Cron Expression](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
 * [ShellWrap](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
 
