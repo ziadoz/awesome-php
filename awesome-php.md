@@ -365,6 +365,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [HomeBrew](http://mxcl.github.com/homebrew/) - A package manager for OSX.
 * [HomeBrew PHP](https://github.com/josegonzalez/homebrew-php) - A PHP tap for HomeBrew.
 * [PHP OSX](http://php-osx.liip.ch/) - A PHP installer for OSX.
+* [HipHop PHP](https://github.com/facebook/hiphop-php) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 * [Vagrant](http://www.vagrantup.com/) - A portable development environment utility.
 * [Ansible](http://www.ansibleworks.com/) - A radically simple orchestration framework.
 * [Puppet](http://puppetlabs.com/) - A server automation framework and application.
