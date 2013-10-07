@@ -352,6 +352,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Galapagos](https://github.com/igorw/galapagos) - Evolutionary language transformation.
 * [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP) - A repository of software patterns implemented in PHP.
 * [PHPCR](https://github.com/phpcr/phpcr) - A PHP port of the Java Content Repository (JCR).
+* [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
 
 ## Third Party APIs
 
