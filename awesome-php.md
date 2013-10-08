@@ -360,6 +360,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 * [Campaign Monitor](http://campaignmonitor.github.com/createsend-php/) - The official Campaign Monitor PHP library.
 * [Digital Ocean](https://github.com/toin0u/DigitalOcean) - A library to interface with the Digital Ocean API.
+* [Github](https://github.com/dsyph3r/github-api3-php) - A library to interface with the Github API.
 
 ## Utilities
 
