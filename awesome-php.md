@@ -292,6 +292,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## REST and API
 
+* [Apigility](https://github.com/zfcampus/zf-apigility-skeleton) - An API builder built with Zend Framework 2.
 * [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 * [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
 * [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
