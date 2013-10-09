@@ -281,6 +281,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Urlify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
 * [Text](https://github.com/kzykhys/Text) - A text manipulation library.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
+* [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements. 
 
 ## Filtering and Validation
 
@@ -354,6 +355,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP) - A repository of software patterns implemented in PHP.
 * [PHPCR](https://github.com/phpcr/phpcr) - A PHP port of the Java Content Repository (JCR).
 * [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
+* [ClassPreloader](https://github.com/mtdowling/ClassPreloader) - A library for optimising autoloading.
 
 ## Third Party APIs
 
