@@ -391,6 +391,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Backup](https://github.com/meskyanichi/backup) - A server backup tool written in Ruby.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 * [Locust](http://locust.io/) - A modern load test library written in Python.
+* [3V4L](http://3v4l.org/) - An online PHP shell.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 
 # Resources
