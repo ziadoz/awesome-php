@@ -188,6 +188,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [React](https://github.com/reactphp/react) - An event driven non-blocking I/O library.
 * [Rx.PHP](https://github.com/asm89/Rx.PHP) - A reactive extension library.
 * [Ratchet](https://github.com/cboden/Ratchet) - A web socket library.
+* [Hoa Websocket](https://github.com/hoaproject/Websocket) - Another web socket library.
+* [Hoa EventSource](https://github.com/hoaproject/Eventsource) - An event source library.
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [FuelPHP Event](https://github.com/fuelphp/event) - Another event dispatcher library.
 
@@ -251,6 +253,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [GetOptionKit](https://github.com/c9s/php-GetOptionKit) - Another command line opt parser.
 * [Cron Expression](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
 * [ShellWrap](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
+* [Hoa Console](https://github.com/hoaproject/Console) - Another command line library.
 
 ## Authentication
 
@@ -273,6 +276,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 convertor library.
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
+* [Hoa String](https://github.com/hoaproject/String) - Another UTF-8 string library.
 * [Numbers PHP](https://github.com/powder96/numbers.php) - A library for working with numbers.
 * [Math](https://github.com/moontoast/math) - A library for working with large numbers.
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
