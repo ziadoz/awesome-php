@@ -188,7 +188,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [React](https://github.com/reactphp/react) - An event driven non-blocking I/O library.
 * [Rx.PHP](https://github.com/asm89/Rx.PHP) - A reactive extension library.
 * [Ratchet](https://github.com/cboden/Ratchet) - A web socket library.
-* [Hoa Websocket](https://github.com/hoaproject/Websocket) - Another web socket library.
+* [Hoa WebSocket](https://github.com/hoaproject/Websocket) - Another web socket library.
 * [Hoa EventSource](https://github.com/hoaproject/Eventsource) - An event source library.
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [FuelPHP Event](https://github.com/fuelphp/event) - Another event dispatcher library.
