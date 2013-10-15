@@ -380,6 +380,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Ansible](http://www.ansibleworks.com/) - A radically simple orchestration framework.
 * [Puppet](http://puppetlabs.com/) - A server automation framework and application.
 * [Chef](https://github.com/opscode/chef) - A systems integration framework.
+* [SaltStack](http://saltstack.com/community.html) - An infrastructure management tool.
 * [PuPHPet](https://puphpet.com/) - A web tool for building PHP development virtual machines.
 * [PHP Brew](https://github.com/c9s/phpbrew) - A PHP version manager and installer.
 * [PHP Env](https://github.com/CHH/phpenv) - Another PHP version manager.
@@ -392,6 +393,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependecies for security advisories.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
+* [CodeKit](http://incident57.com/codekit/) - A general web development tool.
 * [DBV](http://dbv.vizuina.com/) - A database version control application.
 * [Backup](https://github.com/meskyanichi/backup) - A server backup tool written in Ruby.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
