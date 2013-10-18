@@ -155,6 +155,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
 * [Athletic](https://github.com/polyfractal/athletic) - An annotation based benchmark framework.
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
+* [Dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 
 ## Build Tools
