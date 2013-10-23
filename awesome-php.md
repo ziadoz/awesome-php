@@ -243,7 +243,9 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## Search
 
-* [Elastica](https://github.com/ruflin/Elastica) - A client library for [Elastic Search](http://www.elasticsearch.org/).
+* [Elastica](https://github.com/ruflin/Elastica) - A client library for [ElasticSearch](http://www.elasticsearch.org/).
+* [Sherlock](https://github.com/polyfractal/Sherlock) - Another client library for ElasticSearch.
+* [ElasticSearch](https://github.com/nervetattoo/elasticsearch) - Another client library for ElasticSearch.
 * [Solarium](http://www.solarium-project.org/) - A client library for [Solar](http://lucene.apache.org/solr/).
 
 ## Command Line
