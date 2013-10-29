@@ -456,3 +456,5 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [How to Build a Secure Remember Me Feature](http://www.troyhunt.com/2013/07/how-to-build-and-how-not-to-build.html) - An article on how to build a secure remember me feature.
 * [A 20 Point List for Preventing XSS in PHP](http://blog.astrumfutura.com/2013/04/20-point-list-for-preventing-cross-site-scripting-in-php/) - An article about preventing XSS.
 * [A Beginners Guide to HTTP Cache Headers](http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/) - An article about HTTP cache headers.
+* [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
+* [Hg Init](http://hginit.com/) - A Mercurial tutorial.
