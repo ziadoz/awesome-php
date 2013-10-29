@@ -399,6 +399,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [CodeKit](http://incident57.com/codekit/) - A general web development tool.
 * [DBV](http://dbv.vizuina.com/) - A database version control application.
 * [Backup](https://github.com/meskyanichi/backup) - A server backup tool written in Ruby.
+* [HTTPie](https://github.com/jkbr/httpie) - A command line alternative to cURL written in Python.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 * [Locust](http://locust.io/) - A modern load test library written in Python.
 * [3V4L](http://3v4l.org/) - An online PHP shell.
