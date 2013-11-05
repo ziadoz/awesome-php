@@ -364,6 +364,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHPCR](https://github.com/phpcr/phpcr) - A PHP port of the Java Content Repository (JCR).
 * [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
 * [ClassPreloader](https://github.com/mtdowling/ClassPreloader) - A library for optimising autoloading.
+* [Lib Country](https://github.com/phine/lib-country) - A library for country and subdivision data.
 
 ## Third Party APIs
 
