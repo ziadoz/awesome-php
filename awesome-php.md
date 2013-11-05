@@ -141,6 +141,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 * [PHP IDS](https://github.com/PHPIDS/PHPIDS) - A structured PHP security layer.
 * [PHP SSH](https://github.com/Herzult/php-ssh) - An experimental object orientated SSH wrapper library.
+* [IniScan](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 
 ## Code Analysis
 
