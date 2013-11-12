@@ -117,6 +117,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Parody](https://github.com/dotink/Parody) - Yet another mock object library for testing.
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
 * [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
+* [Samsui](https://github.com/mauris/samsui) - Another fake data generator library.
 * [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
 * [Behat](http://behat.org/) - A Behaviour Driven Development framework.
 * [Mink](http://mink.behat.org/) - Web acceptance testing.
