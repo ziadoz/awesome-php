@@ -201,11 +201,12 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
 
-## Payment and Ecommerce
+## Payment and E-commerce
 
 * [OmniPay](https://github.com/adrianmacneil/omnipay) - A framework agnostic multi-gateway payment processing library.
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
-* [Sylius](http://www.sylius.com/) - An open source ecommerce solution.
+* [Sylius](http://www.sylius.com/) - An open source e-commerce solution.
+* [Thelia](http://thelia.net/v2/) - Another open source e-commerce solution.
 * [Money](https://github.com/bussnet/money) - A PHP implementation of Fowler's money pattern.
 
 ## PDF
@@ -366,6 +367,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
 * [ClassPreloader](https://github.com/mtdowling/ClassPreloader) - A library for optimising autoloading.
 * [Lib Country](https://github.com/phine/lib-country) - A library for country and subdivision data.
+* [Lib Accessor](https://github.com/phine/lib-accessor) - A library for simplifying accessors.
 
 ## Third Party APIs
 
