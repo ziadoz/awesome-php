@@ -58,6 +58,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
 * [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
 * [Goutte](https://github.com/fabpot/Goutte) - A simple web scraper.
+* [PHP VCR](http://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
 
 ## URL
 
