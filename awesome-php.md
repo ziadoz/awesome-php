@@ -94,7 +94,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Klein](https://github.com/chriso/klein.php) - A fast routing library.
 
 ## Templating
-*Libraries and tools for templating and lexing*
+*Libraries and tools for templating and lexing.*
 
 * [Twig](http://twig.sensiolabs.org/) - A comprehensive templating language.
 * [Twig Cache Extension](https://github.com/asm89/twig-cache-extension) - A template fragment cache library for Twig.
@@ -404,7 +404,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Stash](https://github.com/tedivm/Stash) - Another library for caching.
 
 ## Data Structure and Storage
-*Libraries that implemented data structure or storage techniques.*
+*Libraries that implement data structure or storage techniques.*
 
 * [Ardent](https://github.com/morrisonlevi/Ardent) - A library of data structures.
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
