@@ -13,7 +13,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * HTTP
 * URL
 * Email
-* File
+* Files
 * Streams
 * Dependency Injection
 * Imagery
@@ -127,7 +127,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 * [Stampie](https://github.com/henrikbjorn/Stampie) - A library for email services such as [SendGrid](http://sendgrid.com), [PostMark](http://postmarkapp.com) and [MailGun](http://www.mailgun.com).
 
-## File
+## Files
 *Libraries for file manipulation and MIME type detection.*
 
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
