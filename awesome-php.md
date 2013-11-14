@@ -161,6 +161,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
 * [GIF Frame Extractor](https://github.com/Sybio/GifFrameExtractor) - A library to extract GIF animation frame information.
 * [GIF Creator](https://github.com/Sybio/GifCreator) - A library to create GIF animations from multiple images.
+* [Image With Text](https://github.com/nmcteam/image-with-text) - A library for embedding text into images.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
