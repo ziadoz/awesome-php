@@ -508,7 +508,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
 
 ## Websites
-*Useful PHP-related websites.*
+*Useful PHP-related websites and newsletters.*
 
 * [PHP The Right Way](http://www.phptherightway.com/) - A PHP best practice quick reference guide.
 * [PHP Best Practices](http://phpbestpractices.org/) - A PHP best practice guide.
