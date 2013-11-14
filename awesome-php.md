@@ -505,6 +505,11 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 # Resources
 
+Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
+
+## Websites
+*Useful PHP-related websites.*
+
 * [PHP The Right Way](http://www.phptherightway.com/) - A PHP best practice quick reference guide.
 * [PHP Best Practices](http://phpbestpractices.org/) - A PHP best practice guide.
 * [PHP Weekly](http://phpweekly.info/archive/) - A weekly PHP newsletter.
@@ -517,20 +522,46 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 
 ## E-Books
+*Fantastic e-books.*
 
 * [Scaling PHP Applications](http://www.scalingphpbook.com) - An ebook about scaling PHP applications by Steve Corona.
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
 
-## Reading
+## Web Reading
+*General web-development-related reading materials.*
 
 * [OWASP PHP Security Cheat Sheet](https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet) - A PHP security cheatsheet.
+* [C is for Cookie, H is for Hacker](http://www.troyhunt.com/2013/03/c-is-for-cookie-h-is-for-hacker.html) - An article about cookies and security.
+* [You Blew It Loading Your Login Form Over HTTP](http://www.troyhunt.com/2013/05/your-login-form-posts-to-https-but-you.html) - An article about using HTTPS correctly with login forms.
+* [How HTTPS Secures Your Connection](http://blog.hartleybrody.com/https-certificates/) - An article explaining how TLS/SSL secures your connection.
+* [How to Build a Secure Remember Me Feature](http://www.troyhunt.com/2013/07/how-to-build-and-how-not-to-build.html) - An article on how to build a secure remember me feature.
+* [A Beginners Guide to HTTP Cache Headers](http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/) - An article about HTTP cache headers.
+* [Semantic Versioning](http://semver.org/) - A website explaining semantic versioning.
+* [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
+* [Hg Init](http://hginit.com/) - A Mercurial tutorial.
+
+## PHP Reading
+*PHP-releated reading materials.*
+
 * [Seven Ways to Screw Up BCrypt](http://blog.ircmaxell.com/2012/12/seven-ways-to-screw-up-bcrypt.html) - An article about correct BCrypt implementation.
 * [Preventing CSRF Attacks](http://blog.ircmaxell.com/2013/02/preventing-csrf-attacks.html) - An article on preventing CSRF attacks.
 * [Don't Worry About BREACH](http://blog.ircmaxell.com/2013/08/dont-worry-about-breach.html) - An article about the BREACH hack and CSRF tokens.
-* [Print vs Echo, Which One is Faster?](http://fabien.potencier.org/article/8/print-vs-echo-which-one-is-faster) - An article about print and echo performance.
-* [The PHP Ternary Operator. Fast or Not?](http://fabien.potencier.org/article/48/the-php-ternary-operator-fast-or-not) - An article ternary performance.
 * [On PHP 5.3, Lamda Functions and Closures](http://fabien.potencier.org/article/17/on-php-5-3-lambda-functions-and-closures) - An article about lambda functions and closures.
 * [Use Env](http://seancoates.com/blogs/use-env) - An article about using the unix environment helper.
+* [Composer Primer](http://daylerees.com/composer-primer) - A Composer primer.
+* [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html) - An article about Composer versioning.
+* [Composer Stability Flags](https://igor.io/2013/02/07/composer-stability-flags.html) - An article about Composer stability flags.
+* [Innocent Villagefolk or a Pillagin’ Pirate?](http://blog.astrumfutura.com/2012/04/php-innocent-villagefolk-or-a-pillagin-pirate/) - An article about PHP taking ideas from other language.
+* [Predicting Random Numbers in PHP](http://blog.astrumfutura.com/2013/03/predicting-random-numbers-in-php-its-easier-than-you-think/) - An article about generating random numbers.
+* [A 20 Point List for Preventing XSS in PHP](http://blog.astrumfutura.com/2013/04/20-point-list-for-preventing-cross-site-scripting-in-php/) - An article about preventing XSS.
+* [PHP Sucks! But I Like It!](http://blog.ircmaxell.com/2012/04/php-sucks-but-i-like-it.html) - An article about the pros and cons of PHP.
+* [PHP Is Much Better Than You Think](http://fabien.potencier.org/article/64/php-is-much-better-than-you-think) - An article about the PHP lanaguage and ecosystem.
+
+## PHP Internals Reading
+*Reading materials related to the PHP internals or performance.*
+
+* [Print vs Echo, Which One is Faster?](http://fabien.potencier.org/article/8/print-vs-echo-which-one-is-faster) - An article about print and echo performance.
+* [The PHP Ternary Operator. Fast or Not?](http://fabien.potencier.org/article/48/the-php-ternary-operator-fast-or-not) - An article ternary performance.
 * [Disproving the Single Quotes Myth](http://nikic.github.com/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - An article about performance of single and double quoted strings.
 * [You're Being Lied To](http://blog.golemon.com/2007/01/youre-being-lied-to.html) - An article about internal ZVALs.
 * [How Long is a Piece of String](http://blog.golemon.com/2006/06/how-long-is-piece-of-string.html) - An article about string internals.
@@ -541,19 +572,3 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP Evaluation Order](https://gist.github.com/nikic/6699370) - An article about evaluation order in PHP.
 * PHP Source Code for Developers: [1](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](http://nikic.github.com/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](http://nikic.github.com/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - A series about the PHP source code.
 * Collecting Garbage: [1](http://www.php.net/manual/en/features.gc.refcounting-basics.php) [2](http://www.php.net/manual/en/features.gc.collecting-cycles.php) [3](http://www.php.net/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
-* [Semantic Versioning](http://semver.org/) - A website explaining semantic versioning.
-* [Composer Primer](http://daylerees.com/composer-primer) - A Composer primer.
-* [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html) - An article about Composer versioning.
-* [Composer Stability Flags](https://igor.io/2013/02/07/composer-stability-flags.html) - An article about Composer stability flags.
-* [PHP Sucks! But I Like It!](http://blog.ircmaxell.com/2012/04/php-sucks-but-i-like-it.html) - An article about the pros and cons of PHP.
-* [PHP Is Much Better Than You Think](http://fabien.potencier.org/article/64/php-is-much-better-than-you-think) - An article about the PHP lanaguage and ecosystem.
-* [Innocent Villagefolk or a Pillagin’ Pirate?](http://blog.astrumfutura.com/2012/04/php-innocent-villagefolk-or-a-pillagin-pirate/) - An article about PHP taking ideas from other language.
-* [Predicting Random Numbers in PHP](http://blog.astrumfutura.com/2013/03/predicting-random-numbers-in-php-its-easier-than-you-think/) - An article about generating random numbers.
-* [C is for Cookie, H is for Hacker](http://www.troyhunt.com/2013/03/c-is-for-cookie-h-is-for-hacker.html) - An article about cookies and security.
-* [You Blew It Loading Your Login Form Over HTTP](http://www.troyhunt.com/2013/05/your-login-form-posts-to-https-but-you.html) - An article about using HTTPS correctly with login forms.
-* [How HTTPS Secures Your Connection](http://blog.hartleybrody.com/https-certificates/) - An article explaining how TLS/SSL secures your connection.
-* [How to Build a Secure Remember Me Feature](http://www.troyhunt.com/2013/07/how-to-build-and-how-not-to-build.html) - An article on how to build a secure remember me feature.
-* [A 20 Point List for Preventing XSS in PHP](http://blog.astrumfutura.com/2013/04/20-point-list-for-preventing-cross-site-scripting-in-php/) - An article about preventing XSS.
-* [A Beginners Guide to HTTP Cache Headers](http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/) - An article about HTTP cache headers.
-* [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
-* [Hg Init](http://hginit.com/) - A Mercurial tutorial.
