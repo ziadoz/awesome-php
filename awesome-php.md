@@ -102,6 +102,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Phly Mustache](https://github.com/weierophinney/phly_mustache) - Another PHP implementation of the Mustache template language.
 * [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
+* [Sculpin](http://symfony.com/projects/sculpin) - A library that converts Markdown and Twig into static HTML.
 
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
@@ -361,8 +362,10 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries for working with markup.*
 
 * [Decoda](http://milesj.me/code/php/decoda) - A lightweight markup parser library.
-* [PHP Markdown](https://github.com/michelf/php-markdown) - A markdown parser library.
-* [Dflydev Markdown](https://github.com/dflydev/dflydev-markdown) - Another markdown parser library.
+* [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
+* [Dflydev Markdown](https://github.com/dflydev/dflydev-markdown) - Another Markdown parser.
+* [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
+* [Ciconia](https://github.com/kzykhys/Ciconia) - Another Markdown parser that supports Github flavoured Markdown.
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
 
 ## Text and Numbers
@@ -437,6 +440,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
+* [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) - A library for validating JSONP callbacks.
 * [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
@@ -474,6 +478,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Lib Country](https://github.com/phine/lib-country) - A library for country and subdivision data.
 * [Lib Accessor](https://github.com/phine/lib-accessor) - A library for simplifying accessors.
 * [PHPStack](http://dunkels.com/adam/phpstack/) - A TCP/IP stack proof of concept written in PHP.
+* [Nmap](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](http://nmap.org/).
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 
 ## Development Software
