@@ -237,6 +237,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 * [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
+* [PHPDBG](http://phpdbg.com/) - An interactive PHP debugger.
 
 ## Build Tools
 *Project build and automation tools.*
