@@ -102,6 +102,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Mustache](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
 * [Phly Mustache](https://github.com/weierophinney/phly_mustache) - Another PHP implementation of the Mustache template language.
 * [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
+* [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
 * [Sculpin](http://symfony.com/projects/sculpin) - A library that converts Markdown and Twig into static HTML.
 
@@ -180,7 +181,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
 * [Samsui](https://github.com/mauris/samsui) - Another fake data generator library.
 * [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
-* [Behat](http://behat.org/) - A Behaviour Driven Development framework.
+* [Behat](http://behat.org/) - A behaviour driven development (BDD) testing framework.
+* [Pho](https://github.com/danielstjules/pho) - Another behaviour driven development testing framework.
 * [Mink](http://mink.behat.org/) - Web acceptance testing.
 * [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
 * [VFS Stream](https://github.com/mikey179/vfsStream) - A virtual filesystem stream wrapper for testing.
