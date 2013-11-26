@@ -165,6 +165,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [GIF Frame Extractor](https://github.com/Sybio/GifFrameExtractor) - A library to extract GIF animation frame information.
 * [GIF Creator](https://github.com/Sybio/GifCreator) - A library to create GIF animations from multiple images.
 * [Image With Text](https://github.com/nmcteam/image-with-text) - A library for embedding text into images.
+* [Color Extractor](https://github.com/php-loep/color-extractor) - A library for extracting colours from images.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
@@ -350,6 +351,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Cron Expression](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
 * [ShellWrap](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
 * [Hoa Console](https://github.com/hoaproject/Console) - Another command line library.
+* [Shunt](https://github.com/php-loep/shunt) - A library for running commands in parallel on multiple remote machines.
 
 ## Authentication
 *Libraries for implementing authentications schemes.*
