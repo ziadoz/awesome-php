@@ -527,7 +527,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Weekly](http://phpweekly.info/archive/) - A weekly PHP newsletter.
 * [PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html) - A guide to PHP security.
 * [PHP Internals](http://www.phpinternalsbook.com/) - A book about the PHP internals.
-* [PHP Standards Working Group](https://groups.google.com/group/php-standards) - The PHP standards working group.
+* [PHP FIG](http://www.php-fig.org/) - The PHP Framework Interoperability Group.
 * [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
 * [WebSec IO](http://websec.io/) - A web security community resource.
 * [Web Advent](http://webadvent.org) - An advent calendar for web developers.
