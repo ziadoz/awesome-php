@@ -2,50 +2,58 @@
 
 A curated list of amazingly awesome PHP libraries, resources and shiny things. 
 
-## Categories
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
-* Package Management
-* Package Management Related
-* Frameworks
-* Framework Components
-* Micro Frameworks
-* Templating
-* HTTP
-* URL
-* Email
-* Files
-* Streams
-* Dependency Injection
-* Imagery
-* Testing
-* Documentation
-* Security
-* Code Analysis
-* Build Tools
-* Asset Management
-* Geolocation
-* Date and Time
-* Event
-* Logging
-* E-commerce
-* PDF
-* ORM and Datamapping
-* NoSQL
-* Queue
-* Search
-* Command Line
-* Authentication
-* Markup
-* Text and Numbers
-* Filtering and Validation
-* REST and API
-* Caching
-* Data Structure and Storage
-* Notifications
-* Third Party APIs
-* Miscellaneous
-* Development Software
-* Web Tools
+- [Awesome PHP](#awesome-php)
+	- [Package Management](#package-management)
+	- [Package Management Related](#package-management-related)
+	- [Frameworks](#frameworks)
+	- [Framework Components](#framework-components)
+	- [Micro Frameworks](#micro-frameworks)
+	- [Templating](#templating)
+	- [HTTP](#http)
+	- [URL](#url)
+	- [Email](#email)
+	- [Files](#files)
+	- [Streams](#streams)
+	- [Dependency Injection](#dependency-injection)
+	- [Imagery](#imagery)
+	- [Testing](#testing)
+	- [Documentation](#documentation)
+	- [Security](#security)
+	- [Code Analysis](#code-analysis)
+	- [Build Tools](#build-tools)
+	- [Asset Management](#asset-management)
+	- [Geolocation](#geolocation)
+	- [Date and Time](#date-and-time)
+	- [Event](#event)
+	- [Logging](#logging)
+	- [E-commerce](#e-commerce)
+	- [PDF](#pdf)
+	- [ORM and Datamapping](#orm-and-datamapping)
+	- [NoSQL](#nosql)
+	- [Queue](#queue)
+	- [Search](#search)
+	- [Command Line](#command-line)
+	- [Authentication](#authentication)
+	- [Markup](#markup)
+	- [Text and Numbers](#text-and-numbers)
+	- [Filtering and Validation](#filtering-and-validation)
+	- [REST and API](#rest-and-api)
+	- [Caching](#caching)
+	- [Data Structure and Storage](#data-structure-and-storage)
+	- [Notifications](#notifications)
+	- [Third Party APIs](#third-party-apis)
+	- [Miscellaneous](#miscellaneous)
+	- [Development Software](#development-software)
+	- [Web Tools](#web-tools)
+- [Resources](#resources)
+	- [Websites](#websites)
+	- [E-Books](#e-books)
+	- [Web Reading](#web-reading)
+	- [PHP Reading](#php-reading)
+	- [PHP Internals Reading](#php-internals-reading)
+- [Suggestions](#suggestions)
 
 ## Package Management
 *Libraries for package and dependency management.*
