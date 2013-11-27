@@ -72,6 +72,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Laravel 4](http://laravel.com/) - A simple PHP framework.
 * [Lithium](http://lithify.me/) - Another framework of components.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
+* [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
 
 ## Framework Components
 *PHP framework components.*
