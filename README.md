@@ -258,7 +258,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
 * [GeoCoder](http://geocoder-php.org/) - A geocoding library.
-* [GeoTools](https://github.com/toin0u/Geotools) - A library of geo-related tools.
+* [GeoTools](https://github.com/php-loep/Geotools) - A library of geo-related tools.
 * [PHPGeo](https://github.com/mjaschen/phpgeo) - A simple geo library.
 * [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
 
