@@ -332,6 +332,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Pheanstalk](https://github.com/pda/pheanstalk) - A Beanstalkd client library.
 * [PHP AMPQ](https://github.com/videlalvaro/php-amqplib) - An AMPQ library.
 * [Thumper](https://github.com/videlalvaro/Thumper) - A RabbitMQ pattern library.
+* [Bernard](https://github.com/bernardphp/bernard) - A multibackend abstraction library.
 
 ## Search
 *Libraries and software for indexing and performing search queries on data.*
