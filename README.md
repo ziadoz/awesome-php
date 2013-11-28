@@ -338,6 +338,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Pheanstalk](https://github.com/pda/pheanstalk) - A Beanstalkd client library.
 * [PHP AMPQ](https://github.com/videlalvaro/php-amqplib) - An AMPQ library.
 * [Thumper](https://github.com/videlalvaro/Thumper) - A RabbitMQ pattern library.
+* [Bernard](https://github.com/bernardphp/bernard) - A multibackend abstraction library.
 
 ## Search
 *Libraries and software for indexing and performing search queries on data.*
@@ -434,7 +435,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Nod](https://github.com/filp/nod) - A notification library (e.g. Growl).
 * [Notificato](https://github.com/wrep/notificato) - A library for handling push notifications.
 * [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - A standalone library for device push notifications.
-* [Bernard](https://github.com/henrikbjorn/Bernard) - A structured message library for queues.
 * [Notificator](https://github.com/namshi/notificator) - A lightweight notification library.
 
 
