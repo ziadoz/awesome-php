@@ -213,6 +213,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ## Security
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
 
+* [OWASP PHP Security Project](https://github.com/owasp/phpsec) - Security tools & libraries as well as a demonstrative framework.
 * [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [RandomLib](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings. 
 * [True Random](https://github.com/pixeloution/true-random) - A library that generates random numbers using [www.random.org](http://www.random.org/).
