@@ -159,7 +159,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
 * [Auryn](https://github.com/rdlowrey/Auryn) - Another dependency injection container.
-* [Di](https://github.com/orno/di) - Another flexible dependency injection container.
+* [Orno\Di](https://github.com/orno/di) - Another flexible dependency injection container.
 * [PHP DI](http://mnapoli.github.com/PHP-DI/) - A dependency injection implementation using annotations.
 * [Acclimate](https://github.com/jeremeamia/acclimate) - A common interface to dependency injection containers and service locators.
 
