@@ -2,8 +2,6 @@
 
 A curated list of amazingly awesome PHP libraries, resources and shiny things. 
 
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
 - [Awesome PHP](#awesome-php)
 	- [Package Management](#package-management)
 	- [Package Management Related](#package-management-related)
