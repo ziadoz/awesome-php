@@ -396,7 +396,9 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Urlify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
 * [Text](https://github.com/kzykhys/Text) - A text manipulation library.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
+* [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements. 
+* [Byte](https://github.com/jschaedl/Byte) - A simple byte conversion library.
 
 ## Filtering and Validation
 *Libraries for filtering and validating data.*
@@ -492,6 +494,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Lib Accessor](https://github.com/phine/lib-accessor) - A library for simplifying accessors.
 * [PHPStack](http://dunkels.com/adam/phpstack/) - A TCP/IP stack proof of concept written in PHP.
 * [Nmap](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](http://nmap.org/).
+* [Code Mover](https://github.com/dantleech/code-mover) - A library for moving code.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 
 ## Development Software
