@@ -394,6 +394,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 convertor library.
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
 * [Hoa String](https://github.com/hoaproject/String) - Another UTF-8 string library.
+* [Stringy](https://github.com/danielstjules/Stringy) - A string manipulation library with multibyte support.
 * [Numbers PHP](https://github.com/powder96/numbers.php) - A library for working with numbers.
 * [Math](https://github.com/moontoast/math) - A library for working with large numbers.
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
