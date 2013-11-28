@@ -8,6 +8,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Frameworks](#frameworks)
 	- [Framework Components](#framework-components)
 	- [Micro Frameworks](#micro-frameworks)
+	- [Content Management Systems](#content-management-systems)
 	- [Templating](#templating)
 	- [HTTP](#http)
 	- [URL](#url)
@@ -100,6 +101,11 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Slim Middleware](https://github.com/codeguy/Slim-Middleware) - A collection of custom middleware for Slim.
 * [Bullet PHP](http://bulletphp.com/) - A mico framework for building REST APIs.
 * [Klein](https://github.com/chriso/klein.php) - A fast routing library.
+
+## Content Management Systems
+*Modern content management systems.*
+
+* [Bolt](https://github.com/bolt/bolt) - A simple CMS built with Silex and Twig.
 
 ## Templating
 *Libraries and tools for templating and lexing.*
