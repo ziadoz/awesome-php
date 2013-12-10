@@ -71,7 +71,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Patch Installer](https://github.com/goatherd/patch-installer) - A library to install patches using Composer.
 
 ## Frameworks
-*Popular PHP frameworks.*
+*Web development frameworks.*
 
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
 * [Knp RAD Bundle](http://rad.knplabs.com/) - A Rapid Application Development (RAD) bundle for Symfony 2.
@@ -82,7 +82,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
 
 ## Framework Components
-*PHP framework components.*
+*Web development frameworks' standalone components.*
 
 * [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony2.
 * [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make ZF2.
@@ -410,7 +410,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries for filtering and validating data.*
 
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
-* [Respect Validation](https://github.com/Respect/Validation) - A simple validation library.
+* [Respect Validate](https://github.com/Respect/Validation) - A simple validation library.
 * [Valitron](https://github.com/vlucas/valitron) - Another validation library.
 * [Upload](https://github.com/codeguy/Upload) - A library for handling file uploads and validation.
 * [DMS Filter](https://github.com/rdohms/DMS-Filter) - An annotation filtering library.
@@ -467,7 +467,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 * [LiteCQRS](https://github.com/beberlei/litecqrs-php) - A CQRS (Command Query Responsibility Separation) library.
 * [Sslurp](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL suck less.
-* [PHP Option](https://github.com/schmittjoh/php-option) - An option type library.
+* [PHP Option](https://github.com/schmittjoh/php-option) An option type library.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [Sabre VObject](https://github.com/evert/sabre-vobject) - A library for parsing VCard and iCalendar objects.
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
