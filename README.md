@@ -297,6 +297,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries for generating and working with log files.*
 
 * [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
+* [Simple-PHP-Logger](https://bitbucket.org/huntlyc/simple-php-logger) - A simple PHP Logging Class
 
 ## E-commerce
 *Libraries and applications for taking payments and building online e-commerce stores.*
