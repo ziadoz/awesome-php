@@ -410,7 +410,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries for filtering and validating data.*
 
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
-* [Respect Validate](https://github.com/Respect/Validation) - A simple validation library.
+* [Respect Validation](https://github.com/Respect/Validation) - A simple validation library.
 * [Valitron](https://github.com/vlucas/valitron) - Another validation library.
 * [Upload](https://github.com/codeguy/Upload) - A library for handling file uploads and validation.
 * [DMS Filter](https://github.com/rdohms/DMS-Filter) - An annotation filtering library.
