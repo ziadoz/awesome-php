@@ -467,7 +467,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 * [LiteCQRS](https://github.com/beberlei/litecqrs-php) - A CQRS (Command Query Responsibility Separation) library.
 * [Sslurp](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL suck less.
-* [PHP Option](https://github.com/schmittjoh/php-option) An option type library.
+* [PHP Option](https://github.com/schmittjoh/php-option) - An option type library.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [Sabre VObject](https://github.com/evert/sabre-vobject) - A library for parsing VCard and iCalendar objects.
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
