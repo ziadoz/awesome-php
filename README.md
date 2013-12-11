@@ -230,7 +230,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependecies for security advisories.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
-* [Hashids](https://github.com/ivanakimov/hashids.php) - A small PHP class to generate YouTube-like hashes from one or many numbers.
 
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulation codebases.*
@@ -294,7 +293,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Hoa EventSource](https://github.com/hoaproject/Eventsource) - An event source library.
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [FuelPHP Event](https://github.com/fuelphp/event) - Another event dispatcher library.
-* [Elephant](http://elephant.io) - A rough socket.io client.
 
 ## Logging
 *Libraries for generating and working with log files.*
