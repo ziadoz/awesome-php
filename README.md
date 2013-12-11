@@ -230,6 +230,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependecies for security advisories.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
+* [Hashids](https://github.com/ivanakimov/hashids.php) - A small PHP class to generate YouTube-like hashes from one or many numbers.
 
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulation codebases.*
