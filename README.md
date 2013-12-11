@@ -294,6 +294,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Hoa EventSource](https://github.com/hoaproject/Eventsource) - An event source library.
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [FuelPHP Event](https://github.com/fuelphp/event) - Another event dispatcher library.
+* [Elephant](http://elephant.io) - A rough socket.io client.
 
 ## Logging
 *Libraries for generating and working with log files.*
