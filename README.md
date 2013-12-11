@@ -302,6 +302,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries and applications for taking payments and building online e-commerce stores.*
 
 * [OmniPay](https://github.com/adrianmacneil/omnipay) - A framework agnostic multi-gateway payment processing library.
+* [SecurePay](https://github.com/hash-bang/PHP-SecurePay) - Framework for accepting credit card payments via the SecurePay API.
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
 * [Sylius](http://www.sylius.com/) - An open source e-commerce solution.
 * [Thelia](http://thelia.net/v2/) - Another open source e-commerce solution.
