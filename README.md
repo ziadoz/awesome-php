@@ -106,6 +106,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Modern content management systems.*
 
 * [Bolt](https://github.com/bolt/bolt) - A simple CMS built with Silex and Twig.
+* [Craft](http://buildwithcraft.com/) - A simple, flexible CMS built with Yii and Twig.
 
 ## Templating
 *Libraries and tools for templating and lexing.*
