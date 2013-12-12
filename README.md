@@ -603,4 +603,4 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 # Suggestions
 
-Please open an issue for any new suggestions or send a tweet to [@jamieyork](https://twitter.com/jamieyork).
+Please open an issue for any new suggestions.
