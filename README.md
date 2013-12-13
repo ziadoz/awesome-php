@@ -185,7 +185,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
 * [ParaTest](https://github.com/brianium/paratest) - A parallel testing library for PHPUnit.
-* [PHPSpec](https://github.com/phpspec/phpspec2) - A design by specification unit testing library.
+* [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
 * [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
 * [Atoum](https://github.com/atoum/atoum) - A simple testing library.
 * [Mockery](https://github.com/padraic/mockery) - A mock object library for testing.
