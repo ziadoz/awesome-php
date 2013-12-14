@@ -101,6 +101,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Slim Middleware](https://github.com/codeguy/Slim-Middleware) - A collection of custom middleware for Slim.
 * [Bullet PHP](http://bulletphp.com/) - A mico framework for building REST APIs.
 * [Klein](https://github.com/chriso/klein.php) - A fast routing library.
+* [Fat Free Framework](https://github.com/bcosca/fatfree) - A powerful and easy-to-use micro framework.
 
 ## Content Management Systems
 *Modern content management systems.*
