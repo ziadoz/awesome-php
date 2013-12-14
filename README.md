@@ -576,7 +576,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [A Beginners Guide to HTTP Cache Headers](http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/) - An article about HTTP cache headers.
 * [Semantic Versioning](http://semver.org/) - A website explaining semantic versioning.
 * [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
-* [Hg Init](http://hginit.com/) - A Mercurial tutorial.
+* [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
 
 ## PHP Reading
 *PHP-releated reading materials.*
