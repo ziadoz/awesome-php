@@ -460,6 +460,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Github](https://github.com/dsyph3r/github-api3-php) - A library to interface with the Github API.
 * [Twitter OAuth](https://github.com/widop/twitter-oauth) - A library to interface with Twitter's OAuth workflow.
 * [Twitter REST](https://github.com/widop/twitter-rest) - A library to interact with Twitter's REST API.
+* [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
