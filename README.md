@@ -574,6 +574,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [How HTTPS Secures Your Connection](http://blog.hartleybrody.com/https-certificates/) - An article explaining how TLS/SSL secures your connection.
 * [How to Build a Secure Remember Me Feature](http://www.troyhunt.com/2013/07/how-to-build-and-how-not-to-build.html) - An article on how to build a secure remember me feature.
 * [A Beginners Guide to HTTP Cache Headers](http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/) - An article about HTTP cache headers.
+* Beyond Series [1](http://blog.ircmaxell.com/2013/09/beyond-design-patterns.html) [2](http://blog.ircmaxell.com/2013/11/beyond-inheritance.html) [3](http://blog.ircmaxell.com/2013/11/beyond-object-oriented-programming.html) [4](http://blog.ircmaxell.com/2013/11/beyond-clean-code.html) - A series of articles about programming by Anthony Ferrara.
 * [Semantic Versioning](http://semver.org/) - A website explaining semantic versioning.
 * [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
 * [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
