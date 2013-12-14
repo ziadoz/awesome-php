@@ -449,7 +449,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - A standalone library for device push notifications.
 * [Notificator](https://github.com/namshi/notificator) - A lightweight notification library.
 
-
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
 
@@ -459,6 +458,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Campaign Monitor](http://campaignmonitor.github.com/createsend-php/) - The official Campaign Monitor PHP library.
 * [Digital Ocean](https://github.com/toin0u/DigitalOcean) - A library to interface with the Digital Ocean API.
 * [Github](https://github.com/dsyph3r/github-api3-php) - A library to interface with the Github API.
+* [Twitter OAuth](https://github.com/widop/twitter-oauth) - A library to interface with Twitter's OAuth workflow.
+* [Twitter REST](https://github.com/widop/twitter-rest) - A library to interact with Twitter's REST API.
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
