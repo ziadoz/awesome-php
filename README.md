@@ -1,5 +1,4 @@
 # Awesome PHP
-
 A curated list of amazingly awesome PHP libraries, resources and shiny things. 
 
 - [Awesome PHP](#awesome-php)
@@ -48,7 +47,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Web Tools](#web-tools)
 - [Resources](#resources)
 	- [Websites](#websites)
-	- [E-Books](#e-books)
+	- [Books](#books)
 	- [Web Reading](#web-reading)
 	- [PHP Reading](#php-reading)
 	- [PHP Internals Reading](#php-internals-reading)
@@ -101,6 +100,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Slim Middleware](https://github.com/codeguy/Slim-Middleware) - A collection of custom middleware for Slim.
 * [Bullet PHP](http://bulletphp.com/) - A mico framework for building REST APIs.
 * [Klein](https://github.com/chriso/klein.php) - A fast routing library.
+* [Fat Free Framework](https://github.com/bcosca/fatfree) - A powerful and easy-to-use micro framework.
 
 ## Content Management Systems
 *Modern content management systems.*
@@ -147,6 +147,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries for file manipulation and MIME type detection.*
 
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
+* [Flysystem](https://github.com/FrenkyNet/Flysystem) - Another filesystem abstraction layer.
 * [Canal](https://github.com/dflydev/dflydev-canal) - A library to determine internet media types.
 * [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - A library that parses Apache MIME types.
 * [Ferret](https://github.com/versionable/Ferret) - A MIME detection library.
@@ -185,7 +186,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
 * [ParaTest](https://github.com/brianium/paratest) - A parallel testing library for PHPUnit.
-* [PHPSpec](https://github.com/phpspec/phpspec2) - A design by specification unit testing library.
+* [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
 * [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
 * [Atoum](https://github.com/atoum/atoum) - A simple testing library.
 * [Mockery](https://github.com/padraic/mockery) - A mock object library for testing.
@@ -202,14 +203,19 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [VFS Stream](https://github.com/mikey179/vfsStream) - A virtual filesystem stream wrapper for testing.
 * [Locust](http://locust.io/) - A modern load test library written in Python.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
+<<<<<<< HEAD
 * [PHPCI](http://www.phptesting.org/) - A continuous integration specifically designed for PHP.
  
+=======
+* [PHPCI](http://www.phptesting.org/) - An open source continuous integration platform for PHP.
+>>>>>>> upstream/master
 
 ## Documentation
 *Libraries for generating project documentation.*
 
 * [Sami](https://github.com/fabpot/Sami) - An API documentation generator.
-* [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor2) - Another documentation generator.
+* [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
+* [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor2) - A documentation generator.
 
 ## Security
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
@@ -324,6 +330,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Eloquent](https://github.com/illuminate/database) - The Laravel 4 ORM.
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
 * [Spot](https://github.com/vlucas/Spot) - A MySQL datamapper ORM.
+* [RedBean](http://redbeanphp.com/) - A lightweight, configuration-less ORM.
 * [PHP ActiveRecord](https://github.com/kla/php-activerecord) - A PHP Active Record implementation.
 * [Paris and Idiorm](http://j4mie.github.io/idiormandparis/) - A minimalist database library.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
@@ -441,11 +448,10 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ## Notifications
 *Libraries for working with notification software.*
 
-* [Nod](https://github.com/filp/nod) - A notification library (e.g. Growl).
+* [Nod](https://github.com/filp/nod) - A notification library (e.g., Growl).
 * [Notificato](https://github.com/wrep/notificato) - A library for handling push notifications.
 * [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - A standalone library for device push notifications.
 * [Notificator](https://github.com/namshi/notificator) - A lightweight notification library.
-
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
@@ -456,6 +462,9 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Campaign Monitor](http://campaignmonitor.github.com/createsend-php/) - The official Campaign Monitor PHP library.
 * [Digital Ocean](https://github.com/toin0u/DigitalOcean) - A library to interface with the Digital Ocean API.
 * [Github](https://github.com/dsyph3r/github-api3-php) - A library to interface with the Github API.
+* [Twitter OAuth](https://github.com/widop/twitter-oauth) - A library to interface with Twitter's OAuth workflow.
+* [Twitter REST](https://github.com/widop/twitter-rest) - A library to interact with Twitter's REST API.
+* [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
@@ -533,11 +542,10 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 
 # Resources
-
 Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
 
 ## Websites
-*Useful PHP-related websites and newsletters.*
+*Useful web and PHP-related websites and newsletters.*
 
 * [PHP The Right Way](http://www.phptherightway.com/) - A PHP best practice quick reference guide.
 * [PHP Best Practices](http://phpbestpractices.org/) - A PHP best practice guide.
@@ -548,13 +556,19 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
 * [WebSec IO](http://websec.io/) - A web security community resource.
 * [Web Advent](http://webadvent.org) - An advent calendar for web developers.
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US) - A website of shared knowledge for the open web.
+* [HTML5Rocks](http://www.html5rocks.com) - A resource for open web HTML5 developers.
 * [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 
-## E-Books
-*Fantastic e-books.*
+## Books
+*Fantastic books and e-books.*
 
 * [Scaling PHP Applications](http://www.scalingphpbook.com) - An ebook about scaling PHP applications by Steve Corona.
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
+* [Mastering Object-Orientated PHP](http://www.brandonsavage.net) - A book about object-orientated PHP by Brandon Savage.
+* [Signaling PHP](https://leanpub.com/signalingphp) - A book about catching PCNTL signals in CLI scripts by Cal Evans.
+* [Understanding Computation](http://computationbook.com) - A book about computation theory by Tom Stuart.
+* [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
 
 ## Web Reading
 *General web-development-related reading materials.*
@@ -565,13 +579,15 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [How HTTPS Secures Your Connection](http://blog.hartleybrody.com/https-certificates/) - An article explaining how TLS/SSL secures your connection.
 * [How to Build a Secure Remember Me Feature](http://www.troyhunt.com/2013/07/how-to-build-and-how-not-to-build.html) - An article on how to build a secure remember me feature.
 * [A Beginners Guide to HTTP Cache Headers](http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/) - An article about HTTP cache headers.
+* Beyond Series [1](http://blog.ircmaxell.com/2013/09/beyond-design-patterns.html) [2](http://blog.ircmaxell.com/2013/11/beyond-inheritance.html) [3](http://blog.ircmaxell.com/2013/11/beyond-object-oriented-programming.html) [4](http://blog.ircmaxell.com/2013/11/beyond-clean-code.html) - A series of articles about programming by Anthony Ferrara.
 * [Semantic Versioning](http://semver.org/) - A website explaining semantic versioning.
 * [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
-* [Hg Init](http://hginit.com/) - A Mercurial tutorial.
+* [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
 
 ## PHP Reading
 *PHP-releated reading materials.*
 
+* [Create Your Own PHP Framework](Create Your Own Framework: http://fabien.potencier.org/article/50/create-your-own-framework-on-top-of-the-symfony2-components-part-1) - A series of articles on how to make your own PHP framework by Fabien Potencier.
 * [Seven Ways to Screw Up BCrypt](http://blog.ircmaxell.com/2012/12/seven-ways-to-screw-up-bcrypt.html) - An article about correct BCrypt implementation.
 * [Preventing CSRF Attacks](http://blog.ircmaxell.com/2013/02/preventing-csrf-attacks.html) - An article on preventing CSRF attacks.
 * [Don't Worry About BREACH](http://blog.ircmaxell.com/2013/08/dont-worry-about-breach.html) - An article about the BREACH hack and CSRF tokens.
@@ -589,6 +605,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ## PHP Internals Reading
 *Reading materials related to the PHP internals or performance.*
 
+* [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (Request for Comments).
 * [Print vs Echo, Which One is Faster?](http://fabien.potencier.org/article/8/print-vs-echo-which-one-is-faster) - An article about print and echo performance.
 * [The PHP Ternary Operator. Fast or Not?](http://fabien.potencier.org/article/48/the-php-ternary-operator-fast-or-not) - An article ternary performance.
 * [Disproving the Single Quotes Myth](http://nikic.github.com/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - An article about performance of single and double quoted strings.
@@ -603,5 +620,4 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * Collecting Garbage: [1](http://www.php.net/manual/en/features.gc.refcounting-basics.php) [2](http://www.php.net/manual/en/features.gc.collecting-cycles.php) [3](http://www.php.net/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
 
 # Suggestions
-
-Please open an issue for any new suggestions or send a tweet to [@jamieyork](https://twitter.com/jamieyork).
+Please open an issue for any new suggestions.
