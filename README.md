@@ -48,7 +48,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Web Tools](#web-tools)
 - [Resources](#resources)
 	- [Websites](#websites)
-	- [E-Books](#e-books)
+	- [Books](#books)
 	- [Web Reading](#web-reading)
 	- [PHP Reading](#php-reading)
 	- [PHP Internals Reading](#php-internals-reading)
@@ -555,11 +555,15 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Web Advent](http://webadvent.org) - An advent calendar for web developers.
 * [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 
-## E-Books
-*Fantastic e-books.*
+## Books
+*Fantastic books and e-books.*
 
 * [Scaling PHP Applications](http://www.scalingphpbook.com) - An ebook about scaling PHP applications by Steve Corona.
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
+* [Mastering Object-Orientated PHP](http://www.brandonsavage.net) - A book about object-orientated PHP by Brandon Savage.
+* [Signaling PHP](https://leanpub.com/signalingphp) - A book about catching PCNTL signals in CLI scripts by Cal Evans.
+* [Understanding Computation](http://computationbook.com) - A book about computation theory by Tom Stuart.
+* [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
 
 ## Web Reading
 *General web-development-related reading materials.*
