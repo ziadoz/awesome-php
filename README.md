@@ -323,6 +323,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Eloquent](https://github.com/illuminate/database) - The Laravel 4 ORM.
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
 * [Spot](https://github.com/vlucas/Spot) - A MySQL datamapper ORM.
+* [RedBean](http://redbeanphp.com/) - A lightweight, configuration-less ORM.
 * [PHP ActiveRecord](https://github.com/kla/php-activerecord) - A PHP Active Record implementation.
 * [Paris and Idiorm](http://j4mie.github.io/idiormandparis/) - A minimalist database library.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
