@@ -553,6 +553,8 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
 * [WebSec IO](http://websec.io/) - A web security community resource.
 * [Web Advent](http://webadvent.org) - An advent calendar for web developers.
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US) - A website of shared knowledge for the open web.
+* [HTML5Rocks](http://www.html5rocks.com) - A resource for open web HTML5 developers.
 * [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 
 ## Books
