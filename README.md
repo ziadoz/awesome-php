@@ -148,6 +148,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries for file manipulation and MIME type detection.*
 
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
+* [Flysystem](https://github.com/FrenkyNet/Flysystem) - Another filesystem abstraction layer.
 * [Canal](https://github.com/dflydev/dflydev-canal) - A library to determine internet media types.
 * [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - A library that parses Apache MIME types.
 * [Ferret](https://github.com/versionable/Ferret) - A MIME detection library.
