@@ -1,5 +1,4 @@
 # Awesome PHP
-
 A curated list of amazingly awesome PHP libraries, resources and shiny things. 
 
 - [Awesome PHP](#awesome-php)
@@ -538,7 +537,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 
 # Resources
-
 Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
 
 ## Websites
@@ -617,5 +615,4 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * Collecting Garbage: [1](http://www.php.net/manual/en/features.gc.refcounting-basics.php) [2](http://www.php.net/manual/en/features.gc.collecting-cycles.php) [3](http://www.php.net/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
 
 # Suggestions
-
 Please open an issue for any new suggestions.
