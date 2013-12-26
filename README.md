@@ -457,6 +457,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Campaign Monitor](http://campaignmonitor.github.com/createsend-php/) - The official Campaign Monitor PHP library.
 * [Digital Ocean](https://github.com/toin0u/DigitalOcean) - A library to interface with the Digital Ocean API.
 * [Github](https://github.com/dsyph3r/github-api3-php) - A library to interface with the Github API.
+* [PHPGithubApi](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
 * [Twitter OAuth](https://github.com/widop/twitter-oauth) - A library to interface with Twitter's OAuth workflow.
 * [Twitter REST](https://github.com/widop/twitter-rest) - A library to interact with Twitter's REST API.
 * [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.
