@@ -9,6 +9,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Micro Frameworks](#micro-frameworks)
 	- [Content Management Systems](#content-management-systems)
 	- [Templating](#templating)
+	- [Static Site Generators](#static-site-generators)
 	- [HTTP](#http)
 	- [URL](#url)
 	- [Email](#email)
@@ -117,8 +118,12 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
+
+## Static Site Generators
+*Tools for pre-processing all content, applying templates before publication to generate web pages.*
 * [Sculpin](http://sculpin.io) - A library that converts Markdown and Twig into static HTML.
 * [Phrozn](http://phrozn.info) - Static site generator converts Textile, Markdown and Twig into HTML.
+* [Carew](http://carew.github.io/) - Carew is another static site / blog generator with Markdown support.
 
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
