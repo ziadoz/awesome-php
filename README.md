@@ -180,6 +180,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [GIF Creator](https://github.com/Sybio/GifCreator) - A library to create GIF animations from multiple images.
 * [Image With Text](https://github.com/nmcteam/image-with-text) - A library for embedding text into images.
 * [Color Extractor](https://github.com/php-loep/color-extractor) - A library for extracting colours from images.
+* [ImageCow](https://github.com/oscarotero/imageCow) - A library to manipulate and generate responsive images.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
