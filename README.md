@@ -622,4 +622,4 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * Collecting Garbage: [1](http://www.php.net/manual/en/features.gc.refcounting-basics.php) [2](http://www.php.net/manual/en/features.gc.collecting-cycles.php) [3](http://www.php.net/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
 
 # Contributing
-Please see [CONTRIBUTING](https://github.com/php-loep/Plates/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md) for details.
