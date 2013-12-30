@@ -106,6 +106,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Modern content management systems.*
 
 * [Bolt](https://github.com/bolt/bolt) - A simple CMS built with Silex and Twig.
+* [Anchor CMS](https://github.com/anchorcms/anchor-cms) - Anchor is a free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts.
 
 ## Templating
 *Libraries and tools for templating and lexing.*
