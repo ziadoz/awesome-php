@@ -127,6 +127,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
 * [Goutte](https://github.com/fabpot/Goutte) - A simple web scraper.
 * [PHP VCR](http://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
+* [Macaw](https://github.com/Codingbean/Macaw) - A sleek and small PHP router.
 
 ## URL
 *Libraries for parsing URLs.*
