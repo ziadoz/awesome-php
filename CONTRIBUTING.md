@@ -2,7 +2,7 @@
 Please ensure your pull request adheres to the following guidelines:
 
 * Please search previous issues before making a suggestion, as it may be a duplicate.
-* Libraries that are Composer installable, PSR compliant, and tested are preferred.
+* Libraries that are PHP 5.3+, Composer installable, PSR compliant, and tested are preferred.
 * Please make an individual pull request for each suggestion.
 * Please use the following format for libraries: \[LIBRARY\]\(LINK\) - DESCRIPTION.
 * Please prefix duplicate library names with their vendor or namespace followed by a space: Orno\DI would be Orno DI.
