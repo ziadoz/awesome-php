@@ -344,7 +344,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries for working with event and task queues.*
 
 * [Pheanstalk](https://github.com/pda/pheanstalk) - A Beanstalkd client library.
-* [PHP AMPQ](https://github.com/videlalvaro/php-amqplib) - An AMPQ library.
+* [PHP AMQP](https://github.com/videlalvaro/php-amqplib) - A pure PHP AMQP library.
 * [Thumper](https://github.com/videlalvaro/Thumper) - A RabbitMQ pattern library.
 * [Bernard](https://github.com/bernardphp/bernard) - A multibackend abstraction library.
 
