@@ -229,7 +229,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP SSH](https://github.com/Herzult/php-ssh) - An experimental object orientated SSH wrapper library.
 * [IniScan](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependecies for security advisories.
-* [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
 
 ## Code Analysis
@@ -252,6 +251,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 * [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
 * [PHPDBG](http://phpdbg.com/) - An interactive PHP debugger.
+* [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
 
 ## Build Tools
 *Project build and automation tools.*
