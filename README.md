@@ -320,6 +320,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 * [WKHTMLToPDF](https://github.com/antialize/wkhtmltopdf) - A tool to convert HTML to PDF.
+* [PHPPdf](https://github.com/psliwa/PHPPdf) - A XML to PDF/JPEG/PNG library.
 
 ## ORM and Datamapping
 *Libraries that implement object-relational mapping or datamapping techniques.*
