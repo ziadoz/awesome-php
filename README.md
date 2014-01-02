@@ -80,6 +80,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Lithium](http://lithify.me/) - Another framework of components.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+* [Yii](http://yiiframework.com/) - Yii is a high-performance PHP framework best for developing Web 2.0 applications.
 
 ## Framework Components
 *Web development frameworks' standalone components.*
