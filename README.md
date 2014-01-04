@@ -102,6 +102,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Bullet PHP](http://bulletphp.com/) - A mico framework for building REST APIs.
 * [Klein](https://github.com/chriso/klein.php) - A fast routing library.
 * [Fat Free Framework](https://github.com/bcosca/fatfree) - A powerful and easy-to-use micro framework.
+* [Toro](https://github.com/anandkunal/ToroPHP) - A minimalist, general-purpose router
 
 ## Content Management Systems
 *Modern content management systems.*
