@@ -384,7 +384,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [OAuth2](https://github.com/php-loep/oauth2-server) - An OAuth2 authentication server, resource server and client library.
 * [PHP oAuthLib](https://github.com/Lusitanian/PHPoAuthLib) - Another OAuth library. 
 * [TwitterOAuth](https://github.com/ruudk/twitteroauth) - A Twitter OAuth library.
-* [TwitterSDK](https://github.com/lyrixx/twitter-sdk) - A Twitter SDK, fully tested.
+* [TwitterSDK](https://github.com/lyrixx/twitter-sdk) - A fully tested Twitter SDK.
 * [Hawk](https://github.com/dflydev/dflydev-hawk) - A Hawk HTTP authentication library.
 
 ## Markup
