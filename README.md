@@ -515,7 +515,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Nmap](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](http://nmap.org/).
 * [Code Mover](https://github.com/dantleech/code-mover) - A library for moving code.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
-* [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - A library for playing with the Raspberry PI's GPIO pins
+* [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - A library for playing with the Raspberry PI's GPIO pins.
 
 ## Development Software
 *Software for creating a development environment.*
