@@ -425,6 +425,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Valitron](https://github.com/vlucas/valitron) - Another validation library.
 * [Upload](https://github.com/codeguy/Upload) - A library for handling file uploads and validation.
 * [DMS Filter](https://github.com/rdohms/DMS-Filter) - An annotation filtering library.
+* [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library, supporting YAML, JSON and XML.
 
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
