@@ -155,6 +155,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 * [Flysystem](https://github.com/FrenkyNet/Flysystem) - Another filesystem abstraction layer.
+* [Finder](https://github.com/symfony/Finder) - A library to find files and directories.
 * [Canal](https://github.com/dflydev/dflydev-canal) - A library to determine internet media types.
 * [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - A library that parses Apache MIME types.
 * [Ferret](https://github.com/versionable/Ferret) - A MIME detection library.
