@@ -108,6 +108,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Modern content management systems.*
 
 * [Bolt](https://github.com/bolt/bolt) - A simple CMS built with Silex and Twig.
+* [Phundament](https://github.com/phundament/app) - Yii application boilerplate with composer support.
 
 ## Templating
 *Libraries and tools for templating and lexing.*
