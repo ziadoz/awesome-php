@@ -549,6 +549,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [3V4L](http://3v4l.org/) - An online PHP shell.
 * [DBV](http://dbv.vizuina.com/) - A database version control application.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
+* [Composer as a Service](http://composer.borreli.com/) - A tool for downloading Composer packages as a zip file.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
