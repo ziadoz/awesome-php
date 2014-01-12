@@ -417,6 +417,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements. 
 * [Byte](https://github.com/jschaedl/Byte) - A simple byte conversion library.
+* [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
 
 ## Filtering and Validation
 *Libraries for filtering and validating data.*
