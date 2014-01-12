@@ -260,6 +260,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 * [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
+* [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
 * [PHPDBG](http://phpdbg.com/) - An interactive PHP debugger.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
 
