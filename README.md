@@ -420,6 +420,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements. 
 * [Byte](https://github.com/jschaedl/Byte) - A simple byte conversion library.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
+* [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
 
 ## Filtering and Validation
 *Libraries for filtering and validating data.*
