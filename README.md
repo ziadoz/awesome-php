@@ -232,6 +232,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHPAss](http://www.openwall.com/phpass/) - A portable password hashing framework.
 * [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
 * [Password Policy](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
+* [Password Validator](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
 * [PHPSecLib](http://phpseclib.sourceforge.net/) - A pure PHP secure communications library.
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 * [PHP IDS](https://github.com/PHPIDS/PHPIDS) - A structured PHP security layer.
