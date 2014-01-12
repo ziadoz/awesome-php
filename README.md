@@ -534,7 +534,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Puppet](http://puppetlabs.com/) - A server automation framework and application.
 * [Chef](https://github.com/opscode/chef) - A systems integration framework.
 * [SaltStack](http://saltstack.com/community.html) - An infrastructure management tool.
-* [PuPHPet](https://puphpet.com/) - A web tool for building PHP development virtual machines.
 * [PHP Brew](https://github.com/c9s/phpbrew) - A PHP version manager and installer.
 * [PHP Env](https://github.com/CHH/phpenv) - Another PHP version manager.
 * [PHP Switch](https://github.com/jubianchi/phpswitch) - Another version manager.
@@ -546,6 +545,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ## Web Tools
 *Web-based tools.*
 
+* [PuPHPet](https://puphpet.com/) - A web tool for building PHP development virtual machines.
+* [Protobox](http://getprotobox.com/) - Another web tool for building PHP development virtual machines.
 * [3V4L](http://3v4l.org/) - An online PHP shell.
 * [DBV](http://dbv.vizuina.com/) - A database version control application.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
