@@ -193,6 +193,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries for testing codebases and generating test data.*
 
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
+* [DBUnit](https://github.com/sebastianbergmann/dbunit) - A database testing library for PHPUnit.
 * [ParaTest](https://github.com/brianium/paratest) - A parallel testing library for PHPUnit.
 * [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
 * [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
