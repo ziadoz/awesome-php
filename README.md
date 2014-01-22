@@ -339,6 +339,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [RedBean](http://redbeanphp.com/) - A lightweight, configuration-less ORM.
 * [PHP ActiveRecord](https://github.com/kla/php-activerecord) - A PHP Active Record implementation.
 * [Paris and Idiorm](http://j4mie.github.io/idiormandparis/) - A minimalist database library.
+* [Granada] (https://github.com/Surt/Granada) - Lightweight Active Record with advanced functionality.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 * [Migrations](https://github.com/icomefromthenet/Migrations) - A migration management library.
 * [PHPMig](https://github.com/davedevelopment/phpmig) - Another migration management library.
