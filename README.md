@@ -42,6 +42,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Caching](#caching)
 	- [Data Structure and Storage](#data-structure-and-storage)
 	- [Notifications](#notifications)
+	- [Deployment](#deployment)
 	- [Third Party APIs](#third-party-apis)
 	- [Miscellaneous](#miscellaneous)
 	- [Development Software](#development-software)
@@ -463,6 +464,10 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Notificato](https://github.com/wrep/notificato) - A library for handling push notifications.
 * [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - A standalone library for device push notifications.
 * [Notificator](https://github.com/namshi/notificator) - A lightweight notification library.
+
+## Deployment
+
+* [Pomander](https://github.com/tamagokun/pomander) - A deployment tool for PHP applications.
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
