@@ -468,6 +468,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ## Deployment
 
 * [Pomander](https://github.com/tamagokun/pomander) - A deployment tool for PHP applications.
+* [Rocketeer](https://github.com/Anahkiasen/rocketeer) - A fast and easy deployer for the PHP world.
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
