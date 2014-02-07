@@ -260,6 +260,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Athletic](https://github.com/polyfractal/athletic) - An annotation based benchmark framework.
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
+* [Tracy](https://github.com/nette/tracy) - PHP debugger. 
 * [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
 * [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
 * [PHPDBG](http://phpdbg.com/) - An interactive PHP debugger.
