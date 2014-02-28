@@ -371,7 +371,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries for building command line utilities.*
 
 * [Boris](https://github.com/d11wtq/boris) - A tiny PHP REPL.
-* [PsySh](https://github.com/bobthecow/psysh) - Another PHP REPL.
+* [PsySH](https://github.com/bobthecow/psysh) - Another PHP REPL.
 * [GetOpt](https://github.com/ulrichsg/getopt-php) - A command line opt parser.
 * [OptParse](https://github.com/CHH/optparse) - Another command line opt parser.
 * [Commando](https://github.com/nategood/commando) - Another simple command line opt parser.
