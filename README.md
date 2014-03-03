@@ -53,7 +53,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Web Reading](#web-reading)
 	- [PHP Reading](#php-reading)
 	- [PHP Internals Reading](#php-internals-reading)
-- [Suggestions](#suggestions)
+- [Contributing](#contributing)
 
 ## Package Management
 *Libraries for package and dependency management.*
