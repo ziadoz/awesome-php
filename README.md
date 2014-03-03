@@ -105,7 +105,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Klein](https://github.com/chriso/klein.php) - A fast routing library.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 * [Fat Free Framework](https://github.com/bcosca/fatfree) - A powerful and easy-to-use micro framework.
-
+* [Flight](https://github.com/mikecao/flight) - An extensible micro-framework for PHP.
+* 
 ## Content Management Systems
 *Modern content management systems.*
 
