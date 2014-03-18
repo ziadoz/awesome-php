@@ -349,7 +349,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries for working with "NoSQL" backends.*
 
 * [MongoQB](https://github.com/alexbilbie/MongoQB) - A MongoDB query builder library.
-* [Monga](https://github.com/FrenkyNet/Monga) - A MongoDB abstraction library.
+* [Monga](https://github.com/thephpleague/monga) - A MongoDB abstraction library.
 * [Predis](https://github.com/nrk/predis) - A feature complete Redis library.
 
 ## Queue
