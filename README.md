@@ -214,6 +214,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Locust](http://locust.io/) - A modern load test library written in Python.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 * [PHPCI](http://www.phptesting.org/) - An open source continuous integration platform for PHP.
+* [XPMock](https://github.com/ptrofimov/xpmock) - Simple syntax to create mock-objects with PHPUnit.
 
 ## Documentation
 *Libraries for generating project documentation.*
