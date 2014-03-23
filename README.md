@@ -370,6 +370,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ## Command Line
 *Libraries for building command line utilities.*
 
+* [Symfony Console](http://symfony.com/doc/current/components/console/index.html) - A library to build CLI application.
 * [Boris](https://github.com/d11wtq/boris) - A tiny PHP REPL.
 * [PsySH](https://github.com/bobthecow/psysh) - Another PHP REPL.
 * [GetOpt](https://github.com/ulrichsg/getopt-php) - A command line opt parser.
