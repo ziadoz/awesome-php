@@ -264,6 +264,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
 * [PHPDBG](http://phpdbg.com/) - An interactive PHP debugger.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
+* [FeatureScience](https://github.com/firstrow/feature-science) - A PHP library for carefully refactoring critical paths.
 
 ## Build Tools
 *Project build and automation tools.*
