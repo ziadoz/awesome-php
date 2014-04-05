@@ -344,6 +344,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Migrations](https://github.com/icomefromthenet/Migrations) - A migration management library.
 * [PHPMig](https://github.com/davedevelopment/phpmig) - Another migration management library.
 * [Phinx](https://github.com/robmorgan/phinx) - Another database migration library.
+* [Mongodm](https://github.com/purekid/mongodm) - A simple MongoDB ORM.
 
 ## NoSQL
 *Libraries for working with "NoSQL" backends.*
