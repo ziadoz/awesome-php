@@ -8,6 +8,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Framework Components](#framework-components)
 	- [Micro Frameworks](#micro-frameworks)
 	- [Content Management Systems](#content-management-systems)
+	- [Flat File Content Management Systems](#flat-file-content-management-systems)
 	- [Templating](#templating)
 	- [Static Site Generators](#static-site-generators)
 	- [HTTP](#http)
