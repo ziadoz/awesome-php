@@ -114,6 +114,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Lightweight Database CMS*
 
 * [Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
+* [Dropplets](https://github.com/circa75/dropplets) - Dropplets is a minimalist Markdown blogging platform.
 
 ## Templating
 *Libraries and tools for templating and lexing.*
