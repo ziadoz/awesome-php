@@ -110,6 +110,11 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Bolt](https://github.com/bolt/bolt) - A simple CMS built with Silex and Twig.
 
+## Flat file Content Management Systems
+*Lightweight Database CMS*
+
+* [Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
+
 ## Templating
 *Libraries and tools for templating and lexing.*
 
