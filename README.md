@@ -8,6 +8,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Framework Components](#framework-components)
 	- [Micro Frameworks](#micro-frameworks)
 	- [Content Management Systems](#content-management-systems)
+	- [Flat File Content Management Systems](#flat-file-content-management-systems)
 	- [Templating](#templating)
 	- [Static Site Generators](#static-site-generators)
 	- [HTTP](#http)
@@ -110,6 +111,12 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Modern content management systems.*
 
 * [Bolt](https://github.com/bolt/bolt) - A simple CMS built with Silex and Twig.
+
+## Flat file Content Management Systems
+*Lightweight Database CMS*
+
+* [Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
+* [Dropplets](https://github.com/circa75/dropplets) - Dropplets is a minimalist Markdown blogging platform.
 
 ## Templating
 *Libraries and tools for templating and lexing.*
