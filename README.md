@@ -403,6 +403,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
 * [Ciconia](https://github.com/kzykhys/Ciconia) - Another Markdown parser that supports Github flavoured Markdown.
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
+* [Markdownify](https://github.com/Pixel418/Markdownify) - An HTML to Markdown converter.
 
 ## Text and Numbers
 *Libraries for parsing and manipulating text and numbers.*
