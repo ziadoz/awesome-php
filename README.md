@@ -272,6 +272,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Bob](https://github.com/CHH/bob) - A simple project automation tool.
 * [Phake](https://github.com/jaz303/phake) - A rake PHP clone library.
 * [Box](https://github.com/kherge/Box) - A utility to build PHAR files.
+* [Phing](http://www.phing.info/) - A PHP project build system inspired by Apache Ant.
 
 ## Asset Management
 *Tools for managing, compressing and minifying website assets.*
