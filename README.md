@@ -74,6 +74,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ## Frameworks
 *Web development frameworks.*
 
+* [Kohana 3](http://kohanaframework.com) - A HMVC framework that provides a rich set of components.
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
 * [Knp RAD Bundle](http://rad.knplabs.com/) - A Rapid Application Development (RAD) bundle for Symfony 2.
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
@@ -539,6 +540,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ## Development Software
 *Software for creating a development environment.*
 
+* [Sublime Text 3](http://sublimetext.com) - The text editor you'll fall in love with.
 * [HomeBrew](http://mxcl.github.com/homebrew/) - A package manager for OSX.
 * [HomeBrew PHP](https://github.com/josegonzalez/homebrew-php) - A PHP tap for HomeBrew.
 * [PHP OSX](http://php-osx.liip.ch/) - A PHP installer for OSX.
