@@ -81,6 +81,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Lithium](http://li3.me/) - Another framework of components.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+* [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - A Content Management framework to create custom CMS.
 
 ## Framework Components
 *Web development frameworks' standalone components.*
