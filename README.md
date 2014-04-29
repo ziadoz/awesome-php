@@ -5,8 +5,10 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Package Management](#package-management)
 	- [Package Management Related](#package-management-related)
 	- [Frameworks](#frameworks)
+	- [Framework Extras](#framework-extras)
 	- [Framework Components](#framework-components)
 	- [Micro Frameworks](#micro-frameworks)
+	- [Micro Framework Extras](#micro-framework-extras)
 	- [Content Management Systems](#content-management-systems)
 	- [Templating](#templating)
 	- [Static Site Generators](#static-site-generators)
@@ -75,13 +77,17 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Web development frameworks.*
 
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
-* [Knp RAD Bundle](http://rad.knplabs.com/) - A Rapid Application Development (RAD) bundle for Symfony 2.
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
 * [Laravel 4](http://laravel.com/) - A simple PHP framework.
 * [Lithium](http://li3.me/) - Another framework of components.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+
+## Framework Extras
+**Web development framework extras.**
+
 * [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
+* [Knp RAD Bundle](http://rad.knplabs.com/) - A Rapid Application Development (RAD) bundle for Symfony 2.
 
 ## Framework Components
 *Web development frameworks' standalone components.*
@@ -94,18 +100,22 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Micro frameworks and routers.*
 
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
-* [Silex Skeleton](https://github.com/fabpot/Silex-Skeleton) - A project skeleton for Silex.
-* [Silex Kitchen Sink Edition](https://github.com/lyrixx/Silex-Kitchen-Edition) - Another project skeleton for Silex.
-* [Silex Web Profiler](https://github.com/silexphp/Silex-WebProfiler) - A web debug toolbar for Silex.
-* [Stack](https://github.com/stackphp) - A library of stackable middleware for Silex/Symfony.
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
-* [Slim Skeleton](https://github.com/codeguy/Slim-Skeleton) - A skeleton for Slim.
-* [Slim View](https://github.com/codeguy/Slim-Views) - A collection of custom views for Slim.
-* [Slim Middleware](https://github.com/codeguy/Slim-Middleware) - A collection of custom middleware for Slim.
 * [Bullet PHP](http://bulletphp.com/) - A mico framework for building REST APIs.
 * [Klein](https://github.com/chriso/klein.php) - A fast routing library.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 * [Fat Free Framework](https://github.com/bcosca/fatfree) - A powerful and easy-to-use micro framework.
+
+## Micro Framework Extras
+**Micro framework and router extras.**
+
+* [Silex Skeleton](https://github.com/fabpot/Silex-Skeleton) - A project skeleton for Silex.
+* [Silex Kitchen Sink Edition](https://github.com/lyrixx/Silex-Kitchen-Edition) - Another project skeleton for Silex.
+* [Silex Web Profiler](https://github.com/silexphp/Silex-WebProfiler) - A web debug toolbar for Silex.
+* [Stack](https://github.com/stackphp) - A library of stackable middleware for Silex/Symfony.
+* [Slim Skeleton](https://github.com/codeguy/Slim-Skeleton) - A skeleton for Slim.
+* [Slim View](https://github.com/codeguy/Slim-Views) - A collection of custom views for Slim.
+* [Slim Middleware](https://github.com/codeguy/Slim-Middleware) - A collection of custom middleware for Slim.
 
 ## Content Management Systems
 *Modern content management systems.*
