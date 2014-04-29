@@ -9,7 +9,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Framework Components](#framework-components)
 	- [Micro Frameworks](#micro-frameworks)
 	- [Micro Framework Extras](#micro-framework-extras)
-	- [Content Management Systems](#content-management-systems)
 	- [Templating](#templating)
 	- [Static Site Generators](#static-site-generators)
 	- [HTTP](#http)
@@ -116,11 +115,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Slim Skeleton](https://github.com/codeguy/Slim-Skeleton) - A skeleton for Slim.
 * [Slim View](https://github.com/codeguy/Slim-Views) - A collection of custom views for Slim.
 * [Slim Middleware](https://github.com/codeguy/Slim-Middleware) - A collection of custom middleware for Slim.
-
-## Content Management Systems
-*Modern content management systems.*
-
-* [Bolt](https://github.com/bolt/bolt) - A simple CMS built with Silex and Twig.
 
 ## Templating
 *Libraries and tools for templating and lexing.*
