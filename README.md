@@ -89,7 +89,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Knp RAD Bundle](http://rad.knplabs.com/) - A Rapid Application Development (RAD) bundle for Symfony 2.
 
 ## Framework Components
-*Web development frameworks' standalone components.*
+*Standalone component from web development frameworks.*
 
 * [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony2.
 * [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make ZF2.
