@@ -83,7 +83,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
 
 ## Framework Extras
-**Web development framework extras.**
+**Extras related to web development frameworks.**
 
 * [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
 * [Knp RAD Bundle](http://rad.knplabs.com/) - A Rapid Application Development (RAD) bundle for Symfony 2.
@@ -104,7 +104,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 
 ## Micro Framework Extras
-**Micro framework and router extras.**
+**Extras related to micro frameworks and routers.**
 
 * [Silex Skeleton](https://github.com/fabpot/Silex-Skeleton) - A project skeleton for Silex.
 * [Silex Kitchen Sink Edition](https://github.com/lyrixx/Silex-Kitchen-Edition) - Another project skeleton for Silex.
