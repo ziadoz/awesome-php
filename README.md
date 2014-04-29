@@ -3,7 +3,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 - [Awesome PHP](#awesome-php)
 	- [Package Management](#package-management)
-	- [Package Management Extras](#package-management-Extras)
+	- [Package Management Extras](#package-management-extras)
 	- [Frameworks](#frameworks)
 	- [Framework Extras](#framework-extras)
 	- [Framework Components](#framework-components)
