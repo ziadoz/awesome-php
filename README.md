@@ -107,7 +107,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Extras related to micro frameworks and routers.*
 
 * [Silex Skeleton](https://github.com/fabpot/Silex-Skeleton) - A project skeleton for Silex.
-* [Silex Kitchen Sink Edition](https://github.com/lyrixx/Silex-Kitchen-Edition) - Another project skeleton for Silex.
 * [Silex Web Profiler](https://github.com/silexphp/Silex-WebProfiler) - A web debug toolbar for Silex.
 * [Stack](https://github.com/stackphp) - A library of stackable middleware for Silex/Symfony.
 * [Slim Skeleton](https://github.com/codeguy/Slim-Skeleton) - A skeleton for Slim.
