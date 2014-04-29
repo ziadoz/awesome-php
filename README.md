@@ -3,7 +3,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 - [Awesome PHP](#awesome-php)
 	- [Package Management](#package-management)
-	- [Package Management Related](#package-management-related)
+	- [Package Management Extras](#package-management-Extras)
 	- [Frameworks](#frameworks)
 	- [Framework Extras](#framework-extras)
 	- [Framework Components](#framework-components)
@@ -62,8 +62,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - A package and dependency manager.
 * [Composer Installers](https://github.com/composer/installers) - A  multi framework Composer library installer.
 
-## Package Management Related
-*Libraries related to package management.*
+## Package Management Extras
+*Extras related to package management.*
 
 * [Satis](https://github.com/composer/satis) - A static Composer repository generator.
 * [Composition](https://github.com/bamarni/composition) - A library to check your Composer environment at runtime.
