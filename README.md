@@ -243,6 +243,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [IniScan](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependecies for security advisories.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
+* [Scrypt](https://github.com/DomBlack/php-scrypt) - Adds the scrypt key derivation function to PHP
+* [VPassword](https://github.com/victus-softworks/VPassword) - Scrypt + AES Library
 
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulation codebases.*
