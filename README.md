@@ -324,6 +324,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Sylius](http://www.sylius.com/) - An open source e-commerce solution.
 * [Thelia](http://thelia.net/v2/) - Another open source e-commerce solution.
 * [Money](https://github.com/mathiasverraes/money) - A PHP implementation of Fowler's money pattern.
+* [Money](https://github.com/sebastianbergmann/money) - Another library for working with monetary values.
+* [Swap](https://github.com/florianv/swap) - An exchange rates library.
 
 ## PDF
 *Libraries and software for working with PDF files.*
