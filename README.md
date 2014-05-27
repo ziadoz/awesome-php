@@ -167,6 +167,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Lurker](https://github.com/henrikbjorn/Lurker) - A resource tracking library.
 * [PHP File Locator](https://github.com/herrera-io/php-file-locator) - A library for locating files in large projects.
 * [PHP FFmpeg](https://github.com/alchemy-fr/PHP-FFmpeg/) - A wrapper for the [FFmpeg](http://www.ffmpeg.org/) video library.
+* [CSV](https://github.com/nyamsprod/Bakame.csv) - A CSV data manipulation library.
+* [Cartographer](https://github.com/tackk/cartographer) - A sitemap generation library.
 
 ## Streams
 *Libraries for working with streams.*
