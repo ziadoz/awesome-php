@@ -287,6 +287,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Pipe](https://github.com/CHH/pipe) - Another asset manager pipeline library.
 * [Munee](https://github.com/meenie/munee) - An asset optimiser library.
 * [JShrink](https://github.com/tedivm/JShrink) - A JavaScript minifier library.
+* [Puli](https://github.com/webmozart/puli) - A library for determining assets absolute paths.
 
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
