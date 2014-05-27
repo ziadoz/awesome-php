@@ -258,6 +258,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP Analyser](https://github.com/scrutinizer-ci/php-analyzer) - A library for analysing PHP code to find bugs and errors.
 * [PHP CS Fixer](https://github.com/fabpot/PHP-CS-Fixer) - A coding standard fixer library.
 * [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
+* [PHP Metrics](https://github.com/Halleck45/PhpMetrics) - A static metric library. 
 * [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
 * [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
 * [Athletic](https://github.com/polyfractal/athletic) - An annotation based benchmark framework.
