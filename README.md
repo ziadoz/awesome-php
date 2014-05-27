@@ -382,6 +382,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Boris](https://github.com/d11wtq/boris) - A tiny PHP REPL.
 * [PsySH](https://github.com/bobthecow/psysh) - Another PHP REPL.
+* [Pecan](https://github.com/mcrumm/pecan) - An event-driven, non-blocking shell.
 * [GetOpt](https://github.com/ulrichsg/getopt-php) - A command line opt parser.
 * [OptParse](https://github.com/CHH/optparse) - Another command line opt parser.
 * [Commando](https://github.com/nategood/commando) - Another simple command line opt parser.
