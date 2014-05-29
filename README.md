@@ -606,6 +606,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Signaling PHP](https://leanpub.com/signalingphp) - A book about catching PCNTL signals in CLI scripts by Cal Evans.
 * [Understanding Computation](http://computationbook.com) - A book about computation theory by Tom Stuart.
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
+* [The Learn'd Developer: Design Patterns](https://github.com/roblevintennis/the-learn-d-developer-design-patterns) - A book about design patterns with many PHP examples by Rob Levin
 
 ## Web Reading
 *General web-development-related reading materials.*
