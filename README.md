@@ -573,6 +573,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [PuPHPet](https://puphpet.com/) - A web tool for building PHP development virtual machines.
 * [Protobox](http://getprotobox.com/) - Another web tool for building PHP development virtual machines.
+* [Phansible](http://phansible.com/) - Web tool for building PHP development virtual machines using Ansible.
 * [3V4L](http://3v4l.org/) - An online PHP shell.
 * [DBV](http://dbv.vizuina.com/) - A database version control application.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
