@@ -100,7 +100,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
-* [Bullet PHP](http://bulletphp.com/) - A mico framework for building REST APIs.
+* [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 
