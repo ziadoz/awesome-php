@@ -465,6 +465,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries that implement data structure or storage techniques.*
 
 * [Ardent](https://github.com/morrisonlevi/Ardent) - A library of data structures.
+* [Collections](https://github.com/LellysInformatica/collections) - Collections Abstraction library for PHP.
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 * [PHP Object Storage](https://github.com/herrera-io/php-object-storage) - A library for object storage.
