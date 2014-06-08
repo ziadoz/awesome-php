@@ -158,7 +158,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ## Files
 *Libraries for file manipulation and MIME type detection.*
 
-* [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
+* [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstracWtion layer.
 * [Flysystem](https://github.com/FrenkyNet/Flysystem) - Another filesystem abstraction layer.
 * [Canal](https://github.com/dflydev/dflydev-canal) - A library to determine internet media types.
 * [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - A library that parses Apache MIME types.
@@ -336,7 +336,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 * [WKHTMLToPDF](https://github.com/antialize/wkhtmltopdf) - A tool to convert HTML to PDF.
-
+* [WkToPdf Wrapper](https://github.com/umbrellaTech/wktopdf) - A wrapper to Wkhtmltopdf to use as a library in PHP.
+* 
 ## ORM and Datamapping
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
