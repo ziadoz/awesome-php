@@ -279,6 +279,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Phake](https://github.com/jaz303/phake) - A rake PHP clone library.
 * [Box](https://github.com/kherge/Box) - A utility to build PHAR files.
 * [Phing](http://www.phing.info/) - A PHP project build system inspired by Apache Ant.
+* [Task](http://taskphp.github.io/) - A pure PHP task runner inspired by Grunt and Gulp.
 
 ## Asset Management
 *Tools for managing, compressing and minifying website assets.*
