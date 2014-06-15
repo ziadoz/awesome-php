@@ -103,6 +103,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
+* [Aleph](https://github.com/AlephTav/Aleph) - New php framework based on component architecture. In process active development.
+
 
 ## Micro Framework Extras
 *Extras related to micro frameworks and routers.*
