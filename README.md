@@ -130,6 +130,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Sculpin](http://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
 * [Phrozn](http://phrozn.info) - Another tool that converts Textile, Markdown and Twig into HTML.
+* [Pico](http://picocms.org) - Another tool that converts Markdown and Twig into HTML.
 
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
