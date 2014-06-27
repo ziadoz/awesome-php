@@ -497,6 +497,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Twitter REST](https://github.com/widop/twitter-rest) - A library to interact with Twitter's REST API.
 * [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.
 * [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
+* [hybridauth](https://github.com/hybridauth/hybridauth) - A library to easily build social applications and tools 
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
