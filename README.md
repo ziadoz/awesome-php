@@ -621,6 +621,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Semantic Versioning](http://semver.org/) - A website explaining semantic versioning.
 * [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
 * [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
+* [Creating a Full LAMP Stack Server](https://github.com/mcloide/phpseries/wiki/Creating-a-Full-LAMP-Stack-Server-in-Digital-Ocean) - A wiki walkthrough on how to create a full lamp stack on ubuntu
 
 ## PHP Reading
 *PHP-releated reading materials.*
