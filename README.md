@@ -331,6 +331,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Money](https://github.com/mathiasverraes/money) - A PHP implementation of Fowler's money pattern.
 * [Sebastian Money](https://github.com/sebastianbergmann/money) - Another library for working with monetary values.
 * [Swap](https://github.com/florianv/swap) - An exchange rates library.
+* [OpenCart](http://www.opencart.com/) - An open source e-commerce software for creating online stores.
 
 ## PDF
 *Libraries and software for working with PDF files.*
