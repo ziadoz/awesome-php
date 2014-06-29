@@ -1,5 +1,5 @@
 # Awesome PHP
-A curated list of amazingly awesome PHP libraries, resources and shiny things. 
+A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 - [Awesome PHP](#awesome-php)
 	- [Package Management](#package-management)
@@ -92,7 +92,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony2.
 * [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make ZF2.
-* [Aura Components](http://auraphp.github.com/) - A package of PHP 5.4 components. 
+* [Aura Components](http://auraphp.github.com/) - A package of PHP 5.4 components.
 * [Hoa Project](http://hoa-project.net/En/) - Another package of PHP components.
 
 ## Micro Frameworks
@@ -231,7 +231,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
 
 * [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
-* [RandomLib](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings. 
+* [RandomLib](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
 * [True Random](https://github.com/pixeloution/true-random) - A library that generates random numbers using [www.random.org](http://www.random.org/).
 * [SecurityMultiTool](https://github.com/padraic/SecurityMultiTool) - A PHP security library.
 * [Password Compat](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
@@ -260,7 +260,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP Analyser](https://github.com/scrutinizer-ci/php-analyzer) - A library for analysing PHP code to find bugs and errors.
 * [PHP CS Fixer](https://github.com/fabpot/PHP-CS-Fixer) - A coding standard fixer library.
 * [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
-* [PHP Metrics](https://github.com/Halleck45/PhpMetrics) - A static metric library. 
+* [PHP Metrics](https://github.com/Halleck45/PhpMetrics) - A static metric library.
 * [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
 * [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
 * [Athletic](https://github.com/polyfractal/athletic) - An annotation based benchmark framework.
@@ -342,7 +342,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
 * [Doctrine](http://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
-* [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - A migration library for Doctrine. 
+* [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - A migration library for Doctrine.
 * [Doctrine Extensions](https://github.com/l3pp4rd/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 * [Propel](http://www.propelorm.org/) - A fast ORM.
 * [Eloquent](https://github.com/illuminate/database) - The Laravel 4 ORM.
@@ -400,7 +400,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Sentry Social](http://docs.cartalyst.com/sentry-social-2/introduction) - A library for social network authentication.
 * [OPAuth](https://github.com/opauth/opauth) - A multi-provider authentication framework.
 * [OAuth2](https://github.com/php-loep/oauth2-server) - An OAuth2 authentication server, resource server and client library.
-* [PHP oAuthLib](https://github.com/Lusitanian/PHPoAuthLib) - Another OAuth library. 
+* [PHP oAuthLib](https://github.com/Lusitanian/PHPoAuthLib) - Another OAuth library.
 * [TwitterOAuth](https://github.com/ruudk/twitteroauth) - A Twitter OAuth library.
 * [TwitterSDK](https://github.com/lyrixx/twitter-sdk) - A fully tested Twitter SDK.
 * [Hawk](https://github.com/dflydev/dflydev-hawk) - A Hawk HTTP authentication library.
@@ -432,7 +432,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Text](https://github.com/kzykhys/Text) - A text manipulation library.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
-* [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements. 
+* [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
 * [Byte](https://github.com/jschaedl/Byte) - A simple byte conversion library.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
 * [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
