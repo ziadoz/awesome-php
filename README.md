@@ -103,6 +103,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
+* [Flint](http://henrikbjorn.github.io/Flint/) - Flint is a microframework build on top of Silex.
 
 ## Micro Framework Extras
 *Extras related to micro frameworks and routers.*
@@ -573,6 +574,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [PuPHPet](https://puphpet.com/) - A web tool for building PHP development virtual machines.
 * [Protobox](http://getprotobox.com/) - Another web tool for building PHP development virtual machines.
+* [Phansible](http://phansible.com/) - Web tool for building PHP development virtual machines using Ansible.
 * [3V4L](http://3v4l.org/) - An online PHP shell.
 * [DBV](http://dbv.vizuina.com/) - A database version control application.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
