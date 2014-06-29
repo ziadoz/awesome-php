@@ -413,7 +413,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Dflydev Markdown](https://github.com/dflydev/dflydev-markdown) - Another Markdown parser.
 * [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
 * [Ciconia](https://github.com/kzykhys/Ciconia) - Another Markdown parser that supports Github flavoured Markdown.
-* [Markdown](https://github.com/cebe/markdown) - An extensible Markdown parser.
+* [cebe/markdown](https://github.com/cebe/markdown) - An extensible and fast Markdown parser.
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
 
 ## Text and Numbers
