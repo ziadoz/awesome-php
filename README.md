@@ -502,6 +502,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Useful libraries or tools that don't fit in the categories above.*
 
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
+* [GracefulDeath](https://github.com/gabrielelana/graceful-death) - A library to catch and recover from fatal errors.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 * [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) - A library for validating JSONP callbacks.
 * [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
