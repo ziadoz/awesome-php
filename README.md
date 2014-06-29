@@ -219,6 +219,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Locust](http://locust.io/) - A modern load test library written in Python.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 * [PHPCI](http://www.phptesting.org/) - An open source continuous integration platform for PHP.
+* [ViolentDeath](https://github.com/gabrielelana/violent-death) - A PHP extension that generates segmentation faults to test your code fault tollerance.
 
 ## Documentation
 *Libraries for generating project documentation.*
