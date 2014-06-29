@@ -337,7 +337,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 * [WKHTMLToPDF](https://github.com/antialize/wkhtmltopdf) - A tool to convert HTML to PDF.
-
+* [WkToPdf Wrapper](https://github.com/umbrellaTech/wktopdf) - A wrapper to Wkhtmltopdf to use as a library in PHP.
+* 
 ## ORM and Datamapping
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
@@ -465,6 +466,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries that implement data structure or storage techniques.*
 
 * [Ardent](https://github.com/morrisonlevi/Ardent) - A library of data structures.
+* [Collections](https://github.com/LellysInformatica/collections) - Collections Abstraction library for PHP.
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 * [PHP Object Storage](https://github.com/herrera-io/php-object-storage) - A library for object storage.
