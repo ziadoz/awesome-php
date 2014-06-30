@@ -357,6 +357,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Migrations](https://github.com/icomefromthenet/Migrations) - A migration management library.
 * [PHPMig](https://github.com/davedevelopment/phpmig) - Another migration management library.
 * [Phinx](https://github.com/robmorgan/phinx) - Another database migration library.
+* [Doctrine Functions](https://github.com/luxifer/doctrine-functions) - Set of DQL functions for Doctrine ORM.
 
 ## NoSQL
 *Libraries for working with "NoSQL" backends.*
