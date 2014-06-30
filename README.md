@@ -271,6 +271,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHPDBG](http://phpdbg.com/) - An interactive PHP debugger.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
+* [DependenSees](https://github.com/luxifer/dependensees) - A command line tool to check composer vendor versions (a la Gemnasium)
 
 ## Build Tools
 *Project build and automation tools.*
