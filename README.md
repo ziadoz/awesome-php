@@ -321,6 +321,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries for generating and working with log files.*
 
 * [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
+* [KLogger](https://github.com/katzgrau/KLogger) - An easy-to-use PSR-3 compliant logging class.
 
 ## E-commerce
 *Libraries and applications for taking payments and building online e-commerce stores.*
