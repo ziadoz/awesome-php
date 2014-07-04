@@ -326,8 +326,10 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ## E-commerce
 *Libraries and applications for taking payments and building online e-commerce stores.*
 
+* [Magento](http://magento.com/) - An open source e-commerce solution.
 * [OmniPay](https://github.com/adrianmacneil/omnipay) - A framework agnostic multi-gateway payment processing library.
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
+* [Sellvana](https://www.sellvana.com) - An open source e-commerce solution.
 * [Sylius](http://www.sylius.com/) - An open source e-commerce solution.
 * [Thelia](http://thelia.net/v2/) - Another open source e-commerce solution.
 * [Money](https://github.com/mathiasverraes/money) - A PHP implementation of Fowler's money pattern.
