@@ -23,6 +23,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Security](#security)
 	- [Code Analysis](#code-analysis)
 	- [Build Tools](#build-tools)
+	- [Task Runners](#task-runners)
 	- [Asset Management](#asset-management)
 	- [Geolocation](#geolocation)
 	- [Date and Time](#date-and-time)
@@ -282,8 +283,12 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Phake](https://github.com/jaz303/phake) - A rake PHP clone library.
 * [Box](https://github.com/kherge/Box) - A utility to build PHAR files.
 * [Phing](http://www.phing.info/) - A PHP project build system inspired by Apache Ant.
+
+## Task Runners
+**Libraries for automating and running tasks.**
 * [Task](http://taskphp.github.io/) - A pure PHP task runner inspired by Grunt and Gulp.
-* [Robo](https://github.com/Codegyre/Robo) - PHP Task runner with configurations in OOP style
+* [Robo](https://github.com/Codegyre/Robo) - A PHP Task runner with object-orientated configurations.
+* [Bldr](http://bldr.io/) - A PHP Task runner built on Symfony components.
 
 ## Asset Management
 *Tools for managing, compressing and minifying website assets.*
