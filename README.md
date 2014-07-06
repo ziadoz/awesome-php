@@ -611,6 +611,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US) - A website of shared knowledge for the open web.
 * [HTML5Rocks](http://www.html5rocks.com) - A resource for open web HTML5 developers.
 * [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
+* [Seven PHP](http://7php.com/) - A general titillation around the PHP ecosystem.
 
 ## Books
 *Fantastic books and e-books.*
