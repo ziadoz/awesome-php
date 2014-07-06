@@ -471,6 +471,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ## Caching
 *Libraries for caching data.*
 
+* [Alternative PHP Cache (APC)](http://www.php.net/manual/en/book.apc.php) - Open opcode cache for PHP.
 * [Cache](https://github.com/doctrine/cache) - A caching library (part of Doctrine).
 * [Stash](https://github.com/tedivm/Stash) - Another library for caching.
 
