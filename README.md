@@ -72,6 +72,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Version](https://github.com/herrera-io/php-version) - A parsing and comparison library for semantic versioning.
 * [NameSpacer](https://github.com/ralphschindler/Namespacer) - A library to convert from underscores to namespaces.
 * [Patch Installer](https://github.com/goatherd/patch-installer) - A library to install patches using Composer.
+* [Composer Checker](https://github.com/silpion/composer-checker) - A tool to validate Composer configurations.
 
 ## Frameworks
 *Web development frameworks.*
