@@ -285,7 +285,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Phing](http://www.phing.info/) - A PHP project build system inspired by Apache Ant.
 
 ## Task Runners
-**Libraries for automating and running tasks.**
+*Libraries for automating and running tasks.*
 * [Task](http://taskphp.github.io/) - A pure PHP task runner inspired by Grunt and Gulp.
 * [Robo](https://github.com/Codegyre/Robo) - A PHP Task runner with object-orientated configurations.
 * [Bldr](http://bldr.io/) - A PHP Task runner built on Symfony components.
