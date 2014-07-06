@@ -526,6 +526,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
 * [Jumper](https://github.com/kakawait/Jumper) - A remote service executor library.
 * [Underscore](http://brianhaveri.github.io/Underscore.php/) - A PHP port of the Underscore JS library.
+* [Anahkiasen Underscore](http://anahkiasen.github.io/underscore-php/) - A redacted PHP port of Underscore.js with additional functions.
 * [PHP PassBook](https://github.com/eymengunay/php-passbook) - A PHP library for iOS PassBook.
 * [PHP Expression](https://github.com/Kitano/php-expression) - A PHP expression language.
 * [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
