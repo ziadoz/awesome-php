@@ -271,6 +271,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHPDBG](http://phpdbg.com/) - An interactive PHP debugger.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
+* [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
+* [xHprof](https://github.com/phacility/xhprof) - Another profiling tool for PHP.
 
 ## Build Tools
 *Project build and automation tools.*
