@@ -584,6 +584,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ## Web Tools
 *Web-based tools.*
 
+* [ProcessWire](http://processwire.com/) - A web application framework.
 * [PuPHPet](https://puphpet.com/) - A web tool for building PHP development virtual machines.
 * [Protobox](http://getprotobox.com/) - Another web tool for building PHP development virtual machines.
 * [Phansible](http://phansible.com/) - A web tool for building PHP development virtual machines with Ansible.
