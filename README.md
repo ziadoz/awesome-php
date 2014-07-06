@@ -374,6 +374,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP AMQP](https://github.com/videlalvaro/php-amqplib) - A pure PHP AMQP library.
 * [Thumper](https://github.com/videlalvaro/Thumper) - A RabbitMQ pattern library.
 * [Bernard](https://github.com/bernardphp/bernard) - A multibackend abstraction library.
+* [GearmanBundle](https://github.com/mmoreram/GearmanBundle) - Gearman bundle for Symfony2 Projects
 
 ## Search
 *Libraries and software for indexing and performing search queries on data.*
