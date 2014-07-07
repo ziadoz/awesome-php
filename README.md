@@ -81,6 +81,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
 * [Laravel 4](http://laravel.com/) - A simple PHP framework.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
+* [PPI Framework 2](http://www.ppi.io) - The PHP Interoperability Framework
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
 
 ## Framework Extras
