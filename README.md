@@ -607,6 +607,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html) - A guide to PHP security.
 * [PHP Internals](http://www.phpinternalsbook.com/) - A book about the PHP internals.
 * [PHP FIG](http://www.php-fig.org/) - The PHP Framework Interoperability Group.
+* [PHP.ug](http://php.ug) - See where the next PHP-Usergroup is located.
 * [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
 * [WebSec IO](http://websec.io/) - A web security community resource.
 * [Web Advent](http://webadvent.org) - An advent calendar for web developers.
