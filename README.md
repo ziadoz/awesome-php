@@ -467,6 +467,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 * [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
 * [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
+* [PHP-Rocker](https://github.com/victorjonsson/PHP-Rocker) - Boilerplate that helps you write REST-ful web services on top of Slim framework.
 
 ## Caching
 *Libraries for caching data.*
