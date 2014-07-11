@@ -62,6 +62,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - A package and dependency manager.
 * [Composer Installers](https://github.com/composer/installers) - A  multi framework Composer library installer.
+* [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
 
 ## Package Management Extras
 *Extras related to package management.*
