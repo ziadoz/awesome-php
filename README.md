@@ -229,6 +229,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Sami](https://github.com/fabpot/Sami) - An API documentation generator.
 * [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
 * [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor2) - A documentation generator.
+* [phpDox](http://phpdox.de/) - A documentation generator for PHP projects (that is not limited to API documentation).
 
 ## Security
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
