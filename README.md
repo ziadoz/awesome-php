@@ -23,6 +23,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Security](#security)
 	- [Code Analysis](#code-analysis)
 	- [Build Tools](#build-tools)
+	- [Task Runners](#task-runners)
 	- [Asset Management](#asset-management)
 	- [Geolocation](#geolocation)
 	- [Date and Time](#date-and-time)
@@ -71,6 +72,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Version](https://github.com/herrera-io/php-version) - A parsing and comparison library for semantic versioning.
 * [NameSpacer](https://github.com/ralphschindler/Namespacer) - A library to convert from underscores to namespaces.
 * [Patch Installer](https://github.com/goatherd/patch-installer) - A library to install patches using Composer.
+* [Composer Checker](https://github.com/silpion/composer-checker) - A tool to validate Composer configurations.
 
 ## Frameworks
 *Web development frameworks.*
@@ -216,6 +218,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Mink](http://mink.behat.org/) - Web acceptance testing.
 * [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
 * [VFS Stream](https://github.com/mikey179/vfsStream) - A virtual filesystem stream wrapper for testing.
+* [VFS](https://github.com/adlawson/vfs.php) - Another virtual filesystem for testing.
 * [Locust](http://locust.io/) - A modern load test library written in Python.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 * [PHPCI](http://www.phptesting.org/) - An open source continuous integration platform for PHP.
@@ -271,6 +274,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHPDBG](http://phpdbg.com/) - An interactive PHP debugger.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
+* [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
+* [xHprof](https://github.com/phacility/xhprof) - Another profiling tool for PHP.
 
 ## Build Tools
 *Project build and automation tools.*
@@ -280,7 +285,12 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Phake](https://github.com/jaz303/phake) - A rake PHP clone library.
 * [Box](https://github.com/kherge/Box) - A utility to build PHAR files.
 * [Phing](http://www.phing.info/) - A PHP project build system inspired by Apache Ant.
+
+## Task Runners
+*Libraries for automating and running tasks.*
 * [Task](http://taskphp.github.io/) - A pure PHP task runner inspired by Grunt and Gulp.
+* [Robo](https://github.com/Codegyre/Robo) - A PHP Task runner with object-orientated configurations.
+* [Bldr](http://bldr.io/) - A PHP Task runner built on Symfony components.
 
 ## Asset Management
 *Tools for managing, compressing and minifying website assets.*
@@ -328,7 +338,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [OmniPay](https://github.com/adrianmacneil/omnipay) - A framework agnostic multi-gateway payment processing library.
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
-* [Sylius](http://www.sylius.com/) - An open source e-commerce solution.
+* [Sylius](http://www.sylius.org/) - An open source e-commerce solution.
 * [Thelia](http://thelia.net/v2/) - Another open source e-commerce solution.
 * [Money](https://github.com/mathiasverraes/money) - A PHP implementation of Fowler's money pattern.
 * [Sebastian Money](https://github.com/sebastianbergmann/money) - Another library for working with monetary values.
@@ -357,6 +367,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Migrations](https://github.com/icomefromthenet/Migrations) - A migration management library.
 * [PHPMig](https://github.com/davedevelopment/phpmig) - Another migration management library.
 * [Phinx](https://github.com/robmorgan/phinx) - Another database migration library.
+* [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
 
 ## NoSQL
 *Libraries for working with "NoSQL" backends.*
@@ -415,7 +426,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Dflydev Markdown](https://github.com/dflydev/dflydev-markdown) - Another Markdown parser.
 * [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
 * [Ciconia](https://github.com/kzykhys/Ciconia) - Another Markdown parser that supports Github flavoured Markdown.
-* [Markdown](https://github.com/cebe/markdown) - An extensible Markdown parser.
+* [Cebe Markdown](https://github.com/cebe/markdown) - An fast and extensible Markdown parser.
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
 
 ## Text and Numbers
@@ -435,7 +446,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
-* [Byte](https://github.com/jschaedl/Byte) - A simple byte conversion library.
+* [ByteUnits](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
 * [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
 
@@ -461,6 +472,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ## Caching
 *Libraries for caching data.*
 
+* [Alternative PHP Cache (APC)](http://www.php.net/manual/en/book.apc.php) - Open opcode cache for PHP.
 * [Cache](https://github.com/doctrine/cache) - A caching library (part of Doctrine).
 * [Stash](https://github.com/tedivm/Stash) - Another library for caching.
 
@@ -525,7 +537,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Compose](https://github.com/igorw/compose) - A function composition library.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
 * [Jumper](https://github.com/kakawait/Jumper) - A remote service executor library.
-* [Underscore](http://brianhaveri.github.io/Underscore.php/) - A PHP port of the Underscore JS library.
+* [Underscore](http://anahkiasen.github.io/underscore-php/) - A PHP port of the Underscore JS library.
 * [PHP PassBook](https://github.com/eymengunay/php-passbook) - A PHP library for iOS PassBook.
 * [PHP Expression](https://github.com/Kitano/php-expression) - A PHP expression language.
 * [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
@@ -596,12 +608,14 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html) - A guide to PHP security.
 * [PHP Internals](http://www.phpinternalsbook.com/) - A book about the PHP internals.
 * [PHP FIG](http://www.php-fig.org/) - The PHP Framework Interoperability Group.
+* [PHP UG](http://php.ug) - A website to help people locate their nearest PHP user group (UG).
 * [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
 * [WebSec IO](http://websec.io/) - A web security community resource.
 * [Web Advent](http://webadvent.org) - An advent calendar for web developers.
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US) - A website of shared knowledge for the open web.
 * [HTML5Rocks](http://www.html5rocks.com) - A resource for open web HTML5 developers.
 * [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
+* [Seven PHP](http://7php.com/) - A website that interviews members of the PHP community.
 
 ## Books
 *Fantastic books and e-books.*
@@ -650,6 +664,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *Reading materials related to the PHP internals or performance.*
 
 * [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (Request for Comments).
+* [PHP Internals Book](http://www.phpinternalsbook.com) - An online book about PHP internals, written by three core developers.
 * [Print vs Echo, Which One is Faster?](http://fabien.potencier.org/article/8/print-vs-echo-which-one-is-faster) - An article about print and echo performance.
 * [The PHP Ternary Operator. Fast or Not?](http://fabien.potencier.org/article/48/the-php-ternary-operator-fast-or-not) - An article ternary performance.
 * [Disproving the Single Quotes Myth](http://nikic.github.com/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - An article about performance of single and double quoted strings.
