@@ -601,14 +601,13 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 # Resources
 Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
 
-## Websites
+## PHP Websites
 *Useful web and PHP-related websites and newsletters.*
 
 * [PHP The Right Way](http://www.phptherightway.com/) - A PHP best practice quick reference guide.
 * [PHP Best Practices](http://phpbestpractices.org/) - A PHP best practice guide.
 * [PHP Weekly](http://phpweekly.info/archive/) - A weekly PHP newsletter.
 * [PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html) - A guide to PHP security.
-* [PHP Internals](http://www.phpinternalsbook.com/) - A book about the PHP internals.
 * [PHP FIG](http://www.php-fig.org/) - The PHP Framework Interoperability Group.
 * [PHP UG](http://php.ug) - A website to help people locate their nearest PHP user group (UG).
 * [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
