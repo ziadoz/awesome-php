@@ -185,6 +185,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Orno Di](https://github.com/orno/di) - Another flexible dependency injection container.
 * [PHP DI](http://mnapoli.github.com/PHP-DI/) - A dependency injection implementation using annotations.
 * [Acclimate](https://github.com/jeremeamia/acclimate) - A common interface to dependency injection containers and service locators.
+* [Symfony DI Container](http://symfony.com/doc/current/components/dependency_injection/introduction.html) - The Dependency Injection Container of the Symfony Framework.
 
 ## Imagery
 *Libraries for manipulating images.*
