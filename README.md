@@ -47,8 +47,11 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Deployment](#deployment)
 	- [Third Party APIs](#third-party-apis)
 	- [Miscellaneous](#miscellaneous)
-	- [Development Software](#development-software)
-	- [Web Tools](#web-tools)
+- [Software](#software)
+	- [PHP Installation](#php-installation)
+	- [Development Environment](#development-environment)
+	- [Virtual Machines](#virtual-machines)
+	- [Web Applications](#web-applications)
 - [Resources](#resources)
 	- [Websites](#websites)
 	- [Books](#books)
@@ -566,32 +569,38 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 * [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - A library for playing with the Raspberry PI's GPIO pins.
 
-## Development Software
+# Software
 *Software for creating a development environment.*
+
+## PHP Installation
+*Tools to help install and manage PHP on your computer.*
 
 * [HomeBrew](http://mxcl.github.com/homebrew/) - A package manager for OSX.
 * [HomeBrew PHP](https://github.com/josegonzalez/homebrew-php) - A PHP tap for HomeBrew.
 * [PHP OSX](http://php-osx.liip.ch/) - A PHP installer for OSX.
-* [HipHop PHP](https://github.com/facebook/hiphop-php) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
-* [Vagrant](http://www.vagrantup.com/) - A portable development environment utility.
-* [Ansible](http://www.ansibleworks.com/) - A radically simple orchestration framework.
-* [Puppet](http://puppetlabs.com/) - A server automation framework and application.
-* [Chef](https://github.com/opscode/chef) - A systems integration framework.
-* [SaltStack](http://saltstack.com/community.html) - An infrastructure management tool.
 * [PHP Brew](https://github.com/c9s/phpbrew) - A PHP version manager and installer.
 * [PHP Env](https://github.com/CHH/phpenv) - Another PHP version manager.
 * [PHP Switch](https://github.com/jubianchi/phpswitch) - Another version manager.
 * [PHP Build](https://github.com/CHH/php-build) - Another PHP version installer.
-* [CodeKit](http://incident57.com/codekit/) - A general web development tool.
-* [HTTPie](https://github.com/jkbr/httpie) - A command line alternative to cURL written in Python.
-* [Backup](https://github.com/meskyanichi/backup) - A server backup tool written in Ruby.
 
-## Web Tools
-*Web-based tools.*
+## Development Environment
+*Software and tools for creating a sandboxed development environment.*
 
+* [Vagrant](http://www.vagrantup.com/) - A portable development environment utility.
+* [Ansible](http://www.ansibleworks.com/) - A radically simple orchestration framework.
+* [Puppet](http://puppetlabs.com/) - A server automation framework and application.
 * [PuPHPet](https://puphpet.com/) - A web tool for building PHP development virtual machines.
 * [Protobox](http://getprotobox.com/) - Another web tool for building PHP development virtual machines.
 * [Phansible](http://phansible.com/) - A web tool for building PHP development virtual machines with Ansible.
+
+## Virtual Machines
+*Alternative PHP virtual machines.*
+
+* [HipHop PHP](https://github.com/facebook/hiphop-php) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
+
+## Web Applications
+*Web-based applications and tools.*
+
 * [3V4L](http://3v4l.org/) - An online PHP shell.
 * [DBV](http://dbv.vizuina.com/) - A database version control application.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
