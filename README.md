@@ -53,9 +53,10 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Virtual Machines](#virtual-machines)
 	- [Web Applications](#web-applications)
 - [Resources](#resources)
-	- [Websites](#websites)
-	- [Books](#books)
-	- [Web Reading](#web-reading)
+	- [PHP Websites](#php-websites)
+	- [Other Websites](#other-websites)
+	- [PHP Books](#php-books)
+	- [Other Books](#other-books)
 	- [PHP Reading](#php-reading)
 	- [PHP Internals Reading](#php-internals-reading)
 - [Contributing](#contributing)
@@ -611,7 +612,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
 
 ## PHP Websites
-*Useful web and PHP-related websites and newsletters.*
+*Useful PHP-related websites.*
 
 * [PHP The Right Way](http://www.phptherightway.com/) - A PHP best practice quick reference guide.
 * [PHP Best Practices](http://phpbestpractices.org/) - A PHP best practice guide.
@@ -619,38 +620,33 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html) - A guide to PHP security.
 * [PHP FIG](http://www.php-fig.org/) - The PHP Framework Interoperability Group.
 * [PHP UG](http://php.ug) - A website to help people locate their nearest PHP user group (UG).
+* [Seven PHP](http://7php.com/) - A website that interviews members of the PHP community.
+* [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
+
+## Other Websites
+*Useful websites related to web development.*
+
 * [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
 * [WebSec IO](http://websec.io/) - A web security community resource.
 * [Web Advent](http://webadvent.org) - An advent calendar for web developers.
-* [Mozilla Developer Network](https://developer.mozilla.org/en-US) - A website of shared knowledge for the open web.
-* [HTML5Rocks](http://www.html5rocks.com) - A resource for open web HTML5 developers.
-* [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
-* [Seven PHP](http://7php.com/) - A website that interviews members of the PHP community.
+* [Semantic Versioning](http://semver.org/) - A website explaining semantic versioning.
+* [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
+* [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
 
-## Books
-*Fantastic books and e-books.*
+## PHP Books
+*Fantastic PHP-related books.*
 
 * [Scaling PHP Applications](http://www.scalingphpbook.com) - An ebook about scaling PHP applications by Steve Corona.
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
 * [Mastering Object-Orientated PHP](http://www.brandonsavage.net) - A book about object-orientated PHP by Brandon Savage.
 * [Signaling PHP](https://leanpub.com/signalingphp) - A book about catching PCNTL signals in CLI scripts by Cal Evans.
-* [Understanding Computation](http://computationbook.com) - A book about computation theory by Tom Stuart.
+* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - A book about common security terms and practices for PHP by Chris Cornutt.
+
+## Other Books
+*Books related to general computing and web development*
+
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
-* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - An ebook about common security terms and practices for PHP by Chris Cornutt.
-
-## Web Reading
-*General web-development-related reading materials.*
-
-* [OWASP PHP Security Cheat Sheet](https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet) - A PHP security cheatsheet.
-* [C is for Cookie, H is for Hacker](http://www.troyhunt.com/2013/03/c-is-for-cookie-h-is-for-hacker.html) - An article about cookies and security.
-* [You Blew It Loading Your Login Form Over HTTP](http://www.troyhunt.com/2013/05/your-login-form-posts-to-https-but-you.html) - An article about using HTTPS correctly with login forms.
-* [How HTTPS Secures Your Connection](http://blog.hartleybrody.com/https-certificates/) - An article explaining how TLS/SSL secures your connection.
-* [How to Build a Secure Remember Me Feature](http://www.troyhunt.com/2013/07/how-to-build-and-how-not-to-build.html) - An article on how to build a secure remember me feature.
-* [A Beginners Guide to HTTP Cache Headers](http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/) - An article about HTTP cache headers.
-* Beyond Series [1](http://blog.ircmaxell.com/2013/09/beyond-design-patterns.html) [2](http://blog.ircmaxell.com/2013/11/beyond-inheritance.html) [3](http://blog.ircmaxell.com/2013/11/beyond-object-oriented-programming.html) [4](http://blog.ircmaxell.com/2013/11/beyond-clean-code.html) - A series of articles about programming by Anthony Ferrara.
-* [Semantic Versioning](http://semver.org/) - A website explaining semantic versioning.
-* [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
-* [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
+* [Understanding Computation](http://computationbook.com) - A book about computation theory by Tom Stuart.
 
 ## PHP Reading
 *PHP-releated reading materials.*
