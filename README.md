@@ -285,6 +285,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [xHprof](https://github.com/phacility/xhprof) - Another profiling tool for PHP.
+* [Tracy](https://github.com/nette/tracy) - Simple error detection, logging and time measuring library.
 
 ## Build Tools
 *Project build and automation tools.*
