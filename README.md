@@ -24,6 +24,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Code Analysis](#code-analysis)
 	- [Build Tools](#build-tools)
 	- [Task Runners](#task-runners)
+	- [Navigation](#navigation)
 	- [Asset Management](#asset-management)
 	- [Geolocation](#geolocation)
 	- [Date and Time](#date-and-time)
@@ -177,7 +178,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP File Locator](https://github.com/herrera-io/php-file-locator) - A library for locating files in large projects.
 * [PHP FFmpeg](https://github.com/alchemy-fr/PHP-FFmpeg/) - A wrapper for the [FFmpeg](http://www.ffmpeg.org/) video library.
 * [CSV](https://github.com/nyamsprod/Bakame.csv) - A CSV data manipulation library.
-* [Cartographer](https://github.com/tackk/cartographer) - A sitemap generation library.
 
 ## Streams
 *Libraries for working with streams.*
@@ -299,6 +299,12 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Task](http://taskphp.github.io/) - A pure PHP task runner inspired by Grunt and Gulp.
 * [Robo](https://github.com/Codegyre/Robo) - A PHP Task runner with object-orientated configurations.
 * [Bldr](http://bldr.io/) - A PHP Task runner built on Symfony components.
+
+## Navigation
+*Tools for building navigation structures.*
+
+* [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
+* [Cartographer](https://github.com/tackk/cartographer) - A sitemap generation library.
 
 ## Asset Management
 *Tools for managing, compressing and minifying website assets.*
@@ -535,7 +541,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 * [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) - A library for validating JSONP callbacks.
-* [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 * [LiteCQRS](https://github.com/beberlei/litecqrs-php) - A CQRS (Command Query Responsibility Separation) library.
