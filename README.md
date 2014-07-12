@@ -57,6 +57,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Other Websites](#other-websites)
 	- [PHP Books](#php-books)
 	- [Other Books](#other-books)
+	- [PHP Videos](#php-videos)
 	- [PHP Reading](#php-reading)
 	- [PHP Internals Reading](#php-internals-reading)
 - [Contributing](#contributing)
@@ -621,7 +622,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP FIG](http://www.php-fig.org/) - The PHP Framework Interoperability Group.
 * [PHP UG](http://php.ug) - A website to help people locate their nearest PHP user group (UG).
 * [Seven PHP](http://7php.com/) - A website that interviews members of the PHP community.
-* [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 
 ## Other Websites
 *Useful websites related to web development.*
@@ -647,6 +647,13 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
 * [Understanding Computation](http://computationbook.com) - A book about computation theory by Tom Stuart.
+
+## PHP Videos
+*Fantastic PHP-related videos.*
+
+* [Taking PHP Seriously](http://www.infoq.com/presentations/php-history) - A talk outlining PHP's strengths by Keith Adams of Facebook.
+* [PHP Town Hall](http://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
+* [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 
 ## PHP Reading
 *PHP-releated reading materials.*
