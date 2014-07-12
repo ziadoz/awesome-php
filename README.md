@@ -643,7 +643,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - A book about common security terms and practices for PHP by Chris Cornutt.
 
 ## Other Books
-*Books related to general computing and web development*
+*Books related to general computing and web development.*
 
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
 * [Understanding Computation](http://computationbook.com) - A book about computation theory by Tom Stuart.
