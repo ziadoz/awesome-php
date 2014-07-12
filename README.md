@@ -642,6 +642,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Semantic Versioning](http://semver.org/) - A website explaining semantic versioning.
 * [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
 * [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
+* [Servers for Hackers](http://serversforhackers.com/) - A newsletter about server management.
 
 ## PHP Books
 *Fantastic PHP-related books.*
