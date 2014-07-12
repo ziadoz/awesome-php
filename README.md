@@ -2,8 +2,8 @@
 A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 - [Awesome PHP](#awesome-php)
-	- [Package Management](#package-management)
-	- [Package Management Extras](#package-management-extras)
+	- [Dependency Management](#dependency-management)
+	- [PacDependencykage Management Extras](#dependency-management-extras)
 	- [Frameworks](#frameworks)
 	- [Framework Extras](#framework-extras)
 	- [Framework Components](#framework-components)
@@ -64,15 +64,15 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [PHP Internals Reading](#php-internals-reading)
 - [Contributing](#contributing)
 
-## Package Management
-*Libraries for package and dependency management.*
+## Dependency Management
+*Libraries for dependency and package management.*
 
 * [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - A package and dependency manager.
 * [Composer Installers](https://github.com/composer/installers) - A  multi framework Composer library installer.
 * [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
 
-## Package Management Extras
-*Extras related to package management.*
+## Dependency Management Extras
+*Extras related to dependency management.*
 
 * [Satis](https://github.com/composer/satis) - A static Composer repository generator.
 * [Composition](https://github.com/bamarni/composition) - A library to check your Composer environment at runtime.
