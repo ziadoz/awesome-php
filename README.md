@@ -51,6 +51,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [PHP Installation](#php-installation)
 	- [Development Environment](#development-environment)
 	- [Virtual Machines](#virtual-machines)
+	- [Asset Compression](#asset-compression)
 	- [Web Applications](#web-applications)
 - [Resources](#resources)
 	- [PHP Websites](#php-websites)
@@ -599,6 +600,14 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Alternative PHP virtual machines.*
 
 * [HipHop PHP](https://github.com/facebook/hiphop-php) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
+
+## Asset Compression
+*Softare to help compress static website assets.*
+
+* [Codekit](https://incident57.com/codekit/) - A tool for managing, compressing and minifying assets.
+* [Koala](http://koala-app.com/) - Another tool for compressing and minifying assets.
+* [ImageOptim](http://imageoptim.com/) - An image compression tool.
+* [PNGQuant](http://pngquant.org) - A lossy PNG compression tool.
 
 ## Web Applications
 *Web-based applications and tools.*
