@@ -46,12 +46,12 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Notifications](#notifications)
 	- [Deployment](#deployment)
 	- [Third Party APIs](#third-party-apis)
+	- [Extensions](#extensions)
 	- [Miscellaneous](#miscellaneous)
 - [Software](#software)
 	- [PHP Installation](#php-installation)
 	- [Development Environment](#development-environment)
 	- [Virtual Machines](#virtual-machines)
-	- [Asset Compression](#asset-compression)
 	- [Web Applications](#web-applications)
 - [Resources](#resources)
 	- [PHP Websites](#php-websites)
@@ -522,6 +522,11 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
 * [HybridAuth](https://github.com/hybridauth/hybridauth) - An open source social sign on library.
 
+## Extensions
+*Libraries to help build PHP extensions.*
+
+* [PHP CPP](http://www.php-cpp.com/) - A C++ library for developing PHP extensions.
+
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
 
@@ -585,6 +590,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP Env](https://github.com/CHH/phpenv) - Another PHP version manager.
 * [PHP Switch](https://github.com/jubianchi/phpswitch) - Another version manager.
 * [PHP Build](https://github.com/CHH/php-build) - Another PHP version installer.
+* [VirtPHP](http://virtphp.org/) - A tool for creating and managing isolated PHP environments.
 
 ## Development Environment
 *Software and tools for creating a sandboxed development environment.*
@@ -600,14 +606,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Alternative PHP virtual machines.*
 
 * [HipHop PHP](https://github.com/facebook/hiphop-php) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
-
-## Asset Compression
-*Softare to help compress static website assets.*
-
-* [Codekit](https://incident57.com/codekit/) - A tool for managing, compressing and minifying assets.
-* [Koala](http://koala-app.com/) - Another tool for compressing and minifying assets.
-* [ImageOptim](http://imageoptim.com/) - An image compression tool.
-* [PNGQuant](http://pngquant.org) - A lossy PNG compression tool.
+* [HippyVM](http://hippyvm.com/) - Another PHP virtual machine.
+* [Hack](http://hacklang.org/) - A programming lanaguage for [HHVM](https://github.com/facebook/hiphop-php) that interoperated seamlessly with PHP.
 
 ## Web Applications
 *Web-based applications and tools.*
