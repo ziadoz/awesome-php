@@ -144,9 +144,10 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
 
-* [Guzzle](http://guzzlephp.org/) - A HTTP client.
+* [Guzzle](http://guzzlephp.org/) - A comprehensive HTTP client.
 * [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
 * [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
+* [HTTPFul](https://github.com/nategood/httpful) - A chainable HTTP client.
 * [Goutte](https://github.com/fabpot/Goutte) - A simple web scraper.
 * [PHP VCR](http://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
 
@@ -513,6 +514,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Pomander](https://github.com/tamagokun/pomander) - A deployment tool for PHP applications.
 * [Rocketeer](https://github.com/Anahkiasen/rocketeer) - A fast and easy deployer for the PHP world.
+* [Envoy](https://github.com/laravel/envoy) - An tool to run SSH tasks with PHP.
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
