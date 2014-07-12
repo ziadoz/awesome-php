@@ -3,7 +3,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 - [Awesome PHP](#awesome-php)
 	- [Dependency Management](#dependency-management)
-	- [PacDependencykage Management Extras](#dependency-management-extras)
+	- [Dependency Management Extras](#dependency-management-extras)
 	- [Frameworks](#frameworks)
 	- [Framework Extras](#framework-extras)
 	- [Framework Components](#framework-components)
