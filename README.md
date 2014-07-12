@@ -421,10 +421,12 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Sentry Social](http://docs.cartalyst.com/sentry-social-2/introduction) - A library for social network authentication.
 * [OPAuth](https://github.com/opauth/opauth) - A multi-provider authentication framework.
 * [OAuth2](https://github.com/php-loep/oauth2-server) - An OAuth2 authentication server, resource server and client library.
+* [OAuth2 Server](http://bshaffer.github.io/oauth2-server-php-docs/) - Another OAuth2 server implementation.
 * [PHP oAuthLib](https://github.com/Lusitanian/PHPoAuthLib) - Another OAuth library.
 * [TwitterOAuth](https://github.com/ruudk/twitteroauth) - A Twitter OAuth library.
 * [TwitterSDK](https://github.com/lyrixx/twitter-sdk) - A fully tested Twitter SDK.
 * [Hawk](https://github.com/dflydev/dflydev-hawk) - A Hawk HTTP authentication library.
+* [HybridAuth](https://github.com/hybridauth/hybridauth) - An open source social sign on library.
 
 ## Markup
 *Libraries for working with markup.*
@@ -520,7 +522,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Twitter REST](https://github.com/widop/twitter-rest) - A library to interact with Twitter's REST API.
 * [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.
 * [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
-* [HybridAuth](https://github.com/hybridauth/hybridauth) - An open source social sign on library.
+* [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
 
 ## Extensions
 *Libraries to help build PHP extensions.*
