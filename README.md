@@ -19,6 +19,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Dependency Injection](#dependency-injection)
 	- [Imagery](#imagery)
 	- [Testing](#testing)
+	- [Continuous Integration](#continuous-integration)
 	- [Documentation](#documentation)
 	- [Security](#security)
 	- [Code Analysis](#code-analysis)
