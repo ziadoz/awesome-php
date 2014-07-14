@@ -231,7 +231,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Locust](http://locust.io/) - A modern load test library written in Python.
 
 ## Continuous Integration
-*Application for Continuous Integration.*
+*Applications for Continuous Integration.*
 
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 * [PHPCI](http://www.phptesting.org/) - An open source continuous integration platform for PHP.
