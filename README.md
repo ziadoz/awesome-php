@@ -616,7 +616,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [HipHop PHP](https://github.com/facebook/hiphop-php) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 * [HippyVM](http://hippyvm.com/) - Another PHP virtual machine.
-* [Hack](http://hacklang.org/) - A programming lanaguage for [HHVM](https://github.com/facebook/hiphop-php) that interoperated seamlessly with PHP.
+* [Hack](http://hacklang.org/) - A programming lanaguage for [HHVM](https://github.com/facebook/hiphop-php) that interoperates seamlessly with PHP.
 
 ## Web Applications
 *Web-based applications and tools.*
