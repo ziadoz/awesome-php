@@ -256,7 +256,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP IDS](https://github.com/PHPIDS/PHPIDS) - A structured PHP security layer.
 * [PHP SSH](https://github.com/Herzult/php-ssh) - An experimental object orientated SSH wrapper library.
 * [IniScan](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
-* [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependecies for security advisories.
+* [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependencies for security advisories.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
 
 ## Code Analysis
@@ -449,7 +449,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ## Text and Numbers
 *Libraries for parsing and manipulating text and numbers.*
 
-* [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 convertor library.
+* [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
 * [Hoa String](https://github.com/hoaproject/String) - Another UTF-8 string library.
 * [Stringy](https://github.com/danielstjules/Stringy) - A string manipulation library with multibyte support.
@@ -581,7 +581,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHPStack](http://dunkels.com/adam/phpstack/) - A TCP/IP stack proof of concept written in PHP.
 * [Nmap](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](http://nmap.org/).
 * [Code Mover](https://github.com/dantleech/code-mover) - A library for moving code.
-* [Iter](https://github.com/nikic/iter) - A library that provides iteration primatives using generators.
+* [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
 * [Lambda PHP](https://github.com/igorw/lambda-php) - A Lambda calculus interpreter in PHP.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 * [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - A library for playing with the Raspberry PI's GPIO pins.
@@ -616,7 +616,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [HipHop PHP](https://github.com/facebook/hiphop-php) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 * [HippyVM](http://hippyvm.com/) - Another PHP virtual machine.
-* [Hack](http://hacklang.org/) - A programming lanaguage for [HHVM](https://github.com/facebook/hiphop-php) that interoperates seamlessly with PHP.
+* [Hack](http://hacklang.org/) - A programming language for [HHVM](https://github.com/facebook/hiphop-php) that interoperates seamlessly with PHP.
 
 ## Web Applications
 *Web-based applications and tools.*
