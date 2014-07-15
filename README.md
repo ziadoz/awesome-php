@@ -134,6 +134,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
+* [Latte](https://github.com/nette/latte) - Secure, fast and customizable template engine with Context-Aware escaping.
 
 ## Static Site Generators
 *Tools for pre-processing content to generate web pages.*
