@@ -218,7 +218,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Mockery](https://github.com/padraic/mockery) - A mock object library for testing.
 * [Phake](https://github.com/mlively/Phake) - Another mock object library for testing.
 * [Parody](https://github.com/dotink/Parody) - Yet another mock object library for testing.
-* [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
 * [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
 * [Samsui](https://github.com/mauris/samsui) - Another fake data generator library.
 * [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
@@ -231,10 +230,11 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Locust](http://locust.io/) - A modern load test library written in Python.
 
 ## Continuous Integration
-*Applications for Continuous Integration.*
+*Libraries and applications for continuous integration.*
 
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 * [PHPCI](http://www.phptesting.org/) - An open source continuous integration platform for PHP.
+* [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
 
 ## Documentation
 *Libraries for generating project documentation.*
