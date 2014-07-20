@@ -352,6 +352,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
 * [KLogger](https://github.com/katzgrau/KLogger) - An easy-to-use PSR-3 compliant logging class.
+* [Pilog](https://github.com/svile/pilog) - A simple PHP logging system which is PSR-3 and PSR-4 compliable.
 
 ## E-commerce
 *Libraries and applications for taking payments and building online e-commerce stores.*
