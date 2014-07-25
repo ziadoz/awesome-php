@@ -33,6 +33,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Logging](#logging)
 	- [E-commerce](#e-commerce)
 	- [PDF](#pdf)
+	- [Excel](#excel)
 	- [ORM and Datamapping](#orm-and-datamapping)
 	- [NoSQL](#nosql)
 	- [Queue](#queue)
@@ -369,6 +370,12 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 * [WKHTMLToPDF](https://github.com/antialize/wkhtmltopdf) - A tool to convert HTML to PDF.
+
+## Excel
+*Libraries and software for working with Excel files.*
+
+* [ExcelAnt](https://github.com/Wisembly/ExcelAnt) - An easy way to build Excel files provided with an adapter using PHPExcel.
+* [PHPExcel](https://github.com/PHPOffice/PHPExcel) - Create spreadsheet documents in PHP - Spreadsheet engine.
 
 ## ORM and Datamapping
 *Libraries that implement object-relational mapping or datamapping techniques.*
