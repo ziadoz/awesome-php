@@ -536,6 +536,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.
 * [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
 * [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
+* [Intercom](https://github.com/Wisembly/intercom-php) A library to interact with the lasted version of Intercom API.
 
 ## Extensions
 *Libraries to help build PHP extensions.*
