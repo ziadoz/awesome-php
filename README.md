@@ -47,6 +47,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Data Structure and Storage](#data-structure-and-storage)
 	- [Notifications](#notifications)
 	- [Deployment](#deployment)
+	- [I18n](#i18n)
 	- [Third Party APIs](#third-party-apis)
 	- [Extensions](#extensions)
 	- [Miscellaneous](#miscellaneous)
@@ -520,6 +521,11 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Pomander](https://github.com/tamagokun/pomander) - A deployment tool for PHP applications.
 * [Rocketeer](https://github.com/Anahkiasen/rocketeer) - A fast and easy deployer for the PHP world.
 * [Envoy](https://github.com/laravel/envoy) - A tool to run SSH tasks with PHP.
+
+## I18n
+* Libraries for I18n (Internationalization) and L10n (Localization)*
+
+* [Aura.Intl](https://github.com/auraphp/Aura.Intl)
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
