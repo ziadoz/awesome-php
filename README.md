@@ -91,6 +91,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Laravel 4](http://laravel.com/) - A simple PHP framework.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+* [CakePHP](http://cakephp.org) - Another framework comprised of individual components.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
@@ -105,6 +106,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make ZF2.
 * [Aura Components](http://auraphp.github.com/) - A package of PHP 5.4 components.
 * [Hoa Project](http://hoa-project.net/En/) - Another package of PHP components.
+* [CakePHP](http://book.cakephp.org/2.0/en/getting-started.html) - Another framework comprised of individual components.
 
 ## Micro Frameworks
 *Micro frameworks and routers.*
@@ -369,6 +371,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 * [WKHTMLToPDF](https://github.com/antialize/wkhtmltopdf) - A tool to convert HTML to PDF.
+* [HTML2PDF](http://html2pdf.fr/en/example) - Another tool to convert HTML to PDF.
 
 ## ORM and Datamapping
 *Libraries that implement object-relational mapping or datamapping techniques.*
@@ -594,6 +597,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 # Software
 *Software for creating a development environment.*
 
+* [SublimeText2](http://www.sublimetext.com/) - A simple editor to create  website.
+
 ## PHP Installation
 *Tools to help install and manage PHP on your computer.*
 
@@ -605,6 +610,9 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP Switch](https://github.com/jubianchi/phpswitch) - Another version manager.
 * [PHP Build](https://github.com/CHH/php-build) - Another PHP version installer.
 * [VirtPHP](http://virtphp.org/) - A tool for creating and managing isolated PHP environments.
+* [WAMPServer](http://www.wampserver.com/) - A Apache, Mysql, PHP manager.
+* [EasyPHP](http://www.easyphp.org/) - A Apache, Mysql, PHP manager.
+* [LAMP](http://doc.ubuntu-fr.org/lamp) - A Linux Apache, Mysql, PHP manager
 
 ## Development Environment
 *Software and tools for creating a sandboxed development environment.*
@@ -683,6 +691,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Taking PHP Seriously](http://www.infoq.com/presentations/php-history) - A talk outlining PHP's strengths by Keith Adams of Facebook.
 * [PHP Town Hall](http://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 * [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
+* [Grafikart](http://www.grafikart.fr/) - A Video series of Framework, PHP in French by Jonathan Boyer.
 
 ## PHP Reading
 *PHP-releated reading materials.*
