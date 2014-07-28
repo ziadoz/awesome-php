@@ -85,7 +85,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## Frameworks
 *Web development frameworks.*
-
+* [Yii](http://www.yiiframework.com/) - A high performance, component-based PHP framework.
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
 * [Laravel 4](http://laravel.com/) - A simple PHP framework.
