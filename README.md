@@ -91,6 +91,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Laravel 4](http://laravel.com/) - A simple PHP framework.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+* [Yii 2](https://github.com/yiisoft/yii2) - modern PHP framework designed for professional Web development.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
