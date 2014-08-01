@@ -535,7 +535,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Twitter REST](https://github.com/widop/twitter-rest) - A library to interact with Twitter's REST API.
 * [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.
 * [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
-* [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
+* [Mailgun](https://github.com/mailgun/mailgun-php) - The official Mailgun PHP API.
+* [Asana](https://github.com/ajimix/asana-api-php-class) - A library to interface with the Asana API.
 
 ## Extensions
 *Libraries to help build PHP extensions.*
