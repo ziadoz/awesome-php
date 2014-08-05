@@ -3,7 +3,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 * Please search previous suggestions before making a new one, as yours may be a duplicate.
 * Libraries that are PHP 5.3+, Composer-installable, PSR compliant, tested and documented are preferred.
-* Please make an individual pull request for each suggestion.
+* Please make an individual commit for each suggestion in a pull request.
 * Use the following format for libraries: \[LIBRARY\]\(LINK\) - DESCRIPTION.
 * Prefix duplicate library names with their vendor or namespace followed by a space: Foo\Bar would be Foo Bar.
 * New categories, or improvements to the existing categorisation are welcome.
