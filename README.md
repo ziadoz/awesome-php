@@ -88,6 +88,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
+* [Nette Framework](http://www.nette.org/) - Another framework comprised of individual components.
 * [Laravel 4](http://laravel.com/) - A simple PHP framework.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
@@ -135,6 +136,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
+* [Latte](http://http://latte.nette.org/) - A comprehensive templating language; formerly part of Nette Framework.
 
 ## Static Site Generators
 *Tools for pre-processing content to generate web pages.*
@@ -212,6 +214,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
 * [DBUnit](https://github.com/sebastianbergmann/dbunit) - A database testing library for PHPUnit.
 * [ParaTest](https://github.com/brianium/paratest) - A parallel testing library for PHPUnit.
+* [Nette Tester](http://tester.nette.org/) - Alternative unit testing framework; formerly part of Nette Framework.
 * [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
 * [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
 * [Atoum](https://github.com/atoum/atoum) - A simple testing library.
@@ -283,6 +286,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Athletic](https://github.com/polyfractal/athletic) - An annotation based benchmark framework.
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
+* [Tracy](http://tracy.nette.org/) - Another debugging toolbar; formerly part of Nette Framework.
 * [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
 * [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
 * [PHPDBG](http://phpdbg.com/) - An interactive PHP debugger.
@@ -352,6 +356,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
 * [KLogger](https://github.com/katzgrau/KLogger) - An easy-to-use PSR-3 compliant logging class.
+* [Apache Log4PHP](http://logging.apache.org/log4php/) - Well-known PHP port of Log4J, the comprehensive Java logging library from Apache.
 
 ## E-commerce
 *Libraries and applications for taking payments and building online e-commerce stores.*
