@@ -482,6 +482,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [DMS Filter](https://github.com/rdohms/DMS-Filter) - An annotation filtering library.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating various ISO and ZIP codes (IBAN, SWIFT/BIC, BBAN, VAT, SSN, UKNIN).
+* [Checker](https://github.com/wapmorgan/Checker) - A simple checker for function argument types.
 
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
