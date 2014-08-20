@@ -483,7 +483,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating various ISO and ZIP codes (IBAN, SWIFT/BIC, BBAN, VAT, SSN, UKNIN).
 * [Checker](https://github.com/wapmorgan/Checker) - A simple checker for function argument types.
-* [Asserter](https://github.com/wapmorgan/Asserter) - Another checkr, but for function results.
+* [Asserter](https://github.com/wapmorgan/Asserter) - Another checker, but for function results.
 
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*
