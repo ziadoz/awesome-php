@@ -520,6 +520,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Pomander](https://github.com/tamagokun/pomander) - A deployment tool for PHP applications.
 * [Rocketeer](https://github.com/Anahkiasen/rocketeer) - A fast and easy deployer for the PHP world.
 * [Envoy](https://github.com/laravel/envoy) - A tool to run SSH tasks with PHP.
+* [Plum](https://github.com/aerialls/Plum) - A deployer library.
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
@@ -559,7 +560,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
 * [Finite](http://yohan.giarel.li/Finite) - A simple PHP finite state machine.
 * [LadyBug](https://github.com/raulfraile/Ladybug) - A dumper library.
-* [Plum](https://github.com/aerialls/Plum) - A deployer library.
 * [Procrastinator](https://github.com/lstrojny/Procrastinator) - A library for running time consuming tasks.
 * [Compose](https://github.com/igorw/compose) - A function composition library.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
