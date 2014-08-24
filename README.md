@@ -490,6 +490,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 * [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
 * [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
+* [Restler](https://github.com/Luracast/Restler) - A light weight framework to expose PHP methods as Restful/Pragmatic Web API.
 
 ## Caching
 *Libraries for caching data.*
