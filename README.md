@@ -9,6 +9,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Framework Components](#framework-components)
 	- [Micro Frameworks](#micro-frameworks)
 	- [Micro Framework Extras](#micro-framework-extras)
+	- [Object-oriented PHP](#object-oriented-php)
 	- [Templating](#templating)
 	- [Static Site Generators](#static-site-generators)
 	- [HTTP](#http)
@@ -124,6 +125,10 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Slim Skeleton](https://github.com/codeguy/Slim-Skeleton) - A skeleton for Slim.
 * [Slim View](https://github.com/codeguy/Slim-Views) - A collection of custom views for Slim.
 * [Slim Middleware](https://github.com/codeguy/Slim-Middleware) - A collection of custom middleware for Slim.
+
+## Object-oriented PHP
+
+* [Phred](https://github.com/nazariyg/Phred) - An extension that transforms PHP into a consistent, fully object-oriented coding standard with Unicode support.
 
 ## Templating
 *Libraries and tools for templating and lexing.*
