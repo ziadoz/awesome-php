@@ -346,6 +346,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Hoa EventSource](https://github.com/hoaproject/Eventsource) - An event source library.
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [FuelPHP Event](https://github.com/fuelphp/event) - Another event dispatcher library.
+* [Event Manager](https://github.com/phpextra/event-manager) - Another event dispatcher library.
 
 ## Logging
 *Libraries for generating and working with log files.*
@@ -506,6 +507,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 * [PHP Object Storage](https://github.com/herrera-io/php-object-storage) - A library for object storage.
 * [Fractal](https://github.com/php-loep/fractal) - A library for converting complex data structures to JSON output.
+* [Sorter](https://github.com/phpextra/sorter) - A library for sorting complex data structures.
 
 ## Notifications
 *Libraries for working with notification software.*
