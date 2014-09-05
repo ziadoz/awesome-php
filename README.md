@@ -599,7 +599,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ## Integrated Development Environment
 *List of PHP IDEs.*
 
-* [Netbeans](https://netbeans.org) - IDE for Java, but also with other languagesm support PHP and HTML5.
+* [Netbeans](https://netbeans.org) - IDE for Java, but also with other languages, support PHP and HTML5.
 * [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - PHP IDE based on the Eclipse platform.
 * [PhpStorm](http://www.jetbrains.com/phpstorm/) - commercial IDE.
 
