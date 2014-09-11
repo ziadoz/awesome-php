@@ -445,6 +445,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Decoda](http://milesj.me/code/php/decoda) - A lightweight markup parser library.
 * [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
+* [CommonMark PHP](https://github.com/colinodell/commonmark-php) - A Markdown parser which supports the full [CommonMark spec](https://jgm.github.io/stmd/spec.html).
 * [Dflydev Markdown](https://github.com/dflydev/dflydev-markdown) - Another Markdown parser.
 * [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
 * [Ciconia](https://github.com/kzykhys/Ciconia) - Another Markdown parser that supports Github flavoured Markdown.
