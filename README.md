@@ -180,6 +180,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP File Locator](https://github.com/herrera-io/php-file-locator) - A library for locating files in large projects.
 * [PHP FFmpeg](https://github.com/alchemy-fr/PHP-FFmpeg/) - A wrapper for the [FFmpeg](http://www.ffmpeg.org/) video library.
 * [CSV](https://github.com/nyamsprod/Bakame.csv) - A CSV data manipulation library.
+* [Mpeg Audio Data Extractor](https://github.com/wapmorgan/Mpeg-Audio-Data-Extractor) - A library for extracting audio meta information from file.
 
 ## Streams
 *Libraries for working with streams.*
