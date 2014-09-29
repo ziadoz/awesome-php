@@ -509,7 +509,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 * [LiteCQRS](https://github.com/beberlei/litecqrs-php) - A CQRS (Command Query Responsibility Separation) library.
 * [Sslurp](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL suck less.
-* [PHP Option](https://github.com/schmittjoh/php-option) An option type library.
+* [PHP Option](https://github.com/schmittjoh/php-option) - An option type library.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [Sabre VObject](https://github.com/evert/sabre-vobject) - A library for parsing VCard and iCalendar objects.
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
@@ -559,7 +559,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Ansible](http://www.ansibleworks.com/) - A radically simple orchestration framework.
 * [Puppet](http://puppetlabs.com/) - A server automation framework and application.
 * [Chef](https://github.com/opscode/chef) - A systems integration framework.
-* [SaltStack](http://saltstack.com/community.html) - An infrastructure management tool.
+* [SaltStack](http://www.saltstack.com/) - An infrastructure management tool.
 * [PHP Brew](https://github.com/c9s/phpbrew) - A PHP version manager and installer.
 * [PHP Env](https://github.com/CHH/phpenv) - Another PHP version manager.
 * [PHP Switch](https://github.com/jubianchi/phpswitch) - Another version manager.
@@ -630,7 +630,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Preventing CSRF Attacks](http://blog.ircmaxell.com/2013/02/preventing-csrf-attacks.html) - An article on preventing CSRF attacks.
 * [Don't Worry About BREACH](http://blog.ircmaxell.com/2013/08/dont-worry-about-breach.html) - An article about the BREACH hack and CSRF tokens.
 * [On PHP 5.3, Lamda Functions and Closures](http://fabien.potencier.org/article/17/on-php-5-3-lambda-functions-and-closures) - An article about lambda functions and closures.
-* [Use Env](http://seancoates.com/blogs/use-env) - An article about using the unix environment helper.
 * [Composer Primer](http://daylerees.com/composer-primer) - A Composer primer.
 * [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html) - An article about Composer versioning.
 * [Composer Stability Flags](https://igor.io/2013/02/07/composer-stability-flags.html) - An article about Composer stability flags.
