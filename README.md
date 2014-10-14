@@ -91,6 +91,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Laravel 4](http://laravel.com/) - A simple PHP framework.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+* [FuelPHP](http://www.fuelphp.com/) - A simple, flexible, community driven PHP 5.3+ framework, based on the best ideas of other frameworks, with a fresh start!
 
 ## Framework Extras
 *Extras related to web development frameworks.*
