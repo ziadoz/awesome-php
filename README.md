@@ -92,6 +92,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
 * [FuelPHP](http://www.fuelphp.com/) - A simple, flexible, community driven PHP 5.3+ framework, based on the best ideas of other frameworks, with a fresh start!
+* [Kohana](http://kohanaframework.org/) - An elegant HMVC PHP5 framework that provides a rich set of components for building web applications.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
