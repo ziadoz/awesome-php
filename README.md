@@ -93,6 +93,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
 * [FuelPHP](http://www.fuelphp.com/) - A simple, flexible, community driven PHP 5.3+ framework, based on the best ideas of other frameworks, with a fresh start!
 * [Kohana](http://kohanaframework.org/) - An elegant HMVC PHP5 framework that provides a rich set of components for building web applications.
+* [PRADO](http://www.pradosoft.com/) - A component-based and event-driven programming framework for developing Web applications in PHP 5.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
