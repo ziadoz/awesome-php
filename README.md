@@ -115,6 +115,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
+* [PHP Router](https://github.com/dannyvankooten/PHP-Router) - A simple Rails inspired PHP router class.
+* [Toro](https://github.com/anandkunal/ToroPHP) - Toro is a PHP router for developing RESTful web applications and APIs.
 
 ## Micro Framework Extras
 *Extras related to micro frameworks and routers.*
