@@ -591,6 +591,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Lambda PHP](https://github.com/igorw/lambda-php) - A Lambda calculus interpreter in PHP.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 * [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - A library for playing with the Raspberry PI's GPIO pins.
+* [Flexible PHP Pagination](https://github.com/Blaxus/Flexible-PHP-Pagination) - The Flexible PHP pagination class was designed to be the easiest to use PHP Pagination system without losing any customization options.
 
 # Software
 *Software for creating a development environment.*
