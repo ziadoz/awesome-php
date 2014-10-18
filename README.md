@@ -133,6 +133,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Mustache](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
 * [Phly Mustache](https://github.com/weierophinney/phly_mustache) - Another PHP implementation of the Mustache template language.
 * [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
+* [Twital](https://github.com/goetas/twital) - A template engine that combines Twig and PHPTal advantages.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
 
