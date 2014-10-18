@@ -92,6 +92,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Yii2](https://github.com/yiisoft/yii2/) - a high-performance framework.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+* [Yii](http://www.yiiframework.com) - An open source, object-oriented, component-based MVC web application framework.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
