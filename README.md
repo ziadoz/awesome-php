@@ -506,6 +506,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 * [PHP Object Storage](https://github.com/herrera-io/php-object-storage) - A library for object storage.
 * [Fractal](https://github.com/php-loep/fractal) - A library for converting complex data structures to JSON output.
+* [PINQ](https://github.com/TimeToogo/Pinq) - PHP Integrated query, a real Linq library for PHP.
 
 ## Notifications
 *Libraries for working with notification software.*
