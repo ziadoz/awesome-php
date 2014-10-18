@@ -89,6 +89,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
 * [Laravel 4](http://laravel.com/) - A simple PHP framework.
+* [Yii](http://www.yiiframework.com/) - A high-performance component-based PHP framework.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Yii2](https://github.com/yiisoft/yii2/) - a high-performance framework.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
@@ -115,6 +116,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
+* [PHP Router](https://github.com/dannyvankooten/PHP-Router) - A simple Rails inspired PHP router class.
+* [Toro](https://github.com/anandkunal/ToroPHP) - Toro is a PHP router for developing RESTful web applications and APIs.
 
 ## Micro Framework Extras
 *Extras related to micro frameworks and routers.*
@@ -192,6 +195,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
 * [Auryn](https://github.com/rdlowrey/Auryn) - Another dependency injection container.
+* [Aura.Di](https://github.com/auraphp/Aura.Di) - Another simple to use dependency injection container.
 * [Orno Di](https://github.com/orno/di) - Another flexible dependency injection container.
 * [PHP DI](http://mnapoli.github.com/PHP-DI/) - A dependency injection implementation using annotations.
 * [Acclimate](https://github.com/jeremeamia/acclimate) - A common interface to dependency injection containers and service locators.
@@ -237,6 +241,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 * [PHPCI](http://www.phptesting.org/) - An open source continuous integration platform for PHP.
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
+* [Jenkins](http://jenkins-ci.org/) - A continous integration platform with [PHP support](http://jenkins-php.org/index.html).
 
 ## Documentation
 *Libraries for generating project documentation.*
