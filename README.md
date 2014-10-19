@@ -379,7 +379,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Doctrine](http://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
 * [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - A migration library for Doctrine.
 * [Doctrine Extensions](https://github.com/l3pp4rd/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
-* [Propel](http://www.propelorm.org/) - A fast ORM.
+* [Propel](http://www.propelorm.org/) - A fast ORM, migration library and query builder.
 * [Eloquent](https://github.com/illuminate/database) - The Laravel 4 ORM.
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
 * [Spot](https://github.com/vlucas/Spot) - A MySQL datamapper ORM.
