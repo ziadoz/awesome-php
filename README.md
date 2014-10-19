@@ -90,7 +90,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
 * [Laravel 4](http://laravel.com/) - A simple PHP framework.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
-* [Yii2](https://github.com/yiisoft/yii2/) - a high-performance framework.
+* [Yii2](https://github.com/yiisoft/yii2/) - A high-performance framework.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
 
 ## Framework Extras
@@ -493,7 +493,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 * [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
 * [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
-* [Drest](https://github.com/leedavis81/drest) - Quickly and easily expose Doctrine entities as REST resource endpoints.
+* [Drest](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
 
 ## Caching
 *Libraries for caching data.*
@@ -510,7 +510,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 * [PHP Object Storage](https://github.com/herrera-io/php-object-storage) - A library for object storage.
 * [Fractal](https://github.com/php-loep/fractal) - A library for converting complex data structures to JSON output.
-* [PINQ](https://github.com/TimeToogo/Pinq) - PHP Integrated query, a real Linq library for PHP.
+* [PINQ](https://github.com/TimeToogo/Pinq) - A real Linq library for PHP.
 
 ## Notifications
 *Libraries for working with notification software.*
