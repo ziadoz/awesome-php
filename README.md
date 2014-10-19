@@ -596,6 +596,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Lambda PHP](https://github.com/igorw/lambda-php) - A Lambda calculus interpreter in PHP.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 * [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - A library for playing with the Raspberry PI's GPIO pins.
+* [Pthreads](http://pthreads.org/) - An Object Orientated API that allows user-land multi-threading in PHP
 
 # Software
 *Software for creating a development environment.*
