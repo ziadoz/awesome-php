@@ -523,7 +523,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Envoy](https://github.com/laravel/envoy) - A tool to run SSH tasks with PHP.
 
 ## I18n
-* Libraries for I18n (Internationalization) and L10n (Localization)*
+*Libraries for I18n (Internationalization) and L10n (Localization)*
 
 * [Aura.Intl](https://github.com/auraphp/Aura.Intl)
 
