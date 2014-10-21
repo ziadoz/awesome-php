@@ -230,6 +230,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [VFS Stream](https://github.com/mikey179/vfsStream) - A virtual filesystem stream wrapper for testing.
 * [VFS](https://github.com/adlawson/vfs.php) - Another virtual filesystem for testing.
 * [Locust](http://locust.io/) - A modern load test library written in Python.
+* [peridot](https://github.com/peridot-php/peridot) - Event driven test framework for PHP.
 
 ## Continuous Integration
 *Libraries and applications for continuous integration.*
