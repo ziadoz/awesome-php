@@ -88,7 +88,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
-* [Laravel 4](http://laravel.com/) - A simple PHP framework.
+* [Laravel 4](http://laravel.com/) - The PHP framework for web artisans.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Yii2](https://github.com/yiisoft/yii2/) - A high-performance framework.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
