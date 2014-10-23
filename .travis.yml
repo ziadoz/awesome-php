@@ -1,0 +1,12 @@
+language: php
+
+php:
+   - 5.6
+
+before_script:
+   - cd test
+   - composer self-update || true
+   - composer install --no-interaction --no-progress
+
+script:
+   - php check.php

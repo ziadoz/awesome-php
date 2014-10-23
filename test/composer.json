@@ -1,0 +1,9 @@
+{
+    "name": "ziadoz/awesome-php",
+    "description": "Just a test script for formatting and links.",
+    "require": {
+        "cebe/markdown": "~0.9",
+        "guzzlehttp/guzzle": "~4.0"
+    },
+    "license": "MIT"
+}

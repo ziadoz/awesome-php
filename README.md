@@ -221,6 +221,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Mockery](https://github.com/padraic/mockery) - A mock object library for testing.
 * [Phake](https://github.com/mlively/Phake) - Another mock object library for testing.
 * [Parody](https://github.com/dotink/Parody) - Yet another mock object library for testing.
+* [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
 * [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
 * [Samsui](https://github.com/mauris/samsui) - Another fake data generator library.
 * [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
@@ -562,7 +563,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 * [LiteCQRS](https://github.com/beberlei/litecqrs-php) - A CQRS (Command Query Responsibility Separation) library.
 * [Sslurp](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL suck less.
-* [PHP Option](https://github.com/schmittjoh/php-option) An option type library.
+* [PHP Option](https://github.com/schmittjoh/php-option) - An option type library.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [Sabre VObject](https://github.com/evert/sabre-vobject) - A library for parsing VCard and iCalendar objects.
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
@@ -609,6 +610,12 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [HomeBrew](http://mxcl.github.com/homebrew/) - A package manager for OSX.
 * [HomeBrew PHP](https://github.com/josegonzalez/homebrew-php) - A PHP tap for HomeBrew.
 * [PHP OSX](http://php-osx.liip.ch/) - A PHP installer for OSX.
+* [HipHop PHP](https://github.com/facebook/hiphop-php) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
+* [Vagrant](http://www.vagrantup.com/) - A portable development environment utility.
+* [Ansible](http://www.ansibleworks.com/) - A radically simple orchestration framework.
+* [Puppet](http://puppetlabs.com/) - A server automation framework and application.
+* [Chef](https://github.com/opscode/chef) - A systems integration framework.
+* [SaltStack](http://saltstack.com/community.html) - An infrastructure management tool.
 * [PHP Brew](https://github.com/c9s/phpbrew) - A PHP version manager and installer.
 * [PHP Env](https://github.com/CHH/phpenv) - Another PHP version manager.
 * [PHP Switch](https://github.com/jubianchi/phpswitch) - Another version manager.
