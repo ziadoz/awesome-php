@@ -239,6 +239,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHPCI](http://www.phptesting.org/) - An open source continuous integration platform for PHP.
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
 * [Jenkins](http://jenkins-ci.org/) A continous integration platform with [PHP support](http://jenkins-php.org/index.html).
+* [Circle CI](https://circleci.com/) - A continuous integration SAAS with great [PHP support](https://circleci.com/docs/language-php).
 
 ## Documentation
 *Libraries for generating project documentation.*
