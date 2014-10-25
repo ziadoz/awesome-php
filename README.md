@@ -503,6 +503,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Alternative PHP Cache (APC)](http://www.php.net/manual/en/book.apc.php) - Open opcode cache for PHP.
 * [Cache](https://github.com/doctrine/cache) - A caching library (part of Doctrine).
+* [Key Value Store](https://github.com/adammbalogh/key-value-store) - Key Value Store abstraction. One Api, Multiple Stores.
 * [Stash](https://github.com/tedivm/Stash) - Another library for caching.
 
 ## Data Structure and Storage
