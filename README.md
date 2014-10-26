@@ -296,7 +296,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [xHprof](https://github.com/phacility/xhprof) - Another profiling tool for PHP.
 * [PHPCheckstyle](https://github.com/jbrooksuk/phpcheckstyle) - A tool to help adhere to certain coding conventions.
-* [PhpDependencyAnalysis](hhttps://github.com/mamuz/PhpDependencyAnalysis) - Analyzing tool to create dependency graph on customizable levels.
+* [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - Analyzing tool to create dependency graph on customizable levels.
 
 ## Build Tools
 *Project build and automation tools.*
