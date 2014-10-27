@@ -92,6 +92,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Yii2](https://github.com/yiisoft/yii2/) - A high-performance framework.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+* [Thinkphp](https://github.com/liu21st/thinkphp) - A very popular php framework in china software development industry.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
