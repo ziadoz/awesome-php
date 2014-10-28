@@ -600,6 +600,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 * [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - A library for playing with the Raspberry PI's GPIO pins.
 * [print_o](https://github.com/koriym/print_o) - An object graph visualizer.
+* [Gantti](https://github.com/bastianallgeier/gantti) - A simple PHP Gantt Class.
 
 # Software
 *Software for creating a development environment.*
