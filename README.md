@@ -115,6 +115,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
+* [Respect\Rest](https://github.com/Respect/Rest) - Thin controller for RESTful applications.
 
 ## Micro Framework Extras
 *Extras related to micro frameworks and routers.*
@@ -197,6 +198,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Orno Di](https://github.com/orno/di) - Another flexible dependency injection container.
 * [PHP DI](http://mnapoli.github.com/PHP-DI/) - A dependency injection implementation using annotations.
 * [Acclimate](https://github.com/jeremeamia/acclimate) - A common interface to dependency injection containers and service locators.
+* [Respect\Config](https://github.com/Respect/Config) - A powerful, small, deadly simple configurator and dependency injection container made to be easy.
 
 ## Imagery
 *Libraries for manipulating images.*
@@ -395,6 +397,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHPMig](https://github.com/davedevelopment/phpmig) - Another migration management library.
 * [Phinx](https://github.com/robmorgan/phinx) - Another database migration library.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
+* [Respect\Relational](https://github.com/Respect/Relational) - Fluent Database Toolkit.
 
 ## NoSQL
 *Libraries for working with "NoSQL" backends.*
