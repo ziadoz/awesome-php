@@ -137,6 +137,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHPTAL](http://phptal.org/) - A PHP implementation of the TAL templating language, orignating from the Python Zope library.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
+* [Smarty](http://www.smarty.net/) - The compiling PHP template engine.
 
 ## Static Site Generators
 *Tools for pre-processing content to generate web pages.*
