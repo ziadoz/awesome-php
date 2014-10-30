@@ -51,10 +51,10 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Extensions](#extensions)
 	- [Miscellaneous](#miscellaneous)
 - [Software](#software)
-	- [Integrated Development Environment](#ide)
 	- [PHP Installation](#php-installation)
 	- [Development Environment](#development-environment)
 	- [Virtual Machines](#virtual-machines)
+	- [Integrated Development Environment](#integrated-development-environment)
 	- [Web Applications](#web-applications)
 - [Resources](#resources)
 	- [PHP Websites](#php-websites)
@@ -605,13 +605,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 # Software
 *Software for creating a development environment.*
 
-## Integrated Development Environment
-*Integrated Development Environments with for support PHP.*
-
-* [Netbeans](https://netbeans.org) - An IDE with support for PHP and HTML5.
-* [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - A PHP IDE based on the Eclipse platform.
-* [PhpStorm](http://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
-
 ## PHP Installation
 *Tools to help install and manage PHP on your computer.*
 
@@ -640,6 +633,13 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [HipHop PHP](https://github.com/facebook/hiphop-php) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 * [HippyVM](http://hippyvm.com/) - Another PHP virtual machine.
 * [Hack](http://hacklang.org/) - A programming language for [HHVM](https://github.com/facebook/hiphop-php) that interoperates seamlessly with PHP.
+
+## Integrated Development Environment
+*Integrated Development Environments with for support PHP.*
+
+* [Netbeans](https://netbeans.org) - An IDE with support for PHP and HTML5.
+* [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - A PHP IDE based on the Eclipse platform.
+* [PhpStorm](http://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
 
 ## Web Applications
 *Web-based applications and tools.*
