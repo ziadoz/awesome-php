@@ -149,7 +149,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
 
-* [Guzzle](http://guzzlephp.org/) - A comprehensive HTTP client.
+* [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
 * [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
 * [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
 * [HTTPFul](https://github.com/nategood/httpful) - A chainable HTTP client.
