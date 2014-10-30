@@ -635,7 +635,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Hack](http://hacklang.org/) - A programming language for [HHVM](https://github.com/facebook/hiphop-php) that interoperates seamlessly with PHP.
 
 ## Integrated Development Environment
-*Integrated Development Environments with for support PHP.*
+*Integrated Development Environments with support for PHP.*
 
 * [Netbeans](https://netbeans.org) - An IDE with support for PHP and HTML5.
 * [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - A PHP IDE based on the Eclipse platform.
