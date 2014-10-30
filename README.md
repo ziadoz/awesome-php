@@ -34,6 +34,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [E-commerce](#e-commerce)
 	- [PDF](#pdf)
 	- [ORM and Datamapping](#orm-and-datamapping)
+	- [Migrations](#migrations)
 	- [NoSQL](#nosql)
 	- [Queue](#queue)
 	- [Search](#search)
@@ -381,20 +382,22 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries that implement object-relational mapping or datamapping techniques.*
 
 * [Doctrine](http://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
-* [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - A migration library for Doctrine.
 * [Doctrine Extensions](https://github.com/l3pp4rd/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 * [Propel](http://www.propelorm.org/) - A fast ORM, migration library and query builder.
 * [Eloquent](https://github.com/illuminate/database) - The Laravel 4 ORM.
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
 * [Spot2](https://github.com/vlucas/spot2) - A MySQL datamapper ORM.
 * [RedBean](http://redbeanphp.com/) - A lightweight, configuration-less ORM.
-* [PHP ActiveRecord](https://github.com/kla/php-activerecord) - A PHP Active Record implementation.
-* [Paris and Idiorm](http://j4mie.github.io/idiormandparis/) - A minimalist database library.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
-* [Migrations](https://github.com/icomefromthenet/Migrations) - A migration management library.
+* [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
+
+## Migrations
+Libraries to help manage database schemas and migrations.
+
 * [PHPMig](https://github.com/davedevelopment/phpmig) - Another migration management library.
 * [Phinx](https://github.com/robmorgan/phinx) - Another database migration library.
-* [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
+* [Migrations](https://github.com/icomefromthenet/Migrations) - A migration management library.
+* [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - A migration library for Doctrine.
 
 ## NoSQL
 *Libraries for working with "NoSQL" backends.*
