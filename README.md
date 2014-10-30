@@ -51,7 +51,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 	- [Extensions](#extensions)
 	- [Miscellaneous](#miscellaneous)
 - [Software](#software)
-	- [Integrated Development Environment] (#ide)
+	- [Integrated Development Environment](#ide)
 	- [PHP Installation](#php-installation)
 	- [Development Environment](#development-environment)
 	- [Virtual Machines](#virtual-machines)
@@ -606,11 +606,11 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Software for creating a development environment.*
 
 ## Integrated Development Environment
-*List of PHP IDEs.*
+*Integrated Development Environments with for support PHP.*
 
-* [Netbeans](https://netbeans.org) - IDE for Java, but also with other languages, support PHP and HTML5.
-* [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - PHP IDE based on the Eclipse platform.
-* [PhpStorm](http://www.jetbrains.com/phpstorm/) - commercial IDE.
+* [Netbeans](https://netbeans.org) - An IDE with support for PHP and HTML5.
+* [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - A PHP IDE based on the Eclipse platform.
+* [PhpStorm](http://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
 
 ## PHP Installation
 *Tools to help install and manage PHP on your computer.*
