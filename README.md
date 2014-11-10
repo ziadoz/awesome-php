@@ -223,7 +223,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Atoum](https://github.com/atoum/atoum) - A simple testing library.
 * [Mockery](https://github.com/padraic/mockery) - A mock object library for testing.
 * [Phake](https://github.com/mlively/Phake) - Another mock object library for testing.
-* [Prophecy](https://github.com/phpspec/prophecy) - Highly opinionated mocking framework for PHP 5.3+.
+* [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
 * [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
 * [Samsui](https://github.com/mauris/samsui) - Another fake data generator library.
 * [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
