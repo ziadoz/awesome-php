@@ -437,6 +437,7 @@ Libraries to help manage database schemas and migrations.
 * [ShellWrap](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
 * [Hoa Console](https://github.com/hoaproject/Console) - Another command line library.
 * [Shunt](https://github.com/php-loep/shunt) - A library for running commands in parallel on multiple remote machines.
+* [Cilex](https://github.com/Cilex/Cilex) - A PHP micro-framework for Command line tools based on the Symfony2 Components
 
 ## Authentication
 *Libraries for implementing authentications schemes.*
