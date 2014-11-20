@@ -98,6 +98,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+* [Nette](http://nette.org) - Another framework comprised of individual components.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
