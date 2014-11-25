@@ -456,6 +456,8 @@ Libraries to help manage database schemas and migrations.
 * [TwitterSDK](https://github.com/lyrixx/twitter-sdk) - A fully tested Twitter SDK.
 * [Hawk](https://github.com/dflydev/dflydev-hawk) - A Hawk HTTP authentication library.
 * [HybridAuth](https://github.com/hybridauth/hybridauth) - An open source social sign on library.
+* [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) - Making it stupidly simple to integrate your application with OAuth 2.0 identity providers.
+* [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - OAuth [RFC 5849 standards-compliant](http://tools.ietf.org/html/rfc5849) library for authenticating against OAuth 1 servers.
 
 ## Markup
 *Libraries for working with markup.*
