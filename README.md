@@ -16,6 +16,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [Templating](#templating)
 	- [Static Site Generators](#static-site-generators)
 	- [HTTP](#http)
+	- [Middlewares](#middlewares)
 	- [URL](#url)
 	- [Email](#email)
 	- [Files](#files)
@@ -127,10 +128,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Silex Skeleton](https://github.com/fabpot/Silex-Skeleton) - A project skeleton for Silex.
 * [Silex Web Profiler](https://github.com/silexphp/Silex-WebProfiler) - A web debug toolbar for Silex.
-* [Stack](https://github.com/stackphp) - A library of stackable middleware for Silex/Symfony.
 * [Slim Skeleton](https://github.com/codeguy/Slim-Skeleton) - A skeleton for Slim.
 * [Slim View](https://github.com/codeguy/Slim-Views) - A collection of custom views for Slim.
-* [Slim Middleware](https://github.com/codeguy/Slim-Middleware) - A collection of custom middleware for Slim.
 
 ## Templating
 *Libraries and tools for templating and lexing.*
@@ -159,6 +158,12 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [HTTPFul](https://github.com/nategood/httpful) - A chainable HTTP client.
 * [Goutte](https://github.com/fabpot/Goutte) - A simple web scraper.
 * [PHP VCR](http://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
+
+## Middlewares
+*Libraries for building application using middlewares.*
+* [Stack](https://github.com/stackphp) - A library of stackable middleware for Silex/Symfony.
+* [Slim Middleware](https://github.com/codeguy/Slim-Middleware) - A collection of custom middleware for Slim.
+* [Conduit](https://github.com/phly/conduit) - Port of [Sencha Connect](https://github.com/senchalabs/connect) to PHP.
 
 ## URL
 *Libraries for parsing URLs.*
