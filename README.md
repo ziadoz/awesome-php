@@ -303,6 +303,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [xHprof](https://github.com/phacility/xhprof) - Another profiling tool for PHP.
 * [PHPCheckstyle](https://github.com/jbrooksuk/phpcheckstyle) - A tool to help adhere to certain coding conventions.
+* [php.tools](https://github.com/dericofilho/php.tools) - A code formatter tool, it accepts K&R and PSR styles.
 
 ## Build Tools
 *Project build and automation tools.*
