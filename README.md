@@ -529,6 +529,7 @@ Libraries to help manage database schemas and migrations.
 * [Fractal](https://github.com/php-loep/fractal) - A library for converting complex data structures to JSON output.
 * [Totem](http://github.com/Wisembly/Totem) - A library to manage and create data changesets.
 * [PINQ](https://github.com/TimeToogo/Pinq) - A real Linq library for PHP.
+* [JsonMapper](https://github.com/netresearch/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
 
 ## Notifications
 *Libraries for working with notification software.*
