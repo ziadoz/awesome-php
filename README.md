@@ -526,6 +526,7 @@ Libraries to help manage database schemas and migrations.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 * [PHP Object Storage](https://github.com/herrera-io/php-object-storage) - A library for object storage.
 * [Fractal](https://github.com/php-loep/fractal) - A library for converting complex data structures to JSON output.
+* [Totem](http://github.com/Wisembly/Totem) - A library to manage and create data changesets.
 * [PINQ](https://github.com/TimeToogo/Pinq) - A real Linq library for PHP.
 
 ## Notifications
