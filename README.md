@@ -379,6 +379,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Money](https://github.com/mathiasverraes/money) - A PHP implementation of Fowler's money pattern.
 * [Sebastian Money](https://github.com/sebastianbergmann/money) - Another library for working with monetary values.
 * [Swap](https://github.com/florianv/swap) - An exchange rates library.
+* [Hoa Ruler](https://github.com/hoaproject/Ruler) - A rule​**r** engine.
 
 ## PDF
 *Libraries and software for working with PDF files.*
