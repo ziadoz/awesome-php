@@ -52,6 +52,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [Data Structure and Storage](#data-structure-and-storage)
 	- [Notifications](#notifications)
 	- [Deployment](#deployment)
+	- [I18n](#i18n)
 	- [Third Party APIs](#third-party-apis)
 	- [Extensions](#extensions)
 	- [Miscellaneous](#miscellaneous)
@@ -544,6 +545,11 @@ Libraries to help manage database schemas and migrations.
 * [Rocketeer](https://github.com/Anahkiasen/rocketeer) - A fast and easy deployer for the PHP world.
 * [Envoy](https://github.com/laravel/envoy) - A tool to run SSH tasks with PHP.
 * [Plum](https://github.com/aerialls/Plum) - A deployer library.
+
+## I18n
+*Libraries for I18n (Internationalization) and L10n (Localization)*
+
+* [Aura.Intl](https://github.com/auraphp/Aura.Intl)
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
