@@ -52,7 +52,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [Data Structure and Storage](#data-structure-and-storage)
 	- [Notifications](#notifications)
 	- [Deployment](#deployment)
-	- [I18n](#i18n)
+	- [Internationalisation and Localisation](#internationalisation-and-localisation)
 	- [Third Party APIs](#third-party-apis)
 	- [Extensions](#extensions)
 	- [Miscellaneous](#miscellaneous)
@@ -540,14 +540,15 @@ Libraries to help manage database schemas and migrations.
 * [Notificator](https://github.com/namshi/notificator) - A lightweight notification library.
 
 ## Deployment
+*Libraries for project deployment.*
 
 * [Pomander](https://github.com/tamagokun/pomander) - A deployment tool for PHP applications.
 * [Rocketeer](https://github.com/Anahkiasen/rocketeer) - A fast and easy deployer for the PHP world.
 * [Envoy](https://github.com/laravel/envoy) - A tool to run SSH tasks with PHP.
 * [Plum](https://github.com/aerialls/Plum) - A deployer library.
 
-## I18n
-*Libraries for I18n (Internationalization) and L10n (Localization)*
+## Internationalisation and Localisation
+*Libraries for Internationalization (I18n) and Localization (L10n).
 
 * [Aura.Intl](https://github.com/auraphp/Aura.Intl)
 
