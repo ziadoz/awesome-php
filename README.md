@@ -27,6 +27,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [Documentation](#documentation)
 	- [Security](#security)
 	- [Code Analysis](#code-analysis)
+	- [Debugging](#debugging)
 	- [Build Tools](#build-tools)
 	- [Task Runners](#task-runners)
 	- [Navigation](#navigation)
@@ -281,7 +282,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
 
 ## Code Analysis
-*Libraries and tools for analysing, parsing and manipulation codebases.*
+*Libraries and tools for analysing, parsing and manipulating codebases.*
 
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 * [PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP.
@@ -298,15 +299,19 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
 * [Athletic](https://github.com/polyfractal/athletic) - An annotation based benchmark framework.
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
+* [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
+* [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
+* [xHprof](https://github.com/phacility/xhprof) - Another profiling tool for PHP.
+* [PHPCheckstyle](https://github.com/jbrooksuk/phpcheckstyle) - A tool to help adhere to certain coding conventions.
+
+## Debugging
+*Libraries and tools for debugging code.*
+
+* [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 * [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
 * [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
 * [PHPDBG](http://phpdbg.com/) - An interactive PHP debugger.
-* [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
-* [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
-* [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
-* [xHprof](https://github.com/phacility/xhprof) - Another profiling tool for PHP.
-* [PHPCheckstyle](https://github.com/jbrooksuk/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
 
 ## Build Tools
