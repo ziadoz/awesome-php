@@ -722,6 +722,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/) - A guide to working with Elasticsearch by Clinton Gormley and Zachary Tong.
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - A book about JavaScript programming by Marijn Haverbeke.
 * [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) A book about creating Vagrant environments by Erika Heidi.
+* [Pro Git](http://git-scm.com/book/en/v2) - A book about Git by Scott Chacon and Ben Straub.
 
 ## PHP Videos
 *Fantastic PHP-related videos.*
