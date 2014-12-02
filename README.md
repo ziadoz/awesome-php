@@ -45,7 +45,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [Command Line](#command-line)
 	- [Authentication](#authentication)
 	- [Markup](#markup)
-	- [Text and Numbers](#text-and-numbers)
+	- [Strings](#strings)
+	- [Numbers](#numbers)
 	- [Filtering and Validation](#filtering-and-validation)
 	- [REST and API](#rest-and-api)
 	- [Caching](#caching)
@@ -473,25 +474,29 @@ Libraries to help manage database schemas and migrations.
 * [Cebe Markdown](https://github.com/cebe/markdown) - An fast and extensible Markdown parser.
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
 
-## Text and Numbers
-*Libraries for parsing and manipulating text and numbers.*
+## Strings
+*Libraries for parsing and manipulating strings.*
 
 * [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
 * [Hoa String](https://github.com/hoaproject/String) - Another UTF-8 string library.
 * [Stringy](https://github.com/danielstjules/Stringy) - A string manipulation library with multibyte support.
-* [Numbers PHP](https://github.com/powder96/numbers.php) - A library for working with numbers.
-* [Math](https://github.com/moontoast/math) - A library for working with large numbers.
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
 * [UUID](https://github.com/ramsey/uuid) - A library for generating UUIDs.
 * [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 * [Urlify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
 * [Text](https://github.com/kzykhys/Text) - A text manipulation library.
+* [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
+* [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
+
+## Numbers
+*Libraries for working with numbers.*
+
+* [Numbers PHP](https://github.com/powder96/numbers.php) - A library for working with numbers.
+* [Math](https://github.com/moontoast/math) - A library for working with large numbers.
+* [ByteUnits](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
-* [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
-* [ByteUnits](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
-* [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
 * [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
 
 ## Filtering and Validation
