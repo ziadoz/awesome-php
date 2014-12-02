@@ -551,7 +551,7 @@ Libraries to help manage database schemas and migrations.
 * [Plum](https://github.com/aerialls/Plum) - A deployer library.
 
 ## Internationalisation and Localisation
-*Libraries for Internationalization (I18n) and Localization (L10n).
+*Libraries for Internationalization (I18n) and Localization (L10n).*
 
 * [Aura.Intl](https://github.com/auraphp/Aura.Intl)
 
