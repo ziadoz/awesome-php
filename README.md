@@ -26,6 +26,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [Continuous Integration](#continuous-integration)
 	- [Documentation](#documentation)
 	- [Security](#security)
+	- [Passwords](#passwords)
 	- [Code Analysis](#code-analysis)
 	- [Debugging](#debugging)
 	- [Build Tools](#build-tools)
@@ -267,11 +268,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [RandomLib](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
 * [True Random](https://github.com/pixeloution/true-random) - A library that generates random numbers using [www.random.org](http://www.random.org/).
 * [SecurityMultiTool](https://github.com/padraic/SecurityMultiTool) - A PHP security library.
-* [Password Compat](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
-* [phpass](http://www.openwall.com/phpass/) - A portable password hashing framework.
-* [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
-* [Password Policy](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
-* [Password Validator](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
 * [PHPSecLib](http://phpseclib.sourceforge.net/) - A pure PHP secure communications library.
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 * [PHP IDS](https://github.com/PHPIDS/PHPIDS) - A structured PHP security layer.
@@ -279,6 +275,15 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [IniScan](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependencies for security advisories.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
+
+## Passwords
+*Libraries and tools for working with and storing passwords.*
+
+* [Password Compat](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
+* [phpass](http://www.openwall.com/phpass/) - A portable password hashing framework.
+* [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
+* [Password Policy](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
+* [Password Validator](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
 * [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
 
 ## Code Analysis
