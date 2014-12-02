@@ -38,7 +38,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [Logging](#logging)
 	- [E-commerce](#e-commerce)
 	- [PDF](#pdf)
-	- [ORM and Datamapping](#orm-and-datamapping)
+	- [Database](#database)
 	- [Migrations](#migrations)
 	- [NoSQL](#nosql)
 	- [Queue](#queue)
@@ -393,8 +393,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 * [WKHTMLToPDF](https://github.com/antialize/wkhtmltopdf) - A tool to convert HTML to PDF.
 
-## ORM and Datamapping
-*Libraries that implement object-relational mapping or datamapping techniques.*
+## Database
+*Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
 
 * [Doctrine](http://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
 * [Doctrine Extensions](https://github.com/l3pp4rd/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
