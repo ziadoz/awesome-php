@@ -86,6 +86,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Extras related to dependency management.*
 
 * [Satis](https://github.com/composer/satis) - A static Composer repository generator.
+* [Toran Proxy](https://toranproxy.com) - A static Composer repository and proxy.
 * [Composition](https://github.com/bamarni/composition) - A library to check your Composer environment at runtime.
 * [Version](https://github.com/herrera-io/php-version) - A parsing and comparison library for semantic versioning.
 * [NameSpacer](https://github.com/ralphschindler/Namespacer) - A library to convert from underscores to namespaces.
