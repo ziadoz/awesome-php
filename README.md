@@ -487,6 +487,7 @@ Libraries to help manage database schemas and migrations.
 ## Strings
 *Libraries for parsing and manipulating strings.*
 
+* [ANSI](https://github.com/gitlibrary/ansi) - An Alpha Numeric Sequential Incrementor.
 * [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
 * [Hoa String](https://github.com/hoaproject/String) - Another UTF-8 string library.
