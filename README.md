@@ -497,6 +497,7 @@ Libraries to help manage database schemas and migrations.
 * [Urlify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
 * [Text](https://github.com/kzykhys/Text) - A text manipulation library.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
+* [SSI](https://github.com/gitlibrary/ssi) - String Sequence Incrementor.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
 
 ## Numbers
