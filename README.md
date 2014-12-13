@@ -374,6 +374,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Hoa EventSource](https://github.com/hoaproject/Eventsource) - An event source library.
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [FuelPHP Event](https://github.com/fuelphp/event) - Another event dispatcher library.
+* [Broadway](https://github.com/qandidate-labs/broadway) - An event source and CQRS library.
 
 ## Logging
 *Libraries for generating and working with log files.*
