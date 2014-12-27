@@ -556,6 +556,7 @@ Libraries to help manage database schemas and migrations.
 * [Notificato](https://github.com/wrep/notificato) - A library for handling push notifications.
 * [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - A standalone library for device push notifications.
 * [Notificator](https://github.com/namshi/notificator) - A lightweight notification library.
+* [Notify](https://github.com/JeyKeu/notify) - Bootstrap3 notifications for PHP
 
 ## Deployment
 *Libraries for project deployment.*
