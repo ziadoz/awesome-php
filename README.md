@@ -502,11 +502,11 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Libraries that implement data structure or storage techniques.*
 
 * [Ardent](https://github.com/morrisonlevi/Ardent) - A library of data structures.
+* [ArrayPath](https://github.com/mathiasgrimm/arraypath) - An array utility to manipulate array in a xpath way (idx1/idx2/...)
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 * [PHP Object Storage](https://github.com/herrera-io/php-object-storage) - A library for object storage.
 * [Fractal](https://github.com/php-loep/fractal) - A library for converting complex data structures to JSON output.
-* [LIBRARY](https://github.com/mathiasgrimm/arraypath) - An array utility to manipulate array in a xpath way (idx1/idx2/...)
 
 ## Notifications
 *Libraries for working with notification software.*
