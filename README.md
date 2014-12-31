@@ -698,7 +698,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 * [PHP The Right Way](http://www.phptherightway.com/) - A PHP best practice quick reference guide.
 * [PHP Best Practices](http://phpbestpractices.org/) - A PHP best practice guide.
-* [PHP Weekly](http://phpweekly.info/archive/) - A weekly PHP newsletter.
+* [PHP Weekly](http://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
 * [PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html) - A guide to PHP security.
 * [PHP FIG](http://www.php-fig.org/) - The PHP Framework Interoperability Group.
 * [PHP UG](http://php.ug) - A website to help people locate their nearest PHP user group (UG).
