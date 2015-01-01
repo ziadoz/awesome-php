@@ -425,6 +425,7 @@ Libraries to help manage database schemas and migrations.
 * [MongoQB](https://github.com/alexbilbie/MongoQB) - A MongoDB query builder library.
 * [Monga](https://github.com/thephpleague/monga) - A MongoDB abstraction library.
 * [Predis](https://github.com/nrk/predis) - A feature complete Redis library.
+* [CouchDb](https://github.com/sbisbee/sag) - Library for working with CouchDB.
 
 ## Queue
 *Libraries for working with event and task queues.*
