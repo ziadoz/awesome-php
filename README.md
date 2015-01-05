@@ -45,7 +45,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [Queue](#queue)
 	- [Search](#search)
 	- [Command Line](#command-line)
-	- [Authentication](#authentication)
+	- [Authentication and Authorization](#authentication-and-authorization)
 	- [Markup](#markup)
 	- [Strings](#strings)
 	- [Numbers](#numbers)
@@ -69,7 +69,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [PHP Websites](#php-websites)
 	- [Other Websites](#other-websites)
 	- [PHP Books](#php-books)
-	- [Other Books](#other-books)
 	- [PHP Videos](#php-videos)
 	- [PHP Reading](#php-reading)
 	- [PHP Internals Reading](#php-internals-reading)
@@ -458,8 +457,8 @@ Libraries to help manage database schemas and migrations.
 * [Shunt](https://github.com/php-loep/shunt) - A library for running commands in parallel on multiple remote machines.
 * [Cilex](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
 
-## Authentication
-*Libraries for implementing authentications schemes.*
+## Authentication and Authorization
+*Libraries for implementing user authentication and authorization.*
 
 * [Sentry](https://github.com/cartalyst/sentry) - A framework agnostic authentication & authorisation library.
 * [Sentry Social](http://docs.cartalyst.com/sentry-social-2/introduction) - A library for social network authentication.
@@ -471,6 +470,7 @@ Libraries to help manage database schemas and migrations.
 * [TwitterSDK](https://github.com/lyrixx/twitter-sdk) - A fully tested Twitter SDK.
 * [Hawk](https://github.com/dflydev/dflydev-hawk) - A Hawk HTTP authentication library.
 * [HybridAuth](https://github.com/hybridauth/hybridauth) - An open source social sign on library.
+* [Lock](https://github.com/BeatSwitch/lock) - A library for implementing Access Control Lists (ACL) systems.
 
 ## Markup
 *Libraries for working with markup.*
