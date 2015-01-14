@@ -601,6 +601,7 @@ Libraries to help manage database schemas and migrations.
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 * [LiteCQRS](https://github.com/beberlei/litecqrs-php) - A CQRS (Command Query Responsibility Separation) library.
+* [Chief](https://github.com/adamnicholson/Chief) - A command bus library.
 * [Sslurp](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL suck less.
 * [PHP Option](https://github.com/schmittjoh/php-option) An option type library.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
