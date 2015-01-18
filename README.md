@@ -498,6 +498,7 @@ Libraries to help manage database schemas and migrations.
 * [Text](https://github.com/kzykhys/Text) - A text manipulation library.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
+* [Device Detector](https://github.com/piwik/device-detector) - Universal Device Detection library will parse any User Agent (browser, os, type, brand and model)
 
 ## Numbers
 *Libraries for working with numbers.*
