@@ -374,6 +374,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Hoa EventSource](https://github.com/hoaproject/Eventsource) - An event source library.
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [FuelPHP Event](https://github.com/fuelphp/event) - Another event dispatcher library.
+* [The PHP League - Event](https://github.com/thephpleague/event) - Event library with a focus on domain events.
 
 ## Logging
 *Libraries for generating and working with log files.*
