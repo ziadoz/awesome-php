@@ -126,6 +126,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
+* [SmallMVC](https://github.com/Hacksign/SmallMVC) - Tiny and small MVC framework,handle DB operation and display a template page conveniently.
 
 ## Micro Framework Extras
 *Extras related to micro frameworks and routers.*
