@@ -446,6 +446,7 @@ Libraries to help manage database schemas and migrations.
 ## Command Line
 *Libraries for building command line utilities.*
 
+* [docopt.php](https://github.com/docopt/docopt.php) - creates beautiful command-line interfaces. Command line argument parser, uses documentation to specify options.
 * [Boris](https://github.com/d11wtq/boris) - A tiny PHP REPL.
 * [PsySH](https://github.com/bobthecow/psysh) - Another PHP REPL.
 * [Pecan](https://github.com/mcrumm/pecan) - An event-driven, non-blocking shell.
