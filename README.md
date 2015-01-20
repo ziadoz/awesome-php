@@ -65,6 +65,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [Virtual Machines](#virtual-machines)
 	- [Integrated Development Environment](#integrated-development-environment)
 	- [Web Applications](#web-applications)
+	- [PHP Infrastructure](#php-infrastructure)
 - [Resources](#resources)
 	- [PHP Websites](#php-websites)
 	- [Other Websites](#other-websites)
@@ -691,6 +692,11 @@ Libraries to help manage database schemas and migrations.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 * [Composer as a Service](http://composer.borreli.com/) - A tool for downloading Composer packages as a zip file.
 * [MailCatcher](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
+
+## PHP Infrastructure
+*Infrastructure for providing PHP applications and services.*
+
+* [appserver.io](http://appserver.io/) - A multithreaded application server for PHP, written in PHP.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
