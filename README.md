@@ -245,7 +245,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [VFS Stream](https://github.com/mikey179/vfsStream) - A virtual filesystem stream wrapper for testing.
 * [VFS](https://github.com/adlawson/vfs.php) - Another virtual filesystem for testing.
 * [Locust](http://locust.io/) - A modern load test library written in Python.
-* [peridot](https://github.com/peridot-php/peridot) - Event driven test framework for PHP.
+* [Peridot](https://github.com/peridot-php/peridot) - An event driven test framework.
 
 ## Continuous Integration
 *Libraries and applications for continuous integration.*
