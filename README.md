@@ -321,6 +321,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
 * [PHPDBG](http://phpdbg.com/) - An interactive PHP debugger.
 * [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
+* [Z-Ray](http://www.zend.com/en/products/server/z-ray) - A debug and profile tool for Zend Server.
 
 ## Build Tools
 *Project build and automation tools.*
