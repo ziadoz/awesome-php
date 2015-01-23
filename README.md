@@ -748,6 +748,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Taking PHP Seriously](http://www.infoq.com/presentations/php-history) - A talk outlining PHP's strengths by Keith Adams of Facebook.
 * [PHP Town Hall](http://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 * [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
+* [Test, Transform, Refactor](https://www.youtube.com/watch?v=yPX3gZ7xgN8) - A talk about TDD and TPP by Marcello Duarte.
 
 ## PHP Reading
 *PHP-releated reading materials.*
