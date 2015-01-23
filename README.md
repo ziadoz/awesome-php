@@ -570,7 +570,7 @@ Libraries to help manage database schemas and migrations.
 ## Internationalisation and Localisation
 *Libraries for Internationalization (I18n) and Localization (L10n).*
 
-* [Aura.Intl](https://github.com/auraphp/Aura.Intl)
+* [Aura Intl](https://github.com/auraphp/Aura.Intl)
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
