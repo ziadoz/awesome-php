@@ -577,7 +577,7 @@ Libraries to help manage database schemas and migrations.
 * [Rocketeer](https://github.com/Anahkiasen/rocketeer) - A fast and easy deployer for the PHP world.
 * [Envoy](https://github.com/laravel/envoy) - A tool to run SSH tasks with PHP.
 * [Plum](https://github.com/aerialls/Plum) - A deployer library.
-* [Deployer](https://github.com/elfet/deployer) - A deployment tool.
+* [Deployer](https://github.com/deployphp/deployer) - A deployment tool.
 
 ## Internationalisation and Localisation
 *Libraries for Internationalization (I18n) and Localization (L10n).*
