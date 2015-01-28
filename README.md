@@ -156,6 +156,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Sculpin](http://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
 * [Phrozn](http://phrozn.info) - Another tool that converts Textile, Markdown and Twig into HTML.
+* [Couscous](http://couscous.io) - Static website generator to deploy to GitHub pages.
 
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
