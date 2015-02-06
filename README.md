@@ -236,6 +236,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Mink](http://mink.behat.org/) - Web acceptance testing.
 * [Locust](http://locust.io/) - A modern load test library written in Python.
 * [Peridot](https://github.com/peridot-php/peridot) - An event driven test framework.
+* [Kahlan](https://github.com/crysalead/kahlan) - A full-featured BDD testing framework (uses a Jasmine-like syntax).
 
 ## Testing tools
 *Helpers to facilitate tests writing and generating test data.*
