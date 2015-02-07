@@ -13,6 +13,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [Framework Components](#framework-components)
 	- [Micro Frameworks](#micro-frameworks)
 	- [Micro Framework Extras](#micro-framework-extras)
+    - [Routers](#routers)
 	- [Templating](#templating)
 	- [Static Site Generators](#static-site-generators)
 	- [HTTP](#http)
@@ -126,8 +127,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
-* [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
-* [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 
 ## Micro Framework Extras
 *Extras related to micro frameworks and routers.*
@@ -138,6 +137,13 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Slim Skeleton](https://github.com/codeguy/Slim-Skeleton) - A skeleton for Slim.
 * [Slim View](https://github.com/codeguy/Slim-Views) - A collection of custom views for Slim.
 * [Slim Middleware](https://github.com/codeguy/Slim-Middleware) - A collection of custom middleware for Slim.
+
+## Routers
+**Libraries for handling application routing.**
+* [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
+* [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
+* [Pux](https://github.com/c9s/Pux) - Another fast routing library.
+* [Klein](https://github.com/chriso/klein.php) - A flexible router.
 
 ## Templating
 *Libraries and tools for templating and lexing.*
