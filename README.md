@@ -10,7 +10,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [Dependency Management Extras](#dependency-management-extras)
 	- [Frameworks](#frameworks)
 	- [Framework Extras](#framework-extras)
-	- [Components](#framework-components)
+	- [Components](#components)
 	- [Micro Frameworks](#micro-frameworks)
 	- [Micro Framework Extras](#micro-framework-extras)
     - [Routers](#routers)
