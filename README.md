@@ -377,7 +377,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Hoa WebSocket](https://github.com/hoaproject/Websocket) - Another web socket library.
 * [Hoa EventSource](https://github.com/hoaproject/Eventsource) - An event source library.
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
-* [Event](https://github.com/thephpleague/event) - Event library with a focus on domain events.
+* [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
+* [Broadway](https://github.com/qandidate-labs/broadway) - An event source and CQRS library.
 
 ## Logging
 *Libraries for generating and working with log files.*
