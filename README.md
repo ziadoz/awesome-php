@@ -486,6 +486,7 @@ Libraries to help manage database schemas and migrations.
 * [Opauth](https://github.com/opauth/opauth) - A multi-provider authentication framework.
 * [OAuth2 Server](http://oauth2.thephpleague.com/) - An OAuth2 authentication server, resource server and client library.
 * [OAuth2 Server](http://bshaffer.github.io/oauth2-server-php-docs/) - Another OAuth2 server implementation.
+* [OAuth2 Server](http://oauth2.thephpleague.com/) - A standards compliant OAuth 2.0 authorization and resource server.
 * [PHP oAuthLib](https://github.com/Lusitanian/PHPoAuthLib) - Another OAuth library.
 * [TwitterOAuth](https://github.com/ruudk/twitteroauth) - A Twitter OAuth library.
 * [TwitterSDK](https://github.com/lyrixx/twitter-sdk) - A fully tested Twitter SDK.
