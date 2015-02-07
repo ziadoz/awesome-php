@@ -175,9 +175,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 ## Middlewares
 *Libraries for building application using middlewares.*
+
 * [Stack](https://github.com/stackphp) - A library of stackable middleware for Silex/Symfony.
 * [Slim Middleware](https://github.com/codeguy/Slim-Middleware) - A collection of custom middleware for Slim.
-* [Conduit](https://github.com/phly/conduit) - Port of [Sencha Connect](https://github.com/senchalabs/connect) to PHP.
+* [Conduit](https://github.com/phly/conduit) - A port of [Sencha Connect](https://github.com/senchalabs/connect) to PHP.
 
 ## URL
 *Libraries for parsing URLs.*
