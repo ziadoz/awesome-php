@@ -139,7 +139,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Slim View](https://github.com/codeguy/Slim-Views) - A collection of custom views for Slim.
 
 ## Routers
-**Libraries for handling application routing.**
+*Libraries for handling application routing.*
 * [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
 * [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
