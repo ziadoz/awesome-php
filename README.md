@@ -207,7 +207,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
 * [Auryn](https://github.com/rdlowrey/Auryn) - Another dependency injection container.
-* [Orno Di](https://github.com/orno/di) - Another flexible dependency injection container.
+* [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 * [PHP DI](http://mnapoli.github.com/PHP-DI/) - A dependency injection implementation using annotations.
 * [Acclimate](https://github.com/jeremeamia/acclimate) - A common interface to dependency injection containers and service locators.
 
@@ -477,7 +477,7 @@ Libraries to help manage database schemas and migrations.
 * [Sentry](https://github.com/cartalyst/sentry) - A framework agnostic authentication & authorisation library.
 * [Sentry Social](http://docs.cartalyst.com/sentry-social-2/introduction) - A library for social network authentication.
 * [Opauth](https://github.com/opauth/opauth) - A multi-provider authentication framework.
-* [OAuth2](https://github.com/php-loep/oauth2-server) - An OAuth2 authentication server, resource server and client library.
+* [OAuth2 Server](http://oauth2.thephpleague.com/) - An OAuth2 authentication server, resource server and client library.
 * [OAuth2 Server](http://bshaffer.github.io/oauth2-server-php-docs/) - Another OAuth2 server implementation.
 * [PHP oAuthLib](https://github.com/Lusitanian/PHPoAuthLib) - Another OAuth library.
 * [TwitterOAuth](https://github.com/ruudk/twitteroauth) - A Twitter OAuth library.
