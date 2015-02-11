@@ -773,6 +773,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) A book about creating Vagrant environments by Erika Heidi.
 * [Pro Git](http://git-scm.com/book/en/v2) - A book about Git by Scott Chacon and Ben Straub.
 * [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - A Handbook of Agile Software Craftsmanship.
+* [Head First Design Patterns](http://www.headfirstlabs.com/books/hfdp/) - Do you want to learn, understand, remember, and apply design patterns, including the OO design principles upon which design patterns are based?.
 
 ## PHP Videos
 *Fantastic PHP-related videos.*
