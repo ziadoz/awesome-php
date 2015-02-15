@@ -165,7 +165,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [HTTPFul](https://github.com/nategood/httpful) - A chainable HTTP client.
 * [Goutte](https://github.com/fabpot/Goutte) - A simple web scraper.
 * [PHP VCR](http://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
-* [HttpRefererFilter](https://github.com/GabrielJMJ/HttpRefererFilter) - Filter to allow or block HTTP referers
 
 ## URL
 *Libraries for parsing URLs.*
@@ -245,6 +244,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [VFS Stream](https://github.com/mikey179/vfsStream) - A virtual filesystem stream wrapper for testing.
 * [VFS](https://github.com/adlawson/vfs.php) - Another virtual filesystem for testing.
 * [Locust](http://locust.io/) - A modern load test library written in Python.
+* [ShouldPHP](https://github.com/GabrielJMJ/ShouldPHP) - For to test classes with a friendly syntax.
 
 ## Continuous Integration
 *Libraries and applications for continuous integration.*
