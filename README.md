@@ -674,6 +674,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - A library for playing with the Raspberry PI's GPIO pins.
 * [print_o](https://github.com/koriym/print_o) - An object graph visualizer.
 * [Alias](https://github.com/fuelphp/alias) - A class aliasing library.
+* [RegExpBuilderPHP](https://github.com/gherkins/regexpbuilderphp) - human-readable regular expressions.
 
 # Software
 *Software for creating a development environment.*
