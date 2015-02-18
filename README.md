@@ -100,7 +100,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Symfony2](http://symfony.com/) - A framework comprised of individual components.
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
-* [Laravel 4](http://laravel.com/) - Another PHP framework.
+* [Laravel 5](http://laravel.com/) - Another PHP framework.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Nette](http://nette.org) - Another framework comprised of individual components.
