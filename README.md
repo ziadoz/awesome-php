@@ -25,6 +25,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [Dependency Injection](#dependency-injection)
 	- [Imagery](#imagery)
 	- [Testing](#testing)
+	- [Testing tools](#testing-tools)
 	- [Continuous Integration](#continuous-integration)
 	- [Documentation](#documentation)
 	- [Security](#security)
@@ -238,29 +239,34 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Glide](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
 
 ## Testing
-*Libraries for testing codebases and generating test data.*
+*Testing Frameworks.*
 
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
 * [DBUnit](https://github.com/sebastianbergmann/dbunit) - A database testing library for PHPUnit.
-* [ParaTest](https://github.com/brianium/paratest) - A parallel testing library for PHPUnit.
 * [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
 * [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
-* [AspectMock](https://github.com/Codeception/AspectMock) - A mocking framework for PHPUnit/Codeception.
 * [Atoum](https://github.com/atoum/atoum) - A simple testing library.
-* [Mockery](https://github.com/padraic/mockery) - A mock object library for testing.
-* [Phake](https://github.com/mlively/Phake) - Another mock object library for testing.
-* [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
-* [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
-* [Samsui](https://github.com/mauris/samsui) - Another fake data generator library.
-* [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
 * [Behat](http://behat.org/) - A behaviour driven development (BDD) testing framework.
 * [Pho](https://github.com/danielstjules/pho) - Another behaviour driven development testing framework.
 * [Mink](http://mink.behat.org/) - Web acceptance testing.
-* [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
-* [VFS Stream](https://github.com/mikey179/vfsStream) - A virtual filesystem stream wrapper for testing.
-* [VFS](https://github.com/adlawson/vfs.php) - Another virtual filesystem for testing.
 * [Locust](http://locust.io/) - A modern load test library written in Python.
 * [Peridot](https://github.com/peridot-php/peridot) - An event driven test framework.
+* [Kahlan](https://github.com/crysalead/kahlan) - A full-featured BDD testing framework (uses a Jasmine-like syntax).
+
+## Testing tools
+*Helpers to facilitate tests writing and generating test data.*
+
+* [ParaTest](https://github.com/brianium/paratest) - A parallel testing library for PHPUnit.
+* [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
+* [AspectMock](https://github.com/Codeception/AspectMock) - A mocking framework for PHPUnit/Codeception.
+* [Mockery](https://github.com/padraic/mockery) - A mock object library for testing.
+* [Phake](https://github.com/mlively/Phake) - Another mock object library for testing.
+* [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
+* [VFS Stream](https://github.com/mikey179/vfsStream) - A virtual filesystem stream wrapper for testing.
+* [VFS](https://github.com/adlawson/vfs.php) - Another virtual filesystem for testing.
+* [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
+* [Samsui](https://github.com/mauris/samsui) - Another fake data generator library.
+* [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
 
 ## Continuous Integration
 *Libraries and applications for continuous integration.*
