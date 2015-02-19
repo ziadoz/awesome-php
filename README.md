@@ -1,6 +1,6 @@
 # Awesome PHP
 A curated list of amazingly awesome PHP libraries, resources and shiny things.
-gh
+
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md) for details.
 
