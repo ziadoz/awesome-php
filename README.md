@@ -225,7 +225,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP DI](http://mnapoli.github.com/PHP-DI/) - A dependency injection implementation using annotations.
 * [Acclimate](https://github.com/jeremeamia/acclimate) - A common interface to dependency injection containers and service locators.
 * [PHP-DI](http://php-di.org/) - The dependency injection container for humans.
-* 
+
 ## Imagery
 *Libraries for manipulating images.*
 
