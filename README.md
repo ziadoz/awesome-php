@@ -458,7 +458,7 @@ Libraries to help manage database schemas and migrations.
 * [Hoa Console](https://github.com/hoaproject/Console) - Another command line library.
 * [Shunt](https://github.com/php-loep/shunt) - A library for running commands in parallel on multiple remote machines.
 * [Cilex](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
-* [Writeln](https://github.com/GabrielJMJ/Writeln) - Fast and simple Symfony Console command creation
+* [Writeln](https://github.com/GabrielJMJ/Writeln) - Fast and simple Symfony Console command creation.
 
 ## Authentication and Authorization
 *Libraries for implementing user authentication and authorization.*
