@@ -276,6 +276,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Sami](https://github.com/fabpot/Sami) - An API documentation generator.
 * [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
+* [php-apidoc](https://github.com/calinrada/php-apidoc) - Another API documentation generator.
 * [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor2) - A documentation generator.
 * [phpDox](http://phpdox.de/) - A documentation generator for PHP projects (that is not limited to API documentation).
 
