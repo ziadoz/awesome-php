@@ -20,6 +20,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [Middlewares](#middlewares)
 	- [URL](#url)
 	- [Email](#email)
+	- [Sms] (#sms)
 	- [Files](#files)
 	- [Streams](#streams)
 	- [Dependency Injection](#dependency-injection)
@@ -196,6 +197,11 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 * [Stampie](https://github.com/henrikbjorn/Stampie) - A library for email services such as [SendGrid](http://sendgrid.com), [PostMark](http://postmarkapp.com), [MailGun](http://www.mailgun.com) and [Mandrill](http://www.mandrill.com).
 * [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
+
+## Sms
+*Libraries for sending sms.*
+
+* [SmsSender](https://github.com/Carpe-Hora/SmsSender) - A sms sender.
 
 ## Files
 *Libraries for file manipulation and MIME type detection.*
