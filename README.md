@@ -107,6 +107,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
 * [CakePHP](http://cakephp.org/) - A rapid application development framework.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+* [CodeIgniter](http://www.codeigniter.com) - a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
@@ -156,6 +157,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPTAL](http://phptal.org/) - A PHP implementation of the [TAL](http://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
+* [Smarty](http://www.smarty.net/) - A template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic.
 
 ## Static Site Generators
 *Tools for pre-processing content to generate web pages.*
@@ -236,6 +238,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Image With Text](https://github.com/nmcteam/image-with-text) - A library for embedding text into images.
 * [Color Extractor](https://github.com/php-loep/color-extractor) - A library for extracting colours from images.
 * [Glide](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
+* [Intervention Image](http://image.intervention.io/) - PHP image handling and manipulation library.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
