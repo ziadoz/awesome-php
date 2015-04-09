@@ -337,6 +337,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPDBG](http://phpdbg.com/) - An interactive PHP debugger.
 * [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
 * [Z-Ray](http://www.zend.com/en/products/server/z-ray) - A debug and profile tool for Zend Server.
+* [Nameless debug package](https://github.com/corpsee/nameless-debug) - Simple and independent debug component compliant with PSR1, PSR2 and PSR4 for PHP 5.4+.
 
 ## Build Tools
 *Project build and automation tools.*
