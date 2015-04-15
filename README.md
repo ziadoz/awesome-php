@@ -1,10 +1,10 @@
 # Awesome PHP
 A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
-## Contributing
-Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md) for details.
+## 贡献
+详细内容请查看[贡献](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md).
 
-## Table of Contents
+## 目录
 - [Awesome PHP](#awesome-php)
     - [依赖管理 Dependency Management](#dependency-management)
     - [其他的依赖管理 Dependency Management Extras](#dependency-management-extras)
@@ -48,7 +48,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [队列 Queue](#queue)
     - [搜索 Search](#search)
     - [命令行 Command Line](#command-line)
-    - [身份验证 Authentication and Authorization](#authentication-and-authorization)
+    - [身份验证和授权 Authentication and Authorization](#authentication-and-authorization)
     - [标记 Markup](#markup)
     - [字符串 Strings](#strings)
     - [数字 Numbers](#numbers)
@@ -75,471 +75,471 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [PHP视频 PHP Videos](#php-videos)
     - [PHP阅读 PHP Reading](#php-reading)
     - [PHP内核阅读 PHP Internals Reading](#php-internals-reading)
-- [Contributing](#contributing)
+- [贡献](#contributing)
 
-## Dependency Management
-*Libraries for dependency and package management.*
+## 依赖管理 Dependency Management
+*依赖和包管理库*
 
-* [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - A package and dependency manager.
-* [Composer Installers](https://github.com/composer/installers) - A  multi framework Composer library installer.
-* [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
+* [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - 一个包和依赖管理器
+* [Composer Installers](https://github.com/composer/installers) - 一个多框架Composer库安装器
+* [Pickle](https://github.com/FriendsOfPHP/pickle) - 一个PHP扩展安装器
 
-## Dependency Management Extras
-*Extras related to dependency management.*
+## 其他的依赖管理 Dependency Management Extras
+*其他的相关依赖管理*
 
-* [Satis](https://github.com/composer/satis) - A static Composer repository generator.
-* [Toran Proxy](https://toranproxy.com) - A static Composer repository and proxy.
-* [Composition](https://github.com/bamarni/composition) - A library to check your Composer environment at runtime.
-* [Version](https://github.com/herrera-io/php-version) - A parsing and comparison library for semantic versioning.
-* [NameSpacer](https://github.com/ralphschindler/Namespacer) - A library to convert from underscores to namespaces.
-* [Patch Installer](https://github.com/goatherd/patch-installer) - A library to install patches using Composer.
-* [Composer Checker](https://github.com/silpion/composer-checker) - A tool to validate Composer configurations.
+* [Satis](https://github.com/composer/satis) - 一个静态Composer存储库的生成器
+* [Toran Proxy](https://toranproxy.com) - 一个静态Composer存储库和代理
+* [Composition](https://github.com/bamarni/composition) - 一个在运行时检查Composer环境的库
+* [Version](https://github.com/herrera-io/php-version) - 一个语义版本的解析和比较库
+* [NameSpacer](https://github.com/ralphschindler/Namespacer) - 一个转化下划线到命名空间的库
+* [Patch Installer](https://github.com/goatherd/patch-installer) - 一个使用Composer安装补丁的库
+* [Composer Checker](https://github.com/silpion/composer-checker) - 一个校验Composer配置的工具
 
-## Frameworks
-*Web development frameworks.*
+## 框架 Frameworks
+*Web开发框架*
 
-* [Symfony2](http://symfony.com/) - A framework comprised of individual components.
-* [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
-* [Laravel 5](http://laravel.com/) - Another PHP framework.
-* [Aura PHP](http://auraphp.com/) - A framework of independent components.
-* [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
-* [Nette](http://nette.org) - Another framework comprised of individual components.
-* [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
-* [CakePHP](http://cakephp.org/) - A rapid application development framework.
-* [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+* [Symfony2](http://symfony.com/) - 一个独立组件组成的框架
+* [Zend Framework 2](http://framework.zend.com) - 另一个由独立组件组成的框架
+* [Laravel 5](http://laravel.com/) - 另一个PHP框架
+* [Aura PHP](http://auraphp.com/) - 一个独立的组件框架
+* [Yii2](https://github.com/yiisoft/yii2/) - 另一个PHP框架
+* [Nette](http://nette.org) - 另一个由个体组件组成的框架
+* [PPI Framework 2](http://www.ppi.io) - 一个互操作性框架
+* [CakePHP](http://cakephp.org/) - 一个快速应用程序开发框架
+* [Phalcon](http://phalconphp.com/en/) - 通过C扩展实现的框架
 
-## Framework Extras
-*Extras related to web development frameworks.*
+## 其他框架 Framework Extras
+*其他Web开发框架*
 
-* [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
-* [Knp RAD Bundle](http://rad.knplabs.com/) - A Rapid Application Development (RAD) bundle for Symfony 2.
+* [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - 一个创建自定义CMS的内容管理框架
+* [Knp RAD Bundle](http://rad.knplabs.com/) - Symfony 2的快速应用程序（RAD）包
 
-## Components
-*Standalone component from web development frameworks and development groups.*
+## 框架组件 Components
+*来自web开发框架的独立组件*
 
-* [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony2.
-* [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make ZF2.
-* [Aura Components](http://auraphp.github.com/) - A package of PHP 5.4 components.
-* [Hoa Project](http://hoa-project.net/En/) - Another package of PHP components.
-* [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
+* [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - Symfony2组件
+* [Zend Framework 2 Components](https://packages.zendframework.com/) - ZF2组件
+* [Aura Components](http://auraphp.github.com/) - PHP5.4组件包
+* [Hoa Project](http://hoa-project.net/En/) - 另一个PHP组件包
+* [League of Extraordinary Packages](https://thephpleague.com/) - 一个PHP软件开发组
 
-## Micro Frameworks
-*Micro frameworks and routers.*
+## 微型框架 Micro Frameworks
+*微型框架和路由*
 
-* [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
-* [Slim](http://www.slimframework.com/) - Another simple micro framework.
-* [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
+* [Silex](http://silex.sensiolabs.org/) - 基于Symfony2组件的微型框架
+* [Slim](http://www.slimframework.com/) - 另一个简单的微型框架
+* [Bullet PHP](http://bulletphp.com/) - 用于构建REST APIs的微型框架
 
-## Micro Framework Extras
-*Extras related to micro frameworks and routers.*
+## 其他微型框架 Micro Framework Extras
+*其他相关的微型框架和路由*
 
-* [Silex Skeleton](https://github.com/fabpot/Silex-Skeleton) - A project skeleton for Silex.
-* [Silex Web Profiler](https://github.com/silexphp/Silex-WebProfiler) - A web debug toolbar for Silex.
-* [Slim Skeleton](https://github.com/codeguy/Slim-Skeleton) - A skeleton for Slim.
-* [Slim View](https://github.com/codeguy/Slim-Views) - A collection of custom views for Slim.
+* [Silex Skeleton](https://github.com/fabpot/Silex-Skeleton) - Silex的项目架构
+* [Silex Web Profiler](https://github.com/silexphp/Silex-WebProfiler) - 一个Silex web的调试工具
+* [Slim Skeleton](https://github.com/codeguy/Slim-Skeleton) - Slim架构
+* [Slim View](https://github.com/codeguy/Slim-Views) - Slim自定义视图的集合
 
-## Routers
-*Libraries for handling application routing.*
-* [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
-* [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
-* [Pux](https://github.com/c9s/Pux) - Another fast routing library.
-* [Klein](https://github.com/chriso/klein.php) - A flexible router.
+## 路由 Routers
+*处理应用路由的库*
+* [Fast Route](https://github.com/nikic/FastRoute) - 一个快速路由的库
+* [Route](https://github.com/thephpleague/route) - 一个基于Fast Route的路由的库
+* [Pux](https://github.com/c9s/Pux) - 另一个快速路由的库
+* [Klein](https://github.com/chriso/klein.php) - 一个灵活的路由的库.
 
-## Templating
-*Libraries and tools for templating and lexing.*
+## 模板 Templating
+*模板化和词法分析的库和工具*
 
-* [Twig](http://twig.sensiolabs.org/) - A comprehensive templating language.
-* [Twig Cache Extension](https://github.com/asm89/twig-cache-extension) - A template fragment cache library for Twig.
-* [Mustache](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
-* [Phly Mustache](https://github.com/weierophinney/phly_mustache) - Another PHP implementation of the Mustache template language.
-* [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
-* [PHPTAL](http://phptal.org/) - A PHP implementation of the [TAL](http://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
-* [Plates](http://platesphp.com/) - A native PHP templating library.
-* [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
+* [Twig](http://twig.sensiolabs.org/) - 一个全面的模板语言
+* [Twig Cache Extension](https://github.com/asm89/twig-cache-extension) - 一个用于Twig的模板片段缓存库
+* [Mustache](https://github.com/bobthecow/mustache.php) - 一个Mustache模板语言的PHP实现
+* [Phly Mustache](https://github.com/weierophinney/phly_mustache) - 另一个Mustache模板语言的PHP实现
+* [MtHaml](https://github.com/arnaud-lb/MtHaml) - 一个HAML模板语言的PHP实现
+* [PHPTAL](http://phptal.org/) - 一个[TAL](http://en.wikipedia.org/wiki/Template_Attribute_Language)模板语言的PHP实现
+* [Plates](http://platesphp.com/) - 一个原生PHP模板库
+* [Lex](https://github.com/pyrocms/lex) - 一个轻量级模板解析器
 
-## Static Site Generators
-*Tools for pre-processing content to generate web pages.*
+## 静态站点生成器 Static Site Generators
+*用来生成web页面的预处理内容的工具*
 
-* [Sculpin](http://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
-* [Phrozn](http://phrozn.info) - Another tool that converts Textile, Markdown and Twig into HTML.
+* [Sculpin](http://sculpin.io) - 转换Markdown和Twig为静态HTML的工具
+* [Phrozn](http://phrozn.info) - 另一个转换Textile，Markdown和Twig为HTML的工具
 
 ## HTTP
-*Libraries for working with HTTP and scraping websites.*
+*用于HTTP和网站爬取的库*
 
-* [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
-* [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
-* [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
-* [HTTPFul](https://github.com/nategood/httpful) - A chainable HTTP client.
-* [Goutte](https://github.com/fabpot/Goutte) - A simple web scraper.
-* [PHP VCR](http://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
+* [Guzzle]( https://github.com/guzzle/guzzle) - 一个全面的HTTP客户端
+* [Buzz](https://github.com/kriswallsmith/Buzz) - 另一个HTTP客户端
+* [Requests](https://github.com/rmccue/Requests) - 一个简单的HTTP库
+* [HTTPFul](https://github.com/nategood/httpful) - 一个链式HTTP库
+* [Goutte](https://github.com/fabpot/Goutte) - 一个简单的web爬取器
+* [PHP VCR](http://php-vcr.github.io/) - 一个录制和重放HTTP请求的库
 
-## Middlewares
-*Libraries for building application using middlewares.*
+## 中间件 Middlewares
+*使用中间件构建应用程序的库*
 
-* [Stack](https://github.com/stackphp) - A library of stackable middleware for Silex/Symfony.
-* [Slim Middleware](https://github.com/codeguy/Slim-Middleware) - A collection of custom middleware for Slim.
-* [Conduit](https://github.com/phly/conduit) - A port of [Sencha Connect](https://github.com/senchalabs/connect) to PHP.
+* [Stack](https://github.com/stackphp) - 一个用于Silex/Symfony的可堆叠的中间件的库
+* [Slim Middleware](https://github.com/codeguy/Slim-Middleware) - 一个用于Slim的自定义的中间件的集合
+* [Conduit](https://github.com/phly/conduit) - [Sencha Connect](https://github.com/senchalabs/connect)连接到PHP的一个端口.
 
 ## URL
-*Libraries for parsing URLs.*
+*解析URL的库*
 
-* [Purl](https://github.com/jwage/purl) - A URL manipulation library.
-* [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
-* [Url](https://github.com/thephpleague/url) - A simple URL manipulation library.
+* [Purl](https://github.com/jwage/purl) - 一个URL处理库
+* [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - 一个本地前缀解析库
+* [Url](https://github.com/thephpleague/url) - 一个简单的URL处理库
 
 ## Email
-*Libraries for sending and parsing email.*
+*发送和解析邮件的库*
 
-* [SwiftMailer](http://swiftmailer.org/) - A mailer solution.
-* [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
-* [Fetch](https://github.com/tedivm/Fetch) - An IMAP library.
-* [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
-* [Stampie](https://github.com/henrikbjorn/Stampie) - A library for email services such as [SendGrid](http://sendgrid.com), [PostMark](http://postmarkapp.com), [MailGun](http://www.mailgun.com) and [Mandrill](http://www.mandrill.com).
-* [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
+* [SwiftMailer](http://swiftmailer.org/) - 一个邮件解决方案
+* [PHPMailer](https://github.com/PHPMailer/PHPMailer) - 另一个邮件解决方案
+* [Fetch](https://github.com/tedivm/Fetch) - 一个IMAP库
+* [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - 一个邮件回复解析的库
+* [Stampie](https://github.com/henrikbjorn/Stampie) - 一个邮件服务库，类似于[SendGrid](http://sendgrid.com),[PostMark](http://postmarkapp.com),[MailGun](http://www.mailgun.com)和[Mandrill](http://www.mandrill.com).
+* [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - 一个在邮件模板中的内联CSS库
 
-## Files
-*Libraries for file manipulation and MIME type detection.*
+## 文件 Files
+*文件处理和MIME类型检测的库*
 
-* [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
-* [Flysystem](https://github.com/FrenkyNet/Flysystem) - Another filesystem abstraction layer.
-* [Canal](https://github.com/dflydev/dflydev-canal) - A library to determine internet media types.
-* [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - A library that parses Apache MIME types.
-* [Ferret](https://github.com/versionable/Ferret) - A MIME detection library.
-* [Hoa Mime](https://github.com/hoaproject/Mime) - Another MIME detection library.
-* [Lurker](https://github.com/henrikbjorn/Lurker) - A resource tracking library.
-* [PHP File Locator](https://github.com/herrera-io/php-file-locator) - A library for locating files in large projects.
-* [PHP FFmpeg](https://github.com/alchemy-fr/PHP-FFmpeg/) - A wrapper for the [FFmpeg](http://www.ffmpeg.org/) video library.
-* [CSV](https://github.com/thephpleague/csv) - A CSV data manipulation library.
+* [Gaufrette](https://github.com/KnpLabs/Gaufrette) - 一个文件系统抽象层
+* [Flysystem](https://github.com/FrenkyNet/Flysystem) - 另一个文件系统抽象层
+* [Canal](https://github.com/dflydev/dflydev-canal) - 一个检测互联网媒体类型的库
+* [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - 一个解析Apache MIME类型的库
+* [Ferret](https://github.com/versionable/Ferret) - 一个MIME检测库
+* [Hoa Mime](https://github.com/hoaproject/Mime) - 另一个MIME检测库
+* [Lurker](https://github.com/henrikbjorn/Lurker) - 一个资源跟踪库
+* [PHP File Locator](https://github.com/herrera-io/php-file-locator) - 一个在大型项目定位文件的库
+* [PHP FFmpeg](https://github.com/alchemy-fr/PHP-FFmpeg/) - 一个用于[FFmpeg](http://www.ffmpeg.org/)视频包装的库
+* [CSV](https://github.com/thephpleague/csv) - 一个CSV数据处理库
 
-## Streams
-*Libraries for working with streams.*
+## 流 Streams
+*处理流的库*
 
-* [Streamer](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
+* [Streamer](https://github.com/fzaninotto/Streamer) - 一个简单的面向对象的流包装库
 
-## Dependency Injection
-*Libraries that implement the dependency injection design pattern.*
+## 依赖注入 Dependency Injection
+*实现依赖注入设计模式的库*
 
-* [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
-* [Auryn](https://github.com/rdlowrey/Auryn) - Another dependency injection container.
-* [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
-* [PHP DI](http://mnapoli.github.com/PHP-DI/) - A dependency injection implementation using annotations.
-* [Acclimate](https://github.com/jeremeamia/acclimate) - A common interface to dependency injection containers and service locators.
+* [Pimple](http://pimple.sensiolabs.org/) - 一个小的依赖注入容器
+* [Auryn](https://github.com/rdlowrey/Auryn) - 另一个依赖注入容器
+* [Container](https://github.com/thephpleague/container) - 另一个可伸缩的依赖注入容器
+* [PHP DI](http://mnapoli.github.com/PHP-DI/) - 一个使用注释实现的依赖注入
+* [Acclimate](https://github.com/jeremeamia/acclimate) - 一个依赖注入容器和服务定位的通用接口
 
-## Imagery
-*Libraries for manipulating images.*
+## 图像 Imagery
+*处理图像的库*
 
-* [Imagine](http://imagine.readthedocs.org/en/latest/index.html) - An image manipulation library.
-* [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
-* [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
-* [GIF Frame Extractor](https://github.com/Sybio/GifFrameExtractor) - A library to extract GIF animation frame information.
-* [GIF Creator](https://github.com/Sybio/GifCreator) - A library to create GIF animations from multiple images.
-* [Image With Text](https://github.com/nmcteam/image-with-text) - A library for embedding text into images.
-* [Color Extractor](https://github.com/php-loep/color-extractor) - A library for extracting colours from images.
-* [Glide](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
+* [Imagine](http://imagine.readthedocs.org/en/latest/index.html) - 一个图像处理库
+* [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - 另一个图像处理库
+* [Intervention Image](https://github.com/Intervention/image) - 另一个图像处理库
+* [GIF Frame Extractor](https://github.com/Sybio/GifFrameExtractor) - 一个提取GIF动画帧信息的库
+* [GIF Creator](https://github.com/Sybio/GifCreator) - 一个通过多张图片创建GIF动画的库
+* [Image With Text](https://github.com/nmcteam/image-with-text) - 一个在图像中嵌入文本的库
+* [Color Extractor](https://github.com/php-loep/color-extractor) - 一个从图像中提取颜色的库
+* [Glide](https://github.com/thephpleague/glide) - 一个按需处理图像的库
 
-## Testing
-*Libraries for testing codebases and generating test data.*
+## 测试 Testing
+*测试代码和生成测试数据的库*
 
-* [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
-* [DBUnit](https://github.com/sebastianbergmann/dbunit) - A database testing library for PHPUnit.
-* [ParaTest](https://github.com/brianium/paratest) - A parallel testing library for PHPUnit.
-* [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
-* [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
-* [AspectMock](https://github.com/Codeception/AspectMock) - A mocking framework for PHPUnit/Codeception.
-* [Atoum](https://github.com/atoum/atoum) - A simple testing library.
-* [Mockery](https://github.com/padraic/mockery) - A mock object library for testing.
-* [Phake](https://github.com/mlively/Phake) - Another mock object library for testing.
-* [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
-* [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
-* [Samsui](https://github.com/mauris/samsui) - Another fake data generator library.
-* [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
-* [Behat](http://behat.org/) - A behaviour driven development (BDD) testing framework.
-* [Pho](https://github.com/danielstjules/pho) - Another behaviour driven development testing framework.
-* [Mink](http://mink.behat.org/) - Web acceptance testing.
-* [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
-* [VFS Stream](https://github.com/mikey179/vfsStream) - A virtual filesystem stream wrapper for testing.
-* [VFS](https://github.com/adlawson/vfs.php) - Another virtual filesystem for testing.
-* [Locust](http://locust.io/) - A modern load test library written in Python.
-* [Peridot](https://github.com/peridot-php/peridot) - An event driven test framework.
+* [PHPUnit](https://github.com/sebastianbergmann/phpunit) - 一个单元测试框架
+* [DBUnit](https://github.com/sebastianbergmann/dbunit) - 一个PHPUnit的数据库测试库
+* [ParaTest](https://github.com/brianium/paratest) - 一个PHPUnit的并行测试库
+* [PHPSpec](https://github.com/phpspec/phpspec) - 一个基于功能点设计的单元测试库
+* [Codeception](https://github.com/Codeception/Codeception) - 一个全栈测试框架
+* [AspectMock](https://github.com/Codeception/AspectMock) - 一个PHPUnit/Codeception的模拟框架。
+* [Atoum](https://github.com/atoum/atoum) - 一个简单的测试库
+* [Mockery](https://github.com/padraic/mockery) - 一个用于测试的模拟对象的库
+* [Phake](https://github.com/mlively/Phake) - 另一个用于测试的模拟对象的库
+* [Prophecy](https://github.com/phpspec/prophecy) - 一个可选度很高的模拟框架
+* [Faker](https://github.com/fzaninotto/Faker) - 一个伪数据生成库
+* [Samsui](https://github.com/mauris/samsui) - 另一个伪数据生成库
+* [Alice](https://github.com/nelmio/alice) - 富有表现力的一代库
+* [Behat](http://behat.org/) - 一个行为驱动开发（BDD）测试框架
+* [Pho](https://github.com/danielstjules/pho) - 另一个行为驱动开发测试框架
+* [Mink](http://mink.behat.org/) - Web验收测试
+* [HTTP Mock](https://github.com/InterNations/http-mock) - 一个在单元测试模拟HTTP请求的库
+* [VFS Stream](https://github.com/mikey179/vfsStream) - 一个用于测试的虚拟文件系统流的包装器
+* [VFS](https://github.com/adlawson/vfs.php) - 另一个用于测试虚拟的文件系统
+* [Locust](http://locust.io/) - 一个用Python编写的现代加载测试库
+* [Peridot](https://github.com/peridot-php/peridot) - 一个事件驱动开发的测试框架
 
-## Continuous Integration
-*Libraries and applications for continuous integration.*
+## 持续集成 Continuous Integration
+*持续集成的库和应用*
 
-* [Travis CI](https://travis-ci.org/) - A continuous integration platform.
-* [PHPCI](http://www.phptesting.org/) - An open source continuous integration platform for PHP.
-* [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
-* [Jenkins](http://jenkins-ci.org/) A continous integration platform with [PHP support](http://jenkins-php.org/index.html).
-* [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
+* [Travis CI](https://travis-ci.org/) - 一个持续集成平台
+* [PHPCI](http://www.phptesting.org/) - 一个PHP的开源的持续集成平台
+* [Sismo](http://sismo.sensiolabs.org/) - 一个持续测试的服务库
+* [Jenkins](http://jenkins-ci.org/) 一个[PHP支持](http://jenkins-php.org/index.html)的持续集成平台
+* [JoliCi](https://github.com/jolicode/JoliCi) - 一个用PHP编写的由Docker支持的持续集成的客户端
 
-## Documentation
-*Libraries for generating project documentation.*
+## 文档 Documentation
+*生成项目文档的库*
 
-* [Sami](https://github.com/fabpot/Sami) - An API documentation generator.
-* [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
-* [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor2) - A documentation generator.
-* [phpDox](http://phpdox.de/) - A documentation generator for PHP projects (that is not limited to API documentation).
+* [Sami](https://github.com/fabpot/Sami) - 一个API文档生成器
+* [APIGen](https://github.com/apigen/apigen) - 另一个API文档生成器
+* [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor2) - 一个API文档生成器
+* [phpDox](http://phpdox.de/) - 一个PHP项目的文档生成器（不限于API文档）
 
-## Security
-*Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
+## 安全 Security
+*生成安全的随机数，加密数据，扫描漏洞的库*
 
-* [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
-* [RandomLib](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
-* [True Random](https://github.com/pixeloution/true-random) - A library that generates random numbers using [www.random.org](http://www.random.org/).
-* [SecurityMultiTool](https://github.com/padraic/SecurityMultiTool) - A PHP security library.
-* [PHPSecLib](http://phpseclib.sourceforge.net/) - A pure PHP secure communications library.
-* [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
-* [PHP IDS](https://github.com/PHPIDS/PHPIDS) - A structured PHP security layer.
-* [PHP SSH](https://github.com/Herzult/php-ssh) - An experimental object orientated SSH wrapper library.
-* [IniScan](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
-* [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependencies for security advisories.
-* [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
+* [HTML Purifier](https://github.com/ezyang/htmlpurifier) - 一个兼容标准的HTML过滤器
+* [RandomLib](https://github.com/ircmaxell/RandomLib) - 一个生成随机数和字符串的库
+* [True Random](https://github.com/pixeloution/true-random) - 使用[www.random.org](http://www.random.org/)生成随机数的库
+* [SecurityMultiTool](https://github.com/padraic/SecurityMultiTool) - 一个PHP安全库
+* [PHPSecLib](http://phpseclib.sourceforge.net/) - 一个纯PHP安全通信库
+* [TCrypto](https://github.com/timoh6/TCrypto) - 一个简单的键值加密存储库
+* [PHP IDS](https://github.com/PHPIDS/PHPIDS) - 一个结构化的PHP安全层
+* [PHP SSH](https://github.com/Herzult/php-ssh) - 一个试验的面向对象的SSH包装库
+* [IniScan](https://github.com/psecio/iniscan) - 一个扫描PHP INI文件安全的库
+* [SensioLabs Security Check](https://security.sensiolabs.org/) - 一个为检查Composer依赖提供安全建议的web工具
+* [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - 一个集成的web应用渗透测试工具
 
-## Passwords
-*Libraries and tools for working with and storing passwords.*
+## 密码 Passwords
+*处理和存储密码的库和工具*
 
-* [Password Compat](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
-* [phpass](http://www.openwall.com/phpass/) - A portable password hashing framework.
-* [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
-* [Password Policy](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
-* [Password Validator](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
-* [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
+* [Password Compat](https://github.com/ircmaxell/password_compat) - 一个新的PHP5.5密码函数的兼容库
+* [phpass](http://www.openwall.com/phpass/) - 一个便携式的密码哈希框架
+* [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - 一个生成和校验密码的库
+* [Password Policy](https://github.com/ircmaxell/password-policy) -  一个PHP和JavaScript的密码策略库
+* [Password Validator](https://github.com/jeremykendall/password-validator) - 一个校验和升级密码哈希的库
+* [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - 一个基于Zxcvbn JS的现实的PHP密码强度估计库
 
-## Code Analysis
-*Libraries and tools for analysing, parsing and manipulating codebases.*
+## 代码分析 Code Analysis
+*分析，解析和处理代码库的库和工具*
 
-* [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
-* [PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP.
-* [PHPSandbox](https://github.com/fieryprophet/php-sandbox) - A PHP sandbox environment.
-* [Dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
-* [PHP Mess Detector](http://phpmd.org/) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
-* [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
-* [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
-* [PHP Analyser](https://github.com/scrutinizer-ci/php-analyzer) - A library for analysing PHP code to find bugs and errors.
-* [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A coding standards fixer library.
-* [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
-* [PHP Metrics](https://github.com/Halleck45/PhpMetrics) - A static metric library.
-* [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
-* [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
-* [Athletic](https://github.com/polyfractal/athletic) - An annotation based benchmark framework.
-* [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
-* [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
-* [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
-* [xHprof](https://github.com/phacility/xhprof) - Another profiling tool for PHP.
-* [PHPCheckstyle](https://github.com/jbrooksuk/phpcheckstyle) - A tool to help adhere to certain coding conventions.
+* [PHP Parser](https://github.com/nikic/PHP-Parser) - 一个PHP编写的PHP解析器
+* [PHPPHP](https://github.com/ircmaxell/PHPPHP) - 一个PHP实现的PHP虚拟机
+* [PHPSandbox](https://github.com/fieryprophet/php-sandbox) - 一个PHP沙盒环境
+* [Dissect](https://github.com/jakubledl/dissect) - 一个词法和语法分析的工具集合
+* [PHP Mess Detector](http://phpmd.org/) - 一个扫描代码缺陷，次优代码，未使用的参数等等的库。
+* [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - 一个检测PHP、CSS和JS代码标准冲突的库
+* [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - 一个检测复制和粘贴代码的库
+* [PHP Analyser](https://github.com/scrutinizer-ci/php-analyzer) - 一个分析PHP代码查找缺陷和错误的库
+* [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - 一个编码标准库
+* [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - 一个分析和修改PHP源代码的库
+* [PHP Metrics](https://github.com/Halleck45/PhpMetrics) - 一个静态测量库
+* [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - 一个重构PHP代码的命令行工具集
+* [UBench](https://github.com/devster/ubench) - 一个简单的微型基准检测库
+* [Athletic](https://github.com/polyfractal/athletic) - 一个基于注释的基准检测库
+* [Mondrian](https://github.com/Trismegiste/Mondrian) - 使用图论的代码分析工具
+* [Scrutinizer](https://scrutinizer-ci.com/) - 一个审查PHP代码的web工具
+* [PHPLOC](https://github.com/sebastianbergmann/phploc) - 一个快速测量PHP项目大小的工具
+* [xHprof](https://github.com/phacility/xhprof) - 另一个PHP分析工具
+* [PHPCheckstyle](https://github.com/jbrooksuk/phpcheckstyle) - 一个帮助遵守特定的编码惯例的工具
 
-## Debugging
-*Libraries and tools for debugging code.*
+## 调试 Debugging
+*调试代码的库和工具*
 
-* [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
-* [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
-* [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
-* [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
-* [PHPDBG](http://phpdbg.com/) - An interactive PHP debugger.
-* [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
-* [Z-Ray](http://www.zend.com/en/products/server/z-ray) - A debug and profile tool for Zend Server.
+* [xDebug](https://github.com/xdebug/xdebug) - 一个调试和分析PHP的工具
+* [PHP Debug Bar](http://phpdebugbar.com/) - 一个调试工具栏
+* [PHP Console](https://github.com/Seldaek/php-console) - 一个web调试控制台
+* [Barbushin PHP Console](https://github.com/barbushin/php-console) - 另一个使用Google Chrome的web调试控制台
+* [PHPDBG](http://phpdbg.com/) - 一个交互的PHP调试器
+* [Tracy](https://github.com/nette/tracy) - A一个简单的错误检测，写日志和时间测量库
+* [Z-Ray](http://www.zend.com/en/products/server/z-ray) - 一个调试和配置Zend服务器的工具
 
-## Build Tools
-*Project build and automation tools.*
+## 构建工具 Build Tools
+*项目构建和自动化工具*
 
-* [Go](https://github.com/herrera-io/php-go) - A simple PHP build tool.
-* [Bob](https://github.com/CHH/bob) - A simple project automation tool.
-* [Phake](https://github.com/jaz303/phake) - A rake PHP clone library.
-* [Box](https://github.com/kherge/Box) - A utility to build PHAR files.
-* [Phing](http://www.phing.info/) - A PHP project build system inspired by Apache Ant.
+* [Go](https://github.com/herrera-io/php-go) - 一个简单的PHP构建工具
+* [Bob](https://github.com/CHH/bob) - 一个简单的项目自动化工具
+* [Phake](https://github.com/jaz303/phake) - 一个PHP克隆库
+* [Box](https://github.com/kherge/Box) - 一个构建PHAR文件的工具
+* [Phing](http://www.phing.info/) - 一个灵感来自于Apache Ant的PHP项目构建系统
 
-## Task Runners
-*Libraries for automating and running tasks.*
-* [Task](http://taskphp.github.io/) - A pure PHP task runner inspired by Grunt and Gulp.
-* [Robo](https://github.com/Codegyre/Robo) - A PHP Task runner with object-orientated configurations.
-* [Bldr](http://bldr.io/) - A PHP Task runner built on Symfony components.
+## 任务运行器 Task Runners
+*自动运行任务的库*
+* [Task](http://taskphp.github.io/) - 一个灵感来源于Grunt和Gulp的纯PHP任务运行器
+* [Robo](https://github.com/Codegyre/Robo) - 一个面向对象配置的PHP任务运行器
+* [Bldr](http://bldr.io/) - 一个构建在Symfony组件上的PHP任务运行器
 
-## Navigation
-*Tools for building navigation structures.*
+## 导航 Navigation
+*构建导航结构的工具*
 
-* [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
-* [Cartographer](https://github.com/tackk/cartographer) - A sitemap generation library.
+* [KnpMenu](https://github.com/KnpLabs/KnpMenu) - 一个菜单库
+* [Cartographer](https://github.com/tackk/cartographer) - 一个站点地图生成库
 
-## Asset Management
-*Tools for managing, compressing and minifying website assets.*
+## 资源管理 Asset Management
+*管理，压缩和最小化web站点资源的工具*
 
-* [Assetic](https://github.com/kriswallsmith/assetic) - An asset manager pipeline library.
-* [Pipe](https://github.com/CHH/pipe) - Another asset manager pipeline library.
-* [Munee](https://github.com/meenie/munee) - An asset optimiser library.
-* [JShrink](https://github.com/tedivm/JShrink) - A JavaScript minifier library.
-* [Puli](https://github.com/webmozart/puli) - A library for determining assets absolute paths.
+* [Assetic](https://github.com/kriswallsmith/assetic) - 一个资源管理的管道库
+* [Pipe](https://github.com/CHH/pipe) - 另一个资源管理的管道库
+* [Munee](https://github.com/meenie/munee) - 一个资源优化库
+* [JShrink](https://github.com/tedivm/JShrink) - 一个JavaScript的最小化库
+* [Puli](https://github.com/webmozart/puli) - 一个检测资源绝对路径的库
 
-## Geolocation
-*Libraries for geocoding addresses and working with latitudes and longitudes.*
+## 地理位置 Geolocation
+*地理编码地址和使用纬度经度的库*
 
-* [GeoCoder](http://geocoder-php.org/) - A geocoding library.
-* [GeoTools](https://github.com/php-loep/Geotools) - A library of geo-related tools.
-* [PHPGeo](https://github.com/mjaschen/phpgeo) - A simple geo library.
-* [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
+* [GeoCoder](http://geocoder-php.org/) - 一个地理编码库
+* [GeoTools](https://github.com/php-loep/Geotools) - 一个地理工具相关的库
+* [PHPGeo](https://github.com/mjaschen/phpgeo) - 一个简单的地理库
+* [GeoJSON](https://github.com/jmikola/geojson) - 一个GeoJSON的实现
 
-## Date and Time
-*Libraries for working with dates and times.*
+## 日期和时间 Date and Time
+*处理日期和时间的库*
 
-* [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
-* [ExpressiveDate](https://github.com/jasonlewis/expressive-date) - Another DateTime API extension.
-* [CalendR](http://yohan.giarel.li/CalendR) - A calendar management library.
+* [Carbon](https://github.com/briannesbitt/Carbon) - 一个简单的日期时间API扩展
+* [ExpressiveDate](https://github.com/jasonlewis/expressive-date) - 另一个日期时间API扩展
+* [CalendR](http://yohan.giarel.li/CalendR) - 一个日历管理库
 
-## Event
-*Libraries that are event-driven or implement non-blocking event loops.*
+## 事件 Event
+*时间驱动或实现非阻塞事件循环的库*
 
-* [React](https://github.com/reactphp/react) - An event driven non-blocking I/O library.
-* [Rx.PHP](https://github.com/asm89/Rx.PHP) - A reactive extension library.
-* [Ratchet](https://github.com/cboden/Ratchet) - A web socket library.
-* [Hoa WebSocket](https://github.com/hoaproject/Websocket) - Another web socket library.
-* [Hoa EventSource](https://github.com/hoaproject/Eventsource) - An event source library.
-* [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
-* [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
+* [React](https://github.com/reactphp/react) - 一个事件驱动的非阻塞I/O库.
+* [Rx.PHP](https://github.com/asm89/Rx.PHP) - 一个reactive扩展库
+* [Ratchet](https://github.com/cboden/Ratchet) - 一个web socket库
+* [Hoa WebSocket](https://github.com/hoaproject/Websocket) - 另一个web socket库
+* [Hoa EventSource](https://github.com/hoaproject/Eventsource) - 一个事件源库
+* [Evenement](https://github.com/igorw/evenement) - 一个事件分发库
+* [Event](https://github.com/thephpleague/event) - 一个专注于域名事件的库
 * [Broadway](https://github.com/qandidate-labs/broadway) - An event source and CQRS library.
 
-## Logging
-*Libraries for generating and working with log files.*
+## 日志 Logging
+*生成和处理日志文件的库*
 
-* [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
-* [KLogger](https://github.com/katzgrau/KLogger) - An easy-to-use PSR-3 compliant logging class.
+* [Monolog](https://github.com/Seldaek/monolog) - 一个全面的日志工具
+* [KLogger](https://github.com/katzgrau/KLogger) - 一个易用的兼容PSR-3的日志类
 
-## E-commerce
-*Libraries and applications for taking payments and building online e-commerce stores.*
+## 电子商务 E-commerce
+*处理支付和构建在线电子商务商店的库和应用*
 
-* [OmniPay](https://github.com/adrianmacneil/omnipay) - A framework agnostic multi-gateway payment processing library.
-* [Payum](https://github.com/payum/payum) - A payment abstraction library.
-* [Sylius](http://www.sylius.org/) - An open source e-commerce solution.
-* [Thelia](http://thelia.net/v2/) - Another open source e-commerce solution.
-* [Money](https://github.com/mathiasverraes/money) - A PHP implementation of Fowler's money pattern.
-* [Sebastian Money](https://github.com/sebastianbergmann/money) - Another library for working with monetary values.
-* [Swap](https://github.com/florianv/swap) - An exchange rates library.
+* [OmniPay](https://github.com/adrianmacneil/omnipay) - 一个框架混合了多网关支付处理的库
+* [Payum](https://github.com/payum/payum) - 一个支付抽象库
+* [Sylius](http://www.sylius.org/) - 一个开源的电子商务解决方案
+* [Thelia](http://thelia.net/v2/) - 另一个开源的电子商务解决方案
+* [Money](https://github.com/mathiasverraes/money) - 一个Fowler金钱模式的PHP实现
+* [Sebastian Money](https://github.com/sebastianbergmann/money) - 另一个处理货币值的库
+* [Swap](https://github.com/florianv/swap) - 一个汇率库
 
 ## PDF
-*Libraries and software for working with PDF files.*
+*处理PDF文件的库和软件*
 
-* [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
-* [WKHTMLToPDF](https://github.com/antialize/wkhtmltopdf) - A tool to convert HTML to PDF.
+* [Snappy](https://github.com/KnpLabs/snappy) - 一个PDF和图像生成器库
+* [WKHTMLToPDF](https://github.com/antialize/wkhtmltopdf) - 一个将HTML转换为PDF的工具
 
 ## Office
 *Libraries for working with office suite documents.*
 
-* [PHPWord](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
-* [PHPExcel](https://github.com/PHPOffice/PHPExcel) - A library for working with Microsoft Excel documents.
-* [PHPPowerPoint](https://github.com/PHPOffice/PHPPowerPoint) - A library for working with Microsoft Word documents.
-* [ExcelAnt](https://github.com/Wisembly/ExcelAnt) - A library for manipulating Microsoft Excel documents.
+* [PHPWord](https://github.com/PHPOffice/PHPWord) - 一个处理Word文档的库
+* [PHPExcel](https://github.com/PHPOffice/PHPExcel) - 一个处理Excel文档的库
+* [PHPPowerPoint](https://github.com/PHPOffice/PHPPowerPoint) - 一个处理PPT文档的库
+* [ExcelAnt](https://github.com/Wisembly/ExcelAnt) - 一个操作Excel文档的库
 
-## Database
-*Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
+## 数据库 Database
+*使用对象关系映射（ORM）或数据映射技术的数据库交互的库*
 
-* [Doctrine](http://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
-* [Doctrine Extensions](https://github.com/l3pp4rd/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
-* [Propel](http://www.propelorm.org/) - A fast ORM, migration library and query builder.
-* [Eloquent](https://github.com/illuminate/database) - The Laravel 4 ORM.
-* [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
-* [Spot2](https://github.com/vlucas/spot2) - A MySQL datamapper ORM.
-* [RedBean](http://redbeanphp.com/) - A lightweight, configuration-less ORM.
-* [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
-* [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
+* [Doctrine](http://www.doctrine-project.org/) - 一个全面的DBAL和ORM
+* [Doctrine Extensions](https://github.com/l3pp4rd/DoctrineExtensions) - 一个Doctrine行为扩展的集合
+* [Propel](http://www.propelorm.org/) - 一个快速的ORM，迁移库和查询构架器
+* [Eloquent](https://github.com/illuminate/database) - Laravel 4 的ORM.
+* [Baum](https://github.com/etrepat/baum) - 一个Eloquent的嵌套集实现
+* [Spot2](https://github.com/vlucas/spot2) - 一个MySQL的ORM映射器
+* [RedBean](http://redbeanphp.com/) - 一个轻量级，低配置的ORM
+* [Pomm](https://github.com/chanmix51/Pomm) - 一个PostgreSQL对象模型管理器
+* [ProxyManager](https://github.com/Ocramius/ProxyManager) - 一个为数据映射生成代理对象的工具集
 
-## Migrations
-Libraries to help manage database schemas and migrations.
+## 迁移 Migrations
+*帮助管理数据库模式和迁移的库*
 
-* [PHPMig](https://github.com/davedevelopment/phpmig) - Another migration management library.
-* [Phinx](https://github.com/robmorgan/phinx) - Another database migration library.
-* [Migrations](https://github.com/icomefromthenet/Migrations) - A migration management library.
-* [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - A migration library for Doctrine.
+* [PHPMig](https://github.com/davedevelopment/phpmig) - 另一个迁移管理库
+* [Phinx](https://github.com/robmorgan/phinx) - 另一个数据库迁移的管理库
+* [Migrations](https://github.com/icomefromthenet/Migrations) - 一个迁移管理库
+* [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - 一个Doctrine的迁移库
 
 ## NoSQL
-*Libraries for working with "NoSQL" backends.*
+*处理NoSQL后端的库*
 
-* [MongoQB](https://github.com/alexbilbie/MongoQB) - A MongoDB query builder library.
-* [Monga](https://github.com/thephpleague/monga) - A MongoDB abstraction library.
-* [Predis](https://github.com/nrk/predis) - A feature complete Redis library.
+* [MongoQB](https://github.com/alexbilbie/MongoQB) - 一个MongoDB查询构建库
+* [Monga](https://github.com/thephpleague/monga) - 一个MongoDB抽象库
+* [Predis](https://github.com/nrk/predis) - 一个功能完整的Redis库
 
-## Queue
-*Libraries for working with event and task queues.*
+## 队列 Queue
+*处理事件和任务队列的库*
 
-* [Pheanstalk](https://github.com/pda/pheanstalk) - A Beanstalkd client library.
-* [PHP AMQP](https://github.com/videlalvaro/php-amqplib) - A pure PHP AMQP library.
-* [Thumper](https://github.com/videlalvaro/Thumper) - A RabbitMQ pattern library.
-* [Bernard](https://github.com/bernardphp/bernard) - A multibackend abstraction library.
+* [Pheanstalk](https://github.com/pda/pheanstalk) - 一个Beanstalkd客户端库
+* [PHP AMQP](https://github.com/videlalvaro/php-amqplib) - 一个纯PHP AMQP库
+* [Thumper](https://github.com/videlalvaro/Thumper) - 一个RabbitMQ模式库
+* [Bernard](https://github.com/bernardphp/bernard) - 一个多后端抽象库
 
-## Search
-*Libraries and software for indexing and performing search queries on data.*
+## 搜索 Search
+*在数据上索引和执行查询的库和软件*
 
-* [ElasticSearch PHP](https://github.com/elasticsearch/elasticsearch-php) - The official client library for [ElasticSearch](http://www.elasticsearch.org/).
-* [Elastica](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.
-* [Solarium](http://www.solarium-project.org/) - A client library for [Solr](http://lucene.apache.org/solr/).
-* [SphinxQL query builder](http://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](http://sphinxsearch.com/) search engine.
+* [ElasticSearch PHP](https://github.com/elasticsearch/elasticsearch-php) - [ElasticSearch](http://www.elasticsearch.org/)的官方客户端库
+* [Elastica](https://github.com/ruflin/Elastica) - ElasticSearch的客户端库
+* [Solarium](http://www.solarium-project.org/) - [Solr](http://lucene.apache.org/solr/)的客户端库
+* [SphinxQL query builder](http://foolcode.github.io/SphinxQL-Query-Builder/) - [Sphinx](http://sphinxsearch.com/)搜索引擎的的查询库
 
-## Command Line
-*Libraries for building command line utilities.*
+## 命令行 Command Line
+*构建命令行工具的库*
 
-* [Boris](https://github.com/d11wtq/boris) - A tiny PHP REPL.
-* [PsySH](https://github.com/bobthecow/psysh) - Another PHP REPL.
-* [Pecan](https://github.com/mcrumm/pecan) - An event-driven, non-blocking shell.
-* [GetOpt](https://github.com/ulrichsg/getopt-php) - A command line opt parser.
-* [OptParse](https://github.com/CHH/optparse) - Another command line opt parser.
-* [Commando](https://github.com/nategood/commando) - Another simple command line opt parser.
-* [GetOptionKit](https://github.com/c9s/php-GetOptionKit) - Another command line opt parser.
-* [Cron Expression](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
-* [ShellWrap](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
-* [Hoa Console](https://github.com/hoaproject/Console) - Another command line library.
-* [Shunt](https://github.com/php-loep/shunt) - A library for running commands in parallel on multiple remote machines.
-* [Cilex](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
-* [CLImate](https://github.com/thephpleague/climate) - A library for outputting colours and special formatting.
+* [Boris](https://github.com/d11wtq/boris) - 一个微型PHP REPL
+* [PsySH](https://github.com/bobthecow/psysh) - 另一个PHP REPL
+* [Pecan](https://github.com/mcrumm/pecan) - 一个事件驱动和非阻塞的shell
+* [GetOpt](https://github.com/ulrichsg/getopt-php) - 一个命令行选择解析器
+* [OptParse](https://github.com/CHH/optparse) - 另一个命令行选择解析器
+* [Commando](https://github.com/nategood/commando) - 另一个简单的命令行选择解析器
+* [GetOptionKit](https://github.com/c9s/php-GetOptionKit) - 另一个命令行选择解析器
+* [Cron Expression](https://github.com/mtdowling/cron-expression) - 一个计算cron运行日期的库
+* [ShellWrap](https://github.com/MrRio/shellwrap) - -一个简单的命令行包装库
+* [Hoa Console](https://github.com/hoaproject/Console) - 另一个命令行库
+* [Shunt](https://github.com/php-loep/shunt) - 一个在多台远程机器上并行运行命令行的库
+* [Cilex](https://github.com/Cilex/Cilex) - 一个构建命令行工具的微型框架
+* [CLImate](https://github.com/thephpleague/climate) - 一种有颜色的特殊格式的输出的库
 
-## Authentication and Authorization
-*Libraries for implementing user authentication and authorization.*
+## 身份验证和授权 Authentication and Authorization
+*实现身份验证和授权的库*
 
-* [Sentry](https://github.com/cartalyst/sentry) - A framework agnostic authentication & authorisation library.
-* [Sentry Social](http://docs.cartalyst.com/sentry-social-2/introduction) - A library for social network authentication.
-* [Opauth](https://github.com/opauth/opauth) - A multi-provider authentication framework.
-* [OAuth2 Server](http://oauth2.thephpleague.com/) - An OAuth2 authentication server, resource server and client library.
-* [OAuth2 Server](http://bshaffer.github.io/oauth2-server-php-docs/) - Another OAuth2 server implementation.
-* [PHP oAuthLib](https://github.com/Lusitanian/PHPoAuthLib) - Another OAuth library.
-* [TwitterOAuth](https://github.com/ruudk/twitteroauth) - A Twitter OAuth library.
-* [TwitterSDK](https://github.com/lyrixx/twitter-sdk) - A fully tested Twitter SDK.
-* [Hawk](https://github.com/dflydev/dflydev-hawk) - A Hawk HTTP authentication library.
-* [HybridAuth](https://github.com/hybridauth/hybridauth) - An open source social sign on library.
-* [Lock](https://github.com/BeatSwitch/lock) - A library for implementing Access Control Lists (ACL) systems.
-* [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
-* [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
+* [Sentry](https://github.com/cartalyst/sentry) - 一个混合的身份验证和授权的框架库
+* [Sentry Social](http://docs.cartalyst.com/sentry-social-2/introduction) - 一个社交网络身份验证库
+* [Opauth](https://github.com/opauth/opauth) - 一个多渠道的身份验证框架
+* [OAuth2 Server](http://oauth2.thephpleague.com/) - 一个OAuth2身份验证服务，资源服务器和客户端库
+* [OAuth2 Server](http://bshaffer.github.io/oauth2-server-php-docs/) - 另一个OAuth2服务器实现
+* [PHP oAuthLib](https://github.com/Lusitanian/PHPoAuthLib) - 另一个OAuth库
+* [TwitterOAuth](https://github.com/ruudk/twitteroauth) - 一个Twitter OAuth库
+* [TwitterSDK](https://github.com/lyrixx/twitter-sdk) - 一个完全测试的Twitter SDK
+* [Hawk](https://github.com/dflydev/dflydev-hawk) - 一个Hawk HTTP身份认证库
+* [HybridAuth](https://github.com/hybridauth/hybridauth) - 一个开源的社交登陆库
+* [Lock](https://github.com/BeatSwitch/lock) - 一种实现访问控制列表（ACL）系统的库
+* [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - 一个OAuth 1.0客户端的库
+* [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) - 一个OAuth 2.0客户端的库
 
-## Markup
-*Libraries for working with markup.*
+## 标记 Markup
+*处理标记的库*
 
-* [Decoda](http://milesj.me/code/php/decoda) - A lightweight markup parser library.
-* [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
-* [CommonMark PHP](https://github.com/thephpleague/commonmark) - A Markdown parser which supports the full [CommonMark spec](https://jgm.github.io/stmd/spec.html).
-* [Dflydev Markdown](https://github.com/dflydev/dflydev-markdown) - Another Markdown parser.
-* [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
-* [Ciconia](https://github.com/kzykhys/Ciconia) - Another Markdown parser that supports Github flavoured Markdown.
-* [Cebe Markdown](https://github.com/cebe/markdown) - An fast and extensible Markdown parser.
-* [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
+* [Decoda](http://milesj.me/code/php/decoda) - 一个轻量级标记解析库
+* [PHP Markdown](https://github.com/michelf/php-markdown) - 一个Markdown解析器
+* [CommonMark PHP](https://github.com/thephpleague/commonmark) - 一个对[CommonMark spec](https://jgm.github.io/stmd/spec.html)全支持的Markdown解析器
+* [Dflydev Markdown](https://github.com/dflydev/dflydev-markdown) - 另一个Markdown解析器
+* [Parsedown](https://github.com/erusev/parsedown) - 另一个Markdown解析器
+* [Ciconia](https://github.com/kzykhys/Ciconia) - 另一个支持Github Markdown风格的Markdown解析器
+* [Cebe Markdown](https://github.com/cebe/markdown) - 一个快速的可扩展的Markdown解析器
+* [HTML5 PHP](https://github.com/Masterminds/html5-php) - 一个HTML5解析和序列化库
 
-## Strings
-*Libraries for parsing and manipulating strings.*
+## 字符串 Strings
+*解析和处理字符串的库*
 
-* [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
-* [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
-* [Hoa String](https://github.com/hoaproject/String) - Another UTF-8 string library.
-* [Stringy](https://github.com/danielstjules/Stringy) - A string manipulation library with multibyte support.
-* [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
-* [UUID](https://github.com/ramsey/uuid) - A library for generating UUIDs.
-* [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
-* [Urlify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
-* [Text](https://github.com/kzykhys/Text) - A text manipulation library.
-* [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
-* [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
+* [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - 一个将ANSI转化为HTML5的库
+* [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - 一个处理UTF-8字符串的便携库
+* [Hoa String](https://github.com/hoaproject/String) - 另一个UTF-8字符串库
+* [Stringy](https://github.com/danielstjules/Stringy) - 一个多字节支持的字符串处理库
+* [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - 处理和转换颜色的库
+* [UUID](https://github.com/ramsey/uuid) - 生成UUIDs的库
+* [Slugify](https://github.com/cocur/slugify) - 转换字符串到slug的库
+* [Urlify](https://github.com/jbroadway/urlify) - 一个Django中URLify.js的PHP版本
+* [Text](https://github.com/kzykhys/Text) - 一个文本处理库
+* [SQL Formatter](https://github.com/jdorn/sql-formatter/) - 一个格式化SQL语句的库
+* [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - 一个解析user agent字符串的库
 
-## Numbers
-*Libraries for working with numbers.*
+## 数字 Numbers
+*处理数字的库*
 
-* [Numbers PHP](https://github.com/powder96/numbers.php) - A library for working with numbers.
-* [Math](https://github.com/moontoast/math) - A library for working with large numbers.
-* [ByteUnits](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
-* [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
-* [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
-* [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
+* [Numbers PHP](https://github.com/powder96/numbers.php) - 一个处理数字的库
+* [Math](https://github.com/moontoast/math) - 一个处理巨大数字的库
+* [ByteUnits](https://github.com/gabrielelana/byte-units) - 一个在二进制和度量系统中解析,格式化和转换字节单元的库
+* [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - 一个计量单位转换的库
+* [PHP Conversion](https://github.com/Crisu83/php-conversion) -另一个计量单位转换的库
+* [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - 一个Google电话号码处理的PHP实现库
 
 ## Filtering and Validation
 *Libraries for filtering and validating data.*
