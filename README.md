@@ -107,6 +107,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
 * [CakePHP](http://cakephp.org/) - A rapid application development framework.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+* [li₃](http://li3.me/) - li₃ is the fast, flexible and most RAD development framework for PHP
 
 ## Framework Extras
 *Extras related to web development frameworks.*
