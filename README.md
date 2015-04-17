@@ -1,5 +1,5 @@
 # Awesome PHP
-A curated list of amazingly awesome PHP libraries, resources and shiny things.
+一个PHP资源列表，内容包括：库、框架、模板、安全、代码分析、日志、第三方库、配置工具、Web 工具、书籍、电子书、经典博文等等
 
 ## 贡献
 详细内容请查看[贡献](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md).
@@ -541,279 +541,279 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) -另一个计量单位转换的库
 * [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - 一个Google电话号码处理的PHP实现库
 
-## Filtering and Validation
-*Libraries for filtering and validating data.*
+## 过滤和验证 Filtering and Validation
+*过滤和验证数据的库*
 
-* [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
-* [Respect Validate](https://github.com/Respect/Validation) - A simple validation library.
-* [Valitron](https://github.com/vlucas/valitron) - Another validation library.
-* [Upload](https://github.com/codeguy/Upload) - A library for handling file uploads and validation.
-* [DMS Filter](https://github.com/rdohms/DMS-Filter) - An annotation filtering library.
-* [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
-* [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating various ISO and ZIP codes (IBAN, SWIFT/BIC, BBAN, VAT, SSN, UKNIN).
+* [Filterus](https://github.com/ircmaxell/filterus) - 一个简单的PHP过滤库
+* [Respect Validate](https://github.com/Respect/Validation) - 一个简单的验证库
+* [Valitron](https://github.com/vlucas/valitron) - 另一个验证库
+* [Upload](https://github.com/codeguy/Upload) - 一个处理文件上传和验证的库
+* [DMS Filter](https://github.com/rdohms/DMS-Filter) - 一个注释过滤库
+* [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - 一个支持YAML,JSON和XML的模式验证库
+* [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - 一个验证各种ISO和ZIP编码的库(IBAN, SWIFT/BIC, BBAN, VAT, SSN, UKNIN)
 
-## REST and API
-*Libraries and web tools for developing REST-ful APIs.*
+## REST和API REST and API
+*开发REST-ful API的库和web工具*
 
-* [Apigility](https://github.com/zfcampus/zf-apigility-skeleton) - An API builder built with Zend Framework 2.
-* [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
-* [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
-* [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
-* [Drest](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
-* [Restler](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
+* [Apigility](https://github.com/zfcampus/zf-apigility-skeleton) - 一个使用Zend Framework 2构建的API构建器
+* [Hateoas](https://github.com/willdurand/Hateoas) - 一个HOATEOAS REST web服务库
+* [HAL](https://github.com/blongden/hal) - 一个超文本应用语言(HAL)构建库
+* [Negotiation](https://github.com/willdurand/Negotiation) - 一个内容协商库
+* [Drest](https://github.com/leedavis81/drest) - 一个将Doctrine实体暴露为REST资源节点的库
+* [Restler](https://github.com/Luracast/Restler) - 一个将PHP方法暴露为RESTful web API的轻量级框架
 
-## Caching
-*Libraries for caching data.*
+## 缓存 Caching
+*缓存数据的库*
 
-* [Alternative PHP Cache (APC)](http://www.php.net/manual/en/book.apc.php) - Open opcode cache for PHP.
-* [Cache](https://github.com/doctrine/cache) - A caching library (part of Doctrine).
-* [Stash](https://github.com/tedivm/Stash) - Another library for caching.
+* [Alternative PHP Cache (APC)](http://www.php.net/manual/en/book.apc.php) - 打开PHP操作码缓存
+* [Cache](https://github.com/doctrine/cache) - 一个缓存库(Doctrine的一部分)
+* [Stash](https://github.com/tedivm/Stash) - 另一个缓存库
 
-## Data Structure and Storage
-*Libraries that implement data structure or storage techniques.*
+## 数据结构和存储 Data Structure and Storage
+*实现数据结构和存储技术的库*
 
-* [Ardent](https://github.com/morrisonlevi/Ardent) - A library of data structures.
-* [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
-* [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
-* [PHP Object Storage](https://github.com/herrera-io/php-object-storage) - A library for object storage.
-* [Fractal](https://github.com/php-loep/fractal) - A library for converting complex data structures to JSON output.
-* [Totem](http://github.com/Wisembly/Totem) - A library to manage and create data changesets.
-* [PINQ](https://github.com/TimeToogo/Pinq) - A real Linq library for PHP.
-* [JsonMapper](https://github.com/netresearch/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
+* [Ardent](https://github.com/morrisonlevi/Ardent) - 一个数据结构库
+* [PHP Collections](https://github.com/schmittjoh/php-collection) - 一个简单的集合库
+* [Serializer](https://github.com/schmittjoh/serializer) - 一个序列化和反序列化数据的库
+* [PHP Object Storage](https://github.com/herrera-io/php-object-storage) - 一个对象存储库
+* [Fractal](https://github.com/php-loep/fractal) - 一个转换复杂数据结构到JSON输出的库
+* [Totem](http://github.com/Wisembly/Totem) - -一个管理和创建数据交换集的库
+* [PINQ](https://github.com/TimeToogo/Pinq) - 一个PHP实现的Linq库
+* [JsonMapper](https://github.com/netresearch/jsonmapper) - 一个将内嵌JSON结构映射为PHP类的库
 
-## Notifications
-*Libraries for working with notification software.*
+## 通知 Notifications
+*处理通知软件的库*
 
-* [Nod](https://github.com/filp/nod) - A notification library (e.g., Growl).
-* [Notificato](https://github.com/wrep/notificato) - A library for handling push notifications.
-* [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - A standalone library for device push notifications.
-* [Notificator](https://github.com/namshi/notificator) - A lightweight notification library.
+* [Nod](https://github.com/filp/nod) - 一个通知库(Growl等)
+* [Notificato](https://github.com/wrep/notificato) - 一个处理推送通知的库
+* [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - 一个设备推送通知的独立库
+* [Notificator](https://github.com/namshi/notificator) - 一个轻量级的通知库
 
-## Deployment
-*Libraries for project deployment.*
+## 部署 Deployment
+*项目部署库*
 
-* [Pomander](https://github.com/tamagokun/pomander) - A deployment tool for PHP applications.
-* [Rocketeer](https://github.com/Anahkiasen/rocketeer) - A fast and easy deployer for the PHP world.
-* [Envoy](https://github.com/laravel/envoy) - A tool to run SSH tasks with PHP.
-* [Plum](https://github.com/aerialls/Plum) - A deployer library.
-* [Deployer](https://github.com/deployphp/deployer) - A deployment tool.
+* [Pomander](https://github.com/tamagokun/pomander) - 一个PHP应用部署工具
+* [Rocketeer](https://github.com/Anahkiasen/rocketeer) - PHP世界里的一个快速简单的部署器
+* [Envoy](https://github.com/laravel/envoy) - 一个用PHP运行SSH任务的工具
+* [Plum](https://github.com/aerialls/Plum) - 一个部署库
+* [Deployer](https://github.com/deployphp/deployer) - 一个部署工具
 
-## Internationalisation and Localisation
-*Libraries for Internationalization (I18n) and Localization (L10n).*
+## 国际化和本地化 Internationalisation and Localisation
+*国际化(I18n)和本地化(L10n)的库*
 
 * [Aura Intl](https://github.com/auraphp/Aura.Intl)
 
-## Third Party APIs
-*Libraries for accessing third party APIs.*
+## 第三方API Third Party APIs
+*访问第三方API的库*
 
-* [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
-* [S3 Stream Wrapper](https://github.com/gwkunze/S3StreamWrapper) - A stream wrapper library for Amazon S3.
-* [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
-* [Campaign Monitor](http://campaignmonitor.github.com/createsend-php/) - The official Campaign Monitor PHP library.
-* [Digital Ocean](https://github.com/toin0u/DigitalOcean) - A library to interface with the Digital Ocean API.
-* [Github](https://github.com/dsyph3r/github-api3-php) - A library to interface with the Github API.
-* [PHP Github API](https://github.com/KnpLabs/php-github-api) - Another library to interface with the Github API.
-* [Twitter OAuth](https://github.com/widop/twitter-oauth) - A library to interface with Twitter's OAuth workflow.
-* [Twitter REST](https://github.com/widop/twitter-rest) - A library to interact with Twitter's REST API.
-* [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.
-* [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
-* [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
+* [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - PHP AWS SDK官方库
+* [S3 Stream Wrapper](https://github.com/gwkunze/S3StreamWrapper) - Amazon S3流包装库
+* [Stripe](https://github.com/stripe/stripe-php) - Stripe官方PHP库
+* [Campaign Monitor](http://campaignmonitor.github.com/createsend-php/) - Campaign Monitor官方PHP库
+* [Digital Ocean](https://github.com/toin0u/DigitalOcean) - Digital Ocean API接口库
+* [Github](https://github.com/dsyph3r/github-api3-php) - 一个Github API交互库
+* [PHP Github API](https://github.com/KnpLabs/php-github-api) - 另一个Github API交互库
+* [Twitter OAuth](https://github.com/widop/twitter-oauth) - 一个Twitter OAuth工作流交互库
+* [Twitter REST](https://github.com/widop/twitter-rest) - 一个Twitter REST API交互库
+* [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) - Dropbox SDK官方PHP库
+* [Twilio](https://github.com/twilio/twilio-php) - Twilio官方PHP REST API
+* [Mailgun](https://github.com/mailgun/mailgun-php) - Mailgun官方PHP REST API
 
-## Extensions
-*Libraries to help build PHP extensions.*
+## 扩展 Extensions
+*帮助构建PHP扩展的库*
 
-* [Zephir](https://github.com/phalcon/zephir) - A compiled language between PHP and C++ for developing PHP extensions.
-* [PHP CPP](http://www.php-cpp.com/) - A C++ library for developing PHP extensions.
+* [Zephir](https://github.com/phalcon/zephir) - 用于开发PHP扩展，且介于PHP和C++之间的编译语言
+* [PHP CPP](http://www.php-cpp.com/) - 一个开发PHP扩展的C++库
 
-## Miscellaneous
-*Useful libraries or tools that don't fit in the categories above.*
+## 杂项 Miscellaneous
+*不在上面分类中的有用库和工具*
 
-* [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
-* [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
-* [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) - A library for validating JSONP callbacks.
-* [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
-* [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
-* [LiteCQRS](https://github.com/beberlei/litecqrs-php) - A CQRS (Command Query Responsibility Separation) library.
-* [Sslurp](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL suck less.
-* [PHP Option](https://github.com/schmittjoh/php-option) An option type library.
-* [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
-* [Sabre VObject](https://github.com/evert/sabre-vobject) - A library for parsing VCard and iCalendar objects.
-* [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
-* [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
-* [Finite](http://yohan.giarel.li/Finite) - A simple PHP finite state machine.
-* [LadyBug](https://github.com/raulfraile/Ladybug) - A dumper library.
-* [Procrastinator](https://github.com/lstrojny/Procrastinator) - A library for running time consuming tasks.
-* [Compose](https://github.com/igorw/compose) - A function composition library.
-* [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
-* [Jumper](https://github.com/kakawait/Jumper) - A remote service executor library.
-* [Underscore](http://anahkiasen.github.io/underscore-php/) - A PHP port of the Underscore JS library.
-* [PHP PassBook](https://github.com/eymengunay/php-passbook) - A PHP library for iOS PassBook.
-* [PHP Expression](https://github.com/Kitano/php-expression) - A PHP expression language.
-* [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
-* [Wise](https://github.com/herrera-io/php-wise) - A configuration manager.
-* [Opengraph](https://github.com/euskadi31/Opengraph) - An opengraph library.
-* [Essence](https://github.com/felixgirault/essence) - A library for extracting web media.
-* [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
-* [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
-* [Monad PHP](https://github.com/ircmaxell/monad-php) - A simple Monad library.
-* [Flux](https://github.com/selvinortiz/flux) - A regular expression building library.
-* [Patchwork](http://antecedent.github.io/patchwork/) - A library for redefining userland functions.
-* [Galapagos](https://github.com/igorw/galapagos) - Evolutionary language transformation.
-* [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP) - A repository of software patterns implemented in PHP.
-* [PHPCR](https://github.com/phpcr/phpcr) - A PHP port of the Java Content Repository (JCR).
-* [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
-* [ClassPreloader](https://github.com/mtdowling/ClassPreloader) - A library for optimising autoloading.
-* [Lib Country](https://github.com/phine/lib-country) - A library for country and subdivision data.
-* [Lib Accessor](https://github.com/phine/lib-accessor) - A library for simplifying accessors.
-* [PHPStack](http://dunkels.com/adam/phpstack/) - A TCP/IP stack proof of concept written in PHP.
-* [Nmap](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](http://nmap.org/).
-* [Code Mover](https://github.com/dantleech/code-mover) - A library for moving code.
-* [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
-* [Lambda PHP](https://github.com/igorw/lambda-php) - A Lambda calculus interpreter in PHP.
-* [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
-* [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - A library for playing with the Raspberry PI's GPIO pins.
-* [print_o](https://github.com/koriym/print_o) - An object graph visualizer.
-* [Alias](https://github.com/fuelphp/alias) - A class aliasing library.
+* [Spork](https://github.com/kriswallsmith/spork) - 一个处理forking的库
+* [JSON Lint](https://github.com/Seldaek/jsonlint) - 一个JSON lint工具
+* [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) - 验证JSONP回调的库
+* [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - 一个分页库
+* [Ruler](https://github.com/bobthecow/Ruler) - 一个简单的无状态的生产环境规则引擎
+* [LiteCQRS](https://github.com/beberlei/litecqrs-php) - 一个CQRS(命令查询责任分离)库
+* [Sslurp](https://github.com/EvanDotPro/Sslurp) - 一个使得SSL处理减少的库
+* [PHP Option](https://github.com/schmittjoh/php-option) - 一个可选的类型库
+* [Metrics](https://github.com/beberlei/metrics) - 一个简单的度量API库
+* [Sabre VObject](https://github.com/evert/sabre-vobject) - 一个解析VCard和iCalendar对象的库
+* [Annotations](https://github.com/doctrine/annotations) - 一个注释库(Doctrine的一部分)
+* [Whoops](https://github.com/filp/whoops) - 一个不错的错误处理库
+* [Finite](http://yohan.giarel.li/Finite) - 一个简单的PHP有限状态机
+* [LadyBug](https://github.com/raulfraile/Ladybug) - 一个dumper库
+* [Procrastinator](https://github.com/lstrojny/Procrastinator) - 一个运行耗时任务的库
+* [Compose](https://github.com/igorw/compose) - 一个功能组合库
+* [SuperClosure](https://github.com/jeremeamia/super_closure) - 一个允许闭包序列化的库
+* [Jumper](https://github.com/kakawait/Jumper) - 一个远程服务执行库
+* [Underscore](http://anahkiasen.github.io/underscore-php/) - 一个Undersccore JS库的PHP实现
+* [PHP PassBook](https://github.com/eymengunay/php-passbook) - 一个iOS PassBook PHP库
+* [PHP Expression](https://github.com/Kitano/php-expression) - 一个PHP表达式语言
+* [RMT](https://github.com/liip/RMT) - 一个编写版本和发布软件的库
+* [Wise](https://github.com/herrera-io/php-wise) - 一个配置管理器
+* [Opengraph](https://github.com/euskadi31/Opengraph) - 一个开放图库
+* [Essence](https://github.com/felixgirault/essence) -一个提取web媒体的库
+* [Embera](https://github.com/mpratt/Embera) - 一个Oembed消费库
+* [Graphviz](https://github.com/alexandresalome/graphviz) - 一个图形库
+* [Monad PHP](https://github.com/ircmaxell/monad-php) - 一个简单Monad库
+* [Flux](https://github.com/selvinortiz/flux) - 一个正则表达式构建库
+* [Patchwork](http://antecedent.github.io/patchwork/) - 一个重新定义用户的函数库
+* [Galapagos](https://github.com/igorw/galapagos) - 语言转换进化
+* [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP) - 一个使用PHP实现的设计模式存储库
+* [PHPCR](https://github.com/phpcr/phpcr) - 一个Java内容存储库(JCR)的PHP实现
+* [Functional PHP](https://github.com/lstrojny/functional-php) - 一个函数式编程库
+* [ClassPreloader](https://github.com/mtdowling/ClassPreloader) - 一个优化自动加载的库
+* [Lib Country](https://github.com/phine/lib-country) - 一个国家和地区数据的库
+* [Lib Accessor](https://github.com/phine/lib-accessor) - 一个简化访问的库
+* [PHPStack](http://dunkels.com/adam/phpstack/) - 一个PHP编写的TCP/IP栈概念
+* [Nmap](https://github.com/willdurand/nmap) - 一个[Nmap](http://nmap.org/) PHP包装器
+* [Code Mover](https://github.com/dantleech/code-mover) - 一个移动代码的库
+* [Iter](https://github.com/nikic/iter) - 一个使用生成器提供迭代原语的库
+* [Lambda PHP](https://github.com/igorw/lambda-php) - 一个PHP中的Lambda计算解析器
+* [Country List](https://github.com/umpirsky/country-list) - 所有带有名称和ISO 3166-1编码的国家列表
+* [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - 一个用于Raspberry PI的GPIO pin的库
+* [print_o](https://github.com/koriym/print_o) - 一个对象图的可视化器
+* [Alias](https://github.com/fuelphp/alias) - 一个类别名库
 
-# Software
-*Software for creating a development environment.*
+# 软件 Software
+*创建一个开发环境的软件*
 
-## PHP Installation
-*Tools to help install and manage PHP on your computer.*
+## PHP安装 PHP Installation
+*在你的电脑上帮助安装和管理PHP的工具*
 
-* [HomeBrew](http://mxcl.github.com/homebrew/) - A package manager for OSX.
-* [HomeBrew PHP](https://github.com/josegonzalez/homebrew-php) - A PHP tap for HomeBrew.
-* [PHP OSX](http://php-osx.liip.ch/) - A PHP installer for OSX.
-* [PHP Brew](https://github.com/c9s/phpbrew) - A PHP version manager and installer.
-* [PHP Env](https://github.com/CHH/phpenv) - Another PHP version manager.
-* [PHP Switch](https://github.com/jubianchi/phpswitch) - Another version manager.
-* [PHP Build](https://github.com/CHH/php-build) - Another PHP version installer.
-* [VirtPHP](http://virtphp.org/) - A tool for creating and managing isolated PHP environments.
+* [HomeBrew](http://mxcl.github.com/homebrew/) - 一个OSX包管理器
+* [HomeBrew PHP](https://github.com/josegonzalez/homebrew-php) - 一个HomeBrew的PHP通道
+* [PHP OSX](http://php-osx.liip.ch/) - 一个OSX下的PHP安装器
+* [PHP Brew](https://github.com/c9s/phpbrew) - 一个PHP版本管理和安装器
+* [PHP Env](https://github.com/CHH/phpenv) - 另一个PHP版本管理器
+* [PHP Switch](https://github.com/jubianchi/phpswitch) - 另一个PHP版本管理器
+* [PHP Build](https://github.com/CHH/php-build) - 另一个PHP版本安装器
+* [VirtPHP](http://virtphp.org/) - 一个创建和管理独立PHP环境的工具
 
-## Development Environment
-*Software and tools for creating a sandboxed development environment.*
+## 开发环境 Development Environment
+*创建沙盒开发环境的软件和工具*
 
-* [Vagrant](http://www.vagrantup.com/) - A portable development environment utility.
-* [Ansible](http://www.ansibleworks.com/) - A radically simple orchestration framework.
-* [Puppet](http://puppetlabs.com/) - A server automation framework and application.
-* [PuPHPet](https://puphpet.com/) - A web tool for building PHP development virtual machines.
-* [Protobox](http://getprotobox.com/) - Another web tool for building PHP development virtual machines.
-* [Phansible](http://phansible.com/) - A web tool for building PHP development virtual machines with Ansible.
+* [Vagrant](http://www.vagrantup.com/) - 一个便携的开发环境工具
+* [Ansible](http://www.ansibleworks.com/) - 一个非常简单的编制框架
+* [Puppet](http://puppetlabs.com/) - 一个服务器自动化框架和应用
+* [PuPHPet](https://puphpet.com/) - 一个构建PHP开发虚拟机的web工具
+* [Protobox](http://getprotobox.com/) - 另一个构建PHP开发虚拟机的web工具
+* [Phansible](http://phansible.com/) - 一个用Ansible构建PHP开发虚拟机的web工具
 
-## Virtual Machines
-*Alternative PHP virtual machines.*
+## 虚拟机 Virtual Machines
+*相关的PHP虚拟机*
 
-* [HipHop PHP](https://github.com/facebook/hiphop-php) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
-* [HippyVM](http://hippyvm.com/) - Another PHP virtual machine.
-* [Hack](http://hacklang.org/) - A programming language for [HHVM](https://github.com/facebook/hiphop-php) that interoperates seamlessly with PHP.
+* [HipHop PHP](https://github.com/facebook/hiphop-php) - Facebook出品的PHP虚拟机，Runtime和JIT
+* [HippyVM](http://hippyvm.com/) - 另一个PHP虚拟机
+* [Hack](http://hacklang.org/) - 一个PHP进行无缝操作的[HHVM](https://github.com/facebook/hiphop-php)编程语言
 
-## Integrated Development Environment
-*Integrated Development Environments with support for PHP.*
+## 集成开发环境(IDE) Integrated Development Environment
+*支持PHP的集成开发环境*
 
-* [Netbeans](https://netbeans.org) - An IDE with support for PHP and HTML5.
-* [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - A PHP IDE based on the Eclipse platform.
-* [PhpStorm](http://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
+* [Netbeans](https://netbeans.org) - 一个支持PHP和HTML5的IDE
+* [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - 一个基于Eclipse平台的PHP IDE
+* [PhpStorm](http://www.jetbrains.com/phpstorm/) - 一个商业PHP IDE
 
-## Web Applications
-*Web-based applications and tools.*
+## Web应用 Web Applications
+*基于Web的应用和工具*
 
-* [3V4L](http://3v4l.org/) - An online PHP shell.
-* [DBV](http://dbv.vizuina.com/) - A database version control application.
-* [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
-* [Composer as a Service](http://composer.borreli.com/) - A tool for downloading Composer packages as a zip file.
-* [MailCatcher](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
+* [3V4L](http://3v4l.org/) - 一个在线的PHP shell
+* [DBV](http://dbv.vizuina.com/) - 一个数据库版本控制应用
+* [PHP Queue](https://github.com/CoderKungfu/php-queue) - A一个管理后端队列的应用
+* [Composer as a Service](http://composer.borreli.com/) - 作为一个zip文件下载Composer包的工具
+* [MailCatcher](https://github.com/sj26/mailcatcher) - 一个抓取和查看邮件的web工具
 
-# Resources
-Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
+# 资源 Resources
+各种提高你的PHP开发技能和知识的资源，比如书籍，网站，文章
 
-## PHP Websites
-*Useful PHP-related websites.*
+## PHP网站 PHP Websites
+*PHP相关的有用的网站*
 
-* [PHP The Right Way](http://www.phptherightway.com/) - A PHP best practice quick reference guide.
-* [PHP Best Practices](http://phpbestpractices.org/) - A PHP best practice guide.
-* [PHP Weekly](http://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
-* [Securing PHP](http://securingphp.com/) - A newsletter about PHP security and library recommendations.
-* [PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html) - A guide to PHP security.
-* [PHP FIG](http://www.php-fig.org/) - The PHP Framework Interoperability Group.
-* [PHP UG](http://php.ug) - A website to help people locate their nearest PHP user group (UG).
-* [Seven PHP](http://7php.com/) - A website that interviews members of the PHP community.
-* [Nomad PHP](http://nomadphp.com/) - A online PHP learning resource.
-* [PHP Mentoring](http://phpmentoring.org/) - Peer to peer PHP mentorship organization.
+* [PHP The Right Way](http://www.phptherightway.com/) - 一个PHP最佳实践的快速指引手册
+* [PHP Best Practices](http://phpbestpractices.org/) - 一个PHP最佳实践指南
+* [PHP Weekly](http://www.phpweekly.com/archive.html) - 一个PHP新闻周刊
+* [Securing PHP](http://securingphp.com/) - 一个关于PHP安全和库的建议的简报
+* [PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html) - 一个PHP安全指南
+* [PHP FIG](http://www.php-fig.org/) - PHP框架交互组
+* [PHP UG](http://php.ug) - 一个帮助用户定位最近的PHP用户组(UG)的网站
+* [Seven PHP](http://7php.com/) - 一个PHP社区成员采访的网站
+* [Nomad PHP](http://nomadphp.com/) - 一个在线PHP学习资源
+* [PHP Mentoring](http://phpmentoring.org/) - 点对点PHP导师组织
 
-## Other Websites
-*Useful websites related to web development.*
+## 其他网站 Other Websites
+*web开发相关的有用网站*
 
-* [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
-* [WebSec IO](http://websec.io/) - A web security community resource.
-* [Web Advent](http://webadvent.org) - An advent calendar for web developers.
-* [Semantic Versioning](http://semver.org/) - A website explaining semantic versioning.
-* [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
-* [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
-* [Servers for Hackers](http://serversforhackers.com/) - A newsletter about server management.
+* [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - 一个开放软件安全社区
+* [WebSec IO](http://websec.io/) - 一个web安全社区资源
+* [Web Advent](http://webadvent.org) - 一个web开发人员日历
+* [Semantic Versioning](http://semver.org/) - 一个解析语义版本的网站
+* [Atlassian Git Tutorials](https://www.atlassian.com/git) - 一个Git教程系列
+* [Hg Init](http://hginit.com/) - 一个Mercurial教程系列
+* [Servers for Hackers](http://serversforhackers.com/) - 一个关于服务器管理的新闻通讯
 
-## PHP Books
-*Fantastic PHP-related books.*
+## PHP书籍 PHP Books
+*PHP相关的非常好的书籍*
 
-* [Scaling PHP Applications](http://www.scalingphpbook.com) - An ebook about scaling PHP applications by Steve Corona.
-* [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - A book about building testing PHP applications by Chris Hartjes.
-* [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
-* [Mastering Object-Orientated PHP](http://www.brandonsavage.net) - A book about object-orientated PHP by Brandon Savage.
-* [Signaling PHP](https://leanpub.com/signalingphp) - A book about catching PCNTL signals in CLI scripts by Cal Evans.
-* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - A book about common security terms and practices for PHP by Chris Cornutt.
-* [Modernising Legacy Applications in PHP](https://leanpub.com/mlaphp) - A book about modernising legacy PHP applications by Paul M. Jones.
-* [Modern PHP New Features and Good Practices](http://shop.oreilly.com/product/0636920033868.do) - A book about new PHP features and best practices by Josh Lockhart.
+* [Scaling PHP Applications](http://www.scalingphpbook.com) - 一本Steve Corona关于扩展PHP应用程序的电子书
+* [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - 一本Chris Hartjes关于构建PHP应用程序测试的书
+* [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - 一本Chris Hartjes关于使用PHPUnit进行单元测试的书
+* [Mastering Object-Orientated PHP](http://www.brandonsavage.net) - 一本Brandon Savage关于PHP面向对象的书
+* [Signaling PHP](https://leanpub.com/signalingphp) - 一本Cal Evans关于在CLI脚本捕获PCNTL信号的书
+* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - 一本Chris Cornutt关于PHP常见安全条款和实践的书
+* [Modernising Legacy Applications in PHP](https://leanpub.com/mlaphp) - 一本Paul M.Jones关于遗留PHP应用进行现代化的书
+* [Modern PHP New Features and Good Practices](http://shop.oreilly.com/product/0636920033868.do) - 一本Josh Lockhart关于新的PHP功能和最佳做法的书
 
-## Other Books
-*Books related to general computing and web development.*
+## 其他书籍 Other Books
+*与一般计算和web开发相关的书*
 
-* [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
-* [Understanding Computation](http://computationbook.com) - A book about computation theory by Tom Stuart.
-* [The Tangled Web — Securing Web Applications](http://www.amazon.ca/The-Tangled-Web-Securing-Applications/dp/1593273886) - A book about securing web applications by Michal Zalewski.
-* [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/) - A guide to working with Elasticsearch by Clinton Gormley and Zachary Tong.
-* [Eloquent JavaScript](http://eloquentjavascript.net/) - A book about JavaScript programming by Marijn Haverbeke.
-* [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) A book about creating Vagrant environments by Erika Heidi.
-* [Pro Git](http://git-scm.com/book/en/v2) - A book about Git by Scott Chacon and Ben Straub.
+* [The Linux Command Line](http://linuxcommand.org/tlcl.php) - William Shotts关于Linux命令行的一本书
+* [Understanding Computation](http://computationbook.com) - Tom Stuart关于计算理论的一本书
+* [The Tangled Web — Securing Web Applications](http://www.amazon.ca/The-Tangled-Web-Securing-Applications/dp/1593273886) - Michal Zalewski关于web应用安全的一本书
+* [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/) - Clinton Cormley和Zachary Tong编写的与Elasticsearch工作的一本指南
+* [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijin Haverbeke关于JavaScript编程的一本书
+* [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) Erika Heidi关于创建 Vagrant环境的一本书
+* [Pro Git](http://git-scm.com/book/en/v2) - Scott Chacon和Ben Straub关于Git的一本书
 
-## PHP Videos
-*Fantastic PHP-related videos.*
+## PHP视频 PHP Videos
+*PHP相关的非常不错的视频*
 
-* [Taking PHP Seriously](http://www.infoq.com/presentations/php-history) - A talk outlining PHP's strengths by Keith Adams of Facebook.
-* [PHP Town Hall](http://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
-* [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
+* [Taking PHP Seriously](http://www.infoq.com/presentations/php-history) - 来自Facebook Keith Adams 讲述PHP优势
+* [PHP Town Hall](http://phptownhall.com/) - 一个随意的Ben Edmunds和Phil Sturgeon的PHP播客
+* [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - Anthony Ferrara的视频系列
 
-## PHP Reading
-*PHP-releated reading materials.*
+## PHP阅读 PHP Reading
+*PHP相关的阅读资料*
 
-* [Create Your Own PHP Framework](http://fabien.potencier.org/article/50/create-your-own-framework-on-top-of-the-symfony2-components-part-1) - A series of articles on how to make your own PHP framework by Fabien Potencier.
-* [Seven Ways to Screw Up BCrypt](http://blog.ircmaxell.com/2012/12/seven-ways-to-screw-up-bcrypt.html) - An article about correct BCrypt implementation.
-* [Preventing CSRF Attacks](http://blog.ircmaxell.com/2013/02/preventing-csrf-attacks.html) - An article on preventing CSRF attacks.
-* [Don't Worry About BREACH](http://blog.ircmaxell.com/2013/08/dont-worry-about-breach.html) - An article about the BREACH hack and CSRF tokens.
-* [On PHP 5.3, Lamda Functions and Closures](http://fabien.potencier.org/article/17/on-php-5-3-lambda-functions-and-closures) - An article about lambda functions and closures.
-* [Use Env](http://seancoates.com/blogs/use-env) - An article about using the unix environment helper.
-* [Composer Primer](http://daylerees.com/composer-primer) - A Composer primer.
-* [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html) - An article about Composer versioning.
-* [Composer Stability Flags](https://igor.io/2013/02/07/composer-stability-flags.html) - An article about Composer stability flags.
-* [Innocent Villagefolk or a Pillagin’ Pirate?](http://blog.astrumfutura.com/2012/04/php-innocent-villagefolk-or-a-pillagin-pirate/) - An article about PHP taking ideas from other language.
-* [Predicting Random Numbers in PHP](http://blog.astrumfutura.com/2013/03/predicting-random-numbers-in-php-its-easier-than-you-think/) - An article about generating random numbers.
-* [A 20 Point List for Preventing XSS in PHP](http://blog.astrumfutura.com/2013/04/20-point-list-for-preventing-cross-site-scripting-in-php/) - An article about preventing XSS.
-* [PHP Sucks! But I Like It!](http://blog.ircmaxell.com/2012/04/php-sucks-but-i-like-it.html) - An article about the pros and cons of PHP.
-* [PHP Is Much Better Than You Think](http://fabien.potencier.org/article/64/php-is-much-better-than-you-think) - An article about the PHP language and ecosystem.
+* [Create Your Own PHP Framework](http://fabien.potencier.org/article/50/create-your-own-framework-on-top-of-the-symfony2-components-part-1) - 一部Fabien Potencier的关于如何创建你自己的PHP框架的系列文章
+* [Seven Ways to Screw Up BCrypt](http://blog.ircmaxell.com/2012/12/seven-ways-to-screw-up-bcrypt.html) - 一篇关于纠正BCrypt实现的文章
+* [Preventing CSRF Attacks](http://blog.ircmaxell.com/2013/02/preventing-csrf-attacks.html) - 一篇阻止CSRF攻击的文章
+* [Don't Worry About BREACH](http://blog.ircmaxell.com/2013/08/dont-worry-about-breach.html) - 一篇关于BREACH攻击和CSRF令牌的文章
+* [On PHP 5.3, Lamda Functions and Closures](http://fabien.potencier.org/article/17/on-php-5-3-lambda-functions-and-closures) - 一篇关于lambda函数和闭包的文章
+* [Use Env](http://seancoates.com/blogs/use-env) - 一篇关于使用unix环境帮助的文章
+* [Composer Primer](http://daylerees.com/composer-primer) - Composer初级使用
+* [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html) - 一篇关于Composer版本的文章
+* [Composer Stability Flags](https://igor.io/2013/02/07/composer-stability-flags.html) - 一篇关于Composer稳定性标志的文章
+* [Innocent Villagefolk or a Pillagin’ Pirate?](http://blog.astrumfutura.com/2012/04/php-innocent-villagefolk-or-a-pillagin-pirate/) - 一篇关于PHP从其他语言获取想法的文章
+* [Predicting Random Numbers in PHP](http://blog.astrumfutura.com/2013/03/predicting-random-numbers-in-php-its-easier-than-you-think/) - 一篇关于生成随机数的文章
+* [A 20 Point List for Preventing XSS in PHP](http://blog.astrumfutura.com/2013/04/20-point-list-for-preventing-cross-site-scripting-in-php/) - 一篇关于组织XSS的文章
+* [PHP Sucks! But I Like It!](http://blog.ircmaxell.com/2012/04/php-sucks-but-i-like-it.html) - 一篇关于PHP利弊的文章
+* [PHP Is Much Better Than You Think](http://fabien.potencier.org/article/64/php-is-much-better-than-you-think) - 一篇关于PHP语言和生态圈的文章
 
-## PHP Internals Reading
-*Reading materials related to the PHP internals or performance.*
+## PHP内核阅读 PHP Internals Reading
+*阅读PHP内核或性能相关的资料*
 
-* [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (Request for Comments).
-* [PHP Internals Book](http://www.phpinternalsbook.com) - An online book about PHP internals, written by three core developers.
-* [Print vs Echo, Which One is Faster?](http://fabien.potencier.org/article/8/print-vs-echo-which-one-is-faster) - An article about print and echo performance.
-* [The PHP Ternary Operator. Fast or Not?](http://fabien.potencier.org/article/48/the-php-ternary-operator-fast-or-not) - An article ternary performance.
-* [Disproving the Single Quotes Myth](http://nikic.github.com/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - An article about performance of single and double quoted strings.
-* [You're Being Lied To](http://blog.golemon.com/2007/01/youre-being-lied-to.html) - An article about internal ZVALs.
-* [How Long is a Piece of String](http://blog.golemon.com/2006/06/how-long-is-piece-of-string.html) - An article about string internals.
-* [Understanding OpCodes](http://blog.golemon.com/2008/01/understanding-opcodes.html) - An article about opcodes.
-* [How Foreach Works](http://stackoverflow.com/questions/10057671/how-foreach-actually-works/14854568#14854568) - A detailed StackOverflow answer about foreach.
-* [When Does Foreach Copy?](http://nikic.github.com/2011/11/11/PHP-Internals-When-does-foreach-copy.html) - An article about the internals of foreach.
-* [How Big Are PHP Arrays (And Values) Really?](http://nikic.github.com/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html) - An article about array internals.
-* [Why Objects (Usually) Use Less Memory Than Arrays](https://gist.github.com/nikic/5015323) - An article about object and array internals.
-* [PHP Evaluation Order](https://gist.github.com/nikic/6699370) - An article about evaluation order in PHP.
-* PHP Source Code for Developers: [1](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](http://nikic.github.com/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](http://nikic.github.com/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - A series about the PHP source code.
-* Collecting Garbage: [1](http://www.php.net/manual/en/features.gc.refcounting-basics.php) [2](http://www.php.net/manual/en/features.gc.collecting-cycles.php) [3](http://www.php.net/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
+* [PHP RFCs](https://wiki.php.net/rfc) - PHP RFCs主页(请求注解)
+* [PHP Internals Book](http://www.phpinternalsbook.com) - 一本由三名核心开发编写的关于PHP内核的在线书
+* [Print vs Echo, Which One is Faster?](http://fabien.potencier.org/article/8/print-vs-echo-which-one-is-faster) - 一篇关于打印和echo性能的文章
+* [The PHP Ternary Operator. Fast or Not?](http://fabien.potencier.org/article/48/the-php-ternary-operator-fast-or-not) - 一篇关于三元操作性能的文章
+* [Disproving the Single Quotes Myth](http://nikic.github.com/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - 一篇关于单，双引号字符串性能的文章
+* [You're Being Lied To](http://blog.golemon.com/2007/01/youre-being-lied-to.html) - 一篇关于内核ZVALs的文章
+* [How Long is a Piece of String](http://blog.golemon.com/2006/06/how-long-is-piece-of-string.html) - 一篇关于字符串原理的文章
+* [Understanding OpCodes](http://blog.golemon.com/2008/01/understanding-opcodes.html) - 一篇关于opcodes的文章
+* [How Foreach Works](http://stackoverflow.com/questions/10057671/how-foreach-actually-works/14854568#14854568) - StackOverflow关于foreach回答的详情
+* [When Does Foreach Copy?](http://nikic.github.com/2011/11/11/PHP-Internals-When-does-foreach-copy.html) - 一篇关于foreach原理的文章
+* [How Big Are PHP Arrays (And Values) Really?](http://nikic.github.com/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html) - 一篇关于数组原理的文章
+* [Why Objects (Usually) Use Less Memory Than Arrays](https://gist.github.com/nikic/5015323) - 一篇关于对象和数组原理的文章
+* [PHP Evaluation Order](https://gist.github.com/nikic/6699370) - 一篇关于PHP评估顺序的文章
+* 开发人员的PHP源代码: [1](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](http://nikic.github.com/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](http://nikic.github.com/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - 关于PHP源代码的系列
+* 垃圾收集: [1](http://www.php.net/manual/en/features.gc.refcounting-basics.php) [2](http://www.php.net/manual/en/features.gc.collecting-cycles.php) [3](http://www.php.net/manual/en/features.gc.performance-considerations.php) - 关于PHP垃圾收集原理的系列
