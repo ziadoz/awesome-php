@@ -66,7 +66,7 @@
     - [PHP安装 PHP Installation](#PHP安装-php-installation)
     - [开发环境 Development Environment](#开发环境-development-environment)
     - [虚拟机 Virtual Machines](#虚拟机-virtual-machines)
-    - [IDE集成开发环境 Integrated Development Environment](#ide集成开发环境-integrated-development-environment)
+    - [集成开发环境(IDE) Integrated Development Environment](#集成开发环境ide-integrated-development-environment)
     - [Web应用 Web Applications](#web应用-web-applications)
 - [资源 Resources](#资源-resources)
     - [PHP网站 PHP Websites](#php网站-php-websites)
@@ -76,7 +76,7 @@
     - [PHP视频 PHP Videos](#php视频-php-videos)
     - [PHP阅读 PHP Reading](#php阅读-php-reading)
     - [PHP内核阅读 PHP Internals Reading](#php内核阅读-php-internals-reading)
-- [贡献](#contributing)
+- [贡献](#贡献)
 
 ## 依赖管理 Dependency Management
 *依赖和包管理库*
