@@ -446,7 +446,7 @@ Libraries to help manage database schemas and migrations.
 * [Phinx](https://github.com/robmorgan/phinx) - Another database migration library.
 * [Migrations](https://github.com/icomefromthenet/Migrations) - A migration management library.
 * [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - A migration library for Doctrine.
-* [Ruckusing](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite
+* [Ruckusing](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
 
 ## NoSQL
 *Libraries for working with "NoSQL" backends.*
