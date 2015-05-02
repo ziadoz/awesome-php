@@ -490,6 +490,7 @@ Libraries to help manage database schemas and migrations.
 ## Authentication and Authorization
 *Libraries for implementing user authentication and authorization.*
 
+* [EvaOAuth](https://github.com/AlloVince/EvaOAuth) - A library provides uniform interface for OAuth 1.0 & 2.0 .
 * [Sentry](https://github.com/cartalyst/sentry) - A framework agnostic authentication & authorisation library.
 * [Sentry Social](http://docs.cartalyst.com/sentry-social-2/introduction) - A library for social network authentication.
 * [Opauth](https://github.com/opauth/opauth) - A multi-provider authentication framework.
