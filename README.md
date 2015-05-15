@@ -418,6 +418,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 * [WKHTMLToPDF](https://github.com/antialize/wkhtmltopdf) - A tool to convert HTML to PDF.
+* [PHPPdf](https://github.com/psliwa/PHPPdf) - A library for generating PDFs and images from XML.
 
 ## Office
 *Libraries for working with office suite documents.*
