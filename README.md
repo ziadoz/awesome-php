@@ -129,6 +129,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
+* [Lumen](http://lumen.laravel.com/)  - A micro framework built around Laravel components. 
 
 ## Micro Framework Extras
 *Extras related to micro frameworks and routers.*
