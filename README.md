@@ -305,6 +305,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Password Policy](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
 * [Password Validator](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
 * [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
+* [GenPhrase](https://github.com/timoh6/GenPhrase) - A library for generating secure random passphrases.
 
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulating codebases.*
