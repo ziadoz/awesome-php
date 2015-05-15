@@ -236,6 +236,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Image With Text](https://github.com/nmcteam/image-with-text) - A library for embedding text into images.
 * [Color Extractor](https://github.com/php-loep/color-extractor) - A library for extracting colours from images.
 * [Glide](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
+* [Image Optimizer](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
