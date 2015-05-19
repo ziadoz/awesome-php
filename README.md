@@ -53,7 +53,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [Strings](#strings)
 	- [Numbers](#numbers)
 	- [Filtering and Validation](#filtering-and-validation)
-	- [REST and API](#rest-and-api)
+	- [API](#api)
 	- [Caching](#caching)
 	- [Data Structure and Storage](#data-structure-and-storage)
 	- [Notifications](#notifications)
@@ -558,8 +558,8 @@ Libraries to help manage database schemas and migrations.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating various ISO and ZIP codes (IBAN, SWIFT/BIC, BBAN, VAT, SSN, UKNIN).
 
-## REST and API
-*Libraries and web tools for developing REST-ful APIs.*
+## API
+*Libraries and web tools for developing APIs.*
 
 * [Apigility](https://github.com/zfcampus/zf-apigility-skeleton) - An API builder built with Zend Framework 2.
 * [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
@@ -567,6 +567,7 @@ Libraries to help manage database schemas and migrations.
 * [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
 * [Drest](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
 * [Restler](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
+* [wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - A tool to generate PHP classes from SOAP WSDL files.
 
 ## Caching
 *Libraries for caching data.*
@@ -680,7 +681,6 @@ Libraries to help manage database schemas and migrations.
 * [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - A library for playing with the Raspberry PI's GPIO pins.
 * [print_o](https://github.com/koriym/print_o) - An object graph visualizer.
 * [Alias](https://github.com/fuelphp/alias) - A class aliasing library.
-* [wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - Generate PHP classes from SOAP WSDL files.
 
 # Software
 *Software for creating a development environment.*
