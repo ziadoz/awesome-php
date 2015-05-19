@@ -30,6 +30,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [Security](#security)
 	- [Passwords](#passwords)
 	- [Code Analysis](#code-analysis)
+	- [Architectural](#architectural)
 	- [Debugging](#debugging)
 	- [Build Tools](#build-tools)
 	- [Task Runners](#task-runners)
@@ -331,6 +332,21 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [xHprof](https://github.com/phacility/xhprof) - Another profiling tool for PHP.
 * [PHPCheckstyle](https://github.com/jbrooksuk/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
+
+## Architectural
+*Libraries related to design patterns, programming approaches and ways to organize code.*
+
+* [PHP Option](https://github.com/schmittjoh/php-option) An option type library.
+* [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
+* [Finite](http://yohan.giarel.li/Finite) - A simple PHP finite state machine.
+* [Compose](https://github.com/igorw/compose) - A function composition library.
+* [Monad PHP](https://github.com/ircmaxell/monad-php) - A simple Monad library.
+* [Patchwork](http://antecedent.github.io/patchwork/) - A library for redefining userland functions.
+* [Galapagos](https://github.com/igorw/galapagos) - Evolutionary language transformation.
+* [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP) - A repository of software patterns implemented in PHP.
+* [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
+* [Lib Accessor](https://github.com/phine/lib-accessor) - A library for simplifying accessors.
+* [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
 
 ## Debugging
 *Libraries and tools for debugging code.*
@@ -642,18 +658,14 @@ Libraries to help manage database schemas and migrations.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 * [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) - A library for validating JSONP callbacks.
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
-* [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 * [LiteCQRS](https://github.com/beberlei/litecqrs-php) - A CQRS (Command Query Responsibility Separation) library.
 * [Sslurp](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL suck less.
-* [PHP Option](https://github.com/schmittjoh/php-option) An option type library.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [Sabre VObject](https://github.com/evert/sabre-vobject) - A library for parsing VCard and iCalendar objects.
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
 * [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
-* [Finite](http://yohan.giarel.li/Finite) - A simple PHP finite state machine.
 * [LadyBug](https://github.com/raulfraile/Ladybug) - A dumper library.
 * [Procrastinator](https://github.com/lstrojny/Procrastinator) - A library for running time consuming tasks.
-* [Compose](https://github.com/igorw/compose) - A function composition library.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
 * [Jumper](https://github.com/kakawait/Jumper) - A remote service executor library.
 * [Underscore](http://anahkiasen.github.io/underscore-php/) - A PHP port of the Underscore JS library.
@@ -665,20 +677,13 @@ Libraries to help manage database schemas and migrations.
 * [Essence](https://github.com/felixgirault/essence) - A library for extracting web media.
 * [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
 * [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
-* [Monad PHP](https://github.com/ircmaxell/monad-php) - A simple Monad library.
 * [Flux](https://github.com/selvinortiz/flux) - A regular expression building library.
-* [Patchwork](http://antecedent.github.io/patchwork/) - A library for redefining userland functions.
-* [Galapagos](https://github.com/igorw/galapagos) - Evolutionary language transformation.
-* [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP) - A repository of software patterns implemented in PHP.
 * [PHPCR](https://github.com/phpcr/phpcr) - A PHP port of the Java Content Repository (JCR).
-* [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
 * [ClassPreloader](https://github.com/mtdowling/ClassPreloader) - A library for optimising autoloading.
 * [Lib Country](https://github.com/phine/lib-country) - A library for country and subdivision data.
-* [Lib Accessor](https://github.com/phine/lib-accessor) - A library for simplifying accessors.
 * [PHPStack](http://dunkels.com/adam/phpstack/) - A TCP/IP stack proof of concept written in PHP.
 * [Nmap](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](http://nmap.org/).
 * [Code Mover](https://github.com/dantleech/code-mover) - A library for moving code.
-* [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
 * [Lambda PHP](https://github.com/igorw/lambda-php) - A Lambda calculus interpreter in PHP.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 * [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - A library for playing with the Raspberry PI's GPIO pins.
