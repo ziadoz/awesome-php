@@ -342,6 +342,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPDBG](http://phpdbg.com/) - An interactive PHP debugger.
 * [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
 * [Z-Ray](http://www.zend.com/en/products/server/z-ray) - A debug and profile tool for Zend Server.
+* [Blackfire.io](http://blackfire.io) - Blackfire Profiler automatically instruments your code to gather data about consumed server resources like memory, CPU time, and I/O. 
 
 ## Build Tools
 *Project build and automation tools.*
