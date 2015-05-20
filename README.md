@@ -108,6 +108,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
 * [CakePHP](http://cakephp.org/) - A rapid application development framework.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+* [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Another PHP framework.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
@@ -461,6 +462,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [RedBean](http://redbeanphp.com/) - A lightweight, configuration-less ORM.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
+* [php-activerecord](https://github.com/jpfuentes2/php-activerecord) - ActiveRecord implementation for PHP.
 
 ## Migrations
 Libraries to help manage database schemas and migrations.
@@ -484,6 +486,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP AMQP](https://github.com/videlalvaro/php-amqplib) - A pure PHP AMQP library.
 * [Thumper](https://github.com/videlalvaro/Thumper) - A RabbitMQ pattern library.
 * [Bernard](https://github.com/bernardphp/bernard) - A multibackend abstraction library.
+* [php-resque](https://github.com/chrisboulton/php-resque) - PHP port of resque (Workers and Queueing).
 
 ## Search
 *Libraries and software for indexing and performing search queries on data.*
