@@ -156,6 +156,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPTAL](http://phptal.org/) - A PHP implementation of the [TAL](http://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
+* [Smarty](http://www.smarty.net/) - A template engine to complement PHP.
 
 ## Static Site Generators
 *Tools for pre-processing content to generate web pages.*
