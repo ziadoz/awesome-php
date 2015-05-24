@@ -139,6 +139,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Silex Web Profiler](https://github.com/silexphp/Silex-WebProfiler) - A web debug toolbar for Silex.
 * [Slim Skeleton](https://github.com/codeguy/Slim-Skeleton) - A skeleton for Slim.
 * [Slim View](https://github.com/codeguy/Slim-Views) - A collection of custom views for Slim.
+* [Slim Eloquent](https://github.com/kladd/slim-eloquent) - The Slim PHP micro framework paired with Laravel's Illuminate Database toolkit.
 
 ## Routers
 *Libraries for handling application routing.*
