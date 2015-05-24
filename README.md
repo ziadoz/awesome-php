@@ -716,6 +716,7 @@ Libraries to help manage database schemas and migrations.
 * [PuPHPet](https://puphpet.com/) - A web tool for building PHP development virtual machines.
 * [Protobox](http://getprotobox.com/) - Another web tool for building PHP development virtual machines.
 * [Phansible](http://phansible.com/) - A web tool for building PHP development virtual machines with Ansible.
+* [PHPell](https://github.com/corpsee/phpell) - An Vagrant VM configuration with bash(sh) provision for PHP development.
 
 ## Virtual Machines
 *Alternative PHP virtual machines.*
