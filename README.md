@@ -511,6 +511,7 @@ Libraries to help manage database schemas and migrations.
 * [Shunt](https://github.com/php-loep/shunt) - A library for running commands in parallel on multiple remote machines.
 * [Cilex](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
 * [CLImate](https://github.com/thephpleague/climate) - A library for outputting colours and special formatting.
+* [Writeln](https://github.com/GabrielJMJ/Writeln) - Fast and simple Symfony Console command creation
 
 ## Authentication and Authorization
 *Libraries for implementing user authentication and authorization.*
