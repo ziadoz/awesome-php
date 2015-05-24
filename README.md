@@ -342,7 +342,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Compose](https://github.com/igorw/compose) - A function composition library.
 * [Monad PHP](https://github.com/ircmaxell/monad-php) - A simple Monad library.
 * [Patchwork](http://antecedent.github.io/patchwork/) - A library for redefining userland functions.
-* [Galapagos](https://github.com/igorw/galapagos) - Evolutionary language transformation.
+* [Galapagos](https://github.com/endel/galapagos) - Evolutionary language transformation.
 * [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP) - A repository of software patterns implemented in PHP.
 * [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
 * [Lib Accessor](https://github.com/phine/lib-accessor) - A library for simplifying accessors.
