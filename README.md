@@ -690,6 +690,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - A library for playing with the Raspberry PI's GPIO pins.
 * [print_o](https://github.com/koriym/print_o) - An object graph visualizer.
 * [Alias](https://github.com/fuelphp/alias) - A class aliasing library.
+* [Ouzo goodies](https://github.com/letsdrink/ouzo-goodies) - Utility classes for arrays, strings and functional programming. Also includes test assertions and mocking framework.
 
 # Software
 *Software for creating a development environment.*
