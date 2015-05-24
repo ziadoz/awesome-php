@@ -270,6 +270,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries and applications for continuous integration.*
 
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
+* [SemaphoreCI](https://semaphoreapp.com/) - A continuous integration platform for open source and private projects.
 * [PHPCI](http://www.phptesting.org/) - An open source continuous integration platform for PHP.
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
 * [Jenkins](http://jenkins-ci.org/) A continous integration platform with [PHP support](http://jenkins-php.org/index.html).
