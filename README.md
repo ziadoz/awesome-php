@@ -30,6 +30,7 @@
     - [安全 Security](#安全-security)
     - [密码 Passwords](#密码-passwords)
     - [代码分析 Code Analysis](#代码分析-code-analysis)
+    - [Architectural](#architectural)
     - [调试 Debugging](#调试-debugging)
     - [构建工具 Build Tools](#构建工具-build-tools)
     - [任务运行器 Task Runners](#任务运行器-task-runners)
@@ -53,7 +54,7 @@
     - [字符串 Strings](#字符串-strings)
     - [数字 Numbers](#数字-numbers)
     - [过滤和验证 Filtering and Validation](#过滤和验证-filtering-and-validation)
-    - [REST和API REST and API](#rest和api-rest-and-api)
+    - [API](#api)
     - [缓存 Caching](#缓存-caching)
     - [数据结构和存储 Data Structure and Storage](#数据结构和存储-data-structure-and-storage)
     - [通知 Notifications](#通知-notifications)
@@ -130,6 +131,7 @@
 * [Silex](http://silex.sensiolabs.org/) - 基于Symfony2组件的微型框架
 * [Slim](http://www.slimframework.com/) - 另一个简单的微型框架
 * [Bullet PHP](http://bulletphp.com/) - 用于构建REST APIs的微型框架
+* [Lumen](http://lumen.laravel.com) - 一个Laravel的微型框架
 
 ## 其他微型框架 Micro Framework Extras
 *其他相关的微型框架和路由*
@@ -197,6 +199,7 @@
 * [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - 一个邮件回复解析的库
 * [Stampie](https://github.com/henrikbjorn/Stampie) - 一个邮件服务库，类似于[SendGrid](http://sendgrid.com),[PostMark](http://postmarkapp.com),[MailGun](http://www.mailgun.com)和[Mandrill](http://www.mandrill.com).
 * [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - 一个在邮件模板中的内联CSS库
+* [Email Validator](https://github.com/nojacko/email-validator) - 一个较小的电子邮件验证库
 
 ## 文件 Files
 *文件处理和MIME类型检测的库*
@@ -237,6 +240,7 @@
 * [Image With Text](https://github.com/nmcteam/image-with-text) - 一个在图像中嵌入文本的库
 * [Color Extractor](https://github.com/php-loep/color-extractor) - 一个从图像中提取颜色的库
 * [Glide](https://github.com/thephpleague/glide) - 一个按需处理图像的库
+* [Image Optimizer](https://github.com/psliwa/image-optimizer) - 一个优化图像的库
 
 ## 测试 Testing
 *测试代码和生成测试数据的库*
@@ -267,6 +271,7 @@
 *持续集成的库和应用*
 
 * [Travis CI](https://travis-ci.org/) - 一个持续集成平台
+* [SemaphoreCI](https://semaphoreapp.com/) - 一个开放源码和私人项目的持续集成平台
 * [PHPCI](http://www.phptesting.org/) - 一个PHP的开源的持续集成平台
 * [Sismo](http://sismo.sensiolabs.org/) - 一个持续测试的服务库
 * [Jenkins](http://jenkins-ci.org/) 一个[PHP支持](http://jenkins-php.org/index.html)的持续集成平台
@@ -304,6 +309,7 @@
 * [Password Policy](https://github.com/ircmaxell/password-policy) -  一个PHP和JavaScript的密码策略库
 * [Password Validator](https://github.com/jeremykendall/password-validator) - 一个校验和升级密码哈希的库
 * [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - 一个基于Zxcvbn JS的现实的PHP密码强度估计库
+* [GenPhrase](https://github.com/timoh6/GenPhrase) - 一个随机生成安全密码哈希的库
 
 ## 代码分析 Code Analysis
 *分析，解析和处理代码库的库和工具*
@@ -327,6 +333,23 @@
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - 一个快速测量PHP项目大小的工具
 * [xHprof](https://github.com/phacility/xhprof) - 另一个PHP分析工具
 * [PHPCheckstyle](https://github.com/jbrooksuk/phpcheckstyle) - 一个帮助遵守特定的编码惯例的工具
+* [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - 一个创建可定制依赖图的工具
+
+
+## Architectural
+*相关的设计模式库，组织代码编程的方法和途径*
+
+* [PHP Option](https://github.com/schmittjoh/php-option) - 一个可选的类型库
+* [Ruler](https://github.com/bobthecow/Ruler) - 一个简单的无状态的生产环境规则引擎
+* [Finite](http://yohan.giarel.li/Finite) - 一个简单的PHP有限状态机
+* [Compose](https://github.com/igorw/compose) - 一个功能组合库
+* [Monad PHP](https://github.com/ircmaxell/monad-php) - 一个简单Monad库
+* [Patchwork](http://antecedent.github.io/patchwork/) - 一个重新定义用户的函数库
+* [Galapagos](https://github.com/endel/galapagos) - 语言转换进化
+* [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP) - 一个使用PHP实现的设计模式存储库
+* [Functional PHP](https://github.com/lstrojny/functional-php) - 一个函数式编程库
+* [Lib Accessor](https://github.com/phine/lib-accessor) - 一个简化访问的库
+* [Iter](https://github.com/nikic/iter) - 一个使用生成器提供迭代原语的库
 
 ## 调试 Debugging
 *调试代码的库和工具*
@@ -338,6 +361,7 @@
 * [PHPDBG](http://phpdbg.com/) - 一个交互的PHP调试器
 * [Tracy](https://github.com/nette/tracy) - A一个简单的错误检测，写日志和时间测量库
 * [Z-Ray](http://www.zend.com/en/products/server/z-ray) - 一个调试和配置Zend服务器的工具
+* [Blackfire.io](http://blackfire.io) - 一个低开销的代码分析器
 
 ## 构建工具 Build Tools
 *项目构建和自动化工具*
@@ -405,7 +429,7 @@
 ## 电子商务 E-commerce
 *处理支付和构建在线电子商务商店的库和应用*
 
-* [OmniPay](https://github.com/adrianmacneil/omnipay) - 一个框架混合了多网关支付处理的库
+* [OmniPay](https://github.com/thephpleague/omnipay) - 一个框架混合了多网关支付处理的库
 * [Payum](https://github.com/payum/payum) - 一个支付抽象库
 * [Sylius](http://www.sylius.org/) - 一个开源的电子商务解决方案
 * [Thelia](http://thelia.net/v2/) - 另一个开源的电子商务解决方案
@@ -418,6 +442,7 @@
 
 * [Snappy](https://github.com/KnpLabs/snappy) - 一个PDF和图像生成器库
 * [WKHTMLToPDF](https://github.com/antialize/wkhtmltopdf) - 一个将HTML转换为PDF的工具
+* [PHPPdf](https://github.com/psliwa/PHPPdf) - 一个将XML文件转化为PDF和图片的库
 
 ## Office
 *Libraries for working with office suite documents.*
@@ -531,6 +556,8 @@
 * [Text](https://github.com/kzykhys/Text) - 一个文本处理库
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) - 一个格式化SQL语句的库
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - 一个解析user agent字符串的库
+* [Device Detector](https://github.com/piwik/device-detector) - 另一个解析user agent字符串的库
+* [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - 一个用于检测移动设备的轻量级PHP类(包括平板电脑)
 
 ## 数字 Numbers
 *处理数字的库*
@@ -553,7 +580,7 @@
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - 一个支持YAML,JSON和XML的模式验证库
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - 一个验证各种ISO和ZIP编码的库(IBAN, SWIFT/BIC, BBAN, VAT, SSN, UKNIN)
 
-## REST和API REST and API
+## API
 *开发REST-ful API的库和web工具*
 
 * [Apigility](https://github.com/zfcampus/zf-apigility-skeleton) - 一个使用Zend Framework 2构建的API构建器
@@ -562,6 +589,7 @@
 * [Negotiation](https://github.com/willdurand/Negotiation) - 一个内容协商库
 * [Drest](https://github.com/leedavis81/drest) - 一个将Doctrine实体暴露为REST资源节点的库
 * [Restler](https://github.com/Luracast/Restler) - 一个将PHP方法暴露为RESTful web API的轻量级框架
+* [wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - 一个从SOAP WSDL文件生成PHP类的工具
 
 ## 缓存 Caching
 *缓存数据的库*
@@ -633,18 +661,14 @@
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - 一个JSON lint工具
 * [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) - 验证JSONP回调的库
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - 一个分页库
-* [Ruler](https://github.com/bobthecow/Ruler) - 一个简单的无状态的生产环境规则引擎
 * [LiteCQRS](https://github.com/beberlei/litecqrs-php) - 一个CQRS(命令查询责任分离)库
 * [Sslurp](https://github.com/EvanDotPro/Sslurp) - 一个使得SSL处理减少的库
-* [PHP Option](https://github.com/schmittjoh/php-option) - 一个可选的类型库
 * [Metrics](https://github.com/beberlei/metrics) - 一个简单的度量API库
 * [Sabre VObject](https://github.com/evert/sabre-vobject) - 一个解析VCard和iCalendar对象的库
 * [Annotations](https://github.com/doctrine/annotations) - 一个注释库(Doctrine的一部分)
 * [Whoops](https://github.com/filp/whoops) - 一个不错的错误处理库
-* [Finite](http://yohan.giarel.li/Finite) - 一个简单的PHP有限状态机
 * [LadyBug](https://github.com/raulfraile/Ladybug) - 一个dumper库
 * [Procrastinator](https://github.com/lstrojny/Procrastinator) - 一个运行耗时任务的库
-* [Compose](https://github.com/igorw/compose) - 一个功能组合库
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - 一个允许闭包序列化的库
 * [Jumper](https://github.com/kakawait/Jumper) - 一个远程服务执行库
 * [Underscore](http://anahkiasen.github.io/underscore-php/) - 一个Undersccore JS库的PHP实现
@@ -656,20 +680,13 @@
 * [Essence](https://github.com/felixgirault/essence) -一个提取web媒体的库
 * [Embera](https://github.com/mpratt/Embera) - 一个Oembed消费库
 * [Graphviz](https://github.com/alexandresalome/graphviz) - 一个图形库
-* [Monad PHP](https://github.com/ircmaxell/monad-php) - 一个简单Monad库
 * [Flux](https://github.com/selvinortiz/flux) - 一个正则表达式构建库
-* [Patchwork](http://antecedent.github.io/patchwork/) - 一个重新定义用户的函数库
-* [Galapagos](https://github.com/igorw/galapagos) - 语言转换进化
-* [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP) - 一个使用PHP实现的设计模式存储库
 * [PHPCR](https://github.com/phpcr/phpcr) - 一个Java内容存储库(JCR)的PHP实现
-* [Functional PHP](https://github.com/lstrojny/functional-php) - 一个函数式编程库
 * [ClassPreloader](https://github.com/mtdowling/ClassPreloader) - 一个优化自动加载的库
 * [Lib Country](https://github.com/phine/lib-country) - 一个国家和地区数据的库
-* [Lib Accessor](https://github.com/phine/lib-accessor) - 一个简化访问的库
 * [PHPStack](http://dunkels.com/adam/phpstack/) - 一个PHP编写的TCP/IP栈概念
 * [Nmap](https://github.com/willdurand/nmap) - 一个[Nmap](http://nmap.org/) PHP包装器
 * [Code Mover](https://github.com/dantleech/code-mover) - 一个移动代码的库
-* [Iter](https://github.com/nikic/iter) - 一个使用生成器提供迭代原语的库
 * [Lambda PHP](https://github.com/igorw/lambda-php) - 一个PHP中的Lambda计算解析器
 * [Country List](https://github.com/umpirsky/country-list) - 所有带有名称和ISO 3166-1编码的国家列表
 * [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - 一个用于Raspberry PI的GPIO pin的库
@@ -723,6 +740,7 @@
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - A一个管理后端队列的应用
 * [Composer as a Service](http://composer.borreli.com/) - 作为一个zip文件下载Composer包的工具
 * [MailCatcher](https://github.com/sj26/mailcatcher) - 一个抓取和查看邮件的web工具
+* [Cachet](https://github.com/cachethq/cachet) - 开源状态页面系统
 
 # 资源 Resources
 各种提高你的PHP开发技能和知识的资源，比如书籍，网站，文章
