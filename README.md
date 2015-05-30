@@ -630,6 +630,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries for Internationalization (I18n) and Localization (L10n).*
 
 * [Aura Intl](https://github.com/auraphp/Aura.Intl)
+* [Punic](https://github.com/punic/punic) - Library that provides localized data like country names, continent names, language names, number formatting in various languages
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
