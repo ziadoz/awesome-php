@@ -606,6 +606,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP Object Storage](https://github.com/herrera-io/php-object-storage) - A library for object storage.
 * [Fractal](https://github.com/php-loep/fractal) - A library for converting complex data structures to JSON output.
 * [Totem](http://github.com/Wisembly/Totem) - A library to manage and create data changesets.
+* [YaLinqo](https://github.com/Athari/YaLinqo) - LINQ to objects, a library for performing queries on data in functional style.
 * [PINQ](https://github.com/TimeToogo/Pinq) - A real Linq library for PHP.
 * [JsonMapper](https://github.com/netresearch/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
 
