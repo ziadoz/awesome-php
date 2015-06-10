@@ -122,6 +122,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make ZF2.
 * [Aura Components](http://auraphp.github.com/) - A package of PHP 5.4 components.
 * [Hoa Project](http://hoa-project.net/En/) - Another package of PHP components.
+* [Zeta Components](http://zetacomponents.org/) - High quality, general purpose library of loosly coupled components for PHP 5.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
 
 ## Micro Frameworks
