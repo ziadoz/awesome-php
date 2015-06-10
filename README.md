@@ -31,7 +31,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [Passwords](#passwords)
 	- [Code Analysis](#code-analysis)
 	- [Architectural](#architectural)
-	- [Debugging](#debugging)
+	- [Debugging and Profiling](#debugging-and-profiling)
 	- [Build Tools](#build-tools)
 	- [Task Runners](#task-runners)
 	- [Navigation](#navigation)
@@ -330,7 +330,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
-* [xHprof](https://github.com/phacility/xhprof) - Another profiling tool for PHP.
 * [PHPCheckstyle](https://github.com/jbrooksuk/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
 
@@ -349,8 +348,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Lib Accessor](https://github.com/phine/lib-accessor) - A library for simplifying accessors.
 * [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
 
-## Debugging
-*Libraries and tools for debugging code.*
+## Debugging and Profiling
+*Libraries and tools for debugging and profiling code.*
 
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
@@ -359,6 +358,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPDBG](http://phpdbg.com/) - An interactive PHP debugger.
 * [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
 * [Z-Ray](http://www.zend.com/en/products/server/z-ray) - A debug and profile tool for Zend Server.
+* [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 * [Blackfire.io](http://blackfire.io) - A low-overhead code profiler.
 
 ## Build Tools
