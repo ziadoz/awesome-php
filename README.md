@@ -497,7 +497,7 @@ Libraries to help manage database schemas and migrations.
 * [SphinxQL query builder](http://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](http://sphinxsearch.com/) search engine.
 
 ## Command Line
-*Libraries for building command line utilities.*
+*Libraries related to the command line.*
 
 * [Boris](https://github.com/d11wtq/boris) - A tiny PHP REPL.
 * [PsySH](https://github.com/bobthecow/psysh) - Another PHP REPL.
