@@ -597,6 +597,7 @@ Libraries to help manage database schemas and migrations.
 * [Alternative PHP Cache (APC)](http://www.php.net/manual/en/book.apc.php) - Open opcode cache for PHP.
 * [Cache](https://github.com/doctrine/cache) - A caching library (part of Doctrine).
 * [Stash](https://github.com/tedivm/Stash) - Another library for caching.
+* [Rapido Cache](https://github.com/hitmeister/rapido-cache) - Fast, Easy and well tested caching library.
 
 ## Data Structure and Storage
 *Libraries that implement data structure or storage techniques.*
@@ -692,6 +693,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - A library for playing with the Raspberry PI's GPIO pins.
 * [print_o](https://github.com/koriym/print_o) - An object graph visualizer.
 * [Alias](https://github.com/fuelphp/alias) - A class aliasing library.
+* [Hitmeister Metrics](https://github.com/hitmeister/metrics/) - Metrics forwarder for PHP. We can forward to [statsd](https://github.com/etsy/statsd) and [InfluxDB](https://influxdb.com/).
 
 # Software
 *Software for creating a development environment.*
