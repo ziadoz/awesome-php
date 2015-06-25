@@ -243,7 +243,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
 * [VFS Stream](https://github.com/mikey179/vfsStream) - A virtual filesystem stream wrapper for testing.
 * [VFS](https://github.com/adlawson/vfs.php) - Another virtual filesystem for testing.
-* [Locust](http://locust.io/) - A modern load test library written in Python.H
+* [Locust](http://locust.io/) - A modern load test library written in Python.
 * [ShouldPHP](https://github.com/GabrielJMJ/ShouldPHP) - For to test classes with a friendly syntax.
 
 ## Continuous Integration
