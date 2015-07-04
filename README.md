@@ -31,7 +31,7 @@
     - [密码 Passwords](#密码-passwords)
     - [代码分析 Code Analysis](#代码分析-code-analysis)
     - [Architectural](#architectural)
-    - [调试 Debugging](#调试-debugging)
+    - [调试和分析 Debugging and Profiling](#调试和分析-debugging-and-profiling)
     - [构建工具 Build Tools](#构建工具-build-tools)
     - [任务运行器 Task Runners](#任务运行器-task-runners)
     - [导航 Navigation](#导航-navigation)
@@ -85,6 +85,7 @@
 * [Composer](http://getcomposer.org/)/[Packagist](http://packagist.org/) - 一个包和依赖管理器
 * [Composer Installers](https://github.com/composer/installers) - 一个多框架Composer库安装器
 * [Pickle](https://github.com/FriendsOfPHP/pickle) - 一个PHP扩展安装器
+* [Melody](http://melody.sensiolabs.org/) - 一个用于构建Composer脚本文件的工具
 
 ## 其他的依赖管理 Dependency Management Extras
 *其他的相关依赖管理*
@@ -331,7 +332,6 @@
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - 使用图论的代码分析工具
 * [Scrutinizer](https://scrutinizer-ci.com/) - 一个审查PHP代码的web工具
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - 一个快速测量PHP项目大小的工具
-* [xHprof](https://github.com/phacility/xhprof) - 另一个PHP分析工具
 * [PHPCheckstyle](https://github.com/jbrooksuk/phpcheckstyle) - 一个帮助遵守特定的编码惯例的工具
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - 一个创建可定制依赖图的工具
 
@@ -351,8 +351,8 @@
 * [Lib Accessor](https://github.com/phine/lib-accessor) - 一个简化访问的库
 * [Iter](https://github.com/nikic/iter) - 一个使用生成器提供迭代原语的库
 
-## 调试 Debugging
-*调试代码的库和工具*
+## 调试和分析 Debugging and Profiling
+*调试和分析代码的库和工具*
 
 * [xDebug](https://github.com/xdebug/xdebug) - 一个调试和分析PHP的工具
 * [PHP Debug Bar](http://phpdebugbar.com/) - 一个调试工具栏
@@ -361,6 +361,7 @@
 * [PHPDBG](http://phpdbg.com/) - 一个交互的PHP调试器
 * [Tracy](https://github.com/nette/tracy) - A一个简单的错误检测，写日志和时间测量库
 * [Z-Ray](http://www.zend.com/en/products/server/z-ray) - 一个调试和配置Zend服务器的工具
+* [xHprof](https://github.com/phacility/xhprof) - 另一个PHP分析工具
 * [Blackfire.io](http://blackfire.io) - 一个低开销的代码分析器
 
 ## 构建工具 Build Tools
@@ -418,13 +419,14 @@
 * [Hoa EventSource](https://github.com/hoaproject/Eventsource) - 一个事件源库
 * [Evenement](https://github.com/igorw/evenement) - 一个事件分发库
 * [Event](https://github.com/thephpleague/event) - 一个专注于域名事件的库
-* [Broadway](https://github.com/qandidate-labs/broadway) - An event source and CQRS library.
+* [Broadway](https://github.com/qandidate-labs/broadway) - 一个事件源和CQRS(命令查询责任分离)库
 
 ## 日志 Logging
 *生成和处理日志文件的库*
 
 * [Monolog](https://github.com/Seldaek/monolog) - 一个全面的日志工具
 * [KLogger](https://github.com/katzgrau/KLogger) - 一个易用的兼容PSR-3的日志类
+* [Analog](https://github.com/jbroadway/analog) - 一个基于闭包的微型日志包
 
 ## 电子商务 E-commerce
 *处理支付和构建在线电子商务商店的库和应用*
@@ -497,7 +499,7 @@
 * [SphinxQL query builder](http://foolcode.github.io/SphinxQL-Query-Builder/) - [Sphinx](http://sphinxsearch.com/)搜索引擎的的查询库
 
 ## 命令行 Command Line
-*构建命令行工具的库*
+*关于命令行工具的库*
 
 * [Boris](https://github.com/d11wtq/boris) - 一个微型PHP REPL
 * [PsySH](https://github.com/bobthecow/psysh) - 另一个PHP REPL
