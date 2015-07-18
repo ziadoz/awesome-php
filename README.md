@@ -391,6 +391,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Munee](https://github.com/meenie/munee) - An asset optimiser library.
 * [JShrink](https://github.com/tedivm/JShrink) - A JavaScript minifier library.
 * [Puli](https://github.com/webmozart/puli) - A library for determining assets absolute paths.
+* [BowerPHP](https://github.com/Bee-Lab/bowerphp) - A PHP implementation of Bower
 
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
