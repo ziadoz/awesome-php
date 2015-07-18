@@ -290,6 +290,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [RandomLib](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
+* [Simply Random](https://github.com/blocktrail/simply-random-php) - A library for generating random numbers and strings using MCRYPT_DEV_URANDOM.
 * [True Random](https://github.com/pixeloution/true-random) - A library that generates random numbers using [www.random.org](http://www.random.org/).
 * [SecurityMultiTool](https://github.com/padraic/SecurityMultiTool) - A PHP security library.
 * [PHPSecLib](http://phpseclib.sourceforge.net/) - A pure PHP secure communications library.
