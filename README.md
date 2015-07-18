@@ -542,6 +542,7 @@ Libraries to help manage database schemas and migrations.
 * [Ciconia](https://github.com/kzykhys/Ciconia) - Another Markdown parser that supports Github flavoured Markdown.
 * [Cebe Markdown](https://github.com/cebe/markdown) - An fast and extensible Markdown parser.
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
+* [Emoji](https://github.com/heyupdate/Emoji) - Emoji images from unicode characters and names
 
 ## Strings
 *Libraries for parsing and manipulating strings.*
