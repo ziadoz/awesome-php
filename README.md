@@ -465,6 +465,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [RedBean](http://redbeanphp.com/) - A lightweight, configuration-less ORM.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
+* [MysqliDb](https://github.com/joshcam/PHP-MySQLi-Database-Class/) - Simple mySQL query builder and object mapper
 
 ## Migrations
 Libraries to help manage database schemas and migrations.
