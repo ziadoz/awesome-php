@@ -804,6 +804,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Taking PHP Seriously](http://www.infoq.com/presentations/php-history) - A talk outlining PHP's strengths by Keith Adams of Facebook.
 * [PHP Town Hall](http://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 * [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
+* [AFUP Youtube Channel](https://www.youtube.com/user/afupPHP) - Videos of talks given in the Forum PHP and PHPTour conferences (mostly in french)
 
 ## PHP Reading
 *PHP-releated reading materials.*
