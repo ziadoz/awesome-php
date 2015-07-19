@@ -598,7 +598,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Alternative PHP Cache (APC)](http://www.php.net/manual/en/book.apc.php) - Open opcode cache for PHP.
 * [Doctrine Cache](https://github.com/doctrine/cache) - A caching library.
-* [Zend Cache](https://github.com/zendframework/Component_ZendCache) - Another caching library (ZF2).
+* [Zend Cache](https://github.com/zendframework/zend-cache) - Another caching library (ZF2).
 * [Stash](https://github.com/tedivm/Stash) - Another library for caching.
 
 ## Data Structure and Storage
@@ -607,7 +607,7 @@ Libraries to help manage database schemas and migrations.
 * [Ardent](https://github.com/morrisonlevi/Ardent) - A library of data structures.
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
-* [Zend Serializer](https://github.com/zendframework/Component_ZendSerializer) - Another library for serialising and de-serialising data (ZF2).
+* [Zend Serializer](https://github.com/zendframework/zend-serializer) - Another library for serialising and de-serialising data (ZF2).
 * [PHP Object Storage](https://github.com/herrera-io/php-object-storage) - A library for object storage.
 * [Fractal](https://github.com/php-loep/fractal) - A library for converting complex data structures to JSON output.
 * [Totem](http://github.com/Wisembly/Totem) - A library to manage and create data changesets.
