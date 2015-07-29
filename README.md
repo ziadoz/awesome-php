@@ -543,6 +543,7 @@
 * [Ciconia](https://github.com/kzykhys/Ciconia) - 另一个支持Github Markdown风格的Markdown解析器
 * [Cebe Markdown](https://github.com/cebe/markdown) - 一个快速的可扩展的Markdown解析器
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - 一个HTML5解析和序列化库
+* [Emoji](https://github.com/heyupdate/Emoji) - 一个把Unicode字符和名称转换为表情符号图片的库
 
 ## 字符串 Strings
 *解析和处理字符串的库*
@@ -597,7 +598,8 @@
 *缓存数据的库*
 
 * [Alternative PHP Cache (APC)](http://www.php.net/manual/en/book.apc.php) - 打开PHP操作码缓存
-* [Cache](https://github.com/doctrine/cache) - 一个缓存库(Doctrine的一部分)
+* [Doctrine Cache](https://github.com/doctrine/cache) - 一个缓存库
+* [Zend Cache](https://github.com/zendframework/zend-cache) - 另一个缓存库(ZF2)
 * [Stash](https://github.com/tedivm/Stash) - 另一个缓存库
 
 ## 数据结构和存储 Data Structure and Storage
@@ -606,6 +608,7 @@
 * [Ardent](https://github.com/morrisonlevi/Ardent) - 一个数据结构库
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - 一个简单的集合库
 * [Serializer](https://github.com/schmittjoh/serializer) - 一个序列化和反序列化数据的库
+* [Zend Serializer](https://github.com/zendframework/zend-serializer) - 另一个序列化和反序列化数据的库(ZF2)
 * [PHP Object Storage](https://github.com/herrera-io/php-object-storage) - 一个对象存储库
 * [Fractal](https://github.com/php-loep/fractal) - 一个转换复杂数据结构到JSON输出的库
 * [Totem](http://github.com/Wisembly/Totem) - -一个管理和创建数据交换集的库
@@ -664,6 +667,7 @@
 * [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) - 验证JSONP回调的库
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - 一个分页库
 * [LiteCQRS](https://github.com/beberlei/litecqrs-php) - 一个CQRS(命令查询责任分离)库
+* [Chief](https://github.com/adamnicholson/Chief) - 一个命令总线库
 * [Sslurp](https://github.com/EvanDotPro/Sslurp) - 一个使得SSL处理减少的库
 * [Metrics](https://github.com/beberlei/metrics) - 一个简单的度量API库
 * [Sabre VObject](https://github.com/evert/sabre-vobject) - 一个解析VCard和iCalendar对象的库
