@@ -601,6 +601,7 @@ Libraries to help manage database schemas and migrations.
 * [Doctrine Cache](https://github.com/doctrine/cache) - A caching library.
 * [Zend Cache](https://github.com/zendframework/zend-cache) - Another caching library (ZF2).
 * [Stash](https://github.com/tedivm/Stash) - Another library for caching.
+* [CacheTool](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
 
 ## Data Structure and Storage
 *Libraries that implement data structure or storage techniques.*
@@ -698,7 +699,6 @@ Libraries to help manage database schemas and migrations.
 * [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - A library for playing with the Raspberry PI's GPIO pins.
 * [print_o](https://github.com/koriym/print_o) - An object graph visualizer.
 * [Alias](https://github.com/fuelphp/alias) - A class aliasing library.
-* [CacheTool](https://github.com/gordalina/cachetool) - Clear apc/opcode caches from the command line.
 
 # Software
 *Software for creating a development environment.*
