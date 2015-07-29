@@ -100,9 +100,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Frameworks
 *Web development frameworks.*
 
-* [Symfony2](http://symfony.com/) - A framework comprised of individual components.
-* [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components.
-* [Laravel 5](http://laravel.com/) - Another PHP framework.
+* [Symfony 2](http://symfony.com/) - A framework comprised of individual components (SF2).
+* [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components (ZF2).
+* [Laravel 5](http://laravel.com/) - Another PHP framework (L5).
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Nette](http://nette.org) - Another framework comprised of individual components.
@@ -119,8 +119,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Components
 *Standalone component from web development frameworks and development groups.*
 
-* [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony2.
-* [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make ZF2.
+* [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony 2.
+* [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make Zend Framework.
 * [Aura Components](http://auraphp.github.com/) - A package of PHP 5.4 components.
 * [Hoa Project](http://hoa-project.net/En/) - Another package of PHP components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
@@ -228,7 +228,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 * [PHP DI](http://mnapoli.github.com/PHP-DI/) - A dependency injection implementation using annotations.
 * [Acclimate](https://github.com/jeremeamia/acclimate) - A common interface to dependency injection containers and service locators.
-* [Symfony DI](https://github.com/symfony/DependencyInjection) - A Dependency Injection Container component used in Symfony.
+* [Symfony DI](https://github.com/symfony/DependencyInjection) - A dependency injection container component (SF2).
 
 ## Imagery
 *Libraries for manipulating images.*
