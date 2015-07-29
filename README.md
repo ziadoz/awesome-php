@@ -132,6 +132,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Lumen](http://lumen.laravel.com) - A micro-framework by Laravel.
+* [Proton](https://github.com/alexbilbie/Proton) - A StackPHP compatible micro framework built around the php league components.
 
 ## Micro Framework Extras
 *Extras related to micro frameworks and routers.*
