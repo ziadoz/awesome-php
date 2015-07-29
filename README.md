@@ -275,7 +275,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [SemaphoreCI](https://semaphoreapp.com/) - A continuous integration platform for open source and private projects.
 * [PHPCI](http://www.phptesting.org/) - An open source continuous integration platform for PHP.
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
-* [Jenkins](http://jenkins-ci.org/) A continous integration platform with [PHP support](http://jenkins-php.org/index.html).
+* [Jenkins](http://jenkins-ci.org/) - A continous integration platform with [PHP support](http://jenkins-php.org/index.html).
 * [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
 
 ## Documentation
@@ -338,7 +338,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Architectural
 *Libraries related to design patterns, programming approaches and ways to organize code.*
 
-* [PHP Option](https://github.com/schmittjoh/php-option) An option type library.
+* [PHP Option](https://github.com/schmittjoh/php-option) - An option type library.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 * [Finite](http://yohan.giarel.li/Finite) - A simple PHP finite state machine.
 * [Compose](https://github.com/igorw/compose) - A function composition library.
@@ -797,7 +797,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [The Tangled Web — Securing Web Applications](http://www.amazon.ca/The-Tangled-Web-Securing-Applications/dp/1593273886) - A book about securing web applications by Michal Zalewski.
 * [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/) - A guide to working with Elasticsearch by Clinton Gormley and Zachary Tong.
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - A book about JavaScript programming by Marijn Haverbeke.
-* [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) A book about creating Vagrant environments by Erika Heidi.
+* [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) - A book about creating Vagrant environments by Erika Heidi.
 * [Pro Git](http://git-scm.com/book/en/v2) - A book about Git by Scott Chacon and Ben Straub.
 
 ## PHP Videos
