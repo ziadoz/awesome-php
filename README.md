@@ -847,4 +847,4 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ## PHP Magazines
 *Fantastic PHP-related magazines.*
 
-* [php[architect]](http://www.phparch.com/magazine/) - php[architect] is a monthly magazine dedicated to PHP programming language.
+* [php[architect]](http://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.
