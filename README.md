@@ -77,6 +77,7 @@
     - [PHP视频 PHP Videos](#php视频-php-videos)
     - [PHP阅读 PHP Reading](#php阅读-php-reading)
     - [PHP内核阅读 PHP Internals Reading](#php内核阅读-php-internals-reading)
+    - [PHP杂志 PHP Magazines](#PHP杂志-php-magazines)
 - [贡献](#贡献)
 
 ## 依赖管理 Dependency Management
@@ -101,9 +102,9 @@
 ## 框架 Frameworks
 *Web开发框架*
 
-* [Symfony2](http://symfony.com/) - 一个独立组件组成的框架
-* [Zend Framework 2](http://framework.zend.com) - 另一个由独立组件组成的框架
-* [Laravel 5](http://laravel.com/) - 另一个PHP框架
+* [Symfony 2](http://symfony.com/) - 一个独立组件组成的框架 (SF2)
+* [Zend Framework 2](http://framework.zend.com) - 另一个由独立组件组成的框架 (ZF2)
+* [Laravel 5](http://laravel.com/) - 另一个PHP框架 (L5)
 * [Aura PHP](http://auraphp.com/) - 一个独立的组件框架
 * [Yii2](https://github.com/yiisoft/yii2/) - 另一个PHP框架
 * [Nette](http://nette.org) - 另一个由个体组件组成的框架
@@ -120,8 +121,8 @@
 ## 框架组件 Components
 *来自web开发框架的独立组件*
 
-* [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - Symfony2组件
-* [Zend Framework 2 Components](https://packages.zendframework.com/) - ZF2组件
+* [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - Symfony 2组件
+* [Zend Framework 2 Components](https://packages.zendframework.com/) - Zend Framework 2组件
 * [Aura Components](http://auraphp.github.com/) - PHP5.4组件包
 * [Hoa Project](http://hoa-project.net/En/) - 另一个PHP组件包
 * [League of Extraordinary Packages](https://thephpleague.com/) - 一个PHP软件开发组
@@ -229,6 +230,7 @@
 * [Container](https://github.com/thephpleague/container) - 另一个可伸缩的依赖注入容器
 * [PHP DI](http://mnapoli.github.com/PHP-DI/) - 一个使用注释实现的依赖注入
 * [Acclimate](https://github.com/jeremeamia/acclimate) - 一个依赖注入容器和服务定位的通用接口
+* [Symfony DI](https://github.com/symfony/DependencyInjection) - 一个依赖注入容器组件 (SF2)
 
 ## 图像 Imagery
 *处理图像的库*
@@ -275,7 +277,7 @@
 * [SemaphoreCI](https://semaphoreapp.com/) - 一个开放源码和私人项目的持续集成平台
 * [PHPCI](http://www.phptesting.org/) - 一个PHP的开源的持续集成平台
 * [Sismo](http://sismo.sensiolabs.org/) - 一个持续测试的服务库
-* [Jenkins](http://jenkins-ci.org/) 一个[PHP支持](http://jenkins-php.org/index.html)的持续集成平台
+* [Jenkins](http://jenkins-ci.org/) - 一个[PHP支持](http://jenkins-php.org/index.html)的持续集成平台
 * [JoliCi](https://github.com/jolicode/JoliCi) - 一个用PHP编写的由Docker支持的持续集成的客户端
 
 ## 文档 Documentation
@@ -599,8 +601,9 @@
 
 * [Alternative PHP Cache (APC)](http://www.php.net/manual/en/book.apc.php) - 打开PHP操作码缓存
 * [Doctrine Cache](https://github.com/doctrine/cache) - 一个缓存库
-* [Zend Cache](https://github.com/zendframework/zend-cache) - 另一个缓存库(ZF2)
+* [Zend Cache](https://github.com/zendframework/zend-cache) - 另一个缓存库 (ZF2)
 * [Stash](https://github.com/tedivm/Stash) - 另一个缓存库
+* [CacheTool](https://github.com/gordalina/cachetool) - 一个使用命令行清除apc/opcode缓存的工具
 
 ## 数据结构和存储 Data Structure and Storage
 *实现数据结构和存储技术的库*
@@ -608,7 +611,7 @@
 * [Ardent](https://github.com/morrisonlevi/Ardent) - 一个数据结构库
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - 一个简单的集合库
 * [Serializer](https://github.com/schmittjoh/serializer) - 一个序列化和反序列化数据的库
-* [Zend Serializer](https://github.com/zendframework/zend-serializer) - 另一个序列化和反序列化数据的库(ZF2)
+* [Zend Serializer](https://github.com/zendframework/zend-serializer) - 另一个序列化和反序列化数据的库 (ZF2)
 * [PHP Object Storage](https://github.com/herrera-io/php-object-storage) - 一个对象存储库
 * [Fractal](https://github.com/php-loep/fractal) - 一个转换复杂数据结构到JSON输出的库
 * [Totem](http://github.com/Wisembly/Totem) - -一个管理和创建数据交换集的库
@@ -796,7 +799,7 @@
 * [The Tangled Web — Securing Web Applications](http://www.amazon.ca/The-Tangled-Web-Securing-Applications/dp/1593273886) - Michal Zalewski关于web应用安全的一本书
 * [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/) - Clinton Cormley和Zachary Tong编写的与Elasticsearch工作的一本指南
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijin Haverbeke关于JavaScript编程的一本书
-* [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) Erika Heidi关于创建 Vagrant环境的一本书
+* [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) - Erika Heidi关于创建 Vagrant环境的一本书
 * [Pro Git](http://git-scm.com/book/en/v2) - Scott Chacon和Ben Straub关于Git的一本书
 
 ## PHP视频 PHP Videos
@@ -805,6 +808,7 @@
 * [Taking PHP Seriously](http://www.infoq.com/presentations/php-history) - 来自Facebook Keith Adams 讲述PHP优势
 * [PHP Town Hall](http://phptownhall.com/) - 一个随意的Ben Edmunds和Phil Sturgeon的PHP播客
 * [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - Anthony Ferrara的视频系列
+* [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - 一个PHP英国会议的视频集合
 
 ## PHP阅读 PHP Reading
 *PHP相关的阅读资料*
@@ -842,3 +846,8 @@
 * [PHP Evaluation Order](https://gist.github.com/nikic/6699370) - 一篇关于PHP评估顺序的文章
 * 开发人员的PHP源代码: [1](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](http://nikic.github.com/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](http://nikic.github.com/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - 关于PHP源代码的系列
 * 垃圾收集: [1](http://www.php.net/manual/en/features.gc.refcounting-basics.php) [2](http://www.php.net/manual/en/features.gc.collecting-cycles.php) [3](http://www.php.net/manual/en/features.gc.performance-considerations.php) - 关于PHP垃圾收集原理的系列
+
+## PHP杂志 PHP Magazines
+*有趣的PHP相关的杂志*
+
+* [php[architect]](http://www.phparch.com/magazine/) - 一个致力于PHP的月更的杂志
