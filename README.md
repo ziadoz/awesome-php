@@ -77,7 +77,7 @@
     - [PHP视频 PHP Videos](#php视频-php-videos)
     - [PHP阅读 PHP Reading](#php阅读-php-reading)
     - [PHP内核阅读 PHP Internals Reading](#php内核阅读-php-internals-reading)
-    - [PHP杂志 PHP Magazines](#PHP杂志-php-magazines)
+    - [PHP杂志 PHP Magazines](#php杂志-php-magazines)
 - [贡献](#贡献)
 
 ## 依赖管理 Dependency Management
