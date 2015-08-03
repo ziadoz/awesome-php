@@ -799,7 +799,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - A book about JavaScript programming by Marijn Haverbeke.
 * [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) - A book about creating Vagrant environments by Erika Heidi.
 * [Pro Git](http://git-scm.com/book/en/v2) - A book about Git by Scott Chacon and Ben Straub.
-* [Head First Design Patterns](http://www.headfirstlabs.com/books/hfdp/) - Do you want to learn, understand, remember, and apply design patterns, including the OO design principles upon which design patterns are based?.
+* [Head First Design Patterns](http://www.headfirstlabs.com/books/hfdp/) - A book that expains software design patterns.
 
 ## PHP Videos
 *Fantastic PHP-related videos.*
