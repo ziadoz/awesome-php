@@ -675,7 +675,7 @@ Libraries to help manage database schemas and migrations.
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
 * [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
 * [LadyBug](https://github.com/raulfraile/Ladybug) - A dumper library.
-* [Symfony VarDumper](http://symfony.com/doc/current/components/var_dumper/introduction.html) - A Symfony dumper component.
+* [Symfony VarDumper](http://symfony.com/doc/current/components/var_dumper/introduction.html) - A variable dumper component (SF2).
 * [Procrastinator](https://github.com/lstrojny/Procrastinator) - A library for running time consuming tasks.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
 * [Jumper](https://github.com/kakawait/Jumper) - A remote service executor library.
