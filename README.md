@@ -121,7 +121,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony 2.
 * [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make Zend Framework.
-* [Aura Components](http://auraphp.github.com/) - A package of PHP 5.4 components.
+* [Aura Components](http://auraphp.com/) - A package of PHP 5.4 components.
 * [Hoa Project](http://hoa-project.net/En/) - Another package of PHP components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
 
@@ -132,6 +132,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Lumen](http://lumen.laravel.com) - A micro-framework by Laravel.
+* [Radar](https://github.com/radarphp/Radar.Project) - PSR-7 compliant, Action Domain Responder micro framework.
 
 ## Micro Framework Extras
 *Extras related to micro frameworks and routers.*
@@ -147,6 +148,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 * [Klein](https://github.com/chriso/klein.php) - A flexible router.
+* [Aura.Router](https://github.com/auraphp/Aura.Router) - Powerful, flexible web routing for PSR-7 requests.
 
 ## Templating
 *Libraries and tools for templating and lexing.*
@@ -159,6 +161,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPTAL](http://phptal.org/) - A PHP implementation of the [TAL](http://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
+* [Aura.View](https://github.com/auraphp/Aura.View) - Provides TemplateView and TwoStepView using PHP as the tempting language, with support for partials, sections, and helpers.
 
 ## Static Site Generators
 *Tools for pre-processing content to generate web pages.*
@@ -181,7 +184,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Stack](https://github.com/stackphp) - A library of stackable middleware for Silex/Symfony.
 * [Slim Middleware](https://github.com/codeguy/Slim-Middleware) - A collection of custom middleware for Slim.
-* [Conduit](https://github.com/phly/conduit) - A port of [Sencha Connect](https://github.com/senchalabs/connect) to PHP.
+* [Stratigility](https://github.com/zendframework/zend-stratigility) - A port of [Sencha Connect](https://github.com/senchalabs/connect) to PHP.
+* [Relay](https://github.com/relayphp/Relay.Relay) - A PSR-7 middleware dispatcher.
 
 ## URL
 *Libraries for parsing URLs.*
@@ -229,6 +233,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP-DI](http://php-di.org/) - A dependency injection container that supports autowiring.
 * [Acclimate](https://github.com/jeremeamia/acclimate) - A common interface to dependency injection containers and service locators.
 * [Symfony DI](https://github.com/symfony/DependencyInjection) - A dependency injection container component (SF2).
+* [Aura DI](https://github.com/auraphp/Aura.Di) - Dependency Injection system that supports autowiring.
 
 ## Imagery
 *Libraries for manipulating images.*
@@ -532,6 +537,7 @@ Libraries to help manage database schemas and migrations.
 * [Lock](https://github.com/BeatSwitch/lock) - A library for implementing Access Control Lists (ACL) systems.
 * [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
 * [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
+* [Aura.Auth](https://github.com/auraphp/Aura.Auth) - Provides a unified interface to local and remote authentication systems..
 
 ## Markup
 *Libraries for working with markup.*
@@ -582,6 +588,7 @@ Libraries to help manage database schemas and migrations.
 * [DMS Filter](https://github.com/rdohms/DMS-Filter) - An annotation filtering library.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating various ISO and ZIP codes (IBAN, SWIFT/BIC, BBAN, VAT, SSN, UKNIN).
+* [Aura.Filter](https://github.com/auraphp/Aura.Filter) - Validate and sanitize arrays and objects.
 
 ## API
 *Libraries and web tools for developing APIs.*
