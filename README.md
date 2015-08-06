@@ -92,6 +92,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Dependency Management Extras
 *Extras related to dependency management.*
 
+* [Composed](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
 * [Composer Checker](https://github.com/silpion/composer-checker) - A tool to validate Composer configurations.
 * [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several composer.json files.
 * [Composition](https://github.com/bamarni/composition) - A library to check your Composer environment at runtime.
