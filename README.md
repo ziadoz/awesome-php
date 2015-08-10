@@ -586,6 +586,7 @@ Libraries to help manage database schemas and migrations.
 * [DMS Filter](https://github.com/rdohms/DMS-Filter) - An annotation filtering library.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating various ISO and ZIP codes (IBAN, SWIFT/BIC, BBAN, VAT, SSN, UKNIN).
+* [GUMP](https://github.com/Wixel/GUMP) - is a standalone PHP data validation and filtering class that makes validating any data easy and painless without the reliance on a framework
 
 ## API
 *Libraries and web tools for developing APIs.*
