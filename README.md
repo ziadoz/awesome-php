@@ -519,7 +519,7 @@ Libraries to help manage database schemas and migrations.
 * [Hoa Console](https://github.com/hoaproject/Console) - Another command line library.
 * [Shunt](https://github.com/php-loep/shunt) - A library for running commands in parallel on multiple remote machines.
 * [Cilex](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
-* [CLImate](https://github.com/thephpleague/climate) - A library for outputting colours and special formatting.
+* [CLImate](https://github.com/thephpleague/climate) - A library for outputting colours, special formatting, input handling, and command line opt parsing.
 
 ## Authentication and Authorization
 *Libraries for implementing user authentication and authorization.*
