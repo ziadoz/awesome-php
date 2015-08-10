@@ -367,6 +367,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Z-Ray](http://www.zend.com/en/products/server/z-ray) - A debug and profile tool for Zend Server.
 * [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 * [Blackfire.io](http://blackfire.io) - A low-overhead code profiler.
+* [Kint] (https://github.com/raveren/kint) - A debugging and profiling tool that replaces debug_backtrace(), var_dump() and print_r().
 
 ## Build Tools
 *Project build and automation tools.*
