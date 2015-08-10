@@ -20,6 +20,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [Middlewares](#middlewares)
 	- [URL](#url)
 	- [Email](#email)
+	- [Sms] (#sms)
 	- [Files](#files)
 	- [Streams](#streams)
 	- [Dependency Injection](#dependency-injection)
@@ -205,6 +206,11 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
 * [Email Validator](https://github.com/nojacko/email-validator) - A small email address validation library.
 
+## Sms
+*Libraries for sending sms.*
+
+* [SmsSender](https://github.com/Carpe-Hora/SmsSender) - A sms sender.
+
 ## Files
 *Libraries for file manipulation and MIME type detection.*
 
@@ -287,6 +293,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Sami](https://github.com/fabpot/Sami) - An API documentation generator.
 * [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
+* [php-apidoc](https://github.com/calinrada/php-apidoc) - Another API documentation generator.
 * [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor2) - A documentation generator.
 * [phpDox](http://phpdox.de/) - A documentation generator for PHP projects (that is not limited to API documentation).
 
@@ -325,6 +332,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
 * [PHP Mess Detector](http://phpmd.org/) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
 * [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
+* [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
 * [PHP Analyser](https://github.com/scrutinizer-ci/php-analyzer) - A library for analysing PHP code to find bugs and errors.
 * [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A coding standards fixer library.
@@ -586,6 +594,7 @@ Libraries to help manage database schemas and migrations.
 * [DMS Filter](https://github.com/rdohms/DMS-Filter) - An annotation filtering library.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating various ISO and ZIP codes (IBAN, SWIFT/BIC, BBAN, VAT, SSN, UKNIN).
+* [GUMP](https://github.com/Wixel/GUMP) - is a standalone PHP data validation and filtering class that makes validating any data easy and painless without the reliance on a framework
 
 ## API
 *Libraries and web tools for developing APIs.*
