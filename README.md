@@ -524,7 +524,7 @@ Libraries to help manage database schemas and migrations.
 ## Authentication and Authorization
 *Libraries for implementing user authentication and authorization.*
 
-* [Sentry](https://github.com/cartalyst/sentry) - A framework agnostic authentication & authorisation library.
+* [Sentinel](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorisation library.
 * [Opauth](https://github.com/opauth/opauth) - A multi-provider authentication framework.
 * [OAuth2 Server](http://oauth2.thephpleague.com/) - An OAuth2 authentication server, resource server and client library.
 * [OAuth2 Server](http://bshaffer.github.io/oauth2-server-php-docs/) - Another OAuth2 server implementation.
