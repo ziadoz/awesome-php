@@ -543,7 +543,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Decoda](http://milesj.me/code/php/decoda) - A lightweight markup parser library.
 * [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
-* [CommonMark PHP](https://github.com/thephpleague/commonmark) - A Markdown parser which supports the full [CommonMark spec](https://jgm.github.io/stmd/spec.html).
+* [CommonMark PHP](https://github.com/thephpleague/commonmark) - A Markdown parser which supports the full [CommonMark spec](http://spec.commonmark.org/).
 * [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
 * [Ciconia](https://github.com/kzykhys/Ciconia) - Another Markdown parser that supports Github flavoured Markdown.
 * [Cebe Markdown](https://github.com/cebe/markdown) - An fast and extensible Markdown parser.
