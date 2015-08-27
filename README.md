@@ -472,6 +472,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [RedBean](http://redbeanphp.com/) - A lightweight, configuration-less ORM.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
+* [Medoo](http://medoo.in/) -The lightest PHP database framework to accelerate development
+* [FluentPDO](http://lichtner.github.io/fluentpdo/) - FluentPDO, smart SQL builder for PHP
 
 ## Migrations
 Libraries to help manage database schemas and migrations.
