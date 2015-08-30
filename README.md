@@ -437,6 +437,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## E-commerce
 *Libraries and applications for taking payments and building online e-commerce stores.*
 
+* [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
 * [OmniPay](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
 * [Sylius](http://www.sylius.org/) - An open source e-commerce solution.
