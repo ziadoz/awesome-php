@@ -69,6 +69,7 @@
     - [虚拟机 Virtual Machines](#虚拟机-virtual-machines)
     - [集成开发环境(IDE) Integrated Development Environment](#集成开发环境ide-integrated-development-environment)
     - [Web应用 Web Applications](#web应用-web-applications)
+    - [基础架构 Infrastructure](#基础架构-infrastructure)
 - [资源 Resources](#资源-resources)
     - [PHP网站 PHP Websites](#php网站-php-websites)
     - [其他网站 Other Websites](#其他网站-other-websites)
@@ -134,6 +135,7 @@
 * [Slim](http://www.slimframework.com/) - 另一个简单的微型框架
 * [Bullet PHP](http://bulletphp.com/) - 用于构建REST APIs的微型框架
 * [Lumen](http://lumen.laravel.com) - 一个Laravel的微型框架
+* [Proton](https://github.com/alexbilbie/Proton) - 一个StackPHP兼容的微型框架
 
 ## 其他微型框架 Micro Framework Extras
 *其他相关的微型框架和路由*
@@ -228,7 +230,7 @@
 * [Pimple](http://pimple.sensiolabs.org/) - 一个小的依赖注入容器
 * [Auryn](https://github.com/rdlowrey/Auryn) - 另一个依赖注入容器
 * [Container](https://github.com/thephpleague/container) - 另一个可伸缩的依赖注入容器
-* [PHP DI](http://mnapoli.github.com/PHP-DI/) - 一个使用注释实现的依赖注入
+* [PHP-DI](http://php-di.org/) - 一个支持自动装配和PHP配置的依赖注入容器
 * [Acclimate](https://github.com/jeremeamia/acclimate) - 一个依赖注入容器和服务定位的通用接口
 * [Symfony DI](https://github.com/symfony/DependencyInjection) - 一个依赖注入容器组件 (SF2)
 
@@ -336,6 +338,7 @@
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - 一个快速测量PHP项目大小的工具
 * [PHPCheckstyle](https://github.com/jbrooksuk/phpcheckstyle) - 一个帮助遵守特定的编码惯例的工具
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - 一个创建可定制依赖图的工具
+* [Code Climate](http://codeclimate.com) - 一个自动代码审查工具
 
 
 ## Architectural
@@ -365,6 +368,7 @@
 * [Z-Ray](http://www.zend.com/en/products/server/z-ray) - 一个调试和配置Zend服务器的工具
 * [xHprof](https://github.com/phacility/xhprof) - 另一个PHP分析工具
 * [Blackfire.io](http://blackfire.io) - 一个低开销的代码分析器
+* [Kint](https://github.com/raveren/kint) - 一个调试和分析工具
 
 ## 构建工具 Build Tools
 *项目构建和自动化工具*
@@ -462,7 +466,7 @@
 * [Doctrine](http://www.doctrine-project.org/) - 一个全面的DBAL和ORM
 * [Doctrine Extensions](https://github.com/l3pp4rd/DoctrineExtensions) - 一个Doctrine行为扩展的集合
 * [Propel](http://www.propelorm.org/) - 一个快速的ORM，迁移库和查询构架器
-* [Eloquent](https://github.com/illuminate/database) - Laravel 4 的ORM.
+* [Eloquent](https://github.com/illuminate/database) - 一个简单的ORM(L5)
 * [Baum](https://github.com/etrepat/baum) - 一个Eloquent的嵌套集实现
 * [Spot2](https://github.com/vlucas/spot2) - 一个MySQL的ORM映射器
 * [RedBean](http://redbeanphp.com/) - 一个轻量级，低配置的ORM
@@ -515,7 +519,7 @@
 * [Hoa Console](https://github.com/hoaproject/Console) - 另一个命令行库
 * [Shunt](https://github.com/php-loep/shunt) - 一个在多台远程机器上并行运行命令行的库
 * [Cilex](https://github.com/Cilex/Cilex) - 一个构建命令行工具的微型框架
-* [CLImate](https://github.com/thephpleague/climate) - 一种有颜色的特殊格式的输出的库
+* [CLImate](https://github.com/thephpleague/climate) - 一个输出带颜色的和特殊格式的命令行库
 
 ## 身份验证和授权 Authentication and Authorization
 *实现身份验证和授权的库*
@@ -539,8 +543,7 @@
 
 * [Decoda](http://milesj.me/code/php/decoda) - 一个轻量级标记解析库
 * [PHP Markdown](https://github.com/michelf/php-markdown) - 一个Markdown解析器
-* [CommonMark PHP](https://github.com/thephpleague/commonmark) - 一个对[CommonMark spec](https://jgm.github.io/stmd/spec.html)全支持的Markdown解析器
-* [Dflydev Markdown](https://github.com/dflydev/dflydev-markdown) - 另一个Markdown解析器
+* [CommonMark PHP](https://github.com/thephpleague/commonmark) - 一个对[CommonMark spec](http://spec.commonmark.org/)全支持的Markdown解析器
 * [Parsedown](https://github.com/erusev/parsedown) - 另一个Markdown解析器
 * [Ciconia](https://github.com/kzykhys/Ciconia) - 另一个支持Github Markdown风格的Markdown解析器
 * [Cebe Markdown](https://github.com/cebe/markdown) - 一个快速的可扩展的Markdown解析器
@@ -677,6 +680,7 @@
 * [Annotations](https://github.com/doctrine/annotations) - 一个注释库(Doctrine的一部分)
 * [Whoops](https://github.com/filp/whoops) - 一个不错的错误处理库
 * [LadyBug](https://github.com/raulfraile/Ladybug) - 一个dumper库
+* [Symfony VarDumper](http://symfony.com/doc/current/components/var_dumper/introduction.html) - 一个dumper库(SF2)
 * [Procrastinator](https://github.com/lstrojny/Procrastinator) - 一个运行耗时任务的库
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - 一个允许闭包序列化的库
 * [Jumper](https://github.com/kakawait/Jumper) - 一个远程服务执行库
@@ -744,12 +748,17 @@
 ## Web应用 Web Applications
 *基于Web的应用和工具*
 
-* [3V4L](http://3v4l.org/) - 一个在线的PHP shell
+* [3V4L](http://3v4l.org/) - 一个在线的PHP和HHVM shell
 * [DBV](http://dbv.vizuina.com/) - 一个数据库版本控制应用
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - A一个管理后端队列的应用
 * [Composer as a Service](http://composer.borreli.com/) - 作为一个zip文件下载Composer包的工具
 * [MailCatcher](https://github.com/sj26/mailcatcher) - 一个抓取和查看邮件的web工具
 * [Cachet](https://github.com/cachethq/cachet) - 开源状态页面系统
+
+## 基础架构 Infrastructure
+*提供PHP应用和服务的基础架构*
+
+* [appserver.io](http://appserver.io/) - 一个用PHP写的多线程的PHP应用服务器
 
 # 资源 Resources
 各种提高你的PHP开发技能和知识的资源，比如书籍，网站，文章
@@ -801,6 +810,7 @@
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijin Haverbeke关于JavaScript编程的一本书
 * [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) - Erika Heidi关于创建 Vagrant环境的一本书
 * [Pro Git](http://git-scm.com/book/en/v2) - Scott Chacon和Ben Straub关于Git的一本书
+* [Head First Design Patterns](http://www.headfirstlabs.com/books/hfdp/) - 解说软件设计模式的一本书
 
 ## PHP视频 PHP Videos
 *PHP相关的非常不错的视频*
