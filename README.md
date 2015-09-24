@@ -134,6 +134,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Lumen](http://lumen.laravel.com) - A micro-framework by Laravel.
 * [Proton](https://github.com/alexbilbie/Proton) - A StackPHP compatible micro framework
+* [dispatch](https://github.com/badphp/dispatch/) - Dispatch is a PHP 5.4+ micro-framework.
 
 ## Micro Framework Extras
 *Extras related to micro frameworks and routers.*
@@ -161,6 +162,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPTAL](http://phptal.org/) - A PHP implementation of the [TAL](http://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
+* [MicroTpl](https://github.com/lloydzhou/microtpl) - small template attribute language implemention for PHP (using xml_parse)
 
 ## Static Site Generators
 *Tools for pre-processing content to generate web pages.*
@@ -470,6 +472,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [RedBean](http://redbeanphp.com/) - A lightweight, configuration-less ORM.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
+* [ActiveRecord](https://github.com/lloydzhou/activerecord) - Simple activerecord in PHP
 
 ## Migrations
 Libraries to help manage database schemas and migrations.
