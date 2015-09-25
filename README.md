@@ -108,7 +108,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Nette](http://nette.org) - Another framework comprised of individual components.
 * [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
-* [CakePHP](http://cakephp.org/) - A rapid application development framework.
+* [CakePHP](http://cakephp.org/) - A rapid application development framework (CP).
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
 
 ## Framework Extras
