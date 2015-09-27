@@ -110,7 +110,7 @@
 * [Yii2](https://github.com/yiisoft/yii2/) - 另一个PHP框架
 * [Nette](http://nette.org) - 另一个由个体组件组成的框架
 * [PPI Framework 2](http://www.ppi.io) - 一个互操作性框架
-* [CakePHP](http://cakephp.org/) - 一个快速应用程序开发框架
+* [CakePHP](http://cakephp.org/) - 一个快速应用程序开发框架 (CP)
 * [Phalcon](http://phalconphp.com/en/) - 通过C扩展实现的框架
 
 ## 其他框架 Framework Extras
@@ -118,6 +118,7 @@
 
 * [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - 一个创建自定义CMS的内容管理框架
 * [Knp RAD Bundle](http://rad.knplabs.com/) - Symfony 2的快速应用程序（RAD）包
+* [CakePHP CRUD](https://github.com/friendsofcake/crud) - CakePHP的快速应用程序（RAD）插件
 
 ## 框架组件 Components
 *来自web开发框架的独立组件*
@@ -125,6 +126,7 @@
 * [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - Symfony 2组件
 * [Zend Framework 2 Components](https://packages.zendframework.com/) - Zend Framework 2组件
 * [Aura Components](http://auraphp.github.com/) - PHP5.4组件包
+* [CakePHP Plugins](http://plugins.cakephp.org/) - CakePHP插件的目录
 * [Hoa Project](http://hoa-project.net/En/) - 另一个PHP组件包
 * [League of Extraordinary Packages](https://thephpleague.com/) - 一个PHP软件开发组
 
@@ -423,8 +425,9 @@
 * [Ratchet](https://github.com/cboden/Ratchet) - 一个web socket库
 * [Hoa WebSocket](https://github.com/hoaproject/Websocket) - 另一个web socket库
 * [Hoa EventSource](https://github.com/hoaproject/Eventsource) - 一个事件源库
-* [Evenement](https://github.com/igorw/evenement) - 一个事件分发库
+* [Evenement](https://github.com/igorw/evenement) - 一个事件调度的库
 * [Event](https://github.com/thephpleague/event) - 一个专注于域名事件的库
+* [Cake Event](https://github.com/cakephp/event) - 一个事件调度的库 (CP)
 * [Broadway](https://github.com/qandidate-labs/broadway) - 一个事件源和CQRS(命令查询责任分离)库
 
 ## 日志 Logging
@@ -472,6 +475,7 @@
 * [RedBean](http://redbeanphp.com/) - 一个轻量级，低配置的ORM
 * [Pomm](https://github.com/chanmix51/Pomm) - 一个PostgreSQL对象模型管理器
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - 一个为数据映射生成代理对象的工具集
+* [Cake ORM](https://github.com/cakephp/orm) - 对象关系映射工具，利用DataMapper模式实现 (CP)
 
 ## 迁移 Migrations
 *帮助管理数据库模式和迁移的库*
@@ -524,8 +528,8 @@
 ## 身份验证和授权 Authentication and Authorization
 *实现身份验证和授权的库*
 
-* [Sentry](https://github.com/cartalyst/sentry) - 一个混合的身份验证和授权的框架库
-* [Sentry Social](http://docs.cartalyst.com/sentry-social-2/introduction) - 一个社交网络身份验证库
+* [Sentinel](https://cartalyst.com/manual/sentinel/2.0) - 一个混合的身份验证和授权的框架库
+* [Sentinel Social](https://cartalyst.com/manual/sentinel-social/2.0) - 一个社交网络身份验证库
 * [Opauth](https://github.com/opauth/opauth) - 一个多渠道的身份验证框架
 * [OAuth2 Server](http://oauth2.thephpleague.com/) - 一个OAuth2身份验证服务，资源服务器和客户端库
 * [OAuth2 Server](http://bshaffer.github.io/oauth2-server-php-docs/) - 另一个OAuth2服务器实现
@@ -583,6 +587,7 @@
 * [Filterus](https://github.com/ircmaxell/filterus) - 一个简单的PHP过滤库
 * [Respect Validate](https://github.com/Respect/Validation) - 一个简单的验证库
 * [Valitron](https://github.com/vlucas/valitron) - 另一个验证库
+* [Cake Validation](https://github.com/cakephp/validation) - 另一个验证库 (CP)
 * [Upload](https://github.com/codeguy/Upload) - 一个处理文件上传和验证的库
 * [DMS Filter](https://github.com/rdohms/DMS-Filter) - 一个注释过滤库
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - 一个支持YAML,JSON和XML的模式验证库
@@ -605,6 +610,7 @@
 * [Alternative PHP Cache (APC)](http://www.php.net/manual/en/book.apc.php) - 打开PHP操作码缓存
 * [Doctrine Cache](https://github.com/doctrine/cache) - 一个缓存库
 * [Zend Cache](https://github.com/zendframework/zend-cache) - 另一个缓存库 (ZF2)
+* [Cake Cache](https://github.com/cakephp/cache) - 一个缓存库 (CP)
 * [Stash](https://github.com/tedivm/Stash) - 另一个缓存库
 * [CacheTool](https://github.com/gordalina/cachetool) - 一个使用命令行清除apc/opcode缓存的工具
 
@@ -620,6 +626,7 @@
 * [Totem](http://github.com/Wisembly/Totem) - -一个管理和创建数据交换集的库
 * [PINQ](https://github.com/TimeToogo/Pinq) - 一个PHP实现的Linq库
 * [JsonMapper](https://github.com/netresearch/jsonmapper) - 一个将内嵌JSON结构映射为PHP类的库
+* [Cake Collection](https://github.com/cakephp/collection) - 一个简单的集合库 (CP)
 
 ## 通知 Notifications
 *处理通知软件的库*
@@ -642,6 +649,7 @@
 *国际化(I18n)和本地化(L10n)的库*
 
 * [Aura Intl](https://github.com/auraphp/Aura.Intl)
+* [Cake I18n](https://github.com/cakephp/i18n) - 消息国际化和日期和数字的本地化 (CP)
 
 ## 第三方API Third Party APIs
 *访问第三方API的库*
@@ -705,6 +713,7 @@
 * [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - 一个用于Raspberry PI的GPIO pin的库
 * [print_o](https://github.com/koriym/print_o) - 一个对象图的可视化器
 * [Alias](https://github.com/fuelphp/alias) - 一个类别名库
+* [Cake Utility](https://github.com/cakephp/utility) - 工具类如Inflector，字符串，哈希，安全和XML (CP)
 
 # 软件 Software
 *创建一个开发环境的软件*
