@@ -307,7 +307,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependencies for security advisories.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
 * [sqlchop](https://github.com/chaitin/sqlchop) - A novel SQL injection detection engine built on top of SQL tokenizing and syntax analysis.
-* [XssHtml](https://github.com/phith0n/XssHtml) - A XSS filter writed by PHP
+* [XssHtml](https://github.com/phith0n/XssHtml) - An XSS filter writed in PHP
 
 ## Passwords
 *Libraries and tools for working with and storing passwords.*
@@ -464,7 +464,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPExcel](https://github.com/PHPOffice/PHPExcel) - A library for working with Microsoft Excel documents.
 * [PHPPowerPoint](https://github.com/PHPOffice/PHPPowerPoint) - A library for working with Microsoft PowerPoint Presentations.
 * [ExcelAnt](https://github.com/Wisembly/ExcelAnt) - A library for manipulating Microsoft Excel documents.
-* [php_excel](https://github.com/iliaal/php_excel) - PHP Extension interface to the Excel writing/reading library
 
 ## Database
 *Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
