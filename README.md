@@ -110,6 +110,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
 * [CakePHP](http://cakephp.org/) - A rapid application development framework (CP).
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+* [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) -  A lightweight framework.
+* [ThinkPHP](https://github.com/liu21st/thinkphp) - A security and lightweight framework of China.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
@@ -179,7 +181,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [HTTPFul](https://github.com/nategood/httpful) - A chainable HTTP client.
 * [Goutte](https://github.com/fabpot/Goutte) - A simple web scraper.
 * [PHP VCR](http://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
-
+* [phpfetcher](https://github.com/fanfank/phpfetcher) - A PHP web crawler framework
 ## Middlewares
 *Libraries for building application using middlewares.*
 
@@ -304,6 +306,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [IniScan](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependencies for security advisories.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
+* [sqlchop](https://github.com/chaitin/sqlchop) - A novel SQL injection detection engine built on top of SQL tokenizing and syntax analysis.
+* [XssHtml](https://github.com/phith0n/XssHtml) - A XSS filter writed by PHP
 
 ## Passwords
 *Libraries and tools for working with and storing passwords.*
@@ -460,6 +464,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPExcel](https://github.com/PHPOffice/PHPExcel) - A library for working with Microsoft Excel documents.
 * [PHPPowerPoint](https://github.com/PHPOffice/PHPPowerPoint) - A library for working with Microsoft PowerPoint Presentations.
 * [ExcelAnt](https://github.com/Wisembly/ExcelAnt) - A library for manipulating Microsoft Excel documents.
+* [php_excel](https://github.com/iliaal/php_excel) - PHP Extension interface to the Excel writing/reading library
 
 ## Database
 *Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
