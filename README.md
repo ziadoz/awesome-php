@@ -307,7 +307,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependencies for security advisories.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
 * [sqlchop](https://github.com/chaitin/sqlchop) - A novel SQL injection detection engine built on top of SQL tokenizing and syntax analysis.
-* [XssHtml](https://github.com/phith0n/XssHtml) - An XSS filter writed in PHP
+* [XssHtml](https://github.com/phith0n/XssHtml) - An XSS filter written in PHP
 
 ## Passwords
 *Libraries and tools for working with and storing passwords.*
