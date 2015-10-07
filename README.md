@@ -806,6 +806,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - A book about common security terms and practices for PHP by Chris Cornutt.
 * [Modernising Legacy Applications in PHP](https://leanpub.com/mlaphp) - A book about modernising legacy PHP applications by Paul M. Jones.
 * [Modern PHP New Features and Good Practices](http://shop.oreilly.com/product/0636920033868.do) - A book about new PHP features and best practices by Josh Lockhart.
+* [PHP Master: Writing Cutting-edge Code](http://www.sitepoint.com/store/php-master-write-cutting-edge-code/) - A book about utilizing effective OOP approaches to create secure PHP applications.
 
 ## Other Books
 *Books related to general computing and web development.*
