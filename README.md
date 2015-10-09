@@ -417,6 +417,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Event
 *Libraries that are event-driven or implement non-blocking event loops.*
 
+* [Amp](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
 * [React](https://github.com/reactphp/react) - An event driven non-blocking I/O library.
 * [Rx.PHP](https://github.com/asm89/Rx.PHP) - A reactive extension library.
 * [Ratchet](https://github.com/cboden/Ratchet) - A web socket library.
