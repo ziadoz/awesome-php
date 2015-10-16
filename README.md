@@ -112,6 +112,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
 * [Processwire](http://processwire.com/) - A friendly and powerful open source CMS/CMF with an exceptionally strong API.
 * [Microweber](https://microweber.com/) - A CMS based on Laravel.
+* [Cockpit](http://getcockpit.com/) - A CMS that uses SQLite or MongoDB for data storage.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
