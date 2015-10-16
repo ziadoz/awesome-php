@@ -110,6 +110,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
 * [CakePHP](http://cakephp.org/) - A rapid application development framework (CP).
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+* [CodeIgniter](http://codeigniter.com/) - A powerful PHP framework with a very small footprint.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
