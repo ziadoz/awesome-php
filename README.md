@@ -110,6 +110,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
 * [CakePHP](http://cakephp.org/) - A rapid application development framework (CP).
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+* [Processwire](http://processwire.com/) - A friendly and powerful open source CMS with an exceptionally strong API.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
