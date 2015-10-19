@@ -712,6 +712,7 @@ Libraries to help manage database schemas and migrations.
 * [print_o](https://github.com/koriym/print_o) - An object graph visualizer.
 * [Alias](https://github.com/fuelphp/alias) - A class aliasing library.
 * [Cake Utility](https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and Xml (CP).
+* [SEO-Helper](https://github.com/ARCANEDEV/SEO-Helper) - Provides tools and helpers for SEO (Search Engine Optimization).
 
 # Software
 *Software for creating a development environment.*
