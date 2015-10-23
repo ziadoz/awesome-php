@@ -179,6 +179,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [HTTPFul](https://github.com/nategood/httpful) - A chainable HTTP client.
 * [Goutte](https://github.com/fabpot/Goutte) - A simple web scraper.
 * [PHP VCR](http://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
+* [PHRequests](https://github.com/42mate/PHRequests) - A simple HTTP client based in cURL.
 
 ## Middlewares
 *Libraries for building application using middlewares.*
