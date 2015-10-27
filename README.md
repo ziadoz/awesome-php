@@ -418,6 +418,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries that are event-driven or implement non-blocking event loops.*
 
 * [React](https://github.com/reactphp/react) - An event driven non-blocking I/O library.
+* [Icicle](https://github.com/icicleio/icicle) - An asynchronous library with coroutines, non-blocking I/O, and multithreading.
 * [Rx.PHP](https://github.com/asm89/Rx.PHP) - A reactive extension library.
 * [Ratchet](https://github.com/cboden/Ratchet) - A web socket library.
 * [Hoa WebSocket](https://github.com/hoaproject/Websocket) - Another web socket library.
