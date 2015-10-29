@@ -474,7 +474,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
 * [Cake ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern (CP).
-* [Medoo](https://github.com/catfan/Medoo) - The lightest PHP database framework to accelerate development.
 
 ## Migrations
 Libraries to help manage database schemas and migrations.
@@ -569,6 +568,7 @@ Libraries to help manage database schemas and migrations.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
 * [Device Detector](https://github.com/piwik/device-detector) - Another library for parsing user agent strings.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
+* [php-humanizer](https://github.com/coduo/php-humanizer) - Humanize values that are readable only for developers.
 
 ## Numbers
 *Libraries for working with numbers.*
