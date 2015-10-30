@@ -461,7 +461,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPPowerPoint](https://github.com/PHPOffice/PHPPowerPoint) - A library for working with Microsoft PowerPoint Presentations.
 * [ExcelAnt](https://github.com/Wisembly/ExcelAnt) - A library for manipulating Microsoft Excel documents.
 * [spreadsheet-reader](https://github.com/nuovo/spreadsheet-reader) - A PHP spreadsheet reader for extracting data efficiently.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7bb6635b19e3c86f2a914317a1e7dc60b87c0bcb
 
 ## Database
 *Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
