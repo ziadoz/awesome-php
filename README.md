@@ -583,7 +583,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries for filtering and validating data.*
 
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
-* [Respect Validate](https://github.com/Respect/Validation) - A simple validation library.
+* [Respect Validation](https://github.com/Respect/Validation) - A simple validation library.
 * [Valitron](https://github.com/vlucas/valitron) - Another validation library.
 * [Cake Validation](https://github.com/cakephp/validation) - Another validation library (CP).
 * [Upload](https://github.com/codeguy/Upload) - A library for handling file uploads and validation.
