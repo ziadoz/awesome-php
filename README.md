@@ -193,8 +193,8 @@
 *解析URL的库*
 
 * [Purl](https://github.com/jwage/purl) - 一个URL处理库
+* [Uri](https://github.com/thephpleague/uri) - 另一个URL处理库
 * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - 一个本地前缀解析库
-* [Url](https://github.com/thephpleague/url) - 一个简单的URL处理库
 
 ## Email
 *发送和解析邮件的库*
@@ -585,7 +585,7 @@
 *过滤和验证数据的库*
 
 * [Filterus](https://github.com/ircmaxell/filterus) - 一个简单的PHP过滤库
-* [Respect Validate](https://github.com/Respect/Validation) - 一个简单的验证库
+* [Respect Validation](https://github.com/Respect/Validation) - 一个简单的验证库
 * [Valitron](https://github.com/vlucas/valitron) - 另一个验证库
 * [Cake Validation](https://github.com/cakephp/validation) - 另一个验证库 (CP)
 * [Upload](https://github.com/codeguy/Upload) - 一个处理文件上传和验证的库
