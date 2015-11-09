@@ -191,7 +191,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries for parsing URLs.*
 
 * [Purl](https://github.com/jwage/purl) - A URL manipulation library.
-* [Uri](https://github.com/thephpleague/uri) - Another URL manipulation Library.
+* [Uri](https://github.com/thephpleague/uri) - Another URL manipulation library.
 * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
 
 ## Email
