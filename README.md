@@ -6,77 +6,77 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
-	- [Dependency Management](#dependency-management)
-	- [Dependency Management Extras](#dependency-management-extras)
-	- [Frameworks](#frameworks)
-	- [Framework Extras](#framework-extras)
-	- [Components](#components)
-	- [Micro Frameworks](#micro-frameworks)
-	- [Micro Framework Extras](#micro-framework-extras)
-	- [Routers](#routers)
-	- [Templating](#templating)
-	- [Static Site Generators](#static-site-generators)
-	- [HTTP](#http)
-	- [Middlewares](#middlewares)
-	- [URL](#url)
-	- [Email](#email)
-	- [Files](#files)
-	- [Streams](#streams)
-	- [Dependency Injection](#dependency-injection)
-	- [Imagery](#imagery)
-	- [Testing](#testing)
-	- [Continuous Integration](#continuous-integration)
-	- [Documentation](#documentation)
-	- [Security](#security)
-	- [Passwords](#passwords)
-	- [Code Analysis](#code-analysis)
-	- [Architectural](#architectural)
-	- [Debugging and Profiling](#debugging-and-profiling)
-	- [Build Tools](#build-tools)
-	- [Task Runners](#task-runners)
-	- [Navigation](#navigation)
-	- [Asset Management](#asset-management)
-	- [Geolocation](#geolocation)
-	- [Date and Time](#date-and-time)
-	- [Event](#event)
-	- [Logging](#logging)
-	- [E-commerce](#e-commerce)
-	- [PDF](#pdf)
-	- [Office](#office)
-	- [Database](#database)
-	- [Migrations](#migrations)
-	- [NoSQL](#nosql)
-	- [Queue](#queue)
-	- [Search](#search)
-	- [Command Line](#command-line)
-	- [Authentication and Authorization](#authentication-and-authorization)
-	- [Markup](#markup)
-	- [Strings](#strings)
-	- [Numbers](#numbers)
-	- [Filtering and Validation](#filtering-and-validation)
-	- [API](#api)
-	- [Caching](#caching)
-	- [Data Structure and Storage](#data-structure-and-storage)
-	- [Notifications](#notifications)
-	- [Deployment](#deployment)
-	- [Internationalisation and Localisation](#internationalisation-and-localisation)
-	- [Third Party APIs](#third-party-apis)
-	- [Extensions](#extensions)
-	- [Miscellaneous](#miscellaneous)
+        - [Dependency Management](#dependency-management)
+        - [Dependency Management Extras](#dependency-management-extras)
+        - [Frameworks](#frameworks)
+        - [Framework Extras](#framework-extras)
+        - [Components](#components)
+        - [Micro Frameworks](#micro-frameworks)
+        - [Micro Framework Extras](#micro-framework-extras)
+        - [Routers](#routers)
+        - [Templating](#templating)
+        - [Static Site Generators](#static-site-generators)
+        - [HTTP](#http)
+        - [Middlewares](#middlewares)
+        - [URL](#url)
+        - [Email](#email)
+        - [Files](#files)
+        - [Streams](#streams)
+        - [Dependency Injection](#dependency-injection)
+        - [Imagery](#imagery)
+        - [Testing](#testing)
+        - [Continuous Integration](#continuous-integration)
+        - [Documentation](#documentation)
+        - [Security](#security)
+        - [Passwords](#passwords)
+        - [Code Analysis](#code-analysis)
+        - [Architectural](#architectural)
+        - [Debugging and Profiling](#debugging-and-profiling)
+        - [Build Tools](#build-tools)
+        - [Task Runners](#task-runners)
+        - [Navigation](#navigation)
+        - [Asset Management](#asset-management)
+        - [Geolocation](#geolocation)
+        - [Date and Time](#date-and-time)
+        - [Event](#event)
+        - [Logging](#logging)
+        - [E-commerce](#e-commerce)
+        - [PDF](#pdf)
+        - [Office](#office)
+        - [Database](#database)
+        - [Migrations](#migrations)
+        - [NoSQL](#nosql)
+        - [Queue](#queue)
+        - [Search](#search)
+        - [Command Line](#command-line)
+        - [Authentication and Authorization](#authentication-and-authorization)
+        - [Markup](#markup)
+        - [Strings](#strings)
+        - [Numbers](#numbers)
+        - [Filtering and Validation](#filtering-and-validation)
+        - [API](#api)
+        - [Caching](#caching)
+        - [Data Structure and Storage](#data-structure-and-storage)
+        - [Notifications](#notifications)
+        - [Deployment](#deployment)
+        - [Internationalisation and Localisation](#internationalisation-and-localisation)
+        - [Third Party APIs](#third-party-apis)
+        - [Extensions](#extensions)
+        - [Miscellaneous](#miscellaneous)
 - [Software](#software)
-	- [PHP Installation](#php-installation)
-	- [Development Environment](#development-environment)
-	- [Virtual Machines](#virtual-machines)
-	- [Integrated Development Environment](#integrated-development-environment)
-	- [Web Applications](#web-applications)
-	- [Infrastructure](#infrastructure)
+        - [PHP Installation](#php-installation)
+        - [Development Environment](#development-environment)
+        - [Virtual Machines](#virtual-machines)
+        - [Integrated Development Environment](#integrated-development-environment)
+        - [Web Applications](#web-applications)
+        - [Infrastructure](#infrastructure)
 - [Resources](#resources)
-	- [PHP Websites](#php-websites)
-	- [Other Websites](#other-websites)
-	- [PHP Books](#php-books)
-	- [PHP Videos](#php-videos)
-	- [PHP Reading](#php-reading)
-	- [PHP Internals Reading](#php-internals-reading)
+        - [PHP Websites](#php-websites)
+        - [Other Websites](#other-websites)
+        - [PHP Books](#php-books)
+        - [PHP Videos](#php-videos)
+        - [PHP Reading](#php-reading)
+        - [PHP Internals Reading](#php-internals-reading)
 - [Contributing](#contributing)
 
 ## Dependency Management
@@ -201,7 +201,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 * [Fetch](https://github.com/tedivm/Fetch) - An IMAP library.
 * [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
-* [Stampie](https://github.com/henrikbjorn/Stampie) - A library for email services such as [SendGrid](http://sendgrid.com), [PostMark](http://postmarkapp.com), [MailGun](http://www.mailgun.com) and [Mandrill](http://www.mandrill.com).
+* [Stampie](https://github.com/henrikbjorn/Stampie) - A library for email services such as [SendGrid](http://sendgrid.com), [PostMark](http://postmarkapp.com), [MailGun](http://www
+.mailgun.com) and [Mandrill](http://www.mandrill.com).
 * [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
 * [Email Validator](https://github.com/nojacko/email-validator) - A small email address validation library.
 
@@ -647,6 +648,8 @@ Libraries to help manage database schemas and migrations.
 *Libraries for Internationalization (I18n) and Localization (L10n).*
 
 * [Aura Intl](https://github.com/auraphp/Aura.Intl)
+<<<<<<< HEAD
+* [Punic](https://github.com/punic/punic) - Library that provides localized data like country names, continent names, language names, number formatting in various languages
 * [Cake I18n](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers (CP)
 
 ## Third Party APIs
@@ -799,7 +802,8 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *Fantastic PHP-related books.*
 
 * [Scaling PHP Applications](http://www.scalingphpbook.com) - An ebook about scaling PHP applications by Steve Corona.
-* [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - A book about building testing PHP applications by Chris Hartjes.
+* [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - A book about building testing PHP applications by Chris 
+Hartjes.
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
 * [Mastering Object-Orientated PHP](http://www.brandonsavage.net) - A book about object-orientated PHP by Brandon Savage.
 * [Signaling PHP](https://leanpub.com/signalingphp) - A book about catching PCNTL signals in CLI scripts by Cal Evans.
@@ -812,7 +816,8 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
 * [Understanding Computation](http://computationbook.com) - A book about computation theory by Tom Stuart.
-* [The Tangled Web — Securing Web Applications](http://www.amazon.ca/The-Tangled-Web-Securing-Applications/dp/1593273886) - A book about securing web applications by Michal Zalewski.
+* [The Tangled Web — Securing Web Applications](http://www.amazon.ca/The-Tangled-Web-Securing-Applications/dp/1593273886) - A book about securing web applications 
+by Michal Zalewski.
 * [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/) - A guide to working with Elasticsearch by Clinton Gormley and Zachary Tong.
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - A book about JavaScript programming by Marijn Haverbeke.
 * [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) - A book about creating Vagrant environments by Erika Heidi.
@@ -830,18 +835,23 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ## PHP Reading
 *PHP-releated reading materials.*
 
-* [Create Your Own PHP Framework](http://fabien.potencier.org/article/50/create-your-own-framework-on-top-of-the-symfony2-components-part-1) - A series of articles on how to make your own PHP framework by Fabien Potencier.
+* [Create Your Own PHP Framework](http://fabien.potencier.org/article/50/create-your-own-framework-on-top-of-the-symfony2-components-part-1) - A series of articles 
+on how to make your own PHP framework by Fabien Potencier.
 * [Seven Ways to Screw Up BCrypt](http://blog.ircmaxell.com/2012/12/seven-ways-to-screw-up-bcrypt.html) - An article about correct BCrypt implementation.
 * [Preventing CSRF Attacks](http://blog.ircmaxell.com/2013/02/preventing-csrf-attacks.html) - An article on preventing CSRF attacks.
 * [Don't Worry About BREACH](http://blog.ircmaxell.com/2013/08/dont-worry-about-breach.html) - An article about the BREACH hack and CSRF tokens.
-* [On PHP 5.3, Lamda Functions and Closures](http://fabien.potencier.org/article/17/on-php-5-3-lambda-functions-and-closures) - An article about lambda functions and closures.
+* [On PHP 5.3, Lamda Functions and Closures](http://fabien.potencier.org/article/17/on-php-5-3-lambda-functions-and-closures) - An article about lambda functions 
+and closures.
 * [Use Env](http://seancoates.com/blogs/use-env) - An article about using the unix environment helper.
 * [Composer Primer](http://daylerees.com/composer-primer) - A Composer primer.
 * [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html) - An article about Composer versioning.
 * [Composer Stability Flags](https://igor.io/2013/02/07/composer-stability-flags.html) - An article about Composer stability flags.
-* [Innocent Villagefolk or a Pillagin’ Pirate?](http://blog.astrumfutura.com/2012/04/php-innocent-villagefolk-or-a-pillagin-pirate/) - An article about PHP taking ideas from other language.
-* [Predicting Random Numbers in PHP](http://blog.astrumfutura.com/2013/03/predicting-random-numbers-in-php-its-easier-than-you-think/) - An article about generating random numbers.
-* [A 20 Point List for Preventing XSS in PHP](http://blog.astrumfutura.com/2013/04/20-point-list-for-preventing-cross-site-scripting-in-php/) - An article about preventing XSS.
+* [Innocent Villagefolk or a Pillagin’ Pirate?](http://blog.astrumfutura.com/2012/04/php-innocent-villagefolk-or-a-pillagin-pirate/) - An article about PHP taking 
+ideas from other language.
+* [Predicting Random Numbers in PHP](http://blog.astrumfutura.com/2013/03/predicting-random-numbers-in-php-its-easier-than-you-think/) - An article about generating 
+random numbers.
+* [A 20 Point List for Preventing XSS in PHP](http://blog.astrumfutura.com/2013/04/20-point-list-for-preventing-cross-site-scripting-in-php/) - An article about 
+preventing XSS.
 * [PHP Sucks! But I Like It!](http://blog.ircmaxell.com/2012/04/php-sucks-but-i-like-it.html) - An article about the pros and cons of PHP.
 * [PHP Is Much Better Than You Think](http://fabien.potencier.org/article/64/php-is-much-better-than-you-think) - An article about the PHP language and ecosystem.
 
@@ -852,7 +862,8 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Internals Book](http://www.phpinternalsbook.com) - An online book about PHP internals, written by three core developers.
 * [Print vs Echo, Which One is Faster?](http://fabien.potencier.org/article/8/print-vs-echo-which-one-is-faster) - An article about print and echo performance.
 * [The PHP Ternary Operator. Fast or Not?](http://fabien.potencier.org/article/48/the-php-ternary-operator-fast-or-not) - An article ternary performance.
-* [Disproving the Single Quotes Myth](http://nikic.github.com/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - An article about performance of single and double quoted strings.
+* [Disproving the Single Quotes Myth](http://nikic.github.com/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - An article about performance of single 
+and double quoted strings.
 * [You're Being Lied To](http://blog.golemon.com/2007/01/youre-being-lied-to.html) - An article about internal ZVALs.
 * [How Long is a Piece of String](http://blog.golemon.com/2006/06/how-long-is-piece-of-string.html) - An article about string internals.
 * [Understanding OpCodes](http://blog.golemon.com/2008/01/understanding-opcodes.html) - An article about opcodes.
@@ -861,8 +872,11 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [How Big Are PHP Arrays (And Values) Really?](http://nikic.github.com/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html) - An article about array internals.
 * [Why Objects (Usually) Use Less Memory Than Arrays](https://gist.github.com/nikic/5015323) - An article about object and array internals.
 * [PHP Evaluation Order](https://gist.github.com/nikic/6699370) - An article about evaluation order in PHP.
-* PHP Source Code for Developers: [1](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](http://nikic.github.com/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](http://nikic.github.com/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - A series about the PHP source code.
-* Collecting Garbage: [1](http://www.php.net/manual/en/features.gc.refcounting-basics.php) [2](http://www.php.net/manual/en/features.gc.collecting-cycles.php) [3](http://www.php.net/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
+* PHP Source Code for Developers: [1](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](http://nikic.github.com/2012/03/16/Understanding-PHPs-internal
+-function-definitions.html) [3](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](http://nikic.github.com/2012/03/28/Understanding-PHPs-internal-ar
+ray-implementation.html) - A series about the PHP source code.
+* Collecting Garbage: [1](http://www.php.net/manual/en/features.gc.refcounting-basics.php) [2](http://www.php.net/manual/en/features.gc.collecting-cycles.php) [3](http://www.php.ne
+t/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
 
 ## PHP Magazines
 *Fantastic PHP-related magazines.*
