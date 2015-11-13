@@ -163,6 +163,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPTAL](http://phptal.org/) - A PHP implementation of the [TAL](http://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
+* [Latte](https://latte.nette.org/) - Latte is a template engine for PHP which eases your work and ensures the output is protected against vulnerabilities, such as XSS.
 
 ## Static Site Generators
 *Tools for pre-processing content to generate web pages.*
@@ -271,6 +272,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [VFS](https://github.com/adlawson/vfs.php) - Another virtual filesystem for testing.
 * [Locust](http://locust.io/) - A modern load test library written in Python.
 * [Peridot](https://github.com/peridot-php/peridot) - An event driven test framework.
+* [Tester](https://tester.nette.org/en/) - Enjoyable unit testing.
 
 ## Continuous Integration
 *Libraries and applications for continuous integration.*
@@ -474,6 +476,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
 * [Cake ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern (CP).
+* [Dibi](https://github.com/dg/dibi) - Smart database layer for PHP, many drivers for a different database. 
 
 ## Migrations
 Libraries to help manage database schemas and migrations.
