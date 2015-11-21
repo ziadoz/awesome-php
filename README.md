@@ -77,6 +77,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [PHP Videos](#php-videos)
 	- [PHP Reading](#php-reading)
 	- [PHP Internals Reading](#php-internals-reading)
+- [Exercises](#exercises)
+	- [PHP Exercises](#php-exercises)
 - [Contributing](#contributing)
 
 ## Dependency Management
@@ -868,3 +870,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *Fantastic PHP-related magazines.*
 
 * [php[architect]](http://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.
+
+## Exercises
+* [PHP Exercises](https://github.com/danrevah/php-exercises) - Some php exercises and interview questions to practice in a TDD approach.
