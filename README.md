@@ -162,6 +162,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
 * [PHPTAL](http://phptal.org/) - A PHP implementation of the [TAL](http://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
+* [Foil](http://www.foilphp.it/) - Another native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
 
 ## Static Site Generators
