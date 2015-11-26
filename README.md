@@ -648,6 +648,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Aura Intl](https://github.com/auraphp/Aura.Intl)
 * [Cake I18n](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers (CP)
+* [ZLO (php-zlo)](https://github.com/marxo/php-zlo) - Agnostic, inline translation engine
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
