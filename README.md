@@ -568,6 +568,9 @@ Libraries to help manage database schemas and migrations.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
 * [Device Detector](https://github.com/piwik/device-detector) - Another library for parsing user agent strings.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
+* [Jieba-PHP](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
+* [Pangu.PHP](https://github.com/Kunr/pangu.php) - A PHP port of Python's pangu. Paranoid text spacing for good readability.
+* [Pinyin](https://github.com/overtrue/pinyin) - A library to translate Chinese hanzi (漢字) to pinyin (拼音).
 
 ## Numbers
 *Libraries for working with numbers.*
