@@ -205,7 +205,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Configuration
 *Libraries for loading configuration files*
 
-* [dotenv](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`..
+* [PHP dotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env`..
 * [Vars](https://github.com/m1/vars) - Loads config variables from ini, json, php, toml, xml and yml. Supports custom loaders
 * [Wise](https://github.com/herrera-io/php-wise) - A configuration manager.
 
