@@ -611,6 +611,8 @@ Libraries to help manage database schemas and migrations.
 * [Cake Cache](https://github.com/cakephp/cache) - A caching library (CP).
 * [Stash](https://github.com/tedivm/Stash) - Another library for caching.
 * [CacheTool](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
+* [APIx Cache](https://github.com/frqnck/apix-cache) - A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing.
+
 
 ## Data Structure and Storage
 *Libraries that implement data structure or storage techniques.*
