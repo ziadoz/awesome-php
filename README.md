@@ -181,7 +181,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP VCR](http://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
 
 ## Middlewares
-*Libraries for building application using middlewares plus usefull middlewares.*
+*Libraries for building application using middlewares.*
 
 * [Stack](https://github.com/stackphp) - A library of stackable middleware for Silex/Symfony.
 * [Slim Middleware](https://github.com/codeguy/Slim-Middleware) - A collection of custom middleware for Slim.
