@@ -6,77 +6,77 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
-	- [Dependency Management](#dependency-management)
-	- [Dependency Management Extras](#dependency-management-extras)
-	- [Frameworks](#frameworks)
-	- [Framework Extras](#framework-extras)
-	- [Components](#components)
-	- [Micro Frameworks](#micro-frameworks)
-	- [Micro Framework Extras](#micro-framework-extras)
-	- [Routers](#routers)
-	- [Templating](#templating)
-	- [Static Site Generators](#static-site-generators)
-	- [HTTP](#http)
-	- [Middlewares](#middlewares)
-	- [URL](#url)
-	- [Email](#email)
-	- [Files](#files)
-	- [Streams](#streams)
-	- [Dependency Injection](#dependency-injection)
-	- [Imagery](#imagery)
-	- [Testing](#testing)
-	- [Continuous Integration](#continuous-integration)
-	- [Documentation](#documentation)
-	- [Security](#security)
-	- [Passwords](#passwords)
-	- [Code Analysis](#code-analysis)
-	- [Architectural](#architectural)
-	- [Debugging and Profiling](#debugging-and-profiling)
-	- [Build Tools](#build-tools)
-	- [Task Runners](#task-runners)
-	- [Navigation](#navigation)
-	- [Asset Management](#asset-management)
-	- [Geolocation](#geolocation)
-	- [Date and Time](#date-and-time)
-	- [Event](#event)
-	- [Logging](#logging)
-	- [E-commerce](#e-commerce)
-	- [PDF](#pdf)
-	- [Office](#office)
-	- [Database](#database)
-	- [Migrations](#migrations)
-	- [NoSQL](#nosql)
-	- [Queue](#queue)
-	- [Search](#search)
-	- [Command Line](#command-line)
-	- [Authentication and Authorization](#authentication-and-authorization)
-	- [Markup](#markup)
-	- [Strings](#strings)
-	- [Numbers](#numbers)
-	- [Filtering and Validation](#filtering-and-validation)
-	- [API](#api)
-	- [Caching](#caching)
-	- [Data Structure and Storage](#data-structure-and-storage)
-	- [Notifications](#notifications)
-	- [Deployment](#deployment)
-	- [Internationalisation and Localisation](#internationalisation-and-localisation)
-	- [Third Party APIs](#third-party-apis)
-	- [Extensions](#extensions)
-	- [Miscellaneous](#miscellaneous)
+    - [Dependency Management](#dependency-management)
+    - [Dependency Management Extras](#dependency-management-extras)
+    - [Frameworks](#frameworks)
+    - [Framework Extras](#framework-extras)
+    - [Components](#components)
+    - [Micro Frameworks](#micro-frameworks)
+    - [Micro Framework Extras](#micro-framework-extras)
+    - [Routers](#routers)
+    - [Templating](#templating)
+    - [Static Site Generators](#static-site-generators)
+    - [HTTP](#http)
+    - [Middlewares](#middlewares)
+    - [URL](#url)
+    - [Email](#email)
+    - [Files](#files)
+    - [Streams](#streams)
+    - [Dependency Injection](#dependency-injection)
+    - [Imagery](#imagery)
+    - [Testing](#testing)
+    - [Continuous Integration](#continuous-integration)
+    - [Documentation](#documentation)
+    - [Security](#security)
+    - [Passwords](#passwords)
+    - [Code Analysis](#code-analysis)
+    - [Architectural](#architectural)
+    - [Debugging and Profiling](#debugging-and-profiling)
+    - [Build Tools](#build-tools)
+    - [Task Runners](#task-runners)
+    - [Navigation](#navigation)
+    - [Asset Management](#asset-management)
+    - [Geolocation](#geolocation)
+    - [Date and Time](#date-and-time)
+    - [Event](#event)
+    - [Logging](#logging)
+    - [E-commerce](#e-commerce)
+    - [PDF](#pdf)
+    - [Office](#office)
+    - [Database](#database)
+    - [Migrations](#migrations)
+    - [NoSQL](#nosql)
+    - [Queue](#queue)
+    - [Search](#search)
+    - [Command Line](#command-line)
+    - [Authentication and Authorization](#authentication-and-authorization)
+    - [Markup](#markup)
+    - [Strings](#strings)
+    - [Numbers](#numbers)
+    - [Filtering and Validation](#filtering-and-validation)
+    - [API](#api)
+    - [Caching](#caching)
+    - [Data Structure and Storage](#data-structure-and-storage)
+    - [Notifications](#notifications)
+    - [Deployment](#deployment)
+    - [Internationalisation and Localisation](#internationalisation-and-localisation)
+    - [Third Party APIs](#third-party-apis)
+    - [Extensions](#extensions)
+    - [Miscellaneous](#miscellaneous)
 - [Software](#software)
-	- [PHP Installation](#php-installation)
-	- [Development Environment](#development-environment)
-	- [Virtual Machines](#virtual-machines)
-	- [Integrated Development Environment](#integrated-development-environment)
-	- [Web Applications](#web-applications)
-	- [Infrastructure](#infrastructure)
+    - [PHP Installation](#php-installation)
+    - [Development Environment](#development-environment)
+    - [Virtual Machines](#virtual-machines)
+    - [Integrated Development Environment](#integrated-development-environment)
+    - [Web Applications](#web-applications)
+    - [Infrastructure](#infrastructure)
 - [Resources](#resources)
-	- [PHP Websites](#php-websites)
-	- [Other Websites](#other-websites)
-	- [PHP Books](#php-books)
-	- [PHP Videos](#php-videos)
-	- [PHP Reading](#php-reading)
-	- [PHP Internals Reading](#php-internals-reading)
+    - [PHP Websites](#php-websites)
+    - [Other Websites](#other-websites)
+    - [PHP Books](#php-books)
+    - [PHP Videos](#php-videos)
+    - [PHP Reading](#php-reading)
+    - [PHP Internals Reading](#php-internals-reading)
 - [Contributing](#contributing)
 
 ## Dependency Management
@@ -103,7 +103,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Symfony 2](http://symfony.com/) - A framework comprised of individual components (SF2).
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components (ZF2).
-* [Laravel 5](http://laravel.com/) - Another PHP framework (L5).
+* [Laravel 5](https://laravel.com/) - Another PHP framework (L5).
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Nette](https://nette.org/) - Another framework comprised of individual components.
@@ -134,7 +134,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
-* [Lumen](http://lumen.laravel.com) - A micro-framework by Laravel.
+* [Lumen](https://lumen.laravel.com/) - A micro-framework by Laravel.
 * [Proton](https://github.com/alexbilbie/Proton) - A StackPHP compatible micro framework
 
 ## Micro Framework Extras
@@ -263,9 +263,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
 * [Samsui](https://github.com/mauris/samsui) - Another fake data generator library.
 * [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
-* [Behat](http://behat.org/) - A behaviour driven development (BDD) testing framework.
+* [Behat](http://docs.behat.org/en/v2.5/) - A behaviour driven development (BDD) testing framework.
 * [Pho](https://github.com/danielstjules/pho) - Another behaviour driven development testing framework.
-* [Mink](http://mink.behat.org/) - Web acceptance testing.
+* [Mink](http://mink.behat.org/en/latest/) - Web acceptance testing.
 * [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
 * [VFS Stream](https://github.com/mikey179/vfsStream) - A virtual filesystem stream wrapper for testing.
 * [VFS](https://github.com/adlawson/php-vfs) - Another virtual filesystem for testing.
@@ -470,7 +470,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Eloquent](https://github.com/illuminate/database) - A simple ORM (L5).
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
 * [Spot2](https://github.com/vlucas/spot2) - A MySQL datamapper ORM.
-* [RedBean](http://redbeanphp.com/) - A lightweight, configuration-less ORM.
+* [RedBean](http://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
 * [Cake ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern (CP).
@@ -501,7 +501,7 @@ Libraries to help manage database schemas and migrations.
 ## Search
 *Libraries and software for indexing and performing search queries on data.*
 
-* [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - The official client library for [ElasticSearch](https://www.elastic.co/).
+* [ElasticSearch PHP](https://github.com/elasticsearch/elasticsearch-php) - The official client library for [ElasticSearch](http://www.elasticsearch.org/).
 * [Elastica](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.
 * [Solarium](http://www.solarium-project.org/) - A client library for [Solr](http://lucene.apache.org/solr/).
 * [SphinxQL query builder](http://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](http://sphinxsearch.com/) search engine.
@@ -743,7 +743,7 @@ Libraries to help manage database schemas and migrations.
 
 * [HipHop PHP](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 * [HippyVM](http://hippyvm.com/) - Another PHP virtual machine.
-* [Hack](http://hacklang.org/) - A programming language for [HHVM](https://github.com/facebook/hhvm) that interoperates seamlessly with PHP.
+* [Hack](http://hacklang.org/) - A programming language for [HHVM](https://github.com/facebook/hiphop-php) that interoperates seamlessly with PHP.
 
 ## Integrated Development Environment
 *Integrated Development Environments with support for PHP.*
@@ -755,7 +755,7 @@ Libraries to help manage database schemas and migrations.
 ## Web Applications
 *Web-based applications and tools.*
 
-* [3V4L](http://3v4l.org/) - An online PHP & HHVM shell.
+* [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
 * [DBV](http://dbv.vizuina.com/) - A database version control application.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 * [Composer as a Service](http://composer.borreli.com/) - A tool for downloading Composer packages as a zip file.
@@ -788,7 +788,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *Useful websites related to web development.*
 
 * [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
-* [WebSec IO](http://websec.io/) - A web security community resource.
+* [WebSec IO](https://websec.io/) - A web security community resource.
 * [Web Advent](http://webadvent.org) - An advent calendar for web developers.
 * [Semantic Versioning](http://semver.org/) - A website explaining semantic versioning.
 * [Atlassian Git Tutorials](https://www.atlassian.com/git/) - A series of Git tutorials.
@@ -798,7 +798,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ## PHP Books
 *Fantastic PHP-related books.*
 
-* [Scaling PHP Applications](https://www.scalingphpbook.com/) - An ebook about scaling PHP applications by Steve Corona.
+* [Scaling PHP Applications](http://www.scalingphpbook.com) - An ebook about scaling PHP applications by Steve Corona.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - A book about building testing PHP applications by Chris Hartjes.
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
 * [Mastering Object-Orientated PHP](http://www.brandonsavage.net) - A book about object-orientated PHP by Brandon Savage.
@@ -813,7 +813,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
 * [Understanding Computation](http://computationbook.com) - A book about computation theory by Tom Stuart.
 * [The Tangled Web — Securing Web Applications](http://www.amazon.ca/The-Tangled-Web-Securing-Applications/dp/1593273886) - A book about securing web applications by Michal Zalewski.
-* [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/index.html) - A guide to working with Elasticsearch by Clinton Gormley and Zachary Tong.
+* [Elasticsearch: The Definitive Guide](http://www.elasticsearch.org/guide/) - A guide to working with Elasticsearch by Clinton Gormley and Zachary Tong.
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - A book about JavaScript programming by Marijn Haverbeke.
 * [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) - A book about creating Vagrant environments by Erika Heidi.
 * [Pro Git](http://git-scm.com/book/en/v2) - A book about Git by Scott Chacon and Ben Straub.
@@ -824,17 +824,17 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 * [Taking PHP Seriously](http://www.infoq.com/presentations/php-history) - A talk outlining PHP's strengths by Keith Adams of Facebook.
 * [PHP Town Hall](http://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
-* [Programming with Anthony](http://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
+* [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 * [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
 
 ## PHP Reading
 *PHP-releated reading materials.*
 
-* [Create Your Own PHP Framework](http://fabien.potencier.org/article/50/create-your-own-framework-on-top-of-the-symfony2-components-part-1) - A series of articles on how to make your own PHP framework by Fabien Potencier.
+* [Create Your Own PHP Framework](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-1.html) - A series of articles on how to make your own PHP framework by Fabien Potencier.
 * [Seven Ways to Screw Up BCrypt](http://blog.ircmaxell.com/2012/12/seven-ways-to-screw-up-bcrypt.html) - An article about correct BCrypt implementation.
 * [Preventing CSRF Attacks](http://blog.ircmaxell.com/2013/02/preventing-csrf-attacks.html) - An article on preventing CSRF attacks.
 * [Don't Worry About BREACH](http://blog.ircmaxell.com/2013/08/dont-worry-about-breach.html) - An article about the BREACH hack and CSRF tokens.
-* [On PHP 5.3, Lamda Functions and Closures](http://fabien.potencier.org/article/17/on-php-5-3-lambda-functions-and-closures) - An article about lambda functions and closures.
+* [On PHP 5.3, Lamda Functions and Closures](http://fabien.potencier.org/on-php-5-3-lambda-functions-and-closures.html) - An article about lambda functions and closures.
 * [Use Env](http://seancoates.com/blogs/use-env) - An article about using the unix environment helper.
 * [Composer Primer](http://daylerees.com/composer-primer) - A Composer primer.
 * [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html) - An article about Composer versioning.
@@ -843,25 +843,25 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Predicting Random Numbers in PHP](http://blog.astrumfutura.com/2013/03/predicting-random-numbers-in-php-its-easier-than-you-think/) - An article about generating random numbers.
 * [A 20 Point List for Preventing XSS in PHP](http://blog.astrumfutura.com/2013/04/20-point-list-for-preventing-cross-site-scripting-in-php/) - An article about preventing XSS.
 * [PHP Sucks! But I Like It!](http://blog.ircmaxell.com/2012/04/php-sucks-but-i-like-it.html) - An article about the pros and cons of PHP.
-* [PHP Is Much Better Than You Think](http://fabien.potencier.org/article/64/php-is-much-better-than-you-think) - An article about the PHP language and ecosystem.
+* [PHP Is Much Better Than You Think](http://fabien.potencier.org/php-is-much-better-than-you-think.html) - An article about the PHP language and ecosystem.
 
 ## PHP Internals Reading
 *Reading materials related to the PHP internals or performance.*
 
 * [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (Request for Comments).
 * [PHP Internals Book](http://www.phpinternalsbook.com) - An online book about PHP internals, written by three core developers.
-* [Print vs Echo, Which One is Faster?](http://fabien.potencier.org/article/8/print-vs-echo-which-one-is-faster) - An article about print and echo performance.
-* [The PHP Ternary Operator. Fast or Not?](http://fabien.potencier.org/article/48/the-php-ternary-operator-fast-or-not) - An article ternary performance.
-* [Disproving the Single Quotes Myth](http://nikic.github.com/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - An article about performance of single and double quoted strings.
+* [Print vs Echo, Which One is Faster?](http://fabien.potencier.org/print-vs-echo-which-one-is-faster.html) - An article about print and echo performance.
+* [The PHP Ternary Operator. Fast or Not?](http://fabien.potencier.org/the-php-ternary-operator-fast-or-not.html) - An article ternary performance.
+* [Disproving the Single Quotes Myth](http://nikic.github.io/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - An article about performance of single and double quoted strings.
 * [You're Being Lied To](http://blog.golemon.com/2007/01/youre-being-lied-to.html) - An article about internal ZVALs.
 * [How Long is a Piece of String](http://blog.golemon.com/2006/06/how-long-is-piece-of-string.html) - An article about string internals.
 * [Understanding OpCodes](http://blog.golemon.com/2008/01/understanding-opcodes.html) - An article about opcodes.
 * [How Foreach Works](http://stackoverflow.com/questions/10057671/how-foreach-actually-works/14854568#14854568) - A detailed StackOverflow answer about foreach.
-* [When Does Foreach Copy?](http://nikic.github.com/2011/11/11/PHP-Internals-When-does-foreach-copy.html) - An article about the internals of foreach.
-* [How Big Are PHP Arrays (And Values) Really?](http://nikic.github.com/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html) - An article about array internals.
+* [When Does Foreach Copy?](http://nikic.github.io/2011/11/11/PHP-Internals-When-does-foreach-copy.html) - An article about the internals of foreach.
+* [How Big Are PHP Arrays (And Values) Really?](http://nikic.github.io/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html) - An article about array internals.
 * [Why Objects (Usually) Use Less Memory Than Arrays](https://gist.github.com/nikic/5015323) - An article about object and array internals.
 * [PHP Evaluation Order](https://gist.github.com/nikic/6699370) - An article about evaluation order in PHP.
-* PHP Source Code for Developers: [1](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](http://nikic.github.com/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](http://nikic.github.com/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - A series about the PHP source code.
+* PHP Source Code for Developers: [1](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](http://nikic.github.io/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](http://nikic.github.io/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - A series about the PHP source code.
 * Collecting Garbage: [1](http://www.php.net/manual/en/features.gc.refcounting-basics.php) [2](http://www.php.net/manual/en/features.gc.collecting-cycles.php) [3](http://www.php.net/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
 
 ## PHP Magazines
