@@ -2,7 +2,7 @@
 A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## Contributing
-Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) for details.
 
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
