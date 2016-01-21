@@ -138,7 +138,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [WordPress](https://wordpress.org/) Blogging platform and Content Management System.
 * [Joomla](https://www.joomla.org/) - Another lead Content Managemenet System.
 * [Concrete5](http://www.concrete5.org/) - A Content Management System targering users with a minimum of technical skills.
-* [BackdropCMS](https://backdropcms.org/) - a fork of Drupal; it's a Content Management System for the non-profits and small-to-medium.
+* [BackdropCMS](https://backdropcms.org/) - A fork of Drupal; it's a Content Management System for the non-profits and small-to-medium.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
