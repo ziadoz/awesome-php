@@ -6,7 +6,7 @@ b) Well known or discussed within the PHP community
 c) Be unique in its approach or function  
 d) Fill a niche gap in the market  
 
-Self-promotion is frowned upon, so please consider seriously whether your project meets the criteria before open a pull request, otherwise it may be closed without being reviewed.
+Self-promotion is frowned upon, so please consider seriously whether your project meets the criteria before opening a pull request, otherwise it may be closed without being reviewed.
 
 Also, please ensure your pull request adheres to the following guidelines:
 
