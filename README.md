@@ -11,7 +11,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Frameworks](#frameworks)
     - [Framework Extras](#framework-extras)
     - [Components](#components)
-    - [Content Management Systems](#cms)
+    - [Content Management Systems](#content-management-systems-cms)
     - [Micro Frameworks](#micro-frameworks)
     - [Micro Framework Extras](#micro-framework-extras)
     - [Routers](#routers)
