@@ -130,7 +130,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
  
 ## Content Management Systems (CMS)
-*Web development CMS.*
+*Web development Content Management Systems.*
 
 * [Drupal](https://www.drupal.org) - Enterprise Level Content Management System.
 * [WordPress](https://wordpress.org/) Blogging platform and Content Management System.
