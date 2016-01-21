@@ -11,6 +11,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Frameworks](#frameworks)
     - [Framework Extras](#framework-extras)
     - [Components](#components)
+    - [Content Management Systems](#cms)
     - [Micro Frameworks](#micro-frameworks)
     - [Micro Framework Extras](#micro-framework-extras)
     - [Routers](#routers)
@@ -118,14 +119,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Knp RAD Bundle](http://rad.knplabs.com/) - A Rapid Application Development (RAD) bundle for Symfony 2.
 * [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 
-## Content Management Systems (CMS)
-* [Drupal](https://www.drupal.org) - Enterprise Level Content Management System.
-* [WordPress](https://wordpress.org/) Blogging platform and Content Management System.
-* [Joomla](https://www.joomla.org/) - Another lead Content Managemenet System.
-* [Concrete5](http://www.concrete5.org/) - A Content Management System targering users with a minimum of technical skills.
-* [BackdropCMS](https://backdropcms.org/) - a fork of Drupal; it's a Content Management System for the non-profits and small-to-medium.
-
-
 ## Components
 *Standalone components from web development frameworks and development groups.*
 
@@ -135,6 +128,15 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CakePHP Plugins](http://plugins.cakephp.org/) - A directory of CakePHP plugins.
 * [Hoa Project](http://hoa-project.net/En/) - Another package of PHP components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
+ 
+## Content Management Systems (CMS)
+*Web development CMS.*
+
+* [Drupal](https://www.drupal.org) - Enterprise Level Content Management System.
+* [WordPress](https://wordpress.org/) Blogging platform and Content Management System.
+* [Joomla](https://www.joomla.org/) - Another lead Content Managemenet System.
+* [Concrete5](http://www.concrete5.org/) - A Content Management System targering users with a minimum of technical skills.
+* [BackdropCMS](https://backdropcms.org/) - a fork of Drupal; it's a Content Management System for the non-profits and small-to-medium.
 
 ## Micro Frameworks
 *Micro frameworks and routers.*
