@@ -110,6 +110,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
 * [CakePHP](http://cakephp.org/) - A rapid application development framework (CP).
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+* [Processwire](http://processwire.com/) - A friendly and powerful open source CMS/CMF with an exceptionally strong API.
+* [Microweber](https://microweber.com/) - A CMS based on Laravel.
+* [Cockpit](http://getcockpit.com/) - A CMS that uses SQLite or MongoDB for data storage.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
@@ -136,6 +139,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Lumen](http://lumen.laravel.com) - A micro-framework by Laravel.
 * [Proton](https://github.com/alexbilbie/Proton) - A StackPHP compatible micro framework
+* [Sphido](http://www.sphido.org/) - A rocket fast, lightweight, flat file CMS for PHP.
 
 ## Micro Framework Extras
 *Extras related to micro frameworks and routers.*
@@ -163,6 +167,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPTAL](http://phptal.org/) - A PHP implementation of the [TAL](http://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
+* [Latte](https://latte.nette.org/) - Latte is a template engine which eases your work.
+
 
 ## Static Site Generators
 *Tools for pre-processing content to generate web pages.*
