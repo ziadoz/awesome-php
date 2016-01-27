@@ -91,6 +91,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [NameSpacer](https://github.com/ralphschindler/Namespacer) - A library to convert from underscores to namespaces.
 * [Patch Installer](https://github.com/goatherd/patch-installer) - A library to install patches using Composer.
 * [Composer Checker](https://github.com/silpion/composer-checker) - A tool to validate Composer configurations.
+* [Prestissimo](https://github.com/hirak/prestissimo) - A composer plugin which enables parallel install process.
 
 ## Frameworks
 *Web development frameworks.*
