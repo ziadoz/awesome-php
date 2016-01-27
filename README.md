@@ -720,7 +720,7 @@ Libraries to help manage database schemas and migrations.
 ## PHP Installation
 *Tools to help install and manage PHP on your computer.*
 
-* [HomeBrew](http://mxcl.github.com/homebrew/) - A package manager for OSX.
+* [HomeBrew](http://brew.sh/) - A package manager for OSX.
 * [HomeBrew PHP](https://github.com/josegonzalez/homebrew-php) - A PHP tap for HomeBrew.
 * [PHP OSX](http://php-osx.liip.ch/) - A PHP installer for OSX.
 * [PHP Brew](https://github.com/c9s/phpbrew) - A PHP version manager and installer.
