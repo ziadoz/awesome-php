@@ -340,6 +340,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPCheckstyle](https://github.com/jbrooksuk/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
 * [Code Climate](http://codeclimate.com) - An automated code review.
+* [SideCI](https://www.sideci.com) - Automated Code Review with GitHub PR. - Monitoring Style Violations(PSR-1, 2, etc..), Quality, Composer Dependencies.
 
 ## Architectural
 *Libraries related to design patterns, programming approaches and ways to organize code.*
