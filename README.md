@@ -799,6 +799,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ## PHP Books
 *Fantastic PHP-related books.*
 
+* [PHP Pandas](http://daylerees.com/php-pandas/) - A book about learning to write PHP by Dayle Rees.
 * [Scaling PHP Applications](http://www.scalingphpbook.com) - An ebook about scaling PHP applications by Steve Corona.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - A book about building testing PHP applications by Chris Hartjes.
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
