@@ -585,6 +585,7 @@ Libraries to help manage database schemas and migrations.
 ## Filtering and Validation
 *Libraries for filtering and validating data.*
 
+* [HTMLPurifier](http://htmlpurifier.org/) - A HTML filtering library.
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
 * [Respect Validation](https://github.com/Respect/Validation) - A simple validation library.
 * [Valitron](https://github.com/vlucas/valitron) - Another validation library.
