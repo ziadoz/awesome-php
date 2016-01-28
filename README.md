@@ -524,6 +524,7 @@ Libraries to help manage database schemas and migrations.
 * [Shunt](https://github.com/thephpleague/shunt) - A library for running commands in parallel on multiple remote machines.
 * [Cilex](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
 * [CLImate](https://github.com/thephpleague/climate) - A library for outputting colours and special formatting.
+* [CLI Menu](https://github.com/php-school/cli-menu) - A library for building beautiful CLI menus with an expressive DSL.
 
 ## Authentication and Authorization
 *Libraries for implementing user authentication and authorization.*
