@@ -12,6 +12,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Frameworks](#frameworks)
     - [Framework Extras](#framework-extras)
     - [Components](#components)
+    - [Configuration](#configuration)
     - [Micro Frameworks](#micro-frameworks)
     - [Micro Framework Extras](#micro-framework-extras)
     - [Routers](#routers)
@@ -129,6 +130,15 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CakePHP Plugins](http://plugins.cakephp.org/) - A directory of CakePHP plugins.
 * [Hoa Project](http://hoa-project.net/En/) - Another package of PHP components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
+
+## Configuration
+*Libraries for loading configuration files*
+
+* [PHP dotenv](https://github.com/josegonzalez/php-dotenv) - Loads environment variables from `.env`..
+* [Vars](https://github.com/m1/vars) - Loads config variables from env, ini, json, php, toml, xml, yml. Supports custom loaders
+* [Wise](https://github.com/kherge-abandoned/php-wise) - A configuration manager.
+* [Yaml](https://github.com/symfony/yaml) - YAML file loader
+* [Env](https://github.com/m1/env) - Env file loader
 
 ## Micro Frameworks
 *Micro frameworks and routers.*
@@ -700,7 +710,6 @@ Libraries to help manage database schemas and migrations.
 * [PHP PassBook](https://github.com/eymengunay/php-passbook) - A PHP library for iOS PassBook.
 * [PHP Expression](https://github.com/Kitano/php-expression) - A PHP expression language.
 * [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
-* [Wise](https://github.com/kherge-abandoned/php-wise) - A configuration manager.
 * [Opengraph](https://github.com/euskadi31/Opengraph) - An opengraph library.
 * [Essence](https://github.com/essence/essence) - A library for extracting web media.
 * [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
