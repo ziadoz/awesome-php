@@ -136,7 +136,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [PHP dotenv](https://github.com/josegonzalez/php-dotenv) - Loads environment variables from `.env`..
 * [Vars](https://github.com/m1/vars) - Loads config variables from env, ini, json, php, toml, xml, yml. Supports custom loaders
-* [Wise](https://github.com/kherge-abandoned/php-wise) - A configuration manager.
 * [Yaml](https://github.com/symfony/yaml) - YAML file loader
 * [Env](https://github.com/m1/env) - Env file loader
 
