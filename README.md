@@ -99,7 +99,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Patch Installer](https://github.com/goatherd/patch-installer) - A library to install patches using Composer.
 * [Composer Checker](https://github.com/silpion/composer-checker) - A tool to validate Composer configurations.
 * [Prestissimo](https://github.com/hirak/prestissimo) - A composer plugin which enables parallel install process.
-* [Composer merge plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several composer.json files.
+* [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several composer.json files.
 
 ## Frameworks
 *Web development frameworks.*
@@ -374,7 +374,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 * [Blackfire.io](https://blackfire.io) - A low-overhead code profiler.
 * [Kint](https://github.com/raveren/kint) - A debugging and profiling tool.
-* [PHPBench](https://github.com/phpbench/phpbench) - A Benchmarking Framework.
+* [PHPBench](https://github.com/phpbench/phpbench) - A benchmarking Framework.
 
 ## Build Tools
 *Project build and automation tools.*
@@ -719,7 +719,7 @@ Libraries to help manage database schemas and migrations.
 * [print_o](https://github.com/koriym/print_o) - An object graph visualizer.
 * [Alias](https://github.com/fuelphp/alias) - A class aliasing library.
 * [Cake Utility](https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and Xml (CP).
-* [Slimdump](https://github.com/webfactory/slimdump) - A easy dumper tool for MySQL.
+* [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 
 # Software
 *Software for creating a development environment.*
