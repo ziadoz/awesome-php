@@ -372,6 +372,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 * [Blackfire.io](https://blackfire.io) - A low-overhead code profiler.
 * [Kint](https://github.com/raveren/kint) - A debugging and profiling tool.
+* [PHPBench](https://github.com/phpbench/phpbench) - A Benchmarking Framework.
 
 ## Build Tools
 *Project build and automation tools.*
@@ -710,7 +711,6 @@ Libraries to help manage database schemas and migrations.
 * [Lib Country](https://github.com/kherge-abandoned/lib-country) - A library for country and subdivision data.
 * [PHPStack](http://dunkels.com/adam/phpstack/) - A TCP/IP stack proof of concept written in PHP.
 * [Nmap](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](https://nmap.org/).
-* [Code Mover](https://github.com/dantleech/code-mover) - A library for moving code.
 * [Lambda PHP](https://github.com/igorw/lambda-php) - A Lambda calculus interpreter in PHP.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 * [PHP-GPIO](https://github.com/ronanguilloux/php-gpio) - A library for playing with the Raspberry PI's GPIO pins.
