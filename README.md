@@ -99,6 +99,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Patch Installer](https://github.com/goatherd/patch-installer) - A library to install patches using Composer.
 * [Composer Checker](https://github.com/silpion/composer-checker) - A tool to validate Composer configurations.
 * [Prestissimo](https://github.com/hirak/prestissimo) - A composer plugin which enables parallel install process.
+* [Composer merge plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several composer.json files.
 
 ## Frameworks
 *Web development frameworks.*
