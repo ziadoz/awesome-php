@@ -654,7 +654,7 @@ Libraries to help manage database schemas and migrations.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
 * [URLify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
 * [UUID](https://github.com/ramsey/uuid) - A library for generating UUIDs.
-* [string](https://github.com/spatie/string) - Another package for a handy way to work with strings in php.
+* [String](https://github.com/spatie/string) - Another package for a handy way to work with strings in php.
 
 ## Numbers
 *Libraries for working with numbers.*
