@@ -136,6 +136,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries for loading configuration files*
 
 * [Zend-config](https://github.com/zendframework/zend-config) - Config component from Zend Framework
+* [Vars](https://github.com/m1/Vars) - Vars is a configuration file loader for PHP includes Silex provder.
 
 ## Micro Frameworks
 *Micro frameworks and routers.*
