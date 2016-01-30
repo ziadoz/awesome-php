@@ -822,6 +822,7 @@ Libraries to help manage database schemas and migrations.
 * [DBV](http://dbv.vizuina.com/) - A database version control application.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 * [MailCatcher](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
+* [MailHog](https://github.com/mailhog/MailHog) - A web and API based SMTP testing tool.
 * [Cachet](https://github.com/cachethq/cachet) - The open source status page system.
 * [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - A simple web interface to manage [Redis](http://redis.io/) databases.
 * [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) - A web-based administration tool for PostgreSQL.
