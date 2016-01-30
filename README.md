@@ -779,6 +779,7 @@ Libraries to help manage database schemas and migrations.
 *Infrastructure for providing PHP applications and services.*
 
 * [appserver.io](http://appserver.io/) - A multithreaded application server for PHP, written in PHP.
+* [check_php](https://github.com/cytopia/check_php) - Nagios plugin to check for PHP updates, startup errors, missing modules, etc.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
