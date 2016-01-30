@@ -449,6 +449,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
 * [Sylius](http://sylius.org/) - An open source e-commerce solution.
 * [Thelia](http://thelia.net/) - Another open source e-commerce solution.
+* [OXID eShop](https://github.com/OXID-eSales/oxideshop_ce) - An open source e-commerce software for agencies with deadlines.
 * [Money](https://github.com/mathiasverraes/money) - A PHP implementation of Fowler's money pattern.
 * [Sebastian Money](https://github.com/sebastianbergmann/money) - Another library for working with monetary values.
 * [Swap](https://github.com/florianv/swap) - An exchange rates library.
