@@ -285,6 +285,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
 * [Jenkins](http://jenkins-ci.org/) - A continous integration platform with [PHP support](http://jenkins-php.org/index.html).
 * [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
+* [Docker-php](https://github.com/docker-php/docker-php) - A [Docker](https://www.docker.com/) client written in PHP.
 
 ## Documentation
 *Libraries for generating project documentation.*
