@@ -455,7 +455,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
 * [Sylius](http://sylius.org/) - An open source e-commerce solution.
 * [Thelia](http://thelia.net/) - Another open source e-commerce solution.
-* [Money](https://github.com/mathiasverraes/money) - A PHP implementation of Fowler's money pattern.
+* [Money](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
 * [Sebastian Money](https://github.com/sebastianbergmann/money) - Another library for working with monetary values.
 * [Swap](https://github.com/florianv/swap) - An exchange rates library.
 
@@ -481,7 +481,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Doctrine Extensions](https://github.com/l3pp4rd/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 * [Propel](http://propelorm.org/) - A fast ORM, migration library and query builder.
 * [Eloquent](https://github.com/illuminate/database) - A simple ORM (L5).
-* [LazyRecord](http://github.com/c9s/LazyRecord) - A fast ORM designed for simplicity, extendability and performance.
+* [LazyRecord](https://github.com/c9s/LazyRecord) - A fast ORM designed for simplicity, extendability and performance.
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
 * [Spot2](https://github.com/vlucas/spot2) - A MySQL datamapper ORM.
 * [RedBean](http://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
