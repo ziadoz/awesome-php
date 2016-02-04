@@ -537,6 +537,7 @@ Libraries to help manage database schemas and migrations.
 * [Cilex](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
 * [CLImate](https://github.com/thephpleague/climate) - A library for outputting colours and special formatting.
 * [CLI Menu](https://github.com/php-school/cli-menu) - A library for building CLI menus.
+* [CLIFramework](https://github.com/c9s/CLIFramework) - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
 
 ## Authentication and Authorization
 *Libraries for implementing user authentication and authorization.*
