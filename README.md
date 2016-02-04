@@ -475,6 +475,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Doctrine Extensions](https://github.com/l3pp4rd/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 * [Propel](http://propelorm.org/) - A fast ORM, migration library and query builder.
 * [Eloquent](https://github.com/illuminate/database) - A simple ORM (L5).
+* [LazyRecord](http://github.com/c9s/LazyRecord) - A fast ORM designed for simplicity, extendability and performance.
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
 * [Spot2](https://github.com/vlucas/spot2) - A MySQL datamapper ORM.
 * [RedBean](http://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
