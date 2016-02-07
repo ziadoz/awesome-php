@@ -578,7 +578,7 @@ Libraries to help manage database schemas and migrations.
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
 * [UUID](https://github.com/ramsey/uuid) - A library for generating UUIDs.
 * [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
-* [Urlify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
+* [URLify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
 * [Text](https://github.com/kzykhys/Text) - A text manipulation library.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
