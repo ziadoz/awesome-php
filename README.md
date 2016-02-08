@@ -802,6 +802,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
 * [PHP School](http://www.phpschool.io/) - Open Source Learning for PHP.
 * [PHP Mentoring](http://phpmentoring.org/) - Peer to peer PHP mentorship organization.
+* [PHPTrends](http://phptrends.com/) - An overview of fastest growing PHP libraries.
 
 ## Other Websites
 *Useful websites related to web development.*
