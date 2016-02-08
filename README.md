@@ -799,6 +799,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP UG](http://php.ug) - A website to help people locate their nearest PHP user group (UG).
 * [Seven PHP](http://7php.com/) - A website that interviews members of the PHP community.
 * [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
+* [PHP School](http://www.phpschool.io/) - Open Source Learning for PHP.
 * [PHP Mentoring](http://phpmentoring.org/) - Peer to peer PHP mentorship organization.
 
 ## Other Websites
