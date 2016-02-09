@@ -179,6 +179,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
 * [Phrozn](http://phrozn.info) - Another tool that converts Textile, Markdown and Twig into HTML.
 * [Spress](http://spress.yosymfony.com) - An extensible tool that converts Markdown and Twig into HTML.
+* [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
