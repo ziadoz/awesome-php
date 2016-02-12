@@ -805,6 +805,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP School](http://www.phpschool.io/) - Open Source Learning for PHP.
 * [PHP Mentoring](http://phpmentoring.org/) - Peer to peer PHP mentorship organization.
 * [PHPTrends](http://phptrends.com/) - An overview of fastest growing PHP libraries.
+* [PHP Versions](http://phpversions.info/) - Lists which versions of PHP are available on several popular web hosts.
 
 ## Other Websites
 *Useful websites related to web development.*
