@@ -509,8 +509,8 @@ Libraries to help manage database schemas and migrations.
 *Libraries for working with event and task queues.*
 
 * [Pheanstalk](https://github.com/pda/pheanstalk) - A Beanstalkd client library.
-* [PHP AMQP](https://github.com/videlalvaro/php-amqplib) - A pure PHP AMQP library.
-* [Thumper](https://github.com/videlalvaro/Thumper) - A RabbitMQ pattern library.
+* [PHP AMQP](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
+* [Thumper](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
 * [Bernard](https://github.com/bernardphp/bernard) - A multibackend abstraction library.
 
 ## Search
@@ -750,7 +750,7 @@ Libraries to help manage database schemas and migrations.
 *Software and tools for creating a sandboxed development environment.*
 
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
-* [Ansible](http://www.ansible.com/) - A radically simple orchestration framework.
+* [Ansible](https://www.ansible.com/) - A radically simple orchestration framework.
 * [Puppet](https://puppetlabs.com/) - A server automation framework and application.
 * [PuPHPet](https://puphpet.com/) - A web tool for building PHP development virtual machines.
 * [Protobox](http://getprotobox.com/) - Another web tool for building PHP development virtual machines.
