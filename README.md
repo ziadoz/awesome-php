@@ -160,6 +160,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 * [Klein](https://github.com/chriso/klein.php) - A flexible router.
+* [Patika](https://github.com/ozziest/patika) - A package which you can define route painless.
 
 ## Templating
 *Libraries and tools for templating and lexing.*
