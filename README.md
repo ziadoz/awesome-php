@@ -608,6 +608,7 @@ Libraries to help manage database schemas and migrations.
 * [DMS Filter](https://github.com/rdohms/DMS-Filter) - An annotation filtering library.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating various ISO and ZIP codes (IBAN, SWIFT/BIC, BBAN, VAT, SSN, UKNIN).
+* [php-simple-request](https://github.com/mcustiel/php-simple-request) - A library for filtering and validating requests while parsing them into data objects. 
 
 ## API
 *Libraries and web tools for developing APIs.*
