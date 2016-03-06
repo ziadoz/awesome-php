@@ -383,6 +383,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Blackfire.io](https://blackfire.io) - A low-overhead code profiler.
 * [Kint](https://github.com/raveren/kint) - A debugging and profiling tool.
 * [PHPBench](https://github.com/phpbench/phpbench) - A benchmarking Framework.
+* [ErrorDumper](https://github.com/bkrukowski/error-dumper) - A debugging tool, catching errors, export to html.
 
 ## Build Tools
 *Project build and automation tools.*
