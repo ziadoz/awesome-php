@@ -587,6 +587,7 @@ Libraries to help manage database schemas and migrations.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
 * [Device Detector](https://github.com/piwik/device-detector) - Another library for parsing user agent strings.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
+* [php-humanizer](https://github.com/coduo/php-humanizer) - Humanize values that are readable only for developers.
 
 ## Numbers
 *Libraries for working with numbers.*
