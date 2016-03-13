@@ -302,6 +302,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
 * [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor2) - A documentation generator.
 * [phpDox](http://phpdox.de/) - A documentation generator for PHP projects (that is not limited to API documentation).
+* [daux.io](https://github.com/justinwalsh/daux.io) - A documentation generator which uses Markdown files.
 
 ## Security
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
