@@ -639,6 +639,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Ardent](https://github.com/morrisonlevi/Ardent) - A library of data structures.
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
+* [Collections](https://github.com/italolelis/collections) - Collections Abstraction library for PHP.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 * [Zend Serializer](https://github.com/zendframework/zend-serializer) - Another library for serialising and de-serialising data (ZF2).
 * [PHP Object Storage](https://github.com/kherge-abandoned/php-object-storage) - A library for object storage.
