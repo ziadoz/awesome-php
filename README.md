@@ -368,6 +368,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
 * [Lib Accessor](https://github.com/kherge-abandoned/lib-accessor) - A library for simplifying accessors.
 * [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
+* [Accessible](https://github.com/antares993/Accessible) - Define your class' getters, setters and constructor using powerful annotations.
 
 ## Debugging and Profiling
 *Libraries and tools for debugging and profiling code.*
