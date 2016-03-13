@@ -284,6 +284,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [VFS](https://github.com/adlawson/php-vfs) - Another virtual filesystem for testing.
 * [Locust](http://locust.io/) - A modern load test library written in Python.
 * [Peridot](https://github.com/peridot-php/peridot) - An event driven test framework.
+* [Kahlan](https://github.com/crysalead/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
 
 ## Continuous Integration
 *Libraries and applications for continuous integration.*
