@@ -783,6 +783,7 @@ Libraries to help manage database schemas and migrations.
 * [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - A simple web interface to manage [Redis](http://redis.io/) databases.
 * [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) - A web-based administration tool for PostgreSQL.
 * [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
+* [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 
 ## Infrastructure
