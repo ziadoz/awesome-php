@@ -96,7 +96,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Satis](https://github.com/composer/satis) - A static Composer repository generator.
 * [Toran Proxy](https://toranproxy.com) - A static Composer repository and proxy.
 * [Composition](https://github.com/bamarni/composition) - A library to check your Composer environment at runtime.
-* [Version](https://github.com/kherge-abandoned/php-version) - A parsing and comparison library for semantic versioning.
 * [NameSpacer](https://github.com/ralphschindler/Namespacer) - A library to convert from underscores to namespaces.
 * [Patch Installer](https://github.com/goatherd/patch-installer) - A library to install patches using Composer.
 * [Composer Checker](https://github.com/silpion/composer-checker) - A tool to validate Composer configurations.
@@ -228,7 +227,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Ferret](https://github.com/versionable/Ferret) - A MIME detection library.
 * [Hoa Mime](https://github.com/hoaproject/Mime) - Another MIME detection library.
 * [Lurker](https://github.com/henrikbjorn/Lurker) - A resource tracking library.
-* [PHP File Locator](https://github.com/kherge-abandoned/php-file-locator) - A library for locating files in large projects.
 * [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](http://www.ffmpeg.org/) video library.
 * [CSV](https://github.com/thephpleague/csv) - A CSV data manipulation library.
 
@@ -369,7 +367,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Galapagos](https://github.com/endel/galapagos) - Evolutionary language transformation.
 * [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP) - A repository of software patterns implemented in PHP.
 * [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
-* [Lib Accessor](https://github.com/kherge-abandoned/lib-accessor) - A library for simplifying accessors.
 * [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
 * [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 
@@ -391,7 +388,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Build Tools
 *Project build and automation tools.*
 
-* [Go](https://github.com/kherge-abandoned//php-go) - A simple PHP build tool.
 * [Bob](https://github.com/CHH/bob) - A simple project automation tool.
 * [Phake](https://github.com/jaz303/phake) - A rake PHP clone library.
 * [Box](https://github.com/box-project/box2) - A utility to build PHAR files.
@@ -645,7 +641,6 @@ Libraries to help manage database schemas and migrations.
 * [Collections](https://github.com/italolelis/collections) - Collections Abstraction library for PHP.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 * [Zend Serializer](https://github.com/zendframework/zend-serializer) - Another library for serialising and de-serialising data (ZF2).
-* [PHP Object Storage](https://github.com/kherge-abandoned/php-object-storage) - A library for object storage.
 * [Fractal](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
 * [Totem](https://github.com/Wisembly/Totem) - A library to manage and create data changesets.
 * [PINQ](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
@@ -729,7 +724,6 @@ Libraries to help manage database schemas and migrations.
 * [Flux](https://github.com/selvinortiz/flux) - A regular expression building library.
 * [PHPCR](https://github.com/phpcr/phpcr) - A PHP port of the Java Content Repository (JCR).
 * [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - A library for optimising autoloading.
-* [Lib Country](https://github.com/kherge-abandoned/lib-country) - A library for country and subdivision data.
 * [PHPStack](http://dunkels.com/adam/phpstack/) - A TCP/IP stack proof of concept written in PHP.
 * [Nmap](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](https://nmap.org/).
 * [Lambda PHP](https://github.com/igorw/lambda-php) - A Lambda calculus interpreter in PHP.
