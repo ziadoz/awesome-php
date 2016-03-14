@@ -114,6 +114,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
 * [CakePHP](http://cakephp.org/) - A rapid application development framework (CP).
 * [Phalcon](https://phalconphp.com/en/) - A framework implemented as a C extension.
+* [FuelPHP](http://fuelphp.com/) - A simple, flexible and community driven framework
 
 ## Framework Extras
 *Extras related to web development frameworks.*
