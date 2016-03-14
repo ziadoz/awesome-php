@@ -769,7 +769,7 @@ Libraries to help manage database schemas and migrations.
 *Alternative PHP virtual machines.*
 
 * [HHVM](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
-* [HippyVM](http://hippyvm.com/) - Another PHP virtual machine.
+* [HippyVM](https://github.com/hippyvm/hippyvm) - Another PHP virtual machine.
 * [Hack](http://hacklang.org/) - A programming language for HHVM that interoperates seamlessly with PHP.
 
 ## Integrated Development Environment
@@ -813,7 +813,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP UG](http://php.ug) - A website to help people locate their nearest PHP user group (UG).
 * [Seven PHP](http://7php.com/) - A website that interviews members of the PHP community.
 * [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
-* [PHP School](http://www.phpschool.io/) - Open Source Learning for PHP.
+* [PHP School](https://www.phpschool.io/) - Open Source Learning for PHP.
 * [PHP Mentoring](http://phpmentoring.org/) - Peer to peer PHP mentorship organization.
 * [PHPTrends](http://phptrends.com/) - An overview of fastest growing PHP libraries.
 * [PHP Versions](http://phpversions.info/) - Lists which versions of PHP are available on several popular web hosts.
@@ -841,14 +841,14 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - A book about common security terms and practices for PHP by Chris Cornutt.
 * [Modernising Legacy Applications in PHP](https://leanpub.com/mlaphp) - A book about modernising legacy PHP applications by Paul M. Jones.
 * [Modern PHP New Features and Good Practices](http://shop.oreilly.com/product/0636920033868.do) - A book about new PHP features and best practices by Josh Lockhart.
-* [Functional Programming in PHP](http://www.phparch.com/books/functional-programming-in-php/) - This book will show you how to leverage these new PHP5.3+ features by understanding functional programming principles
+* [Functional Programming in PHP](https://www.phparch.com/books/functional-programming-in-php/) - This book will show you how to leverage these new PHP5.3+ features by understanding functional programming principles
 
 ## Other Books
 *Books related to general computing and web development.*
 
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
 * [Understanding Computation](http://computationbook.com) - A book about computation theory by Tom Stuart.
-* [The Tangled Web — Securing Web Applications](http://www.amazon.ca/The-Tangled-Web-Securing-Applications/dp/1593273886) - A book about securing web applications by Michal Zalewski.
+* [The Tangled Web — Securing Web Applications](http://www.amazon.com/The-Tangled-Web-Securing-Applications/dp/1593273886) - A book about securing web applications by Michal Zalewski.
 * [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/index.html) - A guide to working with Elasticsearch by Clinton Gormley and Zachary Tong.
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - A book about JavaScript programming by Marijn Haverbeke.
 * [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) - A book about creating Vagrant environments by Erika Heidi.
