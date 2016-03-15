@@ -257,6 +257,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Color Extractor](https://github.com/thephpleague/color-extractor) - A library for extracting colours from images.
 * [Glide](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
 * [Image Optimizer](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
+* [Image Hash](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
