@@ -447,6 +447,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
 * [Cake Event](https://github.com/cakephp/event) - An event dispatcher library (CP).
 * [Broadway](https://github.com/qandidate-labs/broadway) - An event source and CQRS library.
+* [Symfony Event Dispatcher](https://github.com/symfony/event-dispatcher) - An event dispatcher library (SF2).
 
 ## Logging
 *Libraries for generating and working with log files.*
