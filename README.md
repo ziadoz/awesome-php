@@ -204,6 +204,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Purl](https://github.com/jwage/purl) - A URL manipulation library.
 * [Uri](https://github.com/thephpleague/uri) - Another URL manipulation library.
 * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
+* [sabre/uri](https://github.com/fruux/sabre-uri) - A functional URI manipulation library.
+
 
 ## Email
 *Libraries for sending and parsing email.*
@@ -710,7 +712,7 @@ Libraries to help manage database schemas and migrations.
 * [Chief](https://github.com/adamnicholson/Chief) - A command bus library.
 * [Sslurp](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL suck less.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
-* [Sabre VObject](https://github.com/evert/sabre-vobject) - A library for parsing VCard and iCalendar objects.
+* [sabre/vobject](https://github.com/fruux/sabre-vobject) - A library for parsing VCard and iCalendar objects.
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
 * [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
 * [LadyBug](https://github.com/raulfraile/Ladybug) - A dumper library.
