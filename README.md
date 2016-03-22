@@ -323,6 +323,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [VAddy](http://vaddy.net) - A continuous security testing platform for web applications.
 * [Optimus](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
 * [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium).
+* [Magoo](https://github.com/pachico/magoo) - Mask credit card numbers, emails and more.
 
 ## Passwords
 *Libraries and tools for working with and storing passwords.*
