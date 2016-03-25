@@ -654,6 +654,7 @@ Libraries to help manage database schemas and migrations.
 * [Ginq](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
 * [JsonMapper](https://github.com/netresearch/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
 * [Cake Collection](https://github.com/cakephp/collection) - A simple collections library (CP).
+* [Manipulator](https://github.com/Nayjest/manipulator) - Small library for manipulating PHP objects.
 
 ## Notifications
 *Libraries for working with notification software.*
