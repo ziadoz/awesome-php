@@ -296,6 +296,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
 * [Jenkins](http://jenkins-ci.org/) - A continous integration platform with [PHP support](http://jenkins-php.org/index.html).
 * [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
+* [SimpleCI](https://github.com/simpleci/simpleci) - A docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.
 
 ## Documentation
 *Libraries for generating project documentation.*
