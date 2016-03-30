@@ -448,6 +448,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
 * [Cake Event](https://github.com/cakephp/event) - An event dispatcher library (CP).
 * [Broadway](https://github.com/qandidate-labs/broadway) - An event source and CQRS library.
+* [Prooph Event Store](https://github.com/prooph/event-store) - An event source component to persist event messages
 
 ## Logging
 *Libraries for generating and working with log files.*
@@ -741,6 +742,7 @@ Libraries to help manage database schemas and migrations.
 * [Alias](https://github.com/fuelphp/alias) - A class aliasing library.
 * [Cake Utility](https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and Xml (CP).
 * [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
+* [Prooph Service Bus](https://github.com/prooph/service-bus) - Lightweight message bus supporting CQRS and Micro Services
 
 # Software
 *Software for creating a development environment.*
