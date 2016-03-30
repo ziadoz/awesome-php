@@ -294,7 +294,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [SemaphoreCI](https://semaphoreci.com/) - A continuous integration platform for open source and private projects.
 * [PHPCI](https://www.phptesting.org/) - An open source continuous integration platform for PHP.
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
-* [Jenkins](http://jenkins-ci.org/) - A continous integration platform with [PHP support](http://jenkins-php.org/index.html).
+* [Jenkins](https://jenkins.io/index.html) - A continous integration platform with [PHP support](http://jenkins-php.org/index.html).
 * [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
 
 ## Documentation
