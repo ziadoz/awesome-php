@@ -223,15 +223,15 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Files
 *Libraries for file manipulation and MIME type detection.*
 
-* [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
-* [Flysystem](https://github.com/thephpleague/Flysystem) - Another filesystem abstraction layer.
-* [Canal](https://github.com/dflydev/dflydev-canal) - A library to determine internet media types.
 * [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - A library that parses Apache MIME types.
+* [Canal](https://github.com/dflydev/dflydev-canal) - A library to determine internet media types.
+* [CSV](https://github.com/thephpleague/csv) - A CSV data manipulation library.
 * [Ferret](https://github.com/versionable/Ferret) - A MIME detection library.
+* [Flysystem](https://github.com/thephpleague/Flysystem) - Another filesystem abstraction layer.
+* [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 * [Hoa Mime](https://github.com/hoaproject/Mime) - Another MIME detection library.
 * [Lurker](https://github.com/henrikbjorn/Lurker) - A resource tracking library.
 * [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](http://www.ffmpeg.org/) video library.
-* [CSV](https://github.com/thephpleague/csv) - A CSV data manipulation library.
 
 ## Streams
 *Libraries for working with streams.*
