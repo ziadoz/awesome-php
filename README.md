@@ -809,6 +809,8 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ## PHP Websites
 *Useful PHP-related websites.*
 
+* [PEAR](https://pear.php.net/) - PHP Extension and Application Repository: framework and distribution system for reusable PHP components.
+* [PECL](https://pecl.php.net/) - PHP Extension Community Library: Repository of native PHP Extensions.
 * [PHP The Right Way](http://www.phptherightway.com/) - A PHP best practice quick reference guide.
 * [PHP Best Practices](https://phpbestpractices.org/) - A PHP best practice guide.
 * [PHP Weekly](http://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
