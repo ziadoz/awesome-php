@@ -654,17 +654,17 @@ Libraries to help manage database schemas and migrations.
 *Libraries that implement data structure or storage techniques.*
 
 * [Ardent](https://github.com/morrisonlevi/Ardent) - A library of data structures.
-* [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
+* [Cake Collection](https://github.com/cakephp/collection) - A simple collections library (CP).
 * [Collections](https://github.com/italolelis/collections) - Collections Abstraction library for PHP.
-* [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
-* [Zend Serializer](https://github.com/zendframework/zend-serializer) - Another library for serialising and de-serialising data (ZF2).
 * [Fractal](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
-* [Totem](https://github.com/Wisembly/Totem) - A library to manage and create data changesets.
-* [PINQ](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
-* [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
 * [Ginq](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
 * [JsonMapper](https://github.com/netresearch/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
-* [Cake Collection](https://github.com/cakephp/collection) - A simple collections library (CP).
+* [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
+* [PINQ](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
+* [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
+* [Totem](https://github.com/Wisembly/Totem) - A library to manage and create data changesets.
+* [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
+* [Zend Serializer](https://github.com/zendframework/zend-serializer) - Another library for serialising and de-serialising data (ZF2).
 
 ## Notifications
 *Libraries for working with notification software.*
