@@ -536,8 +536,8 @@ Libraries to help manage database schemas and migrations.
 * [Bernard](https://github.com/bernardphp/bernard) - A multibackend abstraction library.
 * [Pheanstalk](https://github.com/pda/pheanstalk) - A Beanstalkd client library.
 * [PHP AMQP](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
-* [Thumper](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
 * [Tarantool Queue](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
+* [Thumper](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
 
 ## Search
 *Libraries and software for indexing and performing search queries on data.*
