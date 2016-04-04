@@ -311,21 +311,21 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Security
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
 
+* [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium).
 * [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
-* [RandomLib](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
-* [True Random](https://github.com/pixeloution/true-random) - A library that generates random numbers using [www.random.org](https://www.random.org/).
-* [SecurityMultiTool](https://github.com/padraic/SecurityMultiTool) - A PHP security library.
-* [PHPSecLib](http://phpseclib.sourceforge.net/) - A pure PHP secure communications library.
-* [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
+* [IniScan](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
+* [Optimus](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
+* [PHP Encryption](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
 * [PHP IDS](https://github.com/PHPIDS/PHPIDS) - A structured PHP security layer.
 * [PHP SSH](https://github.com/Herzult/php-ssh) - An experimental object orientated SSH wrapper library.
-* [IniScan](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
+* [PHPSecLib](http://phpseclib.sourceforge.net/) - A pure PHP secure communications library.
+* [RandomLib](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
+* [SecurityMultiTool](https://github.com/padraic/SecurityMultiTool) - A PHP security library.
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependencies for security advisories.
-* [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
+* [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
+* [True Random](https://github.com/pixeloution/true-random) - A library that generates random numbers using [www.random.org](https://www.random.org/).
 * [VAddy](http://vaddy.net) - A continuous security testing platform for web applications.
-* [Optimus](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
-* [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium).
-* [PHP Encryption](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
+* [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
 
 ## Passwords
 *Libraries and tools for working with and storing passwords.*
