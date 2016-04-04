@@ -366,6 +366,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
 * [Code Climate](https://codeclimate.com) - An automated code review.
+* [Exakat](http://www.exakat.io) - A static analysis engine for PHP.
 
 ## Architectural
 *Libraries related to design patterns, programming approaches and ways to organize code.*
