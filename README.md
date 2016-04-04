@@ -364,11 +364,11 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
+* [PHPQA](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
 * [PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP.
 * [PHPSandbox](https://github.com/fieryprophet/php-sandbox) - A PHP sandbox environment.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
 * [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
-* [PHPQA](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
 
 ## Architectural
 *Libraries related to design patterns, programming approaches and ways to organize code.*
