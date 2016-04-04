@@ -387,6 +387,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Option](https://github.com/schmittjoh/php-option) - An option type library.
 * [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
+* [RulerZ](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
 
 ## Debugging and Profiling
 *Libraries and tools for debugging and profiling code.*
