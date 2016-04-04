@@ -1,0 +1,9 @@
+language: ruby
+rvm:
+  - 2.2
+before_script:
+  - gem install awesome_bot
+script:
+  - awesome_bot README.md --white-list igor.io,blackfire.io,toranproxy.com
+notifications:
+  email: false
