@@ -447,10 +447,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CalendR](http://yohan.giarel.li/CalendR/) - A calendar management library.
 * [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
 * [ExpressiveDate](https://github.com/jasonlewis/expressive-date) - Another DateTime API extension.
-<<<<<<< HEAD
-=======
-* [CalendR](http://yohan.giarel.li/CalendR) - A calendar management library.
->>>>>>> 500c4a0dcdb75242a208805da16ac491ce803566
 * [Moment.php](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
 
 ## Event
