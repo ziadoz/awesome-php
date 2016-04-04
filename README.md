@@ -462,14 +462,14 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## E-commerce
 *Libraries and applications for taking payments and building online e-commerce stores.*
 
-* [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
+* [Money](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
 * [OmniPay](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
+* [Sebastian Money](https://github.com/sebastianbergmann/money) - Another library for working with monetary values.
+* [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
+* [Swap](https://github.com/florianv/swap) - An exchange rates library.
 * [Sylius](http://sylius.org/) - An open source e-commerce solution.
 * [Thelia](http://thelia.net/) - Another open source e-commerce solution.
-* [Money](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
-* [Sebastian Money](https://github.com/sebastianbergmann/money) - Another library for working with monetary values.
-* [Swap](https://github.com/florianv/swap) - An exchange rates library.
 
 ## PDF
 *Libraries and software for working with PDF files.*
