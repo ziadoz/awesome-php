@@ -516,6 +516,7 @@ Libraries to help manage database schemas and migrations.
 
 * [MongoQB](https://github.com/alexbilbie/MongoQB) - A MongoDB query builder library.
 * [Monga](https://github.com/thephpleague/monga) - A MongoDB abstraction library.
+* [PHPMongo](https://github.com/sokil/php-mongo) - A MongoDB ORM.
 * [Predis](https://github.com/nrk/predis) - A feature complete Redis library.
 
 ## Queue
