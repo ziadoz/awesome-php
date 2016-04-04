@@ -292,13 +292,15 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Continuous Integration
 *Libraries and applications for continuous integration.*
 
-* [Travis CI](https://travis-ci.org/) - A continuous integration platform.
-* [SemaphoreCI](https://semaphoreci.com/) - A continuous integration platform for open source and private projects.
-* [PHPCI](https://www.phptesting.org/) - An open source continuous integration platform for PHP.
-* [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
+* [GitlabCi](https://about.gitlab.com/gitlab-ci/) - Let GitLab CI test, build, deploy your code. TravisCi like.
 * [Jenkins](https://jenkins.io/index.html) - A continous integration platform with [PHP support](http://jenkins-php.org/index.html).
 * [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
-* [GitlabCi](https://about.gitlab.com/gitlab-ci/) - Let GitLab CI test, build, deploy your code. TravisCi like.
+* [PHPCI](https://www.phptesting.org/) - An open source continuous integration platform for PHP.
+* [SemaphoreCI](https://semaphoreci.com/) - A continuous integration platform for open source and private projects.
+* [Shippable](http://shippable.com/) - A docker based continious integration platform for open source and private projects.
+* [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
+* [Travis CI](https://travis-ci.org/) - A continuous integration platform.
+* [Wercker](http://wercker.com/) - A continuous integration platform
 
 ## Documentation
 *Libraries for generating project documentation.*
