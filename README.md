@@ -635,13 +635,12 @@ Libraries to help manage database schemas and migrations.
 *Libraries for caching data.*
 
 * [Alternative PHP Cache (APC)](http://php.net/manual/en/book.apc.php) - Open opcode cache for PHP.
-* [Doctrine Cache](https://github.com/doctrine/cache) - A caching library.
-* [Zend Cache](https://github.com/zendframework/zend-cache) - Another caching library (ZF2).
-* [Cake Cache](https://github.com/cakephp/cache) - A caching library (CP).
-* [Stash](https://github.com/tedious/Stash) - Another library for caching.
-* [CacheTool](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
 * [APIx Cache](https://github.com/frqnck/apix-cache) - A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing.
-
+* [CacheTool](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
+* [Cake Cache](https://github.com/cakephp/cache) - A caching library (CP).
+* [Doctrine Cache](https://github.com/doctrine/cache) - A caching library.
+* [Stash](https://github.com/tedious/Stash) - Another library for caching.
+* [Zend Cache](https://github.com/zendframework/zend-cache) - Another caching library (ZF2).
 
 ## Data Structure and Storage
 *Libraries that implement data structure or storage techniques.*
