@@ -178,15 +178,21 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Spress](http://spress.yosymfony.com) - An extensible tool that converts Markdown and Twig into HTML.
 
 ## HTTP
-*Libraries for working with HTTP and scraping websites.*
+*Libraries for working with HTTP websites.*
 
-* [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
 * [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
-* [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
+* [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
 * [HTTPFul](https://github.com/nategood/httpful) - A chainable HTTP client.
-* [Goutte](https://github.com/FriendsOfPHP/Goutte) - A simple web scraper.
 * [PHP VCR](http://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
+* [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
 * [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
+
+## Scraping
+*Libraries for scraping websites.*
+
+* [Embed](https://github.com/oscarotero/Embed) - An information extractor from any web service or page.
+* [Goutte](https://github.com/FriendsOfPHP/Goutte) - A simple web scraper.
+* [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 
 ## Middlewares
 *Libraries for building application using middlewares.*
