@@ -232,6 +232,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Lurker](https://github.com/henrikbjorn/Lurker) - A resource tracking library.
 * [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](http://www.ffmpeg.org/) video library.
 * [CSV](https://github.com/thephpleague/csv) - A CSV data manipulation library.
+* [Coma](https://github.com/neko/coma) - A tiny PHP class for turn CSV files into structured arrays.
 
 ## Streams
 *Libraries for working with streams.*
