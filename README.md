@@ -125,12 +125,12 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Components
 *Standalone components from web development frameworks and development groups.*
 
-* [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony 2.
-* [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make Zend Framework.
 * [Aura Components](http://auraphp.com/) - A package of PHP 5.4 components.
 * [CakePHP Plugins](http://plugins.cakephp.org/) - A directory of CakePHP plugins.
 * [Hoa Project](http://hoa-project.net/En/) - Another package of PHP components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
+* [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony 2.
+* [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make Zend Framework.
 
 ## Configuration
 *Libraries for loading configuration files*
