@@ -580,6 +580,7 @@ Libraries to help manage database schemas and migrations.
 * [Lock](https://github.com/BeatSwitch/lock) - A library for implementing Access Control Lists (ACL) systems.
 * [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
 * [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
+* [Json Web Token](https://github.com/lcobucci/jwt) - Json Tokens to authenticate and transmit information.
 
 ## Markup
 *Libraries for working with markup.*
