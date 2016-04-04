@@ -199,8 +199,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Stack](https://github.com/stackphp) - A library of stackable middleware for Silex/Symfony.
 * [Slim Middleware](https://github.com/slimphp/Slim-Middleware) - A collection of custom middleware for Slim.
-* [Conduit](https://github.com/phly/conduit) - A port of [Sencha Connect](https://github.com/senchalabs/connect) to PHP.
-* [Hprose-PHP](https://github.com/hprose/hprose-php) - A very newbility RPC Library, support 25+ languages now.
+* [zend-stratigility](https://github.com/zendframework/zend-stratigility) - Middleware for PHP built on top of PSR-7
 
 ## URL
 *Libraries for parsing URLs.*
@@ -757,6 +756,7 @@ Libraries to help manage database schemas and migrations.
 * [Cake Utility](https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and Xml (CP).
 * [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 * [Prooph Service Bus](https://github.com/prooph/service-bus) - Lightweight message bus supporting CQRS and Micro Services
+* [Hprose-PHP](https://github.com/hprose/hprose-php) - A very newbility RPC Library, support 25+ languages now.
 
 # Software
 *Software for creating a development environment.*
