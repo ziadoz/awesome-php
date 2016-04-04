@@ -381,6 +381,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Debugging and Profiling
 *Libraries and tools for debugging and profiling code.*
 
+* [APM](http://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 * [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
