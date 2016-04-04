@@ -368,6 +368,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPSandbox](https://github.com/fieryprophet/php-sandbox) - A PHP sandbox environment.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
 * [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
+* [PHPQA](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
 
 ## Architectural
 *Libraries related to design patterns, programming approaches and ways to organize code.*
