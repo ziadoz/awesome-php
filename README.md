@@ -325,6 +325,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [VAddy](http://vaddy.net) - A continuous security testing platform for web applications.
 * [Optimus](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
 * [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium).
+* [PHP Encryption](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
 
 ## Passwords
 *Libraries and tools for working with and storing passwords.*
