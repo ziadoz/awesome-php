@@ -159,16 +159,15 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Templating
 *Libraries and tools for templating and lexing.*
 
-* [Twig](http://twig.sensiolabs.org/) - A comprehensive templating language.
-* [Twig Cache Extension](https://github.com/asm89/twig-cache-extension) - A template fragment cache library for Twig.
-* [Mustache](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
-* [Phly Mustache](https://github.com/phly/phly_mustache) - Another PHP implementation of the Mustache template language.
-* [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
-* [PHPTAL](http://phptal.org/) - A PHP implementation of the [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
-* [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Foil](https://github.com/FoilPHP/Foil) - Another native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
+* [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
+* [Mustache](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
+* [Phly Mustache](https://github.com/phly/phly_mustache) - Another PHP implementation of the Mustache template language.
+* [PHPTAL](http://phptal.org/) - A PHP implementation of the [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
+* [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Smarty](http://www.smarty.net/) - A template engine to complement PHP.
+* [Twig](http://twig.sensiolabs.org/) - A comprehensive templating language.
 
 ## Static Site Generators
 *Tools for pre-processing content to generate web pages.*
