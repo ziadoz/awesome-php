@@ -166,6 +166,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPTAL](http://phptal.org/) - A PHP implementation of the [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
+* [Tale Jade](https://github.com/Talesoft/tale-jade) - A PHP implementation of the Jade template language.
 
 ## Static Site Generators
 *Tools for pre-processing content to generate web pages.*
