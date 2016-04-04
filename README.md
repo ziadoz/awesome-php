@@ -114,6 +114,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Symfony 2](http://symfony.com/) - A framework comprised of individual components (SF2).
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components (ZF2).
+* [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
