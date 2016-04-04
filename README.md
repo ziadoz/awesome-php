@@ -487,17 +487,17 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Database
 *Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
 
-* [Doctrine](http://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
+* [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
+* [Cake ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern (CP).
 * [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
-* [Propel](http://propelorm.org/) - A fast ORM, migration library and query builder.
+* [Doctrine](http://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
 * [Eloquent](https://github.com/illuminate/database) - A simple ORM (L5).
 * [LazyRecord](https://github.com/c9s/LazyRecord) - A fast ORM designed for simplicity, extendability and performance.
-* [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
-* [Spot2](https://github.com/vlucas/spot2) - A MySQL datamapper ORM.
-* [RedBean](http://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
+* [Propel](http://propelorm.org/) - A fast ORM, migration library and query builder.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
-* [Cake ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern (CP).
+* [RedBean](http://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
+* [Spot2](https://github.com/vlucas/spot2) - A MySQL datamapper ORM.
 
 ## Migrations
 Libraries to help manage database schemas and migrations.
