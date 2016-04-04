@@ -297,7 +297,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
 * [PHPCI](https://www.phptesting.org/) - An open source continuous integration platform for PHP.
 * [SemaphoreCI](https://semaphoreci.com/) - A continuous integration platform for open source and private projects.
-* [Shippable](http://shippable.com/) - A docker based continious integration platform for open source and private projects.
+* [Shippable](https://app.shippable.com/) - A docker based continious integration platform for open source and private projects.
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 * [Wercker](http://wercker.com/) - A continuous integration platform
