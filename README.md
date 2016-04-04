@@ -467,6 +467,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Money](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
 * [Sebastian Money](https://github.com/sebastianbergmann/money) - Another library for working with monetary values.
 * [Swap](https://github.com/florianv/swap) - An exchange rates library.
+* [PayPal SDK](http://paypal.github.io/PayPal-PHP-SDK/) - A PHP SDK for PayPal payments platform
 
 ## PDF
 *Libraries and software for working with PDF files.*
