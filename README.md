@@ -696,6 +696,8 @@ Libraries to help manage database schemas and migrations.
 * [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.
 * [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
 * [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
+* [Google reCAPTCHA](https://github.com/google/recaptcha) - Official [Google reCAPTCHA](https://developers.google.com/recaptcha/) library.
+* [Alternative Google reCAPTCHA](https://github.com/DarioSwain/ReCaptchaLibrary) - A library to interact with [Google reCAPTCHA](https://developers.google.com/recaptcha/) API.
 
 ## Extensions
 *Libraries to help build PHP extensions.*
