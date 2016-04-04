@@ -84,43 +84,43 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Dependency Management
 *Libraries for dependency and package management.*
 
-* [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
-* [Composer Installers](https://github.com/composer/installers) - A  multi framework Composer library installer.
-* [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
-* [Melody](http://melody.sensiolabs.org/) - A tool to build one file Composer scripts.
 * [Climb](https://github.com/vinkla/climb) - A Composer version manager tool.
+* [Composer Installers](https://github.com/composer/installers) - A  multi framework Composer library installer.
+* [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
+* [Melody](http://melody.sensiolabs.org/) - A tool to build one file Composer scripts.
+* [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
 
 ## Dependency Management Extras
 *Extras related to dependency management.*
 
-* [Satis](https://github.com/composer/satis) - A static Composer repository generator.
-* [Toran Proxy](https://toranproxy.com) - A static Composer repository and proxy.
+* [Composer Checker](https://github.com/silpion/composer-checker) - A tool to validate Composer configurations.
+* [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several composer.json files.
 * [Composition](https://github.com/bamarni/composition) - A library to check your Composer environment at runtime.
 * [NameSpacer](https://github.com/ralphschindler/Namespacer) - A library to convert from underscores to namespaces.
 * [Patch Installer](https://github.com/goatherd/patch-installer) - A library to install patches using Composer.
-* [Composer Checker](https://github.com/silpion/composer-checker) - A tool to validate Composer configurations.
 * [Prestissimo](https://github.com/hirak/prestissimo) - A composer plugin which enables parallel install process.
-* [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several composer.json files.
+* [Satis](https://github.com/composer/satis) - A static Composer repository generator.
+* [Toran Proxy](https://toranproxy.com) - A static Composer repository and proxy.
 
 ## Frameworks
 *Web development frameworks.*
 
-* [Symfony 2](http://symfony.com/) - A framework comprised of individual components (SF2).
-* [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components (ZF2).
-* [Laravel 5](https://laravel.com/) - Another PHP framework (L5).
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
-* [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
-* [Nette](https://nette.org) - Another framework comprised of individual components.
-* [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
 * [CakePHP](http://cakephp.org/) - A rapid application development framework (CP).
+* [Laravel 5](https://laravel.com/) - Another PHP framework (L5).
+* [Nette](https://nette.org) - Another framework comprised of individual components.
 * [Phalcon](https://phalconphp.com/en/) - A framework implemented as a C extension.
+* [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
+* [Symfony 2](http://symfony.com/) - A framework comprised of individual components (SF2).
+* [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
+* [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components (ZF2).
 
 ## Framework Extras
 *Extras related to web development frameworks.*
 
-* [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
-* [Knp RAD Bundle](http://rad.knplabs.com/) - A Rapid Application Development (RAD) bundle for Symfony 2.
 * [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
+* [Knp RAD Bundle](http://rad.knplabs.com/) - A Rapid Application Development (RAD) bundle for Symfony 2.
+* [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
 
 ## Components
 *Standalone components from web development frameworks and development groups.*
@@ -130,11 +130,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
 * [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony 2.
 * [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make Zend Framework.
-
-## Configuration
-*Libraries for loading configuration files*
-
-* [Zend-config](https://github.com/zendframework/zend-config) - Config component from Zend Framework
 
 ## Micro Frameworks
 *Micro frameworks and routers.*
