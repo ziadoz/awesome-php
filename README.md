@@ -345,44 +345,44 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulating codebases.*
 
-* [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
-* [PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP.
-* [PHPSandbox](https://github.com/fieryprophet/php-sandbox) - A PHP sandbox environment.
-* [Dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
-* [PHP Mess Detector](https://phpmd.org/) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
-* [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
-* [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
-* [PHP Analyser](https://github.com/scrutinizer-ci/php-analyzer) - A library for analysing PHP code to find bugs and errors.
-* [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A coding standards fixer library.
-* [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
-* [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
-* [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
-* [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
-* [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
 * [Athletic](https://github.com/polyfractal/athletic) - An annotation based benchmark framework.
-* [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
-* [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
-* [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
-* [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
-* [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
 * [Code Climate](https://codeclimate.com) - An automated code review.
+* [Dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
 * [Exakat](http://www.exakat.io) - A static analysis engine for PHP.
 * [GrumPHP](https://github.com/phpro/grumphp) - A composer plugin to defend code quality.
+* [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
+* [PHP Analyser](https://github.com/scrutinizer-ci/php-analyzer) - A library for analysing PHP code to find bugs and errors.
+* [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
+* [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A coding standards fixer library.
+* [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
+* [PHP Mess Detector](https://phpmd.org/) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
+* [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
+* [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
+* [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
+* [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
+* [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
+* [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
+* [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
+* [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
+* [PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP.
+* [PHPSandbox](https://github.com/fieryprophet/php-sandbox) - A PHP sandbox environment.
+* [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
+* [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
 
 ## Architectural
 *Libraries related to design patterns, programming approaches and ways to organize code.*
 
-* [PHP Option](https://github.com/schmittjoh/php-option) - An option type library.
-* [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
-* [Finite](http://yohan.giarel.li/Finite/) - A simple PHP finite state machine.
 * [Compose](https://github.com/igorw/compose) - A function composition library.
+* [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP) - A repository of software patterns implemented in PHP.
+* [Finite](http://yohan.giarel.li/Finite/) - A simple PHP finite state machine.
+* [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
+* [Galapagos](https://github.com/endel/galapagos) - Evolutionary language transformation.
+* [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
 * [Monad PHP](https://github.com/ircmaxell/monad-php) - A simple Monad library.
 * [Patchwork](http://antecedent.github.io/patchwork/) - A library for redefining userland functions.
-* [Galapagos](https://github.com/endel/galapagos) - Evolutionary language transformation.
-* [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP) - A repository of software patterns implemented in PHP.
-* [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
-* [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
+* [PHP Option](https://github.com/schmittjoh/php-option) - An option type library.
 * [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
+* [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 
 ## Debugging and Profiling
 *Libraries and tools for debugging and profiling code.*
@@ -404,39 +404,40 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Project build and automation tools.*
 
 * [Bob](https://github.com/CHH/bob) - A simple project automation tool.
-* [Phake](https://github.com/jaz303/phake) - A rake PHP clone library.
 * [Box](https://github.com/box-project/box2) - A utility to build PHAR files.
+* [Phake](https://github.com/jaz303/phake) - A rake PHP clone library.
 * [Phing](http://www.phing.info/) - A PHP project build system inspired by Apache Ant.
 
 ## Task Runners
 *Libraries for automating and running tasks.*
-* [Task](http://taskphp.github.io/) - A pure PHP task runner inspired by Grunt and Gulp.
-* [Robo](https://github.com/Codegyre/Robo) - A PHP Task runner with object-orientated configurations.
+
 * [Bldr](http://bldr.io/) - A PHP Task runner built on Symfony components.
 * [Jobby](https://github.com/jobbyphp/jobby) - A PHP cron job manager without modifying crontab.
+* [Robo](https://github.com/Codegyre/Robo) - A PHP Task runner with object-orientated configurations.
+* [Task](http://taskphp.github.io/) - A pure PHP task runner inspired by Grunt and Gulp.
 
 ## Navigation
 *Tools for building navigation structures.*
 
-* [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
 * [Cartographer](https://github.com/tackk/cartographer) - A sitemap generation library.
+* [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
 
 ## Asset Management
 *Tools for managing, compressing and minifying website assets.*
 
 * [Assetic](https://github.com/kriswallsmith/assetic) - An asset manager pipeline library.
-* [Pipe](https://github.com/CHH/pipe) - Another asset manager pipeline library.
-* [Munee](https://github.com/meenie/munee) - An asset optimiser library.
 * [JShrink](https://github.com/tedious/JShrink) - A JavaScript minifier library.
+* [Munee](https://github.com/meenie/munee) - An asset optimiser library.
+* [Pipe](https://github.com/CHH/pipe) - Another asset manager pipeline library.
 * [Puli](https://github.com/puli/repository) - A library for determining assets absolute paths.
 
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
 * [GeoCoder](http://geocoder-php.org/) - A geocoding library.
+* [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
 * [GeoTools](https://github.com/thephpleague/geotools) - A library of geo-related tools.
 * [PHPGeo](https://github.com/mjaschen/phpgeo) - A simple geo library.
-* [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
 
 ## Date and Time
 *Libraries for working with dates and times.*
