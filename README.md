@@ -205,23 +205,22 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## URL
 *Libraries for parsing URLs.*
 
-* [Purl](https://github.com/jwage/purl) - A URL manipulation library.
-* [Uri](https://github.com/thephpleague/uri) - Another URL manipulation library.
 * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
+* [Purl](https://github.com/jwage/purl) - A URL manipulation library.
 * [sabre/uri](https://github.com/fruux/sabre-uri) - A functional URI manipulation library.
-
+* [Uri](https://github.com/thephpleague/uri) - Another URL manipulation library.
 
 ## Email
 *Libraries for sending and parsing email.*
 
-* [SwiftMailer](http://swiftmailer.org/) - A mailer solution.
-* [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
-* [Fetch](https://github.com/tedious/Fetch) - An IMAP library.
-* [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
-* [Stampie](https://github.com/henrikbjorn/Stampie) - A library for email services such as [SendGrid](http://sendgrid.com), [PostMark](https://postmarkapp.com), [MailGun](http://www.mailgun.com) and [Mandrill](http://www.mandrill.com).
 * [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
+* [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 * [Email Validator](https://github.com/nojacko/email-validator) - A small email address validation library.
+* [Fetch](https://github.com/tedious/Fetch) - An IMAP library.
 * [Mautic](https://github.com/mautic/mautic) - Email marketing automation
+* [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
+* [Stampie](https://github.com/henrikbjorn/Stampie) - A library for email services such as [SendGrid](http://sendgrid.com), [PostMark](https://postmarkapp.com), [MailGun](http://www.mailgun.com) and [Mandrill](http://www.mandrill.com).
+* [SwiftMailer](http://swiftmailer.org/) - A mailer solution.
 
 ## Files
 *Libraries for file manipulation and MIME type detection.*
@@ -244,52 +243,51 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Dependency Injection
 *Libraries that implement the dependency injection design pattern.*
 
-* [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
+* [Acclimate](https://github.com/jeremeamia/acclimate-container) - A common interface to dependency injection containers and service locators.
 * [Auryn](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
 * [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 * [PHP-DI](http://php-di.org/) - A dependency injection container that supports autowiring.
-* [Acclimate](https://github.com/jeremeamia/acclimate-container) - A common interface to dependency injection containers and service locators.
+* [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
 * [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component (SF2).
 
 ## Imagery
 *Libraries for manipulating images.*
 
-* [Imagine](http://imagine.readthedocs.org/en/latest/index.html) - An image manipulation library.
-* [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
-* [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
-* [GIF Frame Extractor](https://github.com/Sybio/GifFrameExtractor) - A library to extract GIF animation frame information.
-* [GIF Creator](https://github.com/Sybio/GifCreator) - A library to create GIF animations from multiple images.
-* [Image With Text](https://github.com/nmcteam/image-with-text) - A library for embedding text into images.
 * [Color Extractor](https://github.com/thephpleague/color-extractor) - A library for extracting colours from images.
+* [GIF Creator](https://github.com/Sybio/GifCreator) - A library to create GIF animations from multiple images.
+* [GIF Frame Extractor](https://github.com/Sybio/GifFrameExtractor) - A library to extract GIF animation frame information.
 * [Glide](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
-* [Image Optimizer](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
 * [Image Hash](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
+* [Image Optimizer](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
+* [Image With Text](https://github.com/nmcteam/image-with-text) - A library for embedding text into images.
+* [Imagine](http://imagine.readthedocs.org/en/latest/index.html) - An image manipulation library.
+* [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
+* [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
 
-* [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
-* [DBUnit](https://github.com/sebastianbergmann/dbunit) - A database testing library for PHPUnit.
-* [ParaTest](https://github.com/brianium/paratest) - A parallel testing library for PHPUnit.
-* [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
-* [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
+* [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
 * [AspectMock](https://github.com/Codeception/AspectMock) - A mocking framework for PHPUnit/Codeception.
 * [Atoum](https://github.com/atoum/atoum) - A simple testing library.
-* [Mockery](https://github.com/padraic/mockery) - A mock object library for testing.
-* [Phake](https://github.com/mlively/Phake) - Another mock object library for testing.
-* [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
-* [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
-* [Samsui](https://github.com/mauris/samsui) - Another fake data generator library.
-* [Alice](https://github.com/nelmio/alice) - An expressive fixture generation library.
 * [Behat](http://docs.behat.org/en/v2.5/) - A behaviour driven development (BDD) testing framework.
-* [Pho](https://github.com/danielstjules/pho) - Another behaviour driven development testing framework.
-* [Mink](http://mink.behat.org/en/latest/) - Web acceptance testing.
+* [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
+* [DBUnit](https://github.com/sebastianbergmann/dbunit) - A database testing library for PHPUnit.
+* [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
 * [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
+* [Kahlan](https://github.com/crysalead/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
+* [Mink](http://mink.behat.org/en/latest/) - Web acceptance testing.
+* [Mockery](https://github.com/padraic/mockery) - A mock object library for testing.
+* [ParaTest](https://github.com/brianium/paratest) - A parallel testing library for PHPUnit.
+* [Peridot](https://github.com/peridot-php/peridot) - An event driven test framework.
+* [Phake](https://github.com/mlively/Phake) - Another mock object library for testing.
+* [Pho](https://github.com/danielstjules/pho) - Another behaviour driven development testing framework.
+* [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
+* [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
+* [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
+* [Samsui](https://github.com/mauris/samsui) - Another fake data generator library.
 * [VFS Stream](https://github.com/mikey179/vfsStream) - A virtual filesystem stream wrapper for testing.
 * [VFS](https://github.com/adlawson/php-vfs) - Another virtual filesystem for testing.
-* [Locust](http://locust.io/) - A modern load test library written in Python.
-* [Peridot](https://github.com/peridot-php/peridot) - An event driven test framework.
-* [Kahlan](https://github.com/crysalead/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
 
 ## Continuous Integration
 *Libraries and applications for continuous integration.*
