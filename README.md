@@ -846,6 +846,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHPTrends](http://phptrends.com/) - An overview of fastest growing PHP libraries.
 * [Securing PHP](http://securingphp.com/) - A newsletter about PHP security and library recommendations.
 * [Seven PHP](http://7php.com/) - A website that interviews members of the PHP community.
+* [PHP Chat](https://phpchat.co) - A real-time chat community of PHP Programmers from around the world, on Slack.
 
 ## Other Websites
 *Useful websites related to web development.*
