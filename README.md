@@ -367,6 +367,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
 * [Code Climate](https://codeclimate.com) - An automated code review.
 * [Exakat](http://www.exakat.io) - A static analysis engine for PHP.
+* [GrumPHP](https://github.com/phpro/grumphp) - A composer plugin to defend code quality.
 
 ## Architectural
 *Libraries related to design patterns, programming approaches and ways to organize code.*
