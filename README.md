@@ -114,6 +114,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Symfony 2](http://symfony.com/) - A framework comprised of individual components (SF2).
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components (ZF2).
+* [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Ice](http://www.iceframework.org/) - Another simple and fast PHP framework delivered as C-extension.
 
 ## Framework Extras
@@ -187,6 +188,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP VCR](http://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
 * [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
 * [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
+* [zend-diactoros](https://github.com/zendframework/zend-diactoros) - PSR-7 HTTP Message implementation.
 
 ## Scraping
 *Libraries for scraping websites.*
@@ -386,6 +388,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Option](https://github.com/schmittjoh/php-option) - An option type library.
 * [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
+* [RulerZ](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
 
 ## Debugging and Profiling
 *Libraries and tools for debugging and profiling code.*
@@ -398,6 +401,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 * [PHPBench](https://github.com/phpbench/phpbench) - A benchmarking Framework.
 * [PHPDBG](http://phpdbg.com/) - An interactive PHP debugger.
+* [Tideways.io](https://tideways.io/) - Monitoring and profiling tool
 * [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
@@ -448,6 +452,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CalendR](http://yohan.giarel.li/CalendR/) - A calendar management library.
 * [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
 * [ExpressiveDate](https://github.com/jasonlewis/expressive-date) - Another DateTime API extension.
+* [Moment.php](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
 
 ## Event
 *Libraries that are event-driven or implement non-blocking event loops.*
@@ -465,6 +470,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Ratchet](https://github.com/ratchetphp/Ratchet) - A web socket library.
 * [React](https://github.com/reactphp/react) - An event driven non-blocking I/O library.
 * [Rx.PHP](https://github.com/asm89/Rx.PHP) - A reactive extension library.
+* [Workerman](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
 
 ## Logging
 *Libraries for generating and working with log files.*
@@ -537,6 +543,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries for working with event and task queues.*
 
 * [Bernard](https://github.com/bernardphp/bernard) - A multibackend abstraction library.
+* [BunnyPHP](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
 * [Pheanstalk](https://github.com/pda/pheanstalk) - A Beanstalkd client library.
 * [PHP AMQP](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
 * [Tarantool Queue](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
@@ -689,6 +696,7 @@ Libraries to help manage database schemas and migrations.
 * [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) - A standalone library for device push notifications.
 * [Notificato](https://github.com/mac-cain13/notificato) - A library for handling push notifications.
 * [Notificator](https://github.com/namshi/notificator) - A lightweight notification library.
+* [Php-pushwoosh](https://github.com/gomoob/php-pushwoosh) - A PHP Library to easily send push notifications with the Pushwoosh REST Web Services.
 
 ## Deployment
 *Libraries for project deployment.*
@@ -872,6 +880,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - A book about common security terms and practices for PHP by Chris Cornutt.
 * [Signaling PHP](https://leanpub.com/signalingphp) - A book about catching PCNTL signals in CLI scripts by Cal Evans.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - A book about building testing PHP applications by Chris Hartjes.
+* [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) - This book covers parsing and validating XML documents, leveraging XPath expressions, and working with namespaces as well as how to create and modify XML files programmatically.
 
 ## Other Books
 *Books related to general computing and web development.*
