@@ -167,6 +167,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Foil](https://github.com/FoilPHP/Foil) - Another native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
+* [Smarty](http://www.smarty.net/) - A template engine to complement PHP.
 
 ## Static Site Generators
 *Tools for pre-processing content to generate web pages.*
