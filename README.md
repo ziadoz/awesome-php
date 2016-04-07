@@ -521,6 +521,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
 * [RedBean](http://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
 * [Spot2](https://github.com/vlucas/spot2) - A MySQL datamapper ORM.
+* [NotORM](http://www.notorm.com/) - PHP library for simple working with data and relationships in the database.
+* [LessQL](http://lessql.net/) - lightweight and efficient alternative to Object-Relational Mapping for PHP.
 
 ## Migrations
 Libraries to help manage database schemas and migrations.
