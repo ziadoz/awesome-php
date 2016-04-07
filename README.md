@@ -800,7 +800,7 @@ Libraries to help manage database schemas and migrations.
 * [Phansible](http://phansible.com/) - A web tool for building PHP development virtual machines with Ansible.
 * [Protobox](http://getprotobox.com/) - Another web tool for building PHP development virtual machines.
 * [PuPHPet](https://puphpet.com/) - A web tool for building PHP development virtual machines.
-* [Puppet](https://puppetlabs.com/) - A server automation framework and application.
+* [Puppet](https://puppet.com/) - A server automation framework and application.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
 
 ## Virtual Machines
