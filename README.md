@@ -490,7 +490,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
 * [Swap](https://github.com/florianv/swap) - An exchange rates library.
 * [Sylius](http://sylius.org/) - An open source e-commerce solution.
-* [Thelia](http://thelia.net/) - Another open source e-commerce solution.
 
 ## PDF
 *Libraries and software for working with PDF files.*
