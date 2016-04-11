@@ -644,12 +644,12 @@ Libraries to help manage database schemas and migrations.
 * [DMS Filter](https://github.com/rdohms/DMS-Filter) - An annotation filtering library.
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating various ISO and ZIP codes (IBAN, SWIFT/BIC, BBAN, VAT, SSN, UKNIN).
+* [Json-schema](https://github.com/justinrainbow/json-schema) - [Json-schema](http://json-schema.org) validation.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 * [Respect Validation](https://github.com/Respect/Validation) - A simple validation library.
 * [Upload](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
 * [Valitron](https://github.com/vlucas/valitron) - Another validation library.
 * [Volan](https://github.com/serkin/Volan) - Another simplified validation library.
-* [json-schema](https://github.com/justinrainbow/json-schema) - [json-schema](http://json-schema.org) validation.
 
 ## API
 *Libraries and web tools for developing APIs.*
