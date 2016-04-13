@@ -445,6 +445,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [GeoCoder](http://geocoder-php.org/) - A geocoding library.
 * [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
 * [GeoTools](https://github.com/thephpleague/geotools) - A library of geo-related tools.
+* [Geo](https://github.com/leroy-merlin-br/geo) - Geolocation utilities.
 * [PHPGeo](https://github.com/mjaschen/phpgeo) - A simple geo library.
 
 ## Date and Time
