@@ -681,7 +681,7 @@ Libraries to help manage database schemas and migrations.
 * [Collections](https://github.com/italolelis/collections) - Collections Abstraction library for PHP.
 * [Fractal](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
 * [Ginq](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
-* [JsonMapper](https://github.com/netresearch/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
+* [JsonMapper](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
 * [PINQ](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
@@ -739,7 +739,7 @@ Libraries to help manage database schemas and migrations.
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
 
-* [Alias](https://github.com/fuelphp/alias) - A class aliasing library.
+* [Alias](https://github.com/fuelphp-storage/alias) - A class aliasing library.
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
 * [Cake Utility](https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and Xml (CP).
 * [Chief](https://github.com/adamnicholson/Chief) - A command bus library.
