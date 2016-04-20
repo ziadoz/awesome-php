@@ -739,7 +739,6 @@ Libraries to help manage database schemas and migrations.
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above.*
 
-* [Alias](https://github.com/fuelphp-storage/alias) - A class aliasing library.
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
 * [Cake Utility](https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and Xml (CP).
 * [Chief](https://github.com/adamnicholson/Chief) - A command bus library.
