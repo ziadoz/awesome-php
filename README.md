@@ -583,6 +583,7 @@ Libraries to help manage database schemas and migrations.
 * [Hawk](https://github.com/dflydev/dflydev-hawk) - A Hawk HTTP authentication library.
 * [HybridAuth](https://github.com/hybridauth/hybridauth) - An open source social sign on library.
 * [Json Web Token](https://github.com/lcobucci/jwt) - Json Tokens to authenticate and transmit information.
+* [Json Web Token](https://github.com/tymondesigns/jwt-auth) - JSON Web Token Authentication for Laravel & Lumen.
 * [Lock](https://github.com/BeatSwitch/lock) - A library for implementing Access Control Lists (ACL) systems.
 * [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
 * [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
