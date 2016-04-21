@@ -179,6 +179,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Phrozn](https://github.com/Pawka/phrozn) - Another tool that converts Textile, Markdown and Twig into HTML.
 * [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
 * [Spress](http://spress.yosymfony.com) - An extensible tool that converts Markdown and Twig into HTML.
+* [Jigsaw](https://github.com/tightenco/jigsaw) - Simple static sites with Laravel's Blade
 
 ## HTTP
 *Libraries for working with HTTP.*
