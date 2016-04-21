@@ -78,7 +78,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [PHP Videos](#php-videos)
     - [PHP Reading](#php-reading)
     - [PHP Internals Reading](#php-internals-reading)
-+- [Exercises](#exercises)
+- [Exercises](#exercises)
     - [PHP Exercises](#php-exercises)
 - [Contributing](#contributing)
 
