@@ -682,6 +682,7 @@ Libraries to help manage database schemas and migrations.
 * [Fractal](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
 * [Ginq](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
 * [JsonMapper](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
+* [msgpack.php](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the MessagePack serialization format.
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
 * [PINQ](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
