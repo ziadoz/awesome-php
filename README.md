@@ -83,7 +83,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Dependency Management
 *Libraries for dependency and package management.*
 
-* [Climb](https://github.com/vinkla/climb) - A Composer version manager tool.
 * [Composer Installers](https://github.com/composer/installers) - A  multi framework Composer library installer.
 * [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
 * [Melody](http://melody.sensiolabs.org/) - A tool to build one file Composer scripts.
