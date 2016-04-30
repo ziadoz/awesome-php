@@ -478,6 +478,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Analog](https://github.com/jbroadway/analog) - A closure-based micro logging package.
 * [KLogger](https://github.com/katzgrau/KLogger) - An easy-to-use PSR-3 compliant logging class.
 * [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
+* [RadPHP Logging](https://github.com/radphp/logging) - A PSR-3 compliant logging library.
 
 ## E-commerce
 *Libraries and applications for taking payments and building online e-commerce stores.*
