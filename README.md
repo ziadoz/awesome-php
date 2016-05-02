@@ -264,7 +264,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Image Hash](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
 * [Image Optimizer](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
 * [Image With Text](https://github.com/nmcteam/image-with-text) - A library for embedding text into images.
-* [Imagine](http://imagine.readthedocs.org/en/latest/index.html) - An image manipulation library.
+* [Imagine](http://imagine.readthedocs.io/en/latest/index.html) - An image manipulation library.
 * [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
 * [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
 
@@ -846,7 +846,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP FIG](http://www.php-fig.org/) - The PHP Framework Interoperability Group.
 * [PHP Mentoring](http://phpmentoring.org/) - Peer to peer PHP mentorship organization.
 * [PHP School](https://www.phpschool.io/) - Open Source Learning for PHP.
-* [PHP Security](http://phpsecurity.readthedocs.org/en/latest/index.html) - A guide to PHP security.
+* [PHP Security](http://phpsecurity.readthedocs.io/en/latest/index.html) - A guide to PHP security.
 * [PHP The Right Way](http://www.phptherightway.com/) - A PHP best practice quick reference guide.
 * [PHP UG](http://php.ug) - A website to help people locate their nearest PHP user group (UG).
 * [PHP Versions](http://phpversions.info/) - Lists which versions of PHP are available on several popular web hosts.
@@ -889,7 +889,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Head First Design Patterns](http://www.headfirstlabs.com/books/hfdp/) - A book that expains software design patterns.
 * [Pro Git](https://git-scm.com/book/en/v2) - A book about Git by Scott Chacon and Ben Straub.
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
-* [The Tangled Web — Securing Web Applications](http://www.amazon.com/The-Tangled-Web-Securing-Applications/dp/1593273886) - A book about securing web applications by Michal Zalewski.
+* [The Tangled Web — Securing Web Applications](http://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886) - A book about securing web applications by Michal Zalewski.
 * [Understanding Computation](http://computationbook.com) - A book about computation theory by Tom Stuart.
 * [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) - A book about creating Vagrant environments by Erika Heidi.
 
