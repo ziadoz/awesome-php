@@ -115,7 +115,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components (ZF2).
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Ice](http://www.iceframework.org/) - Another simple and fast PHP framework delivered as C-extension.
-* [ThinkPHP](https://github.com/top-think/thinkphThinkPHP/) - 一个免费开源的，快速、简单的面向对象的 轻量级PHP开发框架.
+* [ThinkPHP](https://github.com/top-think/ThinkPHP/) - ThinkPHP is a Fast,Compatible & Simple OOP MVC PHP Framework,support UTF-8、PlugIns,and Multi- databases support.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
