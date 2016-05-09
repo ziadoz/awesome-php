@@ -649,6 +649,7 @@ Libraries to help manage database schemas and migrations.
 * [Upload](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
 * [Valitron](https://github.com/vlucas/valitron) - Another validation library.
 * [Volan](https://github.com/serkin/Volan) - Another simplified validation library.
+* [GUMP](https://github.com/Wixel/GUMP) - A fast, extensible & stand-alone PHP input validation class that allows you to validate any data.
 
 ## API
 *Libraries and web tools for developing APIs.*
