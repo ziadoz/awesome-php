@@ -659,6 +659,7 @@ Libraries to help manage database schemas and migrations.
 * [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
 * [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 * [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
+* [PSX](https://github.com/apioo/psx) - A framework which helps to build clean and documented REST APIs.
 * [Restler](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
 * [wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - A tool to generate PHP classes from SOAP WSDL files.
 
