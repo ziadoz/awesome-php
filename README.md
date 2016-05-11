@@ -791,6 +791,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP OSX](http://php-osx.liip.ch/) - A PHP installer for OSX.
 * [PHP Switch](https://github.com/jubianchi/phpswitch) - Another version manager.
 * [VirtPHP](http://virtphp.org/) - A tool for creating and managing isolated PHP environments.
+* [Brew PHP Switcher](https://github.com/philcook/brew-php-switcher) - A simple shell script to switch your apache and CLI quickly between major versions of PHP
 
 ## Development Environment
 *Software and tools for creating a sandboxed development environment.*
