@@ -644,7 +644,7 @@ Libraries to help manage database schemas and migrations.
 * [Cake Validation](https://github.com/cakephp/validation) - Another validation library (CP).
 * [DMS Filter](https://github.com/rdohms/DMS-Filter) - An annotation filtering library.
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
-* [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating various ISO and ZIP codes (IBAN, SWIFT/BIC, BBAN, VAT, SSN, UKNIN).
+* [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 * [Respect Validation](https://github.com/Respect/Validation) - A simple validation library.
 * [Upload](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
@@ -901,7 +901,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 * [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
 * [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
-* [Taking PHP Seriously](http://www.infoq.com/presentations/php-history) - A talk outlining PHP's strengths by Keith Adams of Facebook.
+* [Taking PHP Seriously](https://www.infoq.com/presentations/php-history) - A talk outlining PHP's strengths by Keith Adams of Facebook.
 
 ## PHP Reading
 *PHP-releated reading materials.*
