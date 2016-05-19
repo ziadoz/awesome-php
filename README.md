@@ -756,6 +756,7 @@ Libraries to help manage database schemas and migrations.
 * [Lambda PHP](https://github.com/igorw/lambda-php) - A Lambda calculus interpreter in PHP.
 * [LiteCQRS](https://github.com/beberlei/litecqrs-php) - A CQRS (Command Query Responsibility Separation) library.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
+* [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 * [Nmap](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](https://nmap.org/).
 * [Opengraph](https://github.com/euskadi31/Opengraph) - An opengraph library.
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
