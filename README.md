@@ -205,6 +205,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Slim Middleware](https://github.com/slimphp/Slim-Middleware) - A collection of custom middleware for Slim.
 * [Stack](https://github.com/stackphp) - A library of stackable middleware for Silex/Symfony.
 * [zend-stratigility](https://github.com/zendframework/zend-stratigility) - Middleware for PHP built on top of PSR-7
+* [Expressive](https://zendframework.github.io/zend-expressive/) - PSR-7 Middleware framework from Zend
 
 ## URL
 *Libraries for parsing URLs.*
