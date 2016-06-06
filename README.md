@@ -637,6 +637,7 @@ Libraries to help manage database schemas and migrations.
 * [Numbers PHP](https://github.com/powder96/numbers.php) - A library for working with numbers.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
+* [IntMath](https://github.com/marcospassos/phpcommon-intmath) A library for arithmetic operations on integers that wraps around upon overflow. 
 
 ## Filtering and Validation
 *Libraries for filtering and validating data.*
