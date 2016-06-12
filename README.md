@@ -527,6 +527,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Migrations
 Libraries to help manage database schemas and migrations.
 
+* [Antidote](https://github.com/dvwallin/antidote) - CLI tool to handle database migrations. Can have branches and works with MySQL/MariaDB/Percona/PostgreSQL/Sqlite3.
 * [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - A migration library for Doctrine.
 * [Migrations](https://github.com/icomefromthenet/Migrations) - A migration management library.
 * [Phinx](https://github.com/robmorgan/phinx) - Another database migration library.
