@@ -701,6 +701,7 @@ Libraries to help manage database schemas and migrations.
 * [Notificato](https://github.com/mac-cain13/notificato) - A library for handling push notifications.
 * [Notificator](https://github.com/namshi/notificator) - A lightweight notification library.
 * [Php-pushwoosh](https://github.com/gomoob/php-pushwoosh) - A PHP Library to easily send push notifications with the Pushwoosh REST Web Services.
+* [WebPush](https://github.com/Minishlink/web-push) - Send push notifications to browsers that support the Push API.
 
 ## Deployment
 *Libraries for project deployment.*
