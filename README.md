@@ -488,7 +488,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Money](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
 * [OmniPay](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
-* [Sebastian Money](https://github.com/sebastianbergmann/money) - Another library for working with monetary values.
 * [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
 * [Swap](https://github.com/florianv/swap) - An exchange rates library.
 * [Sylius](http://sylius.org/) - An open source e-commerce solution.
