@@ -75,7 +75,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [PHP Websites](#php-websites)
     - [Other Websites](#other-websites)
     - [PHP Books](#php-books)
-    - [PHP Videos](#php-videos)
+    - [PHP Podcasts and Videos](#php-podcasts-and-videos)
     - [PHP Reading](#php-reading)
     - [PHP Internals Reading](#php-internals-reading)
 - [Contributing](#contributing)
@@ -899,8 +899,8 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Understanding Computation](http://computationbook.com) - A book about computation theory by Tom Stuart.
 * [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) - A book about creating Vagrant environments by Erika Heidi.
 
-## PHP Videos
-*Fantastic PHP-related videos.*
+## PHP Podcasts and Videos
+*Fantastic PHP-related podcasts and videos.*
 
 * [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 * [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
