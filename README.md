@@ -903,7 +903,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *Fantastic PHP-related podcasts and videos.*
 
 * [PHP Roundtable](https://www.phproundtable.com/) - A PHP podcast.
-* [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
+* [PHP Town Hall](https://phptownhall.com/) - Another PHP podcast.
 * [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
 * [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 * [Taking PHP Seriously](https://www.infoq.com/presentations/php-history) - A talk outlining PHP's strengths by Keith Adams of Facebook.
