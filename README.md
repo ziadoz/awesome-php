@@ -833,6 +833,7 @@ Libraries to help manage database schemas and migrations.
 * [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
 * [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
+* [Pico CMS](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
 
 ## Infrastructure
 *Infrastructure for providing PHP applications and services.*
