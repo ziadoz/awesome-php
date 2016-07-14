@@ -112,7 +112,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
 * [Symfony 2](http://symfony.com/) - A framework comprised of individual components (SF2).
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
-* [Zend Framework 2](http://framework.zend.com) - Another framework comprised of individual components (ZF2).
+* [Zend Framework 2](https://framework.zend.com) - Another framework comprised of individual components (ZF2).
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Ice](https://www.iceframework.org/) - Another simple and fast PHP framework delivered as C-extension.
 
@@ -169,7 +169,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Smarty](http://www.smarty.net/) - A template engine to complement PHP.
 * [Twig](http://twig.sensiolabs.org/) - A comprehensive templating language.
-* [Tale Jade](http://jade.talesoft.io/) - A PHP implementation of the Jade template language.
+* [Tale Jade](https://github.com/Talesoft/tale-jade) - A PHP implementation of the Jade template language.
 
 ## Static Site Generators
 *Tools for pre-processing content to generate web pages.*
@@ -517,7 +517,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 * [Doctrine](http://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
 * [Eloquent](https://github.com/illuminate/database) - A simple ORM (L5).
-* [LazyRecord](https://github.com/c9s/LazyRecord) - A fast ORM designed for simplicity, extendability and performance.
+* [LazyRecord](https://github.com/corneltek/LazyRecord) - A fast ORM designed for simplicity, extendability and performance.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 * [Propel](http://propelorm.org/) - A fast ORM, migration library and query builder.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
