@@ -106,6 +106,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [CakePHP](http://cakephp.org/) - A rapid application development framework (CP).
+* [CodeIgniter](https://www.codeigniter.com/) - a powerful PHP framework with a very small footprint.
 * [Laravel 5](https://laravel.com/) - Another PHP framework (L5).
 * [Nette](https://nette.org) - Another framework comprised of individual components.
 * [Phalcon](https://phalconphp.com/en/) - A framework implemented as a C extension.
