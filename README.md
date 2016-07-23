@@ -354,7 +354,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Athletic](https://github.com/polyfractal/athletic) - An annotation based benchmark framework.
 * [Code Climate](https://codeclimate.com) - An automated code review.
 * [Dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
-* [Exakat](http://www.exakat.io) - A static analysis engine for PHP.
+* [Exakat](https://github.com/exakat/exakat) - A static analysis engine for PHP.
 * [GrumPHP](https://github.com/phpro/grumphp) - A composer plugin to defend code quality.
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 * [PHP Analyser](https://github.com/scrutinizer-ci/php-analyzer) - A library for analysing PHP code to find bugs and errors.
