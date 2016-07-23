@@ -488,7 +488,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries and applications for taking payments and building online e-commerce stores.*
 
 * [Money](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
+* [OpenCart](https://github.com/opencart/opencart) - PHP based open source ecommerce platform.
 * [OmniPay](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
+* [PrestaShop](https://github.com/PrestaShop/PrestaShop) - Open Source e-commerce solution.
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
 * [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
 * [Swap](https://github.com/florianv/swap) - An exchange rates library.
