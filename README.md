@@ -115,6 +115,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Zend Framework 2](https://framework.zend.com) - Another framework comprised of individual components (ZF2).
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Ice](https://www.iceframework.org/) - Another simple and fast PHP framework delivered as C-extension.
+* [Windwalker](http://windwalker.io/) - A PHP Rapid Application Development Framework.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
@@ -131,6 +132,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
 * [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony 2.
 * [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make Zend Framework.
+* [Windwalker Components](http://windwalker.io/documentation/3.x/more/more-packages.html) - The components that make Windwalker.
 
 ## Micro Frameworks
 *Micro frameworks and routers.*
