@@ -540,7 +540,8 @@ Libraries to help manage database schemas and migrations.
 * [Monga](https://github.com/thephpleague/monga) - A MongoDB abstraction library.
 * [MongoQB](https://github.com/alexbilbie/MongoQB) - A MongoDB query builder library.
 * [PHPMongo](https://github.com/sokil/php-mongo) - A MongoDB ORM.
-* [Predis](https://github.com/nrk/predis) - A feature complete Redis library.
+* [Predis](https://github.com/nrk/predis) - A feature complete Redis library
+* [Elasticsearch](https://github.com/elastic/elasticsearch-php) - Official PHP low-level client for Elasticsearch.
 
 ## Queue
 *Libraries for working with event and task queues.*
