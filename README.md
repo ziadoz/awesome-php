@@ -333,7 +333,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependencies for security advisories.
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 * [True Random](https://github.com/pixeloution/true-random) - A library that generates random numbers using [www.random.org](https://www.random.org/).
-* [VAddy](http://vaddy.net) - A continuous security testing platform for web applications.
+* [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
 
 ## Passwords
@@ -417,7 +417,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Bob](https://github.com/CHH/bob) - A simple project automation tool.
 * [Box](https://github.com/box-project/box2) - A utility to build PHAR files.
 * [Phake](https://github.com/jaz303/phake) - A rake PHP clone library.
-* [Phing](http://www.phing.info/) - A PHP project build system inspired by Apache Ant.
+* [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
 
 ## Task Runners
 *Libraries for automating and running tasks.*
