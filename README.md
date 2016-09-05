@@ -497,7 +497,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 ## PDF
 *Libraries and software for working with PDF files.*
-
+* [FPDF](http://www.fpdf.org) - FPDF is a PHP class which allows to generate PDF files with pure PHP.
 * [Dompdf](https://github.com/dompdf/dompdf) - A HTML to PDF converter.
 * [PHPPdf](https://github.com/psliwa/PHPPdf) - A library for generating PDFs and images from XML.
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
