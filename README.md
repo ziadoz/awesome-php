@@ -115,6 +115,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Zend Framework 2](https://framework.zend.com) - Another framework comprised of individual components (ZF2).
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Ice](https://www.iceframework.org/) - Another simple and fast PHP framework delivered as C-extension.
+* [codeigniter](https://codeigniter.com/) - Another simple and powerful PHP framework.
+* [Yaf](http://pecl.php.net/package/yaf) - A framework implemented as a C extension.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
