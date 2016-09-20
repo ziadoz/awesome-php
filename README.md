@@ -288,6 +288,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Peridot](https://github.com/peridot-php/peridot) - An event driven test framework.
 * [Phake](https://github.com/mlively/Phake) - Another mock object library for testing.
 * [Pho](https://github.com/danielstjules/pho) - Another behaviour driven development testing framework.
+* [PHP-Mock](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
 * [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
 * [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
@@ -365,6 +366,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
 * [PHP Mess Detector](https://phpmd.org/) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
 * [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
+* [PHP Migration](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 * [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
@@ -390,7 +392,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Galapagos](https://github.com/endel/galapagos) - Evolutionary language transformation.
 * [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
 * [Monad PHP](https://github.com/ircmaxell/monad-php) - A simple Monad library.
-* [Patchwork](https://antecedent.github.io/patchwork/) - A library for redefining userland functions.
+* [Patchwork](http://patchwork2.org/) - A library for redefining userland functions.
 * [PHP Option](https://github.com/schmittjoh/php-option) - An option type library.
 * [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
@@ -418,6 +420,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Bob](https://github.com/CHH/bob) - A simple project automation tool.
 * [Box](https://github.com/box-project/box2) - A utility to build PHAR files.
+* [Construct](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
 * [Phake](https://github.com/jaz303/phake) - A rake PHP clone library.
 * [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
 
@@ -426,7 +429,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Bldr](http://bldr.io/) - A PHP Task runner built on Symfony components.
 * [Jobby](https://github.com/jobbyphp/jobby) - A PHP cron job manager without modifying crontab.
-* [Robo](https://github.com/consolidation-org/Robo) - A PHP Task runner with object-orientated configurations.
+* [Robo](https://github.com/consolidation/Robo) - A PHP Task runner with object-orientated configurations.
 * [Task](http://taskphp.github.io/) - A pure PHP task runner inspired by Grunt and Gulp.
 
 ## Navigation
