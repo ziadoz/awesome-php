@@ -99,8 +99,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Patch Installer](https://github.com/goatherd/patch-installer) - A library to install patches using Composer.
 * [Prestissimo](https://github.com/hirak/prestissimo) - A composer plugin which enables parallel install process.
 * [Satis](https://github.com/composer/satis) - A static Composer repository generator.
-* [Toran Proxy](https://toranproxy.com) - A static Composer repository and proxy.
 * [tooly](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in project using Composer.
+* [Toran Proxy](https://toranproxy.com) - A static Composer repository and proxy.
 
 ## Frameworks
 *Web development frameworks.*
