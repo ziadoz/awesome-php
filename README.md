@@ -128,7 +128,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Standalone components from web development frameworks and development groups.*
 
 * [CakePHP Plugins](http://plugins.cakephp.org/) - A directory of CakePHP plugins.
-* [Hoa Project](http://hoa-project.net/En/) - Another package of PHP components.
+* [Hoa Project](https://hoa-project.net/En/) - Another package of PHP components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
 * [Symfony2 Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony 2.
 * [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make Zend Framework.
@@ -390,7 +390,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Galapagos](https://github.com/endel/galapagos) - Evolutionary language transformation.
 * [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
 * [Monad PHP](https://github.com/ircmaxell/monad-php) - A simple Monad library.
-* [Patchwork](http://antecedent.github.io/patchwork/) - A library for redefining userland functions.
+* [Patchwork](https://antecedent.github.io/patchwork/) - A library for redefining userland functions.
 * [PHP Option](https://github.com/schmittjoh/php-option) - An option type library.
 * [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 * [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
