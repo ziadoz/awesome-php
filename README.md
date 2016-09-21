@@ -138,7 +138,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Lumen](https://lumen.laravel.com) - A micro-framework by Laravel.
-* [Proton](https://github.com/alexbilbie/Proton) - A StackPHP compatible micro framework
+* [Proton](https://github.com/alexbilbie/Proton) - A StackPHP compatible micro framework.
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
 
@@ -201,12 +201,11 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Middlewares
 *Libraries for building application using middlewares.*
 
-* [Expressive](https://zendframework.github.io/zend-expressive/) - PSR-7 Middleware framework from Zend
+* [Expressive](https://zendframework.github.io/zend-expressive/) - PSR-7 Middleware framework from Zend.
 * [PSR7-Middlewares](https://github.com/oscarotero/psr7-middlewares) - Inspiring collection of handy middlewares.
-* [Relay](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher
-* [Slim Middleware](https://github.com/slimphp/Slim-Middleware) - A collection of custom middleware for Slim.
+* [Relay](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
 * [Stack](https://github.com/stackphp) - A library of stackable middleware for Silex/Symfony.
-* [zend-stratigility](https://github.com/zendframework/zend-stratigility) - Middleware for PHP built on top of PSR-7
+* [zend-stratigility](https://github.com/zendframework/zend-stratigility) - Middleware for PHP built on top of PSR-7.
 
 ## URL
 *Libraries for parsing URLs.*
