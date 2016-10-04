@@ -141,6 +141,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Proton](https://github.com/alexbilbie/Proton) - A StackPHP compatible micro framework.
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
+* [Phalcon](https://phalconphp.com/en/) - A micro-framework by Phalcon.
 
 ## Micro Framework Extras
 *Extras related to micro frameworks and routers.*
