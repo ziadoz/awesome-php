@@ -116,6 +116,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Zend Framework 2](https://framework.zend.com) - Another framework comprised of individual components (ZF2).
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Ice](https://www.iceframework.org/) - Another simple and fast PHP framework delivered as C-extension.
+* [Processwire](https://processwire.com/) - A friendly and powerful open source cms with an exceptionally strong api.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
