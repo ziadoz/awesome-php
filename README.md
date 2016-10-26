@@ -106,7 +106,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Web development frameworks.*
 
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
-* [CakePHP](http://cakephp.org/) - A rapid application development framework (CP).
+* [CakePHP](https://cakephp.org/) - A rapid application development framework (CP).
 * [Laravel 5](https://laravel.com/) - Another PHP framework (L5).
 * [Nette](https://nette.org) - Another framework comprised of individual components.
 * [Phalcon](https://phalconphp.com/en/) - A framework implemented as a C extension.
@@ -831,7 +831,7 @@ Libraries to help manage database schemas and migrations.
 *Web-based applications and tools.*
 
 * [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
-* [DBV](http://dbv.vizuina.com/) - A database version control application.
+* [DBV](https://dbv.vizuina.com/) - A database version control application.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 * [MailCatcher](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
 * [Cachet](https://github.com/cachethq/cachet) - The open source status page system.
@@ -928,7 +928,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Sucks! But I Like It!](http://blog.ircmaxell.com/2012/04/php-sucks-but-i-like-it.html) - An article about the pros and cons of PHP.
 * [Preventing CSRF Attacks](http://blog.ircmaxell.com/2013/02/preventing-csrf-attacks.html) - An article on preventing CSRF attacks.
 * [Seven Ways to Screw Up BCrypt](http://blog.ircmaxell.com/2012/12/seven-ways-to-screw-up-bcrypt.html) - An article about correct BCrypt implementation.
-* [Use Env](http://seancoates.com/blogs/use-env/) - An article about using the unix environment helper.
+* [Use Env](https://seancoates.com/blogs/use-env/) - An article about using the unix environment helper.
 
 ## PHP Internals Reading
 *Reading materials related to the PHP internals or performance.*
