@@ -108,6 +108,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [CakePHP](https://cakephp.org/) - A rapid application development framework (CP).
 * [Laravel 5](https://laravel.com/) - Another PHP framework (L5).
+* [Cygnite Framework 2](https://cygniteframework.com/) - A Modern, Classy PHP framework for web developers.
 * [Nette](https://nette.org) - Another framework comprised of individual components.
 * [Phalcon](https://phalconphp.com/en/) - A framework implemented as a C extension.
 * [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
