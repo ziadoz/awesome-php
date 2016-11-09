@@ -848,6 +848,7 @@ Libraries to help manage database schemas and migrations.
 
 * [appserver.io](http://appserver.io/) - A multithreaded application server for PHP, written in PHP.
 * [php-pm](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
+* [Docker](https://www.docker.com/) - A containerization platform.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
