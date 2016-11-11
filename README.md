@@ -762,7 +762,6 @@ Libraries to help manage database schemas and migrations.
 * [Hprose-PHP](https://github.com/hprose/hprose-php) - A very newbility RPC Library, support 25+ languages now.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 * [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) - A library for validating JSONP callbacks.
-* [JSON Schema Validator](https://github.com/justinrainbow/json-schema) - A PHP Implementation for validating JSON Structures against a given Schema.
 * [Jumper](https://github.com/kakawait/Jumper) - A remote service executor library.
 * [LadyBug](https://github.com/raulfraile/Ladybug) - A dumper library.
 * [Lambda PHP](https://github.com/igorw/lambda-php) - A Lambda calculus interpreter in PHP.
