@@ -318,6 +318,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor2) - A documentation generator.
 * [phpDox](http://phpdox.de/) - A documentation generator for PHP projects (that is not limited to API documentation).
 * [Sami](https://github.com/FriendsOfPHP/Sami) - An API documentation generator.
+* [Swagger](https://github.com/zircote/swagger-php) - Generate interactive Swagger documentation for your RESTful API using doctrine annotations.
 
 ## Security
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
@@ -761,6 +762,7 @@ Libraries to help manage database schemas and migrations.
 * [Hprose-PHP](https://github.com/hprose/hprose-php) - A very newbility RPC Library, support 25+ languages now.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 * [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) - A library for validating JSONP callbacks.
+* [JSON Schema Validator](https://github.com/justinrainbow/json-schema) - A PHP Implementation for validating JSON Structures against a given Schema.
 * [Jumper](https://github.com/kakawait/Jumper) - A remote service executor library.
 * [LadyBug](https://github.com/raulfraile/Ladybug) - A dumper library.
 * [Lambda PHP](https://github.com/igorw/lambda-php) - A Lambda calculus interpreter in PHP.
