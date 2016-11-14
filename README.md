@@ -137,6 +137,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Micro frameworks and routers.*
 
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
+* [IceHawk](https://icehawk.github.io) - A mirco framework respecting CQRS for PHP7+.
 * [Lumen](https://lumen.laravel.com) - A micro-framework by Laravel.
 * [Proton](https://github.com/alexbilbie/Proton) - A StackPHP compatible micro framework.
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
