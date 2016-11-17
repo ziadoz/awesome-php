@@ -813,6 +813,7 @@ Libraries to help manage database schemas and migrations.
 * [PuPHPet](https://puphpet.com/) - A web tool for building PHP development virtual machines.
 * [Puppet](https://puppet.com/) - A server automation framework and application.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
+* [Docker](https://www.docker.com/) - A containerization platform.
 
 ## Virtual Machines
 *Alternative PHP virtual machines.*
@@ -848,7 +849,6 @@ Libraries to help manage database schemas and migrations.
 
 * [appserver.io](http://appserver.io/) - A multithreaded application server for PHP, written in PHP.
 * [php-pm](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
-* [Docker](https://www.docker.com/) - A containerization platform.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your PHP development skills and knowledge.
