@@ -251,6 +251,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Acclimate](https://github.com/jeremeamia/acclimate-container) - A common interface to dependency injection containers and service locators.
 * [Auryn](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
 * [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
+* [Disco](https://github.com/bitExpert/disco) - A container-interop compatible, annotation-based dependency injection container.
 * [PHP-DI](http://php-di.org/) - A dependency injection container that supports autowiring.
 * [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
 * [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component (SF2).
