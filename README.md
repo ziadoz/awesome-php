@@ -910,6 +910,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [The Tangled Web — Securing Web Applications](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886) - A book about securing web applications by Michal Zalewski.
 * [Understanding Computation](http://computationbook.com) - A book about computation theory by Tom Stuart.
 * [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) - A book about creating Vagrant environments by Erika Heidi.
+* [PHP 新手指南](http://php.ctolib.com/docs/read/php-c-index.html) - 本教程适用于那些对计算机编程有基本认识但完全不知道PHP概念的人.
 
 ## PHP Videos
 *Fantastic PHP-related videos.*
