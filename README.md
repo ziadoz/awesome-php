@@ -76,6 +76,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Other Websites](#other-websites)
     - [PHP Books](#php-books)
     - [PHP Videos](#php-videos)
+    - [PHP Podcasts](#php-podcasts)
     - [PHP Reading](#php-reading)
     - [PHP Internals Reading](#php-internals-reading)
 - [Contributing](#contributing)
@@ -920,7 +921,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Taking PHP Seriously](https://www.infoq.com/presentations/php-history) - A talk outlining PHP's strengths by Keith Adams of Facebook.
 
 ## PHP Podcasts
-*Podcast with a main focus on PHP topics*
+*Podcasts with a main focus on PHP topics*
 
 * [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com/) Interviews with the people that make the PHP community special.
