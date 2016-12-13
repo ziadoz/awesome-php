@@ -111,7 +111,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Nette](https://nette.org) - Another framework comprised of individual components.
 * [Phalcon](https://phalconphp.com/en/) - A framework implemented as a C extension.
 * [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
-* [Symfony 2](http://symfony.com/) - A framework comprised of individual components (SF2).
+* [Symfony 3](http://symfony.com/) - A framework comprised of individual components (SF3).
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Zend Framework 2](https://framework.zend.com) - Another framework comprised of individual components (ZF2).
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
