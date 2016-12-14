@@ -76,6 +76,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Other Websites](#other-websites)
     - [PHP Books](#php-books)
     - [PHP Videos](#php-videos)
+    - [PHP Podcasts](#php-podcasts)
     - [PHP Reading](#php-reading)
     - [PHP Internals Reading](#php-internals-reading)
 - [Contributing](#contributing)
@@ -915,11 +916,16 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *Fantastic PHP-related videos.*
 
 * [Nomad PHP Lightning Talks](https://www.youtube.com/c/nomadphp) - 10 to 15 minute Lightning Talks by PHP community members.
-* [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 * [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
 * [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 * [Taking PHP Seriously](https://www.infoq.com/presentations/php-history) - A talk outlining PHP's strengths by Keith Adams of Facebook.
+
+## PHP Podcasts
+*Podcasts with a main focus on PHP topics*
+
+* [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com/) Interviews with the people that make the PHP community special.
+* [PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 
 ## PHP Reading
 *PHP-releated reading materials.*
