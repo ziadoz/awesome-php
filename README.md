@@ -448,7 +448,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Munee](https://github.com/meenie/munee) - An asset optimiser library.
 * [Pipe](https://github.com/CHH/pipe) - Another asset manager pipeline library.
 * [Puli](https://github.com/puli/repository) - A library for determining assets absolute paths.
-* [BowerPHP](https://bowerphp.org/) - A PHP implementation of Bower. A package manager for the web
+* [BowerPHP](https://github.com/Bee-Lab/bowerphp) - A PHP implementation of Bower. A package manager for the web
 
 ## Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
@@ -471,7 +471,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries that are event-driven or implement non-blocking event loops.*
 
 * [Amp](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
-* [Broadway](https://github.com/qandidate-labs/broadway) - An event source and CQRS library.
+* [Broadway](https://github.com/broadway/broadway) - An event source and CQRS library.
 * [Cake Event](https://github.com/cakephp/event) - An event dispatcher library (CP).
 * [Elephant.io](https://github.com/Wisembly/Elephant.io) - Yet another web socket library.
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
@@ -869,7 +869,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP UG](http://php.ug) - A website to help people locate their nearest PHP user group (UG).
 * [PHP Versions](http://phpversions.info/) - Lists which versions of PHP are available on several popular web hosts.
 * [PHP Weekly](http://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
-* [PHPTrends](http://phptrends.com/) - An overview of fastest growing PHP libraries.
+* [PHPTrends](https://phptrends.com/) - An overview of fastest growing PHP libraries.
 * [Securing PHP](http://securingphp.com/) - A newsletter about PHP security and library recommendations.
 * [Seven PHP](http://7php.com/) - A website that interviews members of the PHP community.
 
