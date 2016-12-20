@@ -195,6 +195,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Scraping
 *Libraries for scraping websites.*
 
+* [Crawler](https://github.com/spatie/crawler) - An easy to configure yet powerfull crawler.
 * [Embed](https://github.com/oscarotero/Embed) - An information extractor from any web service or page.
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A simple web scraper.
 * [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
