@@ -186,6 +186,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
 * [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
+* [http-status-check](https://github.com/spatie/http-status-check) - A CLI tool to crawl a website and check HTTP status codes.
 * [HTTPFul](https://github.com/nategood/httpful) - A chainable HTTP client.
 * [PHP VCR](http://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
 * [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
