@@ -256,6 +256,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP-DI](http://php-di.org/) - A dependency injection container that supports autowiring.
 * [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
 * [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component (SF2).
+* [Dice](https://github.com/Level-2/Dice) - A lightweight and fast dependency injection container.
 
 ## Imagery
 *Libraries for manipulating images.*
