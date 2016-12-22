@@ -500,7 +500,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
 * [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
 * [Swap](https://github.com/florianv/swap) - An exchange rates library.
-* [Sylius](http://sylius.org/) - An open source e-commerce solution.
+* [Sylius](http://sylius.org/) - Open source e-commerce framework, consisting of standalone components and bundles as glue.
 
 ## PDF
 *Libraries and software for working with PDF files.*
