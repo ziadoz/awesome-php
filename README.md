@@ -697,6 +697,7 @@ Libraries to help manage database schemas and migrations.
 * [Knapsack](https://github.com/DusanKasan/Knapsack) - Collection library inspired by Clojure's sequences.
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
 * [PINQ](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
+* [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction framework for accessing APIs.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 * [Totem](https://github.com/Wisembly/Totem) - A library to manage and create data changesets.
 * [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
@@ -737,7 +738,6 @@ Libraries to help manage database schemas and migrations.
 * [Github](https://github.com/dsyph3r/github-api3-php) - A library to interface with the Github API.
 * [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
 * [PHP Github API](https://github.com/KnpLabs/php-github-api) - Another library to interface with the Github API.
-* [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction framework for accessing APIs.
 * [S3 Stream Wrapper](https://github.com/gwkunze/S3StreamWrapper) - A stream wrapper library for Amazon S3.
 * [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 * [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
