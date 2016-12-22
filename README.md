@@ -738,7 +738,6 @@ Libraries to help manage database schemas and migrations.
 * [Github](https://github.com/dsyph3r/github-api3-php) - A library to interface with the Github API.
 * [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
 * [PHP Github API](https://github.com/KnpLabs/php-github-api) - Another library to interface with the Github API.
-* [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction framework for accessing APIs.
 * [S3 Stream Wrapper](https://github.com/gwkunze/S3StreamWrapper) - A stream wrapper library for Amazon S3.
 * [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 * [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
