@@ -162,7 +162,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Templating
 *Libraries and tools for templating and lexing.*
 
-* [Foil](https://github.com/FoilPHP/Foil) - Another native PHP templating library.
+* [Foil](https://github.com/FoilPHP/Foil) - Another nasative PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
 * [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
 * [Mustache](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
