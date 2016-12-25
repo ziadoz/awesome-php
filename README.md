@@ -260,7 +260,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Imagery
 *Libraries for manipulating images.*
 
-* [Browsershot](https://github.com/spatie/browershot) - A library to convert an url to an image.
+* [Browsershot](https://github.com/spatie/browsershot) - A library to convert an url to an image.
 * [Color Extractor](https://github.com/thephpleague/color-extractor) - A library for extracting colours from images.
 * [GIF Creator](https://github.com/Sybio/GifCreator) - A library to create GIF animations from multiple images.
 * [GIF Frame Extractor](https://github.com/Sybio/GifFrameExtractor) - A library to extract GIF animation frame information.
