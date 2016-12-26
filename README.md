@@ -702,6 +702,7 @@ Libraries to help manage database schemas and migrations.
 * [Totem](https://github.com/Wisembly/Totem) - A library to manage and create data changesets.
 * [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
 * [Zend Serializer](https://github.com/zendframework/zend-serializer) - Another library for serialising and de-serialising data (ZF2).
+* [xarray](https://github.com/c9s/xarray) - A PHP extension provides more utility functions for array.
 
 ## Notifications
 *Libraries for working with notification software.*
