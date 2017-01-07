@@ -785,6 +785,7 @@ Libraries to help manage database schemas and migrations.
 * [Prooph Service Bus](https://github.com/prooph/service-bus) - Lightweight message bus supporting CQRS and Micro Services
 * [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
 * [sabre/vobject](https://github.com/fruux/sabre-vobject) - A library for parsing VCard and iCalendar objects.
+* [Secure Headers](https://github.com/BePsvPT/secure-headers) - A package that add security related headers to HTTP response.
 * [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
 * [Sslurp](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL suck less.
