@@ -285,6 +285,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Kahlan](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
 * [Mink](http://mink.behat.org/en/latest/) - Web acceptance testing.
 * [Mockery](https://github.com/padraic/mockery) - A mock object library for testing.
+* [Nette Tester](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
 * [ParaTest](https://github.com/brianium/paratest) - A parallel testing library for PHPUnit.
 * [Peridot](https://github.com/peridot-php/peridot) - An event driven test framework.
 * [Phake](https://github.com/mlively/Phake) - Another mock object library for testing.
