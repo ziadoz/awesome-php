@@ -380,6 +380,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPQA](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
 * [PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP.
 * [PHPSandbox](https://github.com/Corveda/PHPSandbox) - A PHP sandbox environment.
+* [PHPStan](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
 * [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) - A tool to visualize metrics and source code.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
 * [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
