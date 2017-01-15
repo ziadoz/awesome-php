@@ -314,6 +314,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
 * [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
 * [Samsui](https://github.com/mauris/samsui) - Another fake data generator library.
+* [Steward](https://github.com/lmc-eu/steward) - A test runner integrating Selenium WebDriver with PHPUnit.
 * [VFS Stream](https://github.com/mikey179/vfsStream) - A virtual filesystem stream wrapper for testing.
 * [VFS](https://github.com/adlawson/php-vfs) - Another virtual filesystem for testing.
 
