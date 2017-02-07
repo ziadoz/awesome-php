@@ -303,11 +303,12 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [CircleCI](https://circleci.com) - A continuous integration platform.
 * [GitlabCi](https://about.gitlab.com/gitlab-ci/) - Let GitLab CI test, build, deploy your code. TravisCi like.
-* [Jenkins](https://jenkins.io/index.html) - A continous integration platform with [PHP support](http://jenkins-php.org/index.html).
+* [Jenkins](https://jenkins.io/index.html) - A continuous integration platform with [PHP support](http://jenkins-php.org/index.html).
 * [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
 * [PHPCI](https://www.phptesting.org/) - An open source continuous integration platform for PHP.
+* [PHP Censor](https://github.com/corpsee/php-censor) - An open source self-hosted continuous integration server for PHP projects (Fork of PHPCI) 
 * [SemaphoreCI](https://semaphoreci.com/) - A continuous integration platform for open source and private projects.
-* [Shippable](https://app.shippable.com/) - A docker based continious integration platform for open source and private projects.
+* [Shippable](https://app.shippable.com/) - A docker based continuous integration platform for open source and private projects.
 * [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 * [Wercker](http://www.wercker.com/) - A continuous integration platform
