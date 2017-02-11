@@ -128,7 +128,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Components
 *Standalone components from web development frameworks and development groups.*
 
-* [CakePHP Plugins](http://plugins.cakephp.org/) - A directory of CakePHP plugins.
+* [CakePHP Plugins](https://plugins.cakephp.org/) - A directory of CakePHP plugins.
 * [Hoa Project](https://hoa-project.net/En/) - Another package of PHP components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
 * [Symfony Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony.
@@ -790,7 +790,7 @@ Libraries to help manage database schemas and migrations.
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
 * [Sslurp](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL suck less.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
-* [Symfony VarDumper](http://symfony.com/doc/current/components/var_dumper/introduction.html) - A variable dumper component (SF).
+* [Symfony VarDumper](http://symfony.com/doc/current/components/var_dumper.html) - A variable dumper component (SF).
 * [Underscore](http://anahkiasen.github.io/underscore-php/) - A PHP port of the Underscore JS library.
 * [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
 
@@ -878,7 +878,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ## Other Websites
 *Useful websites related to web development.*
 
-* [Atlassian Git Tutorials](https://www.atlassian.com/git/) - A series of Git tutorials.
+* [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
 * [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
 * [Semantic Versioning](http://semver.org/) - A website explaining semantic versioning.
 * [Servers for Hackers](https://serversforhackers.com/) - A newsletter about server management.
@@ -950,7 +950,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 * [Disproving the Single Quotes Myth](http://nikic.github.io/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - An article about performance of single and double quoted strings.
 * [How Big Are PHP Arrays (And Values) Really?](http://nikic.github.io/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html) - An article about array internals.
-* [How Foreach Works](http://stackoverflow.com/questions/10057671/how-does-foreach-actually-work/14854568#14854568) - A detailed StackOverflow answer about foreach.
+* [How Foreach Works](http://stackoverflow.com/questions/10057671/how-does-php-foreach-actually-work/14854568#14854568) - A detailed StackOverflow answer about foreach.
 * [How Long is a Piece of String](http://blog.golemon.com/2006/06/how-long-is-piece-of-string.html) - An article about string internals.
 * [PHP Evaluation Order](https://gist.github.com/nikic/6699370) - An article about evaluation order in PHP.
 * [PHP Internals Book](http://www.phpinternalsbook.com) - An online book about PHP internals, written by three core developers.
