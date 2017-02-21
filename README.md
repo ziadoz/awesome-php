@@ -745,7 +745,6 @@ Libraries to help manage database schemas and migrations.
 * [Twitter OAuth](https://github.com/widop/twitter-oauth) - A library to interface with Twitter's OAuth workflow.
 * [Twitter REST](https://github.com/widop/twitter-rest) - A library to interact with Twitter's REST API.
 * [IBM Watson Personality Insights](https://github.com/darrynten/watson-personality-insights-php) - A library to interact with the IBM Watson personality insights API.
-* [Google Natural Language Processing](https://github.com/darrynten/google-natural-language-php) - A library to interact with the Google Natural Language API.
 
 ## Extensions
 *Libraries to help build PHP extensions.*
