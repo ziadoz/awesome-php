@@ -586,7 +586,6 @@ Libraries to help manage database schemas and migrations.
 * [Pecan](https://github.com/mcrumm/pecan) - An event-driven, non-blocking shell.
 * [PsySH](https://github.com/bobthecow/psysh) - Another PHP REPL.
 * [ShellWrap](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
-* [Shunt](https://github.com/thephpleague/shunt) - A library for running commands in parallel on multiple remote machines.
 
 ## Authentication and Authorization
 *Libraries for implementing user authentication and authorization.*
