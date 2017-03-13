@@ -384,6 +384,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPStan](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
 * [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) - A tool to visualize metrics and source code.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
+* [SideCI](https://sideci.com) - An automated code reviewing tool. Improving developers' productivity.
 * [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
 
 ## Architectural
