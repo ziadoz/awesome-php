@@ -591,7 +591,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries for implementing user authentication and authorization.*
 
 * [Hawk](https://github.com/dflydev/dflydev-hawk) - A Hawk HTTP authentication library.
-* [HybridAuth](https://github.com/hybridauth/hybridauth) - An open source social sign on library.
+* [SocialConnect Auth](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
 * [Json Web Token](https://github.com/lcobucci/jwt) - Json Tokens to authenticate and transmit information.
 * [Lock](https://github.com/BeatSwitch/lock) - A library for implementing Access Control Lists (ACL) systems.
 * [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
