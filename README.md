@@ -590,6 +590,7 @@ Libraries to help manage database schemas and migrations.
 ## Authentication and Authorization
 *Libraries for implementing user authentication and authorization.*
 
+* [EvaOAuth](https://github.com/AlloVince/EvaOAuth) - A library provides uniform interface for OAuth 1.0 & 2.0 .
 * [Hawk](https://github.com/dflydev/dflydev-hawk) - A Hawk HTTP authentication library.
 * [SocialConnect Auth](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
 * [Json Web Token](https://github.com/lcobucci/jwt) - Json Tokens to authenticate and transmit information.
