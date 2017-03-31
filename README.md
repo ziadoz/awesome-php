@@ -143,6 +143,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony components.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.
+* [Siler](https://github.com/leocavalcante/siler) - A micro framework primarily based on PHP functions and files instead of classes.
 
 ## Micro Framework Extras
 *Extras related to micro frameworks and routers.*
