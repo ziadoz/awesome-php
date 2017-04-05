@@ -106,7 +106,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Frameworks
 *Web development frameworks.*
 
-* [Aura PHP](http://auraphp.com/) - A framework of independent components.
+* [Aura Framework](http://auraphp.com/framework/) - A framework built from independent components.
 * [CakePHP](https://cakephp.org/) - A rapid application development framework (CP).
 * [Laravel 5](https://laravel.com/) - Another PHP framework (L5).
 * [Nette](https://nette.org) - Another framework comprised of individual components.
@@ -115,7 +115,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Symfony](https://symfony.com/) - A framework comprised of individual components (SF).
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Zend Framework 2](https://framework.zend.com) - Another framework comprised of individual components (ZF2).
-* [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Ice](https://www.iceframework.org/) - Another simple and fast PHP framework delivered as C-extension.
 
 ## Framework Extras
@@ -128,6 +127,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Components
 *Standalone components from web development frameworks and development groups.*
 
+* [Aura](http://auraphp.com/) - Independent components, fully decoupled from each other and from any framework.
 * [CakePHP Plugins](https://plugins.cakephp.org/) - A directory of CakePHP plugins.
 * [Hoa Project](https://hoa-project.net/En/) - Another package of PHP components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
@@ -140,6 +140,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Lumen](https://lumen.laravel.com) - A micro-framework by Laravel.
 * [Proton](https://github.com/alexbilbie/Proton) - A StackPHP compatible micro framework.
+* [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony components.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.
 
@@ -154,6 +155,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Routers
 *Libraries for handling application routing.*
 
+* [Aura.Router](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
 * [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
 * [Klein](https://github.com/klein/klein.php) - A flexible router.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
@@ -162,6 +164,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Templating
 *Libraries and tools for templating and lexing.*
 
+* [Aura.View](https://github.com/auraphp/Aura.View) - Provides TemplateView and TwoStepView using PHP as the tempting language, with support for partials, sections, and helpers.
 * [Foil](https://github.com/FoilPHP/Foil) - Another native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
 * [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
@@ -250,6 +253,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Dependency Injection
 *Libraries that implement the dependency injection design pattern.*
 
+* [Aura.Di](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
 * [Acclimate](https://github.com/jeremeamia/acclimate-container) - A common interface to dependency injection containers and service locators.
 * [Auryn](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
 * [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
@@ -521,6 +525,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Database
 *Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
 
+* [Aura.Sql](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
+* [Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server. Edit
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
 * [Cake ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern (CP).
 * [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
@@ -572,6 +578,7 @@ Libraries to help manage database schemas and migrations.
 ## Command Line
 *Libraries related to the command line.*
 
+* [Aura.Cli](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
 * [Boris](https://github.com/borisrepl/boris) - A tiny PHP REPL.
 * [Cilex](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
 * [CLI Menu](https://github.com/php-school/cli-menu) - A library for building CLI menus.
@@ -590,6 +597,7 @@ Libraries to help manage database schemas and migrations.
 ## Authentication and Authorization
 *Libraries for implementing user authentication and authorization.*
 
+* [Aura.Auth](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
 * [Hawk](https://github.com/dflydev/dflydev-hawk) - A Hawk HTTP authentication library.
 * [SocialConnect Auth](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
 * [Json Web Token](https://github.com/lcobucci/jwt) - Json Tokens to authenticate and transmit information.
@@ -650,6 +658,7 @@ Libraries to help manage database schemas and migrations.
 ## Filtering and Validation
 *Libraries for filtering and validating data.*
 
+* [Aura.Filter](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
 * [Cake Validation](https://github.com/cakephp/validation) - Another validation library (CP).
 * [DMS Filter](https://github.com/rdohms/DMS-Filter) - An annotation filtering library.
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
@@ -724,7 +733,7 @@ Libraries to help manage database schemas and migrations.
 ## Internationalisation and Localisation
 *Libraries for Internationalization (I18n) and Localization (L10n).*
 
-* [Aura Intl](https://github.com/auraphp/Aura.Intl)
+* [Aura.Intl](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
 * [Cake I18n](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers (CP)
 
 ## Third Party APIs
@@ -863,6 +872,8 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Best Practices](https://phpbestpractices.org/) - A PHP best practice guide.
 * [PHP FIG](http://www.php-fig.org/) - The PHP Framework Interoperability Group.
 * [PHP Mentoring](https://php-mentoring.org/) - Peer to peer PHP mentorship organization.
+* [PHP Package Development Standards](http://php-pds.com) - Package development standards for PHP.
+* [PHP School](https://www.phpschool.io/) - Open Source Learning for PHP.
 * [PHP Security](http://phpsecurity.readthedocs.io/en/latest/index.html) - A guide to PHP security.
 * [PHP The Right Way](http://www.phptherightway.com/) - A PHP best practice quick reference guide.
 * [PHP UG](http://php.ug) - A website to help people locate their nearest PHP user group (UG).
@@ -889,7 +900,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
 * [Mastering Object-Orientated PHP](http://www.brandonsavage.net) - A book about object-orientated PHP by Brandon Savage.
 * [Modern PHP New Features and Good Practices](http://shop.oreilly.com/product/0636920033868.do) - A book about new PHP features and best practices by Josh Lockhart.
-* [Modernising Legacy Applications in PHP](https://leanpub.com/mlaphp) - A book about modernising legacy PHP applications by Paul M. Jones.
+* [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp) - A book about modernizing legacy PHP applications by Paul M. Jones.
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) - An ebook covering all of the features and changes in PHP 7 by Colin O'Dell.
 * [PHP Pandas](https://daylerees.com/php-pandas/) - A book about learning to write PHP by Dayle Rees.
 * [Scaling PHP Applications](http://www.scalingphpbook.com) - An ebook about scaling PHP applications by Steve Corona.
