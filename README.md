@@ -525,6 +525,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Database
 *Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
 
+* [Atlas](https://github.com/atlasphp/Atlas.Orm) - A data mapper implementation for your persistence model in PHP.
 * [Aura.Sql](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
 * [Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server. Edit
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
