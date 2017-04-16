@@ -771,6 +771,7 @@ Libraries to help manage database schemas and migrations.
 *Useful libraries or tools that don't fit in the categories above.*
 
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
+* [BotMan](https://github.com/mpociot/botman) - A framework agnostic PHP library to build cross-platform chat bots.
 * [Cake Utility](https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and Xml (CP).
 * [Chief](https://github.com/adamnicholson/Chief) - A command bus library.
 * [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - A library for optimising autoloading.
