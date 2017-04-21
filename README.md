@@ -7,6 +7,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
+    - [Composer Repositories](#composer-repositories)
     - [Dependency Management](#dependency-management)
     - [Dependency Management Extras](#dependency-management-extras)
     - [Frameworks](#frameworks)
@@ -81,11 +82,20 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [PHP Internals Reading](#php-internals-reading)
 - [Contributing](#contributing)
 
+## Composer Repositories
+*Composer Repositories.*
+
+* [Firegento](http://packages.firegento.com/) - Magento Module Composer Repository.
+* [Packagist](https://packagist.org/) - The PHP Package Repository.
+* [PaketHub](https://pakethub.com/) - All-in-One PHP Package Repository.
+* [Private Packagist](https://packagist.com/) - Composer package archive as a service for PHP.
+* [WordPress Packagist](https://wpackagist.org/) - Manage your plugins with Composer.
+
 ## Dependency Management
 *Libraries for dependency and package management.*
 
 * [Composer Installers](https://github.com/composer/installers) - A  multi framework Composer library installer.
-* [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
+* [Composer](https://getcomposer.org/) - A package and dependency manager.
 * [Melody](http://melody.sensiolabs.org/) - A tool to build one file Composer scripts.
 * [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
 
