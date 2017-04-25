@@ -751,6 +751,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 * [Campaign Monitor](http://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
+* [Conekta](https://github.com/conekta/conekta-php) - The official Conekta PHP library.
 * [Digital Ocean](https://github.com/toin0u/DigitalOcean) - A library to interface with the Digital Ocean API.
 * [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.
 * [Github](https://github.com/dsyph3r/github-api3-php) - A library to interface with the Github API.
