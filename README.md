@@ -354,6 +354,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [True Random](https://github.com/pixeloution/true-random) - A library that generates random numbers using [www.random.org](https://www.random.org/).
 * [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
+* [Xcrypto](https://github.com/Simbacode/xcrypto) -  Allows excyption of request to and from PHP server using DES,AES,PHP,HASH,RC4,RSA,Rijndael,TripleDES.
 
 ## Passwords
 *Libraries and tools for working with and storing passwords.*
