@@ -366,6 +366,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
 * [phpass](http://www.openwall.com/phpass/) - A portable password hashing framework.
 * [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
+* [GenPhrase](https://github.com/timoh6/GenPhrase) - A library for generating secure random passphrases.
 
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulating codebases.*
