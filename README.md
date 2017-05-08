@@ -505,6 +505,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Analog](https://github.com/jbroadway/analog) - A closure-based micro logging package.
 * [KLogger](https://github.com/katzgrau/KLogger) - An easy-to-use PSR-3 compliant logging class.
 * [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
+* [Simple-PHP-Logger](https://bitbucket.org/huntlyc/simple-php-logger) - A simple PHP Logging Class
 
 ## E-commerce
 *Libraries and applications for taking payments and building online e-commerce stores.*
