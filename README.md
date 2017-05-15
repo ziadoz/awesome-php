@@ -523,6 +523,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPPdf](https://github.com/psliwa/PHPPdf) - A library for generating PDFs and images from XML.
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 * [WKHTMLToPDF](https://github.com/wkhtmltopdf/wkhtmltopdf) - A tool to convert HTML to PDF.
+* [TCPDF](https://tcpdf.org/) - An open source PHP class for generating PDF documents.
 
 ## Office
 *Libraries for working with office suite documents.*
