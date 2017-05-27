@@ -696,6 +696,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Alternative PHP Cache (APC)](http://php.net/manual/en/book.apc.php) - Open opcode cache for PHP.
 * [APIx Cache](https://github.com/frqnck/apix-cache) - A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing.
+* [ByJG Cache Engine](https://github.com/byjg/cache-engine-php) - A multi-purpose cache engine PSR-6 and PSR-16 implementation with several drivers.
 * [CacheTool](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
 * [Cake Cache](https://github.com/cakephp/cache) - A caching library (CP).
 * [Doctrine Cache](https://github.com/doctrine/cache) - A caching library.
