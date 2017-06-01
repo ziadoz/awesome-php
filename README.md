@@ -193,6 +193,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Phrozn](https://github.com/Pawka/phrozn) - Another tool that converts Textile, Markdown and Twig into HTML.
 * [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
 * [Spress](http://spress.yosymfony.com) - An extensible tool that converts Markdown and Twig into HTML.
+* [Statie](https://github.com/Symplify/Statie) - A [community driven](https://github.com/pehapkari/pehapkari.cz) tool that converts Neon, Markdown and Latte into static HTML.
 
 ## HTTP
 *Libraries for working with HTTP.*
