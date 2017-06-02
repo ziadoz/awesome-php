@@ -80,6 +80,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [PHP Podcasts](#php-podcasts)
     - [PHP Reading](#php-reading)
     - [PHP Internals Reading](#php-internals-reading)
+- [Exercises](#exercises)
+    - [PHP Exercises](#php-exercises)
 - [Contributing](#contributing)
 
 ## Composer Repositories
@@ -981,6 +983,9 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [You're Being Lied To](http://blog.golemon.com/2007/01/youre-being-lied-to.html) - An article about internal ZVALs.
 * Collecting Garbage: [1](http://php.net/manual/en/features.gc.refcounting-basics.php) [2](http://php.net/manual/en/features.gc.collecting-cycles.php) [3](http://php.net/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
 * PHP Source Code for Developers: [1](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](http://nikic.github.io/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](http://nikic.github.io/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - A series about the PHP source code.
+
+## Exercises
+* [PHP Exercises](https://github.com/danrevah/php-exercises) - Some php exercises and interview questions to practice in a TDD approach.
 
 ## PHP Magazines
 *Fantastic PHP-related magazines.*
