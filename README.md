@@ -878,6 +878,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ## PHP Websites
 *Useful PHP-related websites.*
 
+* [Awesome PHP @LibHunt](https://php.libhunt.com/) - Your go-to PHP Toolbox.
 * [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
 * [PHP Best Practices](https://phpbestpractices.org/) - A PHP best practice guide.
 * [PHP FIG](http://www.php-fig.org/) - The PHP Framework Interoperability Group.
