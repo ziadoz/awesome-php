@@ -53,6 +53,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Command Line](#command-line)
     - [Authentication and Authorization](#authentication-and-authorization)
     - [Markup](#markup)
+    - [Arrays](#arrays)
     - [Strings](#strings)
     - [Numbers](#numbers)
     - [Filtering and Validation](#filtering-and-validation)
@@ -635,6 +636,12 @@ Libraries to help manage database schemas and migrations.
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
 * [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
 * [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
+
+## Arrays
+*Libraries for working and manipulating with arrays.*
+
+* [Arrayzy](https://github.com/bocharsky-bw/Arrayzy) - The wrapper for all PHP built-in array functions and easy,
+object-oriented array manipulation library. In short: Arrays on steroids.
 
 ## Strings
 *Libraries for parsing and manipulating strings.*
