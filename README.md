@@ -515,6 +515,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
 * [Swap](https://github.com/florianv/swap) - An exchange rates library.
 * [Sylius](http://sylius.org/) - An open source e-commerce solution.
+* [CoreShop](https://www.coreshop.org) - An open source e-commerce plugin for Pimcore System.
 
 ## PDF
 *Libraries and software for working with PDF files.*
