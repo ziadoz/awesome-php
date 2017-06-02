@@ -285,6 +285,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Imagine](http://imagine.readthedocs.io/en/latest/index.html) - An image manipulation library.
 * [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
 * [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
+* [GImage](https://github.com/joseluisq/gimage) - A library for easy image handling using GD.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
