@@ -90,6 +90,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PaketHub](https://pakethub.com/) - All-in-One PHP Package Repository.
 * [Private Packagist](https://packagist.com/) - Composer package archive as a service for PHP.
 * [WordPress Packagist](https://wpackagist.org/) - Manage your plugins with Composer.
+* [Zend Framework Packages](https://packages.zendframework.com/) - Zend Framework Composer Repository.
 
 ## Dependency Management
 *Libraries for dependency and package management.*
