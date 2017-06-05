@@ -236,6 +236,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
 * [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 * [Email Validator](https://github.com/nojacko/email-validator) - A small email address validation library.
+* [Emogrifier](https://github.com/jjriv/emogrifier) - Converts CSS styles into inline style attributes in your HTML code.
 * [Fetch](https://github.com/tedious/Fetch) - An IMAP library.
 * [Mautic](https://github.com/mautic/mautic) - Email marketing automation
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
