@@ -776,6 +776,7 @@ Libraries to help manage database schemas and migrations.
 * [Cake Utility](https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and Xml (CP).
 * [Chief](https://github.com/adamnicholson/Chief) - A command bus library.
 * [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - A library for optimising autoloading.
+* [Composer-Git-Hooks](https://github.com/BrainMaestro/composer-git-hooks) - A library for easily managing git hooks in your composer config.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 * [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
 * [Essence](https://github.com/essence/essence) - A library for extracting web media.
