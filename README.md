@@ -141,6 +141,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Aura](http://auraphp.com/) - Independent components, fully decoupled from each other and from any framework.
 * [CakePHP Plugins](https://plugins.cakephp.org/) - A directory of CakePHP plugins.
 * [Hoa Project](https://hoa-project.net/En/) - Another package of PHP components.
+* [Laravel components (Illuminate)](https://github.com/illuminate/) - The components that make Laravel.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
 * [Symfony Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony.
 * [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make Zend Framework.
