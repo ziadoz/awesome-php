@@ -132,7 +132,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Extras related to web development frameworks.*
 
 * [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
-* [Knp RAD Bundle](http://rad.knplabs.com/) - A Rapid Application Development (RAD) bundle for Symfony.
+* [Knp RAD Components](http://rad.knplabs.com/) - A set of Rapid Application Development (RAD) components for Symfony.
 * [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
 
 ## Components
