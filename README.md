@@ -270,7 +270,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 * [Disco](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
 * [PHP-DI](http://php-di.org/) - A dependency injection container that supports autowiring.
-* [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
+* [Pimple](https://pimple.sensiolabs.org/) - A tiny dependency injection container.
 * [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component (SF).
 
 ## Imagery
@@ -324,7 +324,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPCI](https://www.phptesting.org/) - An open source continuous integration platform for PHP.
 * [SemaphoreCI](https://semaphoreci.com/) - A continuous integration platform for open source and private projects.
 * [Shippable](https://app.shippable.com/) - A docker based continious integration platform for open source and private projects.
-* [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
+* [Sismo](https://sismo.sensiolabs.org/) - A continuous testing server library.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 * [Wercker](http://www.wercker.com/) - A continuous integration platform
 
@@ -696,7 +696,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries for caching data.*
 
 * [Alternative PHP Cache (APC)](http://php.net/manual/en/book.apc.php) - Open opcode cache for PHP.
-* [APIx Cache](https://github.com/frqnck/apix-cache) - A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing.
+* [APIx Cache](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing.
 * [CacheTool](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
 * [Cake Cache](https://github.com/cakephp/cache) - A caching library (CP).
 * [Doctrine Cache](https://github.com/doctrine/cache) - A caching library.
@@ -969,7 +969,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 * [Disproving the Single Quotes Myth](http://nikic.github.io/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - An article about performance of single and double quoted strings.
 * [How Big Are PHP Arrays (And Values) Really?](http://nikic.github.io/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html) - An article about array internals.
-* [How Foreach Works](http://stackoverflow.com/questions/10057671/how-does-php-foreach-actually-work/14854568#14854568) - A detailed StackOverflow answer about foreach.
+* [How Foreach Works](https://stackoverflow.com/questions/10057671/how-does-php-foreach-actually-work/14854568#14854568) - A detailed StackOverflow answer about foreach.
 * [How Long is a Piece of String](http://blog.golemon.com/2006/06/how-long-is-piece-of-string.html) - An article about string internals.
 * [PHP Evaluation Order](https://gist.github.com/nikic/6699370) - An article about evaluation order in PHP.
 * [PHP Internals Book](http://www.phpinternalsbook.com) - An online book about PHP internals, written by three core developers.
