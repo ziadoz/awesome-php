@@ -492,6 +492,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Elephant.io](https://github.com/Wisembly/Elephant.io) - Yet another web socket library.
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
+* [Fast CGI Client](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket. 
 * [Hoa EventSource](https://github.com/hoaproject/Eventsource) - An event source library.
 * [Hoa WebSocket](https://github.com/hoaproject/Websocket) - Another web socket library.
 * [Prooph Event Store](https://github.com/prooph/event-store) - An event source component to persist event messages
