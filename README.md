@@ -127,6 +127,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Zend Framework 2](https://framework.zend.com) - Another framework comprised of individual components (ZF2).
 * [Ice](https://www.iceframework.org/) - Another simple and fast PHP framework delivered as C-extension.
+* [Hook Plataform](https://github.com/doubleleft/hook) - Hook is a restful, extendable backend as a service with dead-simple integrations.
 
 ## Framework Extras
 *Extras related to web development frameworks.*
@@ -442,6 +443,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Construct](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
 * [Phake](https://github.com/jaz303/phake) - A rake PHP clone library.
 * [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
+* [Code Downgrade](https://github.com/endel/php-code-downgrade) - A galapagos based tool for downgrading codebases.
 
 ## Task Runners
 *Libraries for automating and running tasks.*
