@@ -443,6 +443,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Construct](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
 * [Phake](https://github.com/jaz303/phake) - A rake PHP clone library.
 * [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
+* [Code Downgrade](https://github.com/endel/php-code-downgrade) - A galapagos based tool for downgrading codebases.
 
 ## Task Runners
 *Libraries for automating and running tasks.*
