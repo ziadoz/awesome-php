@@ -597,7 +597,7 @@ Libraries to help manage database schemas and migrations.
 * [CLImate](https://github.com/thephpleague/climate) - A library for outputting colours and special formatting.
 * [Commando](https://github.com/nategood/commando) - Another simple command line opt parser.
 * [Cron Expression](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
-* [GetOpt](https://github.com/ulrichsg/getopt-php) - A command line opt parser.
+* [GetOpt](https://github.com/getopt-php/getopt-php) - A command line opt parser.
 * [GetOptionKit](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
 * [Hoa Console](https://github.com/hoaproject/Console) - Another command line library.
 * [OptParse](https://github.com/CHH/optparse) - Another command line opt parser.
@@ -892,7 +892,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Weekly](http://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
 * [PHPTrends](https://phptrends.com/) - An overview of fastest growing PHP libraries.
 * [Securing PHP](http://securingphp.com/) - A newsletter about PHP security and library recommendations.
-* [Seven PHP](http://7php.com/) - A website that interviews members of the PHP community.
+* [Seven PHP](https://7php.com/) - A website that interviews members of the PHP community.
 
 ## Other Websites
 *Useful websites related to web development.*
