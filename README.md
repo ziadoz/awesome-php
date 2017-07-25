@@ -90,6 +90,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PaketHub](https://pakethub.com/) - All-in-One PHP Package Repository.
 * [Private Packagist](https://packagist.com/) - Composer package archive as a service for PHP.
 * [WordPress Packagist](https://wpackagist.org/) - Manage your plugins with Composer.
+* [Zend Framework Packages](https://packages.zendframework.com/) - Zend Framework Composer Repository.
 
 ## Dependency Management
 *Libraries for dependency and package management.*
@@ -131,7 +132,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Extras related to web development frameworks.*
 
 * [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
-* [Knp RAD Bundle](http://rad.knplabs.com/) - A Rapid Application Development (RAD) bundle for Symfony.
+* [Knp RAD Components](http://rad.knplabs.com/) - A set of Rapid Application Development (RAD) components for Symfony.
 * [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
 
 ## Components
@@ -142,7 +143,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Hoa Project](https://hoa-project.net/En/) - Another package of PHP components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
 * [Symfony Components](http://symfony.com/doc/master/components/index.html) - The components that make Symfony.
-* [Zend Framework 2 Components](https://packages.zendframework.com/) - The components that make Zend Framework.
+* [Zend Framework 2 Components](https://docs.zendframework.com/) - The components that make Zend Framework.
 
 ## Micro Frameworks
 *Micro frameworks and routers.*
@@ -151,7 +152,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Lumen](https://lumen.laravel.com) - A micro-framework by Laravel.
 * [Proton](https://github.com/alexbilbie/Proton) - A StackPHP compatible micro framework.
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
-* [Silex](https://silex.sensiolabs.org/) - A micro framework built around Symfony components.
+* [Silex](https://silex.symfony.com/) - A micro framework built around Symfony components.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.
 
 ## Micro Framework Extras
@@ -182,8 +183,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Phly Mustache](https://github.com/phly/phly_mustache) - Another PHP implementation of the Mustache template language.
 * [PHPTAL](http://phptal.org/) - A PHP implementation of the [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
-* [Smarty](http://www.smarty.net/) - A template engine to complement PHP.
-* [Twig](https://twig.sensiolabs.org/) - A comprehensive templating language.
+* [Smarty](https://www.smarty.net/) - A template engine to complement PHP.
+* [Twig](https://twig.symfony.com/) - A comprehensive templating language.
 * [Tale Jade](https://github.com/Talesoft/tale-jade) - A PHP implementation of the Jade template language.
 
 ## Static Site Generators
@@ -238,8 +239,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Fetch](https://github.com/tedious/Fetch) - An IMAP library.
 * [Mautic](https://github.com/mautic/mautic) - Email marketing automation
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
-* [Stampie](https://github.com/henrikbjorn/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [Mandrill](http://www.mandrill.com).
-* [SwiftMailer](http://swiftmailer.org/) - A mailer solution.
+* [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [Mandrill](http://www.mandrill.com).
+* [SwiftMailer](https://swiftmailer.symfony.com) - A mailer solution.
 
 ## Files
 *Libraries for file manipulation and MIME type detection.*
@@ -269,7 +270,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 * [Disco](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
 * [PHP-DI](http://php-di.org/) - A dependency injection container that supports autowiring.
-* [Pimple](http://pimple.sensiolabs.org/) - A tiny dependency injection container.
+* [Pimple](https://pimple.symfony.com/) - A tiny dependency injection container.
 * [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component (SF).
 
 ## Imagery
@@ -323,7 +324,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPCI](https://www.phptesting.org/) - An open source continuous integration platform for PHP.
 * [SemaphoreCI](https://semaphoreci.com/) - A continuous integration platform for open source and private projects.
 * [Shippable](https://app.shippable.com/) - A docker based continious integration platform for open source and private projects.
-* [Sismo](http://sismo.sensiolabs.org/) - A continuous testing server library.
+* [Sismo](https://sismo.symfony.com/) - A continuous testing server library.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 * [Wercker](http://www.wercker.com/) - A continuous integration platform
 
@@ -554,7 +555,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - A migration library for Doctrine.
 * [Migrations](https://github.com/icomefromthenet/Migrations) - A migration management library.
-* [Phinx](https://github.com/robmorgan/phinx) - Another database migration library.
+* [Phinx](https://github.com/cakephp/phinx) - Another database migration library.
 * [PHPMig](https://github.com/davedevelopment/phpmig) - Another migration management library.
 * [Ruckusing](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
 
@@ -596,7 +597,7 @@ Libraries to help manage database schemas and migrations.
 * [CLImate](https://github.com/thephpleague/climate) - A library for outputting colours and special formatting.
 * [Commando](https://github.com/nategood/commando) - Another simple command line opt parser.
 * [Cron Expression](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
-* [GetOpt](https://github.com/ulrichsg/getopt-php) - A command line opt parser.
+* [GetOpt](https://github.com/getopt-php/getopt-php) - A command line opt parser.
 * [GetOptionKit](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
 * [Hoa Console](https://github.com/hoaproject/Console) - Another command line library.
 * [OptParse](https://github.com/CHH/optparse) - Another command line opt parser.
@@ -695,7 +696,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries for caching data.*
 
 * [Alternative PHP Cache (APC)](http://php.net/manual/en/book.apc.php) - Open opcode cache for PHP.
-* [APIx Cache](https://github.com/frqnck/apix-cache) - A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing.
+* [APIx Cache](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing.
 * [CacheTool](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
 * [Cake Cache](https://github.com/cakephp/cache) - A caching library (CP).
 * [Doctrine Cache](https://github.com/doctrine/cache) - A caching library.
@@ -891,7 +892,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Weekly](http://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
 * [PHPTrends](https://phptrends.com/) - An overview of fastest growing PHP libraries.
 * [Securing PHP](http://securingphp.com/) - A newsletter about PHP security and library recommendations.
-* [Seven PHP](http://7php.com/) - A website that interviews members of the PHP community.
+* [Seven PHP](https://7php.com/) - A website that interviews members of the PHP community.
 
 ## Other Websites
 *Useful websites related to web development.*
@@ -968,7 +969,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 * [Disproving the Single Quotes Myth](http://nikic.github.io/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - An article about performance of single and double quoted strings.
 * [How Big Are PHP Arrays (And Values) Really?](http://nikic.github.io/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html) - An article about array internals.
-* [How Foreach Works](http://stackoverflow.com/questions/10057671/how-does-php-foreach-actually-work/14854568#14854568) - A detailed StackOverflow answer about foreach.
+* [How Foreach Works](https://stackoverflow.com/questions/10057671/how-does-php-foreach-actually-work/14854568#14854568) - A detailed StackOverflow answer about foreach.
 * [How Long is a Piece of String](http://blog.golemon.com/2006/06/how-long-is-piece-of-string.html) - An article about string internals.
 * [PHP Evaluation Order](https://gist.github.com/nikic/6699370) - An article about evaluation order in PHP.
 * [PHP Internals Book](http://www.phpinternalsbook.com) - An online book about PHP internals, written by three core developers.
