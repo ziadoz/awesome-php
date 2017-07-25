@@ -152,7 +152,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Lumen](https://lumen.laravel.com) - A micro-framework by Laravel.
 * [Proton](https://github.com/alexbilbie/Proton) - A StackPHP compatible micro framework.
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
-* [Silex](https://silex.sensiolabs.org/) - A micro framework built around Symfony components.
+* [Silex](https://silex.symfony.com/) - A micro framework built around Symfony components.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.
 
 ## Micro Framework Extras
@@ -183,8 +183,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Phly Mustache](https://github.com/phly/phly_mustache) - Another PHP implementation of the Mustache template language.
 * [PHPTAL](http://phptal.org/) - A PHP implementation of the [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
-* [Smarty](http://www.smarty.net/) - A template engine to complement PHP.
-* [Twig](https://twig.sensiolabs.org/) - A comprehensive templating language.
+* [Smarty](https://www.smarty.net/) - A template engine to complement PHP.
+* [Twig](https://twig.symfony.com/) - A comprehensive templating language.
 * [Tale Jade](https://github.com/Talesoft/tale-jade) - A PHP implementation of the Jade template language.
 
 ## Static Site Generators
@@ -240,7 +240,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Mautic](https://github.com/mautic/mautic) - Email marketing automation
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 * [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [Mandrill](http://www.mandrill.com).
-* [SwiftMailer](http://swiftmailer.org/) - A mailer solution.
+* [SwiftMailer](https://swiftmailer.symfony.com) - A mailer solution.
 
 ## Files
 *Libraries for file manipulation and MIME type detection.*
@@ -270,7 +270,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 * [Disco](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
 * [PHP-DI](http://php-di.org/) - A dependency injection container that supports autowiring.
-* [Pimple](https://pimple.sensiolabs.org/) - A tiny dependency injection container.
+* [Pimple](https://pimple.symfony.com/) - A tiny dependency injection container.
 * [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component (SF).
 
 ## Imagery
@@ -324,7 +324,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPCI](https://www.phptesting.org/) - An open source continuous integration platform for PHP.
 * [SemaphoreCI](https://semaphoreci.com/) - A continuous integration platform for open source and private projects.
 * [Shippable](https://app.shippable.com/) - A docker based continious integration platform for open source and private projects.
-* [Sismo](https://sismo.sensiolabs.org/) - A continuous testing server library.
+* [Sismo](https://sismo.symfony.com/) - A continuous testing server library.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 * [Wercker](http://www.wercker.com/) - A continuous integration platform
 
