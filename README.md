@@ -712,6 +712,7 @@ Libraries to help manage database schemas and migrations.
 * [Collections](https://github.com/italolelis/collections) - Collections Abstraction library for PHP.
 * [Fractal](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
 * [Ginq](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
+* [Gson](https://github.com/tebru/gson-php) - A port of Google's Gson library for serializing and deserializing data.
 * [JsonMapper](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
 * [Knapsack](https://github.com/DusanKasan/Knapsack) - Collection library inspired by Clojure's sequences.
 * [PHP Collections](https://github.com/schmittjoh/php-collection) - A simple collections library.
