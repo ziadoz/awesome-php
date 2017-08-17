@@ -830,6 +830,7 @@ Libraries to help manage database schemas and migrations.
 ## Development Environment
 *Software and tools for creating a sandboxed development environment.*
 
+* [Laradock](http://laradock.io/) - A full PHP development environment for Docker.
 * [Ansible](https://www.ansible.com/) - A radically simple orchestration framework.
 * [Phansible](http://phansible.com/) - A web tool for building PHP development virtual machines with Ansible.
 * [Protobox](http://getprotobox.com/) - Another web tool for building PHP development virtual machines.
