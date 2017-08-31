@@ -124,6 +124,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Phalcon](https://phalconphp.com/en/) - A framework implemented as a C extension.
 * [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
 * [Symfony](https://symfony.com/) - A framework comprised of individual components (SF).
+* [Yaf](https://github.com/laruence/yaf) - Another framework implemented as a C extension.
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Zend Framework 2](https://framework.zend.com) - Another framework comprised of individual components (ZF2).
 * [Ice](https://www.iceframework.org/) - Another simple and fast PHP framework delivered as C-extension.
@@ -399,6 +400,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPStan](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
 * [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) - A tool to visualize metrics and source code.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
+* [Taint](https://github.com/laruence/taint) - An extension used for detecting XSS codes.
 * [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
 
 ## Architectural
@@ -701,6 +703,7 @@ Libraries to help manage database schemas and migrations.
 * [Doctrine Cache](https://github.com/doctrine/cache) - A caching library.
 * [Metaphore](https://github.com/sobstel/metaphore) - Cache slam defense using a semaphore to prevent dogpile effect.
 * [Stash](https://github.com/tedious/Stash) - Another library for caching.
+* [Yac](https://github.com/laruence/yac) - A fast shared memory user data cache for PHP.
 * [Zend Cache](https://github.com/zendframework/zend-cache) - Another caching library (ZF2).
 
 ## Data Structure and Storage
@@ -810,6 +813,7 @@ Libraries to help manage database schemas and migrations.
 * [Symfony VarDumper](http://symfony.com/doc/current/components/var_dumper.html) - A variable dumper component (SF).
 * [Underscore](http://anahkiasen.github.io/underscore-php/) - A PHP port of the Underscore JS library.
 * [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
+* [Yar](https://github.com/laruence/yar) - Light, concurrent RPC framework for PHP & C.
 
 # Software
 *Software for creating a development environment.*
