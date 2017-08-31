@@ -10,7 +10,7 @@ Self-promotion is frowned upon, so please consider seriously whether your projec
 
 Also, please ensure your pull request adheres to the following guidelines:
 
-* Software that is PHP 7.0+, Composer-installable, PSR compliant, semantically versioned, united tested and well documented in English is preferred.
+* Software that is PHP 7.0+, Composer-installable, PSR compliant, semantically versioned, united tested, actively maintained and well documented in English is preferred.
 * Please search previous suggestions before making a new one, as yours may be a duplicate.
 * Enter a meaningful pull request description.
 * Please make an individual commit for each suggestion in a separate pull request.
