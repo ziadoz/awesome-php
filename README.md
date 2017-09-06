@@ -388,7 +388,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 * [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
-* [phan](https://github.com/etsy/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
+* [phan](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
 * [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
@@ -427,7 +427,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 * [PHPBench](https://github.com/phpbench/phpbench) - A benchmarking Framework.
-* [PHPDBG](http://phpdbg.com/) - An interactive PHP debugger.
 * [Tideways.io](https://tideways.io/) - Monitoring and profiling tool
 * [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
@@ -547,7 +546,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 * [Propel](http://propelorm.org/) - A fast ORM, migration library and query builder.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
-* [RedBean](http://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
+* [RedBean](https://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
 * [Spot2](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
 
 ## Migrations
@@ -908,7 +907,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 * [Functional Programming in PHP](https://www.functionalphp.com/) - This book will show you how to leverage these new PHP5.3+ features by understanding functional programming principles
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
-* [Mastering Object-Orientated PHP](http://www.brandonsavage.net) - A book about object-orientated PHP by Brandon Savage.
+* [Mastering Object-Orientated PHP](https://www.brandonsavage.net/) - A book about object-orientated PHP by Brandon Savage.
 * [Modern PHP New Features and Good Practices](http://shop.oreilly.com/product/0636920033868.do) - A book about new PHP features and best practices by Josh Lockhart.
 * [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp) - A book about modernizing legacy PHP applications by Paul M. Jones.
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) - An ebook covering all of the features and changes in PHP 7 by Colin O'Dell.
