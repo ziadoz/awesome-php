@@ -376,6 +376,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Code Climate](https://codeclimate.com) - An automated code review.
 * [Dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
 * [Exakat](https://github.com/exakat/exakat) - A static analysis engine for PHP.
+* [Editorconfig-Checker](https://github.com/exakat/exakat) - Checks if your files respect your `.editorconfig` settings.
 * [GrumPHP](https://github.com/phpro/grumphp) - A composer plugin to defend code quality.
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 * [PHP Analyser](https://github.com/scrutinizer-ci/php-analyzer) - A library for analysing PHP code to find bugs and errors.
