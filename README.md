@@ -399,6 +399,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPStan](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
 * [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) - A tool to visualize metrics and source code.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
+* [SonarQube](https://www.sonarqube.org/) - A platform for continuous inspection of code quality with [PHP support](https://www.sonarsource.com/products/codeanalyzers/sonarphp.html).
 * [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
 
 ## Architectural
