@@ -171,6 +171,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Klein](https://github.com/klein/klein.php) - A flexible router.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 * [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
+* [Routing](https://github.com/devlibs/routing) - A fast, flexible and scalable HTTP router for PHP.
 
 ## Templating
 *Libraries and tools for templating and lexing.*
