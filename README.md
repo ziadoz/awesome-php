@@ -212,6 +212,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Embed](https://github.com/oscarotero/Embed) - An information extractor from any web service or page.
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A simple web scraper.
 * [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
+* [QueryList](https://github.com/jae-jae/QueryList) -  A simple, elegant, extensible PHP Web Scraper.
 
 ## Middlewares
 *Libraries for building application using middlewares.*
