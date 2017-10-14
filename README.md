@@ -539,6 +539,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server. Edit
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
 * [Cake ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern (CP).
+* [DataMonkey](https://github.com/devsdmf/datamonkey) - A simple database ORM for PHP projects build on top of Doctrine.
 * [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 * [Doctrine](http://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
 * [Eloquent](https://github.com/illuminate/database) - A simple ORM (L5).
