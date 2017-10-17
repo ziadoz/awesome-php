@@ -134,6 +134,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 * [Knp RAD Components](http://rad.knplabs.com/) - A set of Rapid Application Development (RAD) components for Symfony.
 * [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
+* [Symfony Skeleton](https://github.com/symfony/skeleton) - A Skelton for Flex enabled Symfony Apps
 
 ## Components
 *Standalone components from web development frameworks and development groups.*
@@ -367,6 +368,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
 * [phpass](http://www.openwall.com/phpass/) - A portable password hashing framework.
 * [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
+* [Argon2 Password Hashing](https://wiki.php.net/rfc/argon2_password_hash) - Latest techniques for password hashing in PHP
 
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulating codebases.*
@@ -515,6 +517,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
 * [Swap](https://github.com/florianv/swap) - An exchange rates library.
 * [Sylius](http://sylius.org/) - An open source e-commerce solution.
+* [Stripe](https://github.com/stripe) - Simple Payment gateway
 
 ## PDF
 *Libraries and software for working with PDF files.*
@@ -760,6 +763,7 @@ Libraries to help manage database schemas and migrations.
 * [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
 * [Twitter OAuth](https://github.com/widop/twitter-oauth) - A library to interface with Twitter's OAuth workflow.
 * [Twitter REST](https://github.com/widop/twitter-rest) - A library to interact with Twitter's REST API.
+* [Cloudways SDK](https://packagist.org/packages/cloudwaysapi/phpsdk) - A library to launch Servers and Apps on Cloudways
 
 ## Extensions
 *Libraries to help build PHP extensions.*
