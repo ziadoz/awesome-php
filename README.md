@@ -198,6 +198,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## HTTP
 *Libraries for working with HTTP.*
 
+* [Artax](https://amphp.org/artax/) - An asynchronous HTTP client.
 * [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
 * [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
 * [HTTPFul](https://github.com/nategood/httpful) - A chainable HTTP client.
