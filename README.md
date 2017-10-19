@@ -510,6 +510,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries and applications for taking payments and building online e-commerce stores.*
 
 * [Money](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
+* [Brick\Money](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
 * [OmniPay](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
 * [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
