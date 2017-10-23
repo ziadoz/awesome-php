@@ -835,6 +835,7 @@ Libraries to help manage database schemas and migrations.
 * [Puppet](https://puppet.com/) - A server automation framework and application.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
 * [Docker](https://www.docker.com/) - A containerization platform.
+* [Docker-Arch](https://github.com/ph3nol/docker-arch) - Generate Web/CLI Dockerized development environments, from 1 simple YAML file.
 
 ## Virtual Machines
 *Alternative PHP virtual machines.*
