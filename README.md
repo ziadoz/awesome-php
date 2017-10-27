@@ -740,6 +740,7 @@ Libraries to help manage database schemas and migrations.
 * [Plum](https://github.com/aerialls/Plum) - A deployer library.
 * [Pomander](https://github.com/tamagokun/pomander) - A deployment tool for PHP applications.
 * [Rocketeer](https://github.com/rocketeers/rocketeer) - A fast and easy deployer for the PHP world.
+* [Jenkins](https://jenkins.io/) - Support building, deploying and automating any project.
 
 ## Internationalisation and Localisation
 *Libraries for Internationalization (I18n) and Localization (L10n).*
@@ -852,6 +853,7 @@ Libraries to help manage database schemas and migrations.
 * [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - A PHP IDE based on the Eclipse platform.
 * [Netbeans](https://netbeans.org) - An IDE with support for PHP and HTML5.
 * [PhpStorm](http://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
+* [VsCode](https://code.visualstudio.com/docs/languages/php) - a Young but very easy IDE for php
 
 ## Web Applications
 *Web-based applications and tools.*
