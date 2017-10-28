@@ -689,6 +689,7 @@ Libraries to help manage database schemas and migrations.
 * [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
 * [Restler](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
 * [wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - A tool to generate PHP classes from SOAP WSDL files.
+* [SirenPHP](https://github.com/jefersondaniel/sirenphp) - Siren hypermedia type implementation for PHP.
 
 ## Caching
 *Libraries for caching data.*
