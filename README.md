@@ -774,6 +774,7 @@ Libraries to help manage database schemas and migrations.
 * [Cake Utility](https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and Xml (CP).
 * [Chief](https://github.com/adamnicholson/Chief) - A command bus library.
 * [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - A library for optimising autoloading.
+* [Collision](https://github.com/nunomaduro/collision) - Error handler framework for console/command-line PHP applications.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 * [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
 * [Essence](https://github.com/essence/essence) - A library for extracting web media.
@@ -809,7 +810,6 @@ Libraries to help manage database schemas and migrations.
 * [Symfony VarDumper](http://symfony.com/doc/current/components/var_dumper.html) - A variable dumper component (SF).
 * [Underscore](http://anahkiasen.github.io/underscore-php/) - A PHP port of the Underscore JS library.
 * [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
-* [Collision](https://github.com/nunomaduro/collision) - Error handler framework for console/command-line PHP applications.
 
 # Software
 *Software for creating a development environment.*
