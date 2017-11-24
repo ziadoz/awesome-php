@@ -300,7 +300,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
 * [Kahlan](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
 * [Mink](http://mink.behat.org/en/latest/) - Web acceptance testing.
-* [MakeAccessible](https://github.com/e200/MakeAccessible/) - A lightweight package that let you easily access and test singleton classes and inaccessible instance members like private properties and protected methods.
+* [MakeAccessible](https://github.com/e200/MakeAccessible/) - Lightweight PHP package that let you easily access and test singleton classes and inaccessible instance members like private properties and protected methods. 
 * [Mockery](https://github.com/mockery/mockery) - A mock object library for testing.
 * [ParaTest](https://github.com/brianium/paratest) - A parallel testing library for PHPUnit.
 * [Peridot](https://github.com/peridot-php/peridot) - An event driven test framework.
