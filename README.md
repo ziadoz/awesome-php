@@ -227,7 +227,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
 * [Purl](https://github.com/jwage/purl) - A URL manipulation library.
-* [sabre/uri](https://github.com/fruux/sabre-uri) - A functional URI manipulation library.
+* [sabre/uri](https://github.com/sabre-io/uri) - A functional URI manipulation library.
 * [Uri](https://github.com/thephpleague/uri) - Another URL manipulation library.
 
 ## Email
@@ -801,7 +801,7 @@ Libraries to help manage database schemas and migrations.
 * [Procrastinator](https://github.com/lstrojny/Procrastinator) - A library for running time consuming tasks.
 * [Prooph Service Bus](https://github.com/prooph/service-bus) - Lightweight message bus supporting CQRS and Micro Services
 * [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
-* [sabre/vobject](https://github.com/fruux/sabre-vobject) - A library for parsing VCard and iCalendar objects.
+* [sabre/vobject](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 * [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
 * [Sslurp](https://github.com/EvanDotPro/Sslurp) - A library that makes dealing with SSL suck less.
@@ -868,7 +868,7 @@ Libraries to help manage database schemas and migrations.
 ## Infrastructure
 *Infrastructure for providing PHP applications and services.*
 
-* [appserver.io](http://appserver.io/) - A multithreaded application server for PHP, written in PHP.
+* [appserver.io](https://appserver.io/) - A multithreaded application server for PHP, written in PHP.
 * [php-pm](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
 
 # Resources
@@ -897,7 +897,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 * [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
 * [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
-* [Semantic Versioning](http://semver.org/) - A website explaining semantic versioning.
+* [Semantic Versioning](https://semver.org/) - A website explaining semantic versioning.
 * [Servers for Hackers](https://serversforhackers.com/) - A newsletter about server management.
 * [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
 * [WebSec IO](https://websec.io/) - A web security community resource.
@@ -953,13 +953,13 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Composer Stability Flags](https://igor.io/2013/02/07/composer-stability-flags.html) - An article about Composer stability flags.
 * [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html) - An article about Composer versioning.
 * [Create Your Own PHP Framework](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-1.html) - A series of articles on how to make your own PHP framework by Fabien Potencier.
-* [Don't Worry About BREACH](http://blog.ircmaxell.com/2013/08/dont-worry-about-breach.html) - An article about the BREACH hack and CSRF tokens.
+* [Don't Worry About BREACH](https://blog.ircmaxell.com/2013/08/dont-worry-about-breach.html) - An article about the BREACH hack and CSRF tokens.
 * [On PHP 5.3, Lambda Functions and Closures](http://fabien.potencier.org/on-php-5-3-lambda-functions-and-closures.html) - An article about lambda functions and closures.
 * [PHP Is Much Better Than You Think](http://fabien.potencier.org/php-is-much-better-than-you-think.html) - An article about the PHP language and ecosystem.
 * [PHP Package Checklist](http://phppackagechecklist.com/) - A checklist for successful PHP package development.
-* [PHP Sucks! But I Like It!](http://blog.ircmaxell.com/2012/04/php-sucks-but-i-like-it.html) - An article about the pros and cons of PHP.
-* [Preventing CSRF Attacks](http://blog.ircmaxell.com/2013/02/preventing-csrf-attacks.html) - An article on preventing CSRF attacks.
-* [Seven Ways to Screw Up BCrypt](http://blog.ircmaxell.com/2012/12/seven-ways-to-screw-up-bcrypt.html) - An article about correct BCrypt implementation.
+* [PHP Sucks! But I Like It!](https://blog.ircmaxell.com/2012/04/php-sucks-but-i-like-it.html) - An article about the pros and cons of PHP.
+* [Preventing CSRF Attacks](https://blog.ircmaxell.com/2013/02/preventing-csrf-attacks.html) - An article on preventing CSRF attacks.
+* [Seven Ways to Screw Up BCrypt](https://blog.ircmaxell.com/2012/12/seven-ways-to-screw-up-bcrypt.html) - An article about correct BCrypt implementation.
 * [Use Env](https://seancoates.com/blogs/use-env/) - An article about using the unix environment helper.
 
 ## PHP Internals Reading
@@ -979,7 +979,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Why Objects (Usually) Use Less Memory Than Arrays](https://gist.github.com/nikic/5015323) - An article about object and array internals.
 * [You're Being Lied To](http://blog.golemon.com/2007/01/youre-being-lied-to.html) - An article about internal ZVALs.
 * Collecting Garbage: [1](http://php.net/manual/en/features.gc.refcounting-basics.php) [2](http://php.net/manual/en/features.gc.collecting-cycles.php) [3](http://php.net/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
-* PHP Source Code for Developers: [1](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](http://nikic.github.io/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](http://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](http://nikic.github.io/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - A series about the PHP source code.
+* PHP Source Code for Developers: [1](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](http://nikic.github.io/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](http://nikic.github.io/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - A series about the PHP source code.
 
 ## PHP Magazines
 *Fantastic PHP-related magazines.*
