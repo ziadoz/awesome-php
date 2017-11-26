@@ -893,6 +893,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHPTrends](https://phptrends.com/) - An overview of fastest growing PHP libraries.
 * [Securing PHP](http://securingphp.com/) - A newsletter about PHP security and library recommendations.
 * [Seven PHP](https://7php.com/) - A website that interviews members of the PHP community.
+* [PHP Tutorials](https://www.cybrhome.com/topic/php-tutorials) - A curated list of PHP learning resources.
 
 ## Other Websites
 *Useful websites related to web development.*
