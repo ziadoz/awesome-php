@@ -201,6 +201,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
 * [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
 * [HTTPFul](https://github.com/nategood/httpful) - A chainable HTTP client.
+* [HTTPlug](http://httplug.io) - An HTTP client abstraction without binding to a specific implementation
 * [PHP VCR](http://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
 * [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
 * [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
