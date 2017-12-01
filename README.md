@@ -122,7 +122,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Laravel 5](https://laravel.com/) - Another PHP framework (L5).
 * [Nette](https://nette.org) - Another framework comprised of individual components.
 * [Phalcon](https://phalconphp.com/en/) - A framework implemented as a C extension.
-* [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
+* [PPI Framework 2](https://github.com/ppi) - An interoperability framework.
 * [Symfony](https://symfony.com/) - A framework comprised of individual components (SF).
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Zend Framework 2](https://framework.zend.com) - Another framework comprised of individual components (ZF2).
