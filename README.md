@@ -432,6 +432,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 * [Z-Ray](http://www.zend.com/en/products/server/z-ray) - A debug and profile tool for Zend Server.
+* [Ytrace](https://github.com/yangxikun/ytrace) - A debug/trace tool, make traces combined with step-through debugging.
 
 ## Build Tools
 *Project build and automation tools.*
