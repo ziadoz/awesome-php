@@ -69,7 +69,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [PHP Installation](#php-installation)
     - [Development Environment](#development-environment)
     - [Virtual Machines](#virtual-machines)
-    - [Integrated Development Environment](#integrated-development-environment)
+    - [Text Editors and IDEs](#text-editors-and-ides)
     - [Web Applications](#web-applications)
     - [Infrastructure](#infrastructure)
 - [Resources](#resources)
@@ -846,8 +846,8 @@ Libraries to help manage database schemas and migrations.
 * [HHVM](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 * [HippyVM](https://github.com/hippyvm/hippyvm) - Another PHP virtual machine.
 
-## Integrated Development Environment
-*Integrated Development Environments with support for PHP.*
+## Text Editors and IDEs
+*Text Editors and Integrated Development Environments (IDE) with support for PHP.*
 
 * [Atom](https://atom.io/) - A hackable text editor.
 * [Atom IDE](https://ide.atom.io/) - An IDE extension for Atom.
