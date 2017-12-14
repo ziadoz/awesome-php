@@ -740,7 +740,6 @@ Libraries to help manage database schemas and migrations.
 * [Plum](https://github.com/aerialls/Plum) - A deployer library.
 * [Pomander](https://github.com/tamagokun/pomander) - A deployment tool for PHP applications.
 * [Rocketeer](https://github.com/rocketeers/rocketeer) - A fast and easy deployer for the PHP world.
-* [Jenkins](https://jenkins.io/) - Support building, deploying and automating any project.
 
 ## Internationalisation and Localisation
 *Libraries for Internationalization (I18n) and Localization (L10n).*
