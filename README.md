@@ -201,7 +201,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
 * [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
 * [HTTPFul](https://github.com/nategood/httpful) - A chainable HTTP client.
-* [HTTPlug](http://httplug.io) - An HTTP client abstraction without binding to a specific implementation
+* [HTTPlug](http://httplug.io) - An HTTP client abstraction without binding to a specific implementation.
 * [PHP VCR](http://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
 * [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
 * [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
@@ -944,7 +944,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
 * [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 * [Taking PHP Seriously](https://www.infoq.com/presentations/php-history) - A talk outlining PHP's strengths by Keith Adams of Facebook.
-* [Voices of the ElePHPant](https://voicesoftheelephpant.com/) - Interviews with members of PHP community.
 
 ## PHP Podcasts
 *Podcasts with a focus on PHP topics.*
@@ -952,6 +951,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com/) Interviews with the people that make the PHP community special.
 * [PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
+* [Voices of the ElePHPant](https://voicesoftheelephpant.com/) - Interviews with members of PHP community.
 
 ## PHP Reading
 *PHP-releated reading materials.*
