@@ -849,6 +849,8 @@ Libraries to help manage database schemas and migrations.
 ## Integrated Development Environment
 *Integrated Development Environments with support for PHP.*
 
+* [Atom](https://atom.io/) - A hackable text editor.
+* [Atom IDE](https://ide.atom.io/) - An IDE extension for Atom.
 * [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - A PHP IDE based on the Eclipse platform.
 * [Netbeans](https://netbeans.org) - An IDE with support for PHP and HTML5.
 * [PhpStorm](http://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
