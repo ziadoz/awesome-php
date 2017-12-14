@@ -937,8 +937,8 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Understanding Computation](http://computationbook.com) - A book about computation theory by Tom Stuart.
 * [Vagrant Cookbook](https://leanpub.com/vagrantcookbook) - A book about creating Vagrant environments by Erika Heidi.
 
-## PHP Podcasts and Videos
-*Fantastic PHP-related podcasts and videos.*
+## PHP Videos
+*Fantastic PHP-related videos.*
 
 * [Nomad PHP Lightning Talks](https://www.youtube.com/c/nomadphp) - 10 to 15 minute Lightning Talks by PHP community members.
 * [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
@@ -947,7 +947,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com/) - Interviews with members of PHP community.
 
 ## PHP Podcasts
-*Podcasts with a main focus on PHP topics*
+*Podcasts with a focus on PHP topics.*
 
 * [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com/) Interviews with the people that make the PHP community special.
