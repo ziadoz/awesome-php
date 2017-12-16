@@ -32,6 +32,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Security](#security)
     - [Passwords](#passwords)
     - [Code Analysis](#code-analysis)
+    - [Code Quality](#code-quality)
+    - [Static Analysis](#static-analysis)
     - [Architectural](#architectural)
     - [Debugging and Profiling](#debugging-and-profiling)
     - [Build Tools](#build-tools)
@@ -372,35 +374,37 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Code Analysis
 *Libraries and tools for analysing, parsing and manipulating codebases.*
 
-* [Athletic](https://github.com/polyfractal/athletic) - An annotation based benchmark framework.
 * [Better Reflection](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
 * [Code Climate](https://codeclimate.com) - An automated code review.
-* [Dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
-* [Exakat](https://github.com/exakat/exakat) - A static analysis engine for PHP.
-* [GrumPHP](https://github.com/phpro/grumphp) - A composer plugin to defend code quality.
-* [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
-* [PHP Analyser](https://github.com/scrutinizer-ci/php-analyzer) - A library for analysing PHP code to find bugs and errors.
-* [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
-* [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A coding standards fixer library.
-* [PHP Manipulator](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
-* [PHP Mess Detector](https://phpmd.org/) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
-* [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
-* [PHP Migration](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
-* [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
-* [phan](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
-* [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
-* [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
-* [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
 * [PHPQA](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
-* [PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP.
-* [PHPSandbox](https://github.com/Corveda/PHPSandbox) - A PHP sandbox environment.
-* [PHPStan](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
 * [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) - A tool to visualize metrics and source code.
-* [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to scrutinise PHP code.
+* [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
 * [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
+
+## Code Quality
+**Libraries for managing code quality, formatting and linting.**
+
+* [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
+* [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A coding standards fixer library.
+* [PHP Mess Detector](https://phpmd.org/) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
+* [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
+* [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
+
+## Static Analysis
+**Libraries for performing static analysis of PHP code.**
+
+* [Exakat](https://github.com/exakat/exakat) - A static analysis engine for PHP.
+* [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
+* [phan](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
+* [PHPCompatibility](https://github.com/wimg/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
+* [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
+* [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
+* [PHP Migration](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
+* [PHPStan](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
+* [Pslam](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications.
 
 ## Architectural
 *Libraries related to design patterns, programming approaches and ways to organize code.*
