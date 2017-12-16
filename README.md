@@ -458,7 +458,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Navigation
 *Tools for building navigation structures.*
 
-* [Cartographer](https://github.com/tackk/cartographer) - A sitemap generation library.
 * [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
 
 ## Asset Management
@@ -483,7 +482,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CalendR](http://yohan.giarel.li/CalendR/) - A calendar management library.
 * [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
 * [Chronos](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
-* [ExpressiveDate](https://github.com/jasonlewis/expressive-date) - Another DateTime API extension.
 * [Moment.php](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
 * [Yasumi](https://github.com/azuyalabs/yasumi) - An library to help you calculate the dates and names of holidays.
 
