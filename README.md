@@ -404,6 +404,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
 * [PHP Migration](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
 * [PHPStan](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
+* [Progpilot](https://github.com/designsecurity/progpilot) - A static security analysis tool for PHP code.
 * [Pslam](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications.
 
 ## Architectural
