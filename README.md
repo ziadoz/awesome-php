@@ -718,6 +718,7 @@ Libraries to help manage database schemas and migrations.
 * [PINQ](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
 * [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction framework.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
+* [TileServer PHP](https://github.com/klokantech/tileserver-php) - Hosting MBTiles with TileJSON, OGC WMTS, UTFGrid interaction and web interface.
 * [Totem](https://github.com/Wisembly/Totem) - A library to manage and create data changesets.
 * [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
 * [Zend Serializer](https://github.com/zendframework/zend-serializer) - Another library for serialising and de-serialising data (ZF2).
