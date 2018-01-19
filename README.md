@@ -679,6 +679,7 @@ Libraries to help manage database schemas and migrations.
 * [Upload](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
 * [Valitron](https://github.com/vlucas/valitron) - Another validation library.
 * [Volan](https://github.com/serkin/Volan) - Another simplified validation library.
+* [Dsheiko\Validate](https://github.com/dsheiko/validate) - Validation library for testing primitive and complex types (including key-value arrays) against a contract.
 
 ## API
 *Libraries and web tools for developing APIs.*
