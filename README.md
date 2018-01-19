@@ -182,6 +182,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
 * [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
 * [Mustache](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
+* [Phug](https://www.phug-lang.com/) - Phug (unified pug engine for Pug-php and Tale-pug)
 * [Phly Mustache](https://github.com/phly/phly_mustache) - Another PHP implementation of the Mustache template language.
 * [PHPTAL](http://phptal.org/) - A PHP implementation of the [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
