@@ -470,7 +470,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Hoa WebSocket](https://github.com/hoaproject/Websocket) - Another web socket library.
 * [Prooph Event Store](https://github.com/prooph/event-store) - An event source component to persist event messages
 * [Ratchet](https://github.com/ratchetphp/Ratchet) - A web socket library.
-* [React](https://github.com/reactphp/react) - An event driven non-blocking I/O library.
+* [ReactPHP](https://github.com/reactphp/react) - An event driven non-blocking I/O library.
 * [RxPHP](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
 * [Workerman](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
 
