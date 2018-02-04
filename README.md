@@ -643,7 +643,7 @@ Libraries to help manage database schemas and migrations.
 * [Agent](https://github.com/jenssegers/agent) - A PHP desktop/mobile user agent parser, based on Mobiledetect.
 * [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
-* [Device Detector](https://github.com/piwik/device-detector) - Another library for parsing user agent strings.
+* [Device Detector](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
 * [Hoa String](https://github.com/hoaproject/Ustring) - Another UTF-8 string library.
 * [Jieba-PHP](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
@@ -886,7 +886,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 * [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
 * [PHP Best Practices](https://phpbestpractices.org/) - A PHP best practice guide.
-* [PHP FIG](http://www.php-fig.org/) - The PHP Framework Interoperability Group.
+* [PHP FIG](https://www.php-fig.org/) - The PHP Framework Interoperability Group.
 * [PHP Mentoring](https://php-mentoring.org/) - Peer to peer PHP mentorship organization.
 * [PHP Package Development Standards](http://php-pds.com) - Package development standards for PHP.
 * [PHP School](https://www.phpschool.io/) - Open Source Learning for PHP.
