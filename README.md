@@ -208,6 +208,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
 * [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
 * [zend-diactoros](https://github.com/zendframework/zend-diactoros) - PSR-7 HTTP Message implementation.
+* [Ganesha](https://github.com/ackintosh/ganesha) - PHP implementation of Circuit Breaker pattern.
 
 ### Scraping
 *Libraries for scraping websites.*
