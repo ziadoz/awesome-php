@@ -559,6 +559,7 @@ Libraries to help manage database schemas and migrations.
 * [Phinx](https://github.com/cakephp/phinx) - Another database migration library.
 * [PHPMig](https://github.com/davedevelopment/phpmig) - Another migration management library.
 * [Ruckusing](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
+* [kdbv](https://github.com/GaneshKandu/kdbv) - mysql database auto schema migration library
 
 ### NoSQL
 *Libraries for working with "NoSQL" backends.*
