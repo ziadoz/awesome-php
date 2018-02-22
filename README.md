@@ -762,6 +762,7 @@ Libraries to help manage database schemas and migrations.
 * [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
 * [Twitter OAuth](https://github.com/widop/twitter-oauth) - A library to interface with Twitter's OAuth workflow.
 * [Twitter REST](https://github.com/widop/twitter-rest) - A library to interact with Twitter's REST API.
+* [zohocrm](https://github.com/mctekk/zohocrm) - A PHP wrapper library for Zoho CRM.
 
 ### Extensions
 *Libraries to help build PHP extensions.*
