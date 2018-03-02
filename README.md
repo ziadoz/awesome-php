@@ -178,6 +178,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries and tools for templating and lexing.*
 
 * [Aura.View](https://github.com/auraphp/Aura.View) - Provides TemplateView and TwoStepView using PHP as the tempting language, with support for partials, sections, and helpers.
+* [Dwoo](https://github.com/dwoo-project/dwoo) - Smarty inspired template engine
 * [Foil](https://github.com/FoilPHP/Foil) - Another native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
 * [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
