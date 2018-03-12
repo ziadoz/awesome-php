@@ -708,6 +708,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries that implement data structure or storage techniques.*
 
 * [Ardent](https://github.com/morrisonlevi/Ardent) - A library of data structures.
+* [ByJG Serializer](https://github.com/byjg/serializer)- Serialize any object into array and bind any data structure to an object/array; Can (de)serialize into JSON or XML.
 * [Cake Collection](https://github.com/cakephp/collection) - A simple collections library (CP).
 * [Collections](https://github.com/italolelis/collections) - Collections Abstraction library for PHP.
 * [Fractal](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
