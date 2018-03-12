@@ -304,7 +304,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Kahlan](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
 * [Mink](http://mink.behat.org/en/latest/) - Web acceptance testing.
 * [Mockery](https://github.com/mockery/mockery) - A mock object library for testing.
-* [ParaTest](https://github.com/brianium/paratest) - A parallel testing library for PHPUnit.
+* [ParaTest](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
 * [Peridot](https://github.com/peridot-php/peridot) - An event driven test framework.
 * [Phake](https://github.com/mlively/Phake) - Another mock object library for testing.
 * [Pho](https://github.com/danielstjules/pho) - Another behaviour driven development testing framework.
@@ -515,7 +515,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
 * [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
 * [Swap](https://github.com/florianv/swap) - An exchange rates library.
-* [Sylius](http://sylius.org/) - An open source e-commerce solution.
+* [Sylius](https://sylius.com/) - An open source e-commerce solution.
 
 ### PDF
 *Libraries and software for working with PDF files.*
@@ -833,7 +833,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Ansible](https://www.ansible.com/) - A radically simple orchestration framework.
 * [Phansible](http://phansible.com/) - A web tool for building PHP development virtual machines with Ansible.
-* [Protobox](http://getprotobox.com/) - Another web tool for building PHP development virtual machines.
+* [Protobox](https://getprotobox.com/) - Another web tool for building PHP development virtual machines.
 * [PuPHPet](https://puphpet.com/) - A web tool for building PHP development virtual machines.
 * [Puppet](https://puppet.com/) - A server automation framework and application.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
