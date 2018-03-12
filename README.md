@@ -789,6 +789,7 @@ Libraries to help manage database schemas and migrations.
 * [LadyBug](https://github.com/raulfraile/Ladybug) - A dumper library.
 * [Lambda PHP](https://github.com/igorw/lambda-php) - A Lambda calculus interpreter in PHP.
 * [LiteCQRS](https://github.com/beberlei/litecqrs-php) - A CQRS (Command Query Responsibility Separation) library.
+* [MediaEmbed](https://github.com/dereuromark/MediaEmbed) - A library to deal with media services, parsing their URLs and displaying their audio/video.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 * [Nmap](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](https://nmap.org/).
