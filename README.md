@@ -709,10 +709,8 @@ Libraries to help manage database schemas and migrations.
 * [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.
 * [Github](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
 * [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
-* [PHP Github API](https://github.com/KnpLabs/php-github-api) - Another library to interface with the Github API.
 * [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 * [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
-* [Twitter OAuth](https://github.com/abraham/twitteroauth) - A library to interface with Twitter's OAuth workflow.
 
 ### Extensions
 *Libraries to help build PHP extensions.*
