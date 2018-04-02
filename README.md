@@ -89,6 +89,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Firegento](http://packages.firegento.com/) - Magento Module Composer Repository.
 * [Packagist](https://packagist.org/) - The PHP Package Repository.
+* [PaketHub](https://pakethub.com/) - All-in-One PHP Package Repository.
 * [Private Packagist](https://packagist.com/) - Composer package archive as a service for PHP.
 * [WordPress Packagist](https://wpackagist.org/) - Manage your plugins with Composer.
 * [Zend Framework Packages](https://packages.zendframework.com/) - Zend Framework Composer Repository.
