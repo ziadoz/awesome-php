@@ -822,6 +822,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
 * [PHP Best Practices](https://phpbestpractices.org/) - A PHP best practice guide.
 * [PHP FIG](https://www.php-fig.org/) - The PHP Framework Interoperability Group.
+* [PHP Curated Resources](https://hackr.io/tutorials/learn-php) - Top recommended resources.
 * [PHP Mentoring](https://php-mentoring.org/) - Peer to peer PHP mentorship organization.
 * [PHP Package Development Standards](http://php-pds.com) - Package development standards for PHP.
 * [PHP School](https://www.phpschool.io/) - Open Source Learning for PHP.
