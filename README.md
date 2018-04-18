@@ -893,6 +893,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ### PHP Reading
 *PHP-releated reading materials.*
 
+* [PDO Prepared Statements to Prevent SQL Injection](https://websitebeaver.com/php-pdo-prepared-statements-to-prevent-sql-injection)
 * [Composer Primer](https://daylerees.com/composer-primer/) - A Composer primer.
 * [Composer Stability Flags](https://igor.io/2013/02/07/composer-stability-flags.html) - An article about Composer stability flags.
 * [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html) - An article about Composer versioning.
