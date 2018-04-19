@@ -337,6 +337,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 * [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
+* [Virgil Security SDK](https://github.com/VirgilSecurity/virgil-sdk-php) - An SDK which allows developers to add full end-to-end security to their existing digital solutions to become HIPAA and GDPR compliant and more using Virgil API.
+* [Virgil Crypto Library](https://github.com/VirgilSecurity/virgil-crypto-php) - A high-level cryptographic library that allows to perform all necessary operations for securely storing and transferring data.
+
 
 ### Passwords
 *Libraries and tools for working with and storing passwords.*
