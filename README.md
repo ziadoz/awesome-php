@@ -532,6 +532,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation) - A library for working with Microsoft PowerPoint Presentations.
 * [PHPWord](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
 * [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel)
+* [Spout](https://github.com/box/spout.git) - Read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way
 
 ## Database
 *Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
