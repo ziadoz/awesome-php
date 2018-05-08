@@ -669,6 +669,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Cake Collection](https://github.com/cakephp/collection) - A simple collections library (CP).
 * [Collections](https://github.com/italolelis/collections) - Collections Abstraction library for PHP.
+* [Versatile Collections](https://github.com/rotexsoft/versatile-collections) - A collections library for PHP with strictly typed-collections support.
 * [Fractal](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
 * [Ginq](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
 * [JsonMapper](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
