@@ -388,6 +388,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Architectural
 *Libraries related to design patterns, programming approaches and ways to organize code.*
 
+* [Clean Code](https://github.com/jupeter/clean-code-php/blob/master/README.md) - Software engineering principles, from Robert C. Martin's book [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), adapted for PHP.
 * [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP) - A repository of software patterns implemented in PHP.
 * [Finite](http://yohan.giarel.li/Finite/) - A simple PHP finite state machine.
 * [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
