@@ -867,6 +867,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ### Other Books
 *Books related to general computing and web development.*
 
+* [Clean Code: A Handbook of Agile Software Craftsmanship][CleanCode] - A classic software engineering book on writing better code by Robert "Uncle Bob" C. Martin.
 * [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/index.html) - A guide to working with Elasticsearch by Clinton Gormley and Zachary Tong.
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - A book about JavaScript programming by Marijn Haverbeke.
 * [Head First Design Patterns](http://www.headfirstlabs.com/books/hfdp/) - A book that expains software design patterns.
