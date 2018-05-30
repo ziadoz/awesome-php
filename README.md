@@ -845,6 +845,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Servers for Hackers](https://serversforhackers.com/) - A newsletter about server management.
 * [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
 * [WebSec IO](https://websec.io/) - A web security community resource.
+* [Pusher PHP Tutorials](https://pusher.com/tutorials?tag=PHP) - A series of Pusher tutorials focused on PHP
 
 ### PHP Books
 *Fantastic PHP-related books.*
