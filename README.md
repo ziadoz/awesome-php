@@ -525,6 +525,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Migrations
 Libraries to help manage database schemas and migrations.
 
+* [ByJG Migration](https://github.com/byjg/migration) - Simple library in PHP for database version control. Supports Sqlite, MySql, Sql Server and Postgres 
 * [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - A migration library for Doctrine.
 * [Migrations](https://github.com/icomefromthenet/Migrations) - A migration management library.
 * [Phinx](https://github.com/cakephp/phinx) - Another database migration library.
