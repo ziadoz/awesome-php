@@ -383,7 +383,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
 * [PHP Migration](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
 * [PHPStan](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
-* [Pslam](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications.
+* [Psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications.
 
 ### Architectural
 *Libraries related to design patterns, programming approaches and ways to organize code.*
