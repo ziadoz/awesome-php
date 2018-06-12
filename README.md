@@ -337,6 +337,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 * [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
+* [PHP JWT](https://github.com/cdoco/php-jwt) - A JSON Web Toke (JWT) library as a C extension.
 
 ### Passwords
 *Libraries and tools for working with and storing passwords.*
