@@ -406,7 +406,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 * [PHPBench](https://github.com/phpbench/phpbench) - A benchmarking Framework.
-* [Tideways.io](https://tideways.io/) - Monitoring and profiling tool
+* [Tideways.io](https://tideways.com/) - Monitoring and profiling tool
 * [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
@@ -513,7 +513,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
 * [Cake ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern (CP).
 * [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
-* [Doctrine](http://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
+* [Doctrine](https://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
 * [Eloquent](https://github.com/illuminate/database) - A simple ORM (L5).
 * [LazyRecord](https://github.com/corneltek/LazyRecord) - A fast ORM designed for simplicity, extendability and performance.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
@@ -525,7 +525,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Migrations
 Libraries to help manage database schemas and migrations.
 
-* [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - A migration library for Doctrine.
+* [Doctrine Migrations](https://www.doctrine-project.org/projects/migrations.html) - A migration library for Doctrine.
 * [Migrations](https://github.com/icomefromthenet/Migrations) - A migration management library.
 * [Phinx](https://github.com/cakephp/phinx) - Another database migration library.
 * [PHPMig](https://github.com/davedevelopment/phpmig) - Another migration management library.
@@ -593,7 +593,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries for working with markup.*
 
 * [Cebe Markdown](https://github.com/cebe/markdown) - An fast and extensible Markdown parser.
-* [CommonMark PHP](https://github.com/thephpleague/commonmark) - A Markdown parser which supports the full [CommonMark spec](http://spec.commonmark.org/).
+* [CommonMark PHP](https://github.com/thephpleague/commonmark) - A Markdown parser which supports the full [CommonMark spec](https://spec.commonmark.org/).
 * [Decoda](https://github.com/milesj/decoda) - A lightweight markup parser library.
 * [Emoji](https://github.com/heyupdate/Emoji) - A library that converts unicode characters and names into emoji images.
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
@@ -780,7 +780,7 @@ Libraries to help manage database schemas and migrations.
 ### Virtual Machines
 *Alternative PHP virtual machines.*
 
-* [Hack](http://hacklang.org/) - A programming language for HHVM that interoperates seamlessly with PHP.
+* [Hack](https://hacklang.org/) - A programming language for HHVM that interoperates seamlessly with PHP.
 * [HHVM](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 
 ### Text Editors and IDEs
@@ -810,7 +810,7 @@ Libraries to help manage database schemas and migrations.
 ### Infrastructure
 *Infrastructure for providing PHP applications and services.*
 
-* [appserver.io](https://appserver.io/) - A multithreaded application server for PHP, written in PHP.
+* [appserver.io](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
 * [php-pm](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
 
 # Resources
@@ -868,7 +868,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 * [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/index.html) - A guide to working with Elasticsearch by Clinton Gormley and Zachary Tong.
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - A book about JavaScript programming by Marijn Haverbeke.
-* [Head First Design Patterns](http://www.headfirstlabs.com/books/hfdp/) - A book that expains software design patterns.
+* [Head First Design Patterns](https://www.safaribooksonline.com/library/view/head-first-design/0596007124/) - A book that expains software design patterns.
 * [Pro Git](https://git-scm.com/book/en/v2) - A book about Git by Scott Chacon and Ben Straub.
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
 * [The Tangled Web — Securing Web Applications](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886) - A book about securing web applications by Michal Zalewski.
