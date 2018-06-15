@@ -810,7 +810,7 @@ Libraries to help manage database schemas and migrations.
 ### Infrastructure
 *Infrastructure for providing PHP applications and services.*
 
-* [appserver.io](https://appserver.io/) - A multithreaded application server for PHP, written in PHP.
+* [appserver.io](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
 * [php-pm](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
 
 # Resources
