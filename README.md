@@ -803,6 +803,7 @@ Libraries to help manage database schemas and migrations.
 * [Cachet](https://github.com/cachethq/cachet) - The open source status page system.
 * [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - A simple web interface to manage [Redis](https://redis.io/) databases.
 * [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
+* [KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor.
 * [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 * [Lychee](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
