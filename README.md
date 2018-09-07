@@ -776,7 +776,7 @@ Libraries to help manage database schemas and migrations.
 * [Puppet](https://puppet.com/) - A server automation framework and application.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
 * [Docker](https://www.docker.com/) - A containerization platform.
-* [Valet](https://laravel.com/docs/5.7/valet) - Valet is a Laravel development environment for Mac minimalists.
+* [Valet](https://laravel.com/docs/5.7/valet) - A Laravel development environment for Mac minimalists.
 
 ### Virtual Machines
 *Alternative PHP virtual machines.*
