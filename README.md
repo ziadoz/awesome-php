@@ -191,6 +191,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### HTTP
 *Libraries for working with HTTP.*
 
+* [Apiz](https://github.com/nahid/apiz) - Apiz is a boilerplate code for PHP API development HTTP client
 * [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
 * [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
 * [HTTPFul](https://github.com/nategood/httpful) - A chainable HTTP client.
