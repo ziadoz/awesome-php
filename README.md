@@ -303,7 +303,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries and applications for continuous integration.*
 
 * [CircleCI](https://circleci.com) - A continuous integration platform.
-* [GitlabCi](https://about.gitlab.com/gitlab-ci-cd/) - Let GitLab CI test, build, deploy your code. TravisCi like.
+* [GitlabCi](https://about.gitlab.com/features/gitlab-ci-cd/) - Let GitLab CI test, build, deploy your code. TravisCi like.
 * [Jenkins](https://jenkins.io/index.html) - A continous integration platform with [PHP support](http://jenkins-php.org/index.html).
 * [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
 * [PHPCI](https://www.phptesting.org/) - An open source continuous integration platform for PHP.
