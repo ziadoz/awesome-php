@@ -473,6 +473,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [React](https://github.com/reactphp/react) - An event driven non-blocking I/O library.
 * [RxPHP](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
 * [Workerman](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
+* [ServiceBus](https://github.com/mmasiukevich/service-bus) - A message-based architecture framework
 
 ### Logging
 *Libraries for generating and working with log files.*
