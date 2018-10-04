@@ -588,6 +588,7 @@ Libraries to help manage database schemas and migrations.
 * [Sentinel Social](https://cartalyst.com/manual/sentinel-social/2.0) - A library for social network authentication.
 * [Sentinel](https://cartalyst.com/manual/sentinel/2.0) - A framework agnostic authentication & authorisation library.
 * [TwitterOAuth](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
+* [PHP-JWT](https://github.com/firebase/php-jwt) - JWT with PHP
 
 ### Markup
 *Libraries for working with markup.*
