@@ -199,6 +199,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
 * [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
 * [zend-diactoros](https://github.com/zendframework/zend-diactoros) - PSR-7 HTTP Message implementation.
+* [php-curl-class](https://github.com/php-curl-class/php-curl-class) - A php libary to send HTTP requests and integrate with web APIs.
 
 ### Scraping
 *Libraries for scraping websites.*
