@@ -834,6 +834,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Securing PHP](http://securingphp.com/) - A newsletter about PHP security and library recommendations.
 * [Seven PHP](https://7php.com/) - A website that interviews members of the PHP community.
 * [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/) - A monthly digest of PHP news.
+* [RemotePHP.io](https://remotephp.io) - A job board that only list remote PHP jobs.
 
 ### Other Websites
 *Useful websites related to web development.*
