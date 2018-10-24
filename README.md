@@ -92,6 +92,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Private Packagist](https://packagist.com/) - Composer package archive as a service for PHP.
 * [WordPress Packagist](https://wpackagist.org/) - Manage your plugins with Composer.
 * [Zend Framework Packages](https://packages.zendframework.com/) - Zend Framework Composer Repository.
+* [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with PHP/Composer support (and many others).
 
 ### Dependency Management
 *Libraries for dependency and package management.*
