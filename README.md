@@ -270,7 +270,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Glide](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
 * [Image Hash](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
 * [Image Optimizer](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
-* [Imagine](http://imagine.readthedocs.io/en/latest/index.html) - An image manipulation library.
+* [Imagine](https://imagine.readthedocs.io/en/latest/index.html) - An image manipulation library.
 * [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
 * [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
 
@@ -303,14 +303,14 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries and applications for continuous integration.*
 
 * [CircleCI](https://circleci.com) - A continuous integration platform.
-* [GitlabCi](https://about.gitlab.com/gitlab-ci/) - Let GitLab CI test, build, deploy your code. TravisCi like.
+* [GitlabCi](https://about.gitlab.com/features/gitlab-ci-cd/) - Let GitLab CI test, build, deploy your code. TravisCi like.
 * [Jenkins](https://jenkins.io/index.html) - A continuous integration platform with [PHP support](http://jenkins-php.org/index.html).
 * [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
 * [PHPCI](https://www.phptesting.org/) - An open source continuous integration platform for PHP.
 * [SemaphoreCI](https://semaphoreci.com/) - A continuous integration platform for open source and private projects.
 * [Shippable](https://www.shippable.com/) - A Docker based continious integration platform for open source and private projects.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
-* [Wercker](http://www.wercker.com/) - A continuous integration platform.
+* [Wercker](https://www.oracle.com/corporate/acquisitions/wercker/) - A continuous integration platform.
 
 ### Documentation
 *Libraries for generating project documentation.*
@@ -347,7 +347,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Password Validator](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
 * [Password-Generator](https://github.com/hackzilla/password-generator) - PHP library to generate random passwords.
 * [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
-* [phpass](http://www.openwall.com/phpass/) - A portable password hashing framework.
+* [phpass](https://www.openwall.com/phpass/) - A portable password hashing framework.
 * [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
 
 ### Code Analysis
@@ -378,7 +378,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Exakat](https://github.com/exakat/exakat) - A static analysis engine for PHP.
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 * [phan](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
-* [PHPCompatibility](https://github.com/wimg/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
+* [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
 * [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
 * [PHP Migration](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
@@ -542,7 +542,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Bernard](https://github.com/bernardphp/bernard) - A multibackend abstraction library.
 * [BunnyPHP](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
-* [Pheanstalk](https://github.com/pda/pheanstalk) - A Beanstalkd client library.
+* [Pheanstalk](https://github.com/pheanstalk/pheanstalk) - A Beanstalkd client library.
 * [PHP AMQP](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
 * [Tarantool Queue](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
 * [Thumper](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
@@ -819,14 +819,14 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ### PHP Websites
 *Useful PHP-related websites.*
 
-* [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
+* [Nomad PHP](https://beta.nomadphp.com) - A online PHP learning resource.
 * [PHP Best Practices](https://phpbestpractices.org/) - A PHP best practice guide.
 * [PHP FIG](https://www.php-fig.org/) - The PHP Framework Interoperability Group.
 * [PHP Mentoring](https://php-mentoring.org/) - Peer to peer PHP mentorship organization.
 * [PHP Package Development Standards](http://php-pds.com) - Package development standards for PHP.
 * [PHP School](https://www.phpschool.io/) - Open Source Learning for PHP.
-* [PHP Security](http://phpsecurity.readthedocs.io/en/latest/index.html) - A guide to PHP security.
-* [PHP The Right Way](http://www.phptherightway.com/) - A PHP best practice quick reference guide.
+* [PHP Security](https://phpsecurity.readthedocs.io/en/latest/index.html) - A guide to PHP security.
+* [PHP The Right Way](https://phptherightway.com/) - A PHP best practice quick reference guide.
 * [PHP UG](http://php.ug) - A website to help people locate their nearest PHP user group (UG).
 * [PHP Versions](http://phpversions.info/) - Lists which versions of PHP are available on several popular web hosts.
 * [PHP Weekly](http://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
@@ -868,7 +868,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 * [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/index.html) - A guide to working with Elasticsearch by Clinton Gormley and Zachary Tong.
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - A book about JavaScript programming by Marijn Haverbeke.
-* [Head First Design Patterns](https://www.safaribooksonline.com/library/view/head-first-design/0596007124/) - A book that expains software design patterns.
+* [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/) - A book that expains software design patterns.
 * [Pro Git](https://git-scm.com/book/en/v2) - A book about Git by Scott Chacon and Ben Straub.
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
 * [The Tangled Web — Securing Web Applications](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886) - A book about securing web applications by Michal Zalewski.
