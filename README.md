@@ -839,7 +839,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *Useful websites related to web development.*
 
 * [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
-* [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
 * [Learning Linux](https://linuxjourney.com/) - A website for learning Linux.
 * [Semantic Versioning](https://semver.org/) - A website explaining semantic versioning.
 * [Servers for Hackers](https://serversforhackers.com/) - A newsletter about server management.
