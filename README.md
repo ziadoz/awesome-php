@@ -752,6 +752,7 @@ Libraries to help manage database schemas and migrations.
 * [Symfony VarDumper](http://symfony.com/doc/current/components/var_dumper.html) - A variable dumper component (SF).
 * [Underscore](http://anahkiasen.github.io/underscore-php/) - A PHP port of the Underscore JS library.
 * [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
+* [YAK Pro - Php Obfuscator](https://github.com/pk-fr/yakpro-po) - A framework agnostic PHP obfuscation tool.
 
 # Software
 *Software for creating a development environment.*
