@@ -776,6 +776,8 @@ Libraries to help manage database schemas and migrations.
 * [Puppet](https://puppet.com/) - A server automation framework and application.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
 * [Docker](https://www.docker.com/) - A containerization platform.
+    * [Devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development
+    * [docker4php](https://github.com/wodby/docker4php) - Docker-based PHP stack 
 
 ### Virtual Machines
 *Alternative PHP virtual machines.*
