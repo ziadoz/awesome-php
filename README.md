@@ -745,6 +745,7 @@ Libraries to help manage database schemas and migrations.
 * [Procrastinator](https://github.com/lstrojny/Procrastinator) - A library for running time consuming tasks.
 * [Prooph Service Bus](https://github.com/prooph/service-bus) - Lightweight message bus supporting CQRS and Micro Services
 * [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
+* [Rubix ML](https://github.com/RubixML) - A high-level machine learning (ML) library for PHP.
 * [sabre/vobject](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 * [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
