@@ -662,6 +662,7 @@ Libraries to help manage database schemas and migrations.
 * [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
+* [MathPHP](http://github.com/markrogoyski/math-php) - A math library for PHP.
 
 ### Filtering and Validation
 *Libraries for filtering and validating data.*
