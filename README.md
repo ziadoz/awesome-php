@@ -122,7 +122,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PPI Framework 2](https://github.com/ppi) - An interoperability framework.
 * [Symfony](https://symfony.com/) - A framework comprised of individual components (SF).
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
-* [Zend Framework 2](https://framework.zend.com) - Another framework comprised of individual components (ZF2).
+* [Zend Framework 3](https://framework.zend.com/learn) - A framework comprised of individual components (ZF3).
 * [Ice](https://www.iceframework.org/) - Another simple and fast PHP framework delivered as C-extension.
 
 ### Framework Extras
@@ -158,6 +158,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Lumen](https://lumen.laravel.com) - A micro-framework by Laravel.
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.
+* [Expressive](https://getexpressive.org/) - A micro-framework by Zend.
 
 ### Micro Framework Extras
 *Extras related to micro frameworks and routers.*
