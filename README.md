@@ -1,6 +1,8 @@
-# Awesome PHP [![Build Status](https://api.travis-ci.org/ziadoz/awesome-php.svg?branch=master)](https://travis-ci.org/ziadoz/awesome-php)
+# Awesome PHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/ziadoz/awesome-php.svg?branch=master)](https://travis-ci.org/ziadoz/awesome-php) [![license](https://img.shields.io/github/license/ziadoz/awesome-php.svg?maxAge=2592000)]()
 
-A curated list of amazingly awesome PHP libraries, resources and shiny things.
+> A curated list of amazingly awesome PHP libraries, resources and shiny things.
+
+You might also like [awesome-composer](https://github.com/jakoch/awesome-composer).
 
 ## Contributing and Collaborating
 Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) and [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) for details.
