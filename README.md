@@ -638,10 +638,11 @@ Libraries to help manage database schemas and migrations.
 ### Filtering and Validation
 *Libraries for filtering and validating data.*
 
+* [Assert](https://github.com/beberlei/assert) - A validation library with a rich set of assertions. Supports assertion chaining and lazy assertions.
 * [Aura.Filter](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
 * [Cake Validation](https://github.com/cakephp/validation) - Another validation library (CP).
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
-* [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries
+* [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 * [Respect Validation](https://github.com/Respect/Validation) - A simple validation library.
 * [Upload](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
