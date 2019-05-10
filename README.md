@@ -132,13 +132,13 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Knp RAD Components](https://rad.knplabs.com/) - A set of Rapid Application Development (RAD) components for Symfony.
 * [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
 
-## Content Management Systems (CMS)
-*Web development Content Management Systems.*
-* [Drupal](https://www.drupal.org) - Enterprise Level Content Management System.
-* [WordPress](https://wordpress.org/) Blogging platform and Content Management System.
-* [Joomla](https://www.joomla.org/) - Another lead Content Managemenet System.
-* [Concrete5](http://www.concrete5.org/) - A Content Management System targering users with a minimum of technical skills.
-* [BackdropCMS](https://backdropcms.org) - A fork of Drupal; A Content Management System targeting small-to-medium sized business and non-profits.
+### Content Management Systems (CMS)
+*Tools for managing digital content.*
+* [Drupal](https://www.drupal.org) - An enterprise level CMS.
+* [WordPress](https://wordpress.org/) A blogging platform and CMS.
+* [Joomla](https://www.joomla.org/) - Another leading CMS.
+* [Concrete5](https://www.concrete5.org/) - A CMS targering users with a minimum of technical skills.
+* [BackdropCMS](https://backdropcms.org) - A CMS targeting small-to-medium sized business and non-profits (a fork of Drupal).
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
