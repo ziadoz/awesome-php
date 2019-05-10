@@ -82,7 +82,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [PHP Podcasts](#php-podcasts)
     - [PHP Reading](#php-reading)
     - [PHP Internals Reading](#php-internals-reading)
-- [Contributing](#contributing)
 
 ### Composer Repositories
 *Composer Repositories.*
