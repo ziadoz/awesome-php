@@ -134,11 +134,12 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 ### Content Management Systems (CMS)
 *Tools for managing digital content.*
-* [Drupal](https://www.drupal.org) - An enterprise level CMS.
-* [WordPress](https://wordpress.org/) A blogging platform and CMS.
-* [Joomla](https://www.joomla.org/) - Another leading CMS.
+* [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium sized business and non-profits (a fork of Drupal).
 * [Concrete5](https://www.concrete5.org/) - A CMS targering users with a minimum of technical skills.
-* [BackdropCMS](https://backdropcms.org) - A CMS targeting small-to-medium sized business and non-profits (a fork of Drupal).
+* [Drupal](https://www.drupal.org) - An enterprise level CMS.
+* [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
+* [Joomla](https://www.joomla.org/) - Another leading CMS.
+* [WordPress](https://wordpress.org/) A blogging platform and CMS.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
@@ -815,7 +816,6 @@ Libraries to help manage database schemas and migrations.
 * [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - A simple web interface to manage [Redis](https://redis.io/) databases.
 * [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
 * [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
-* [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 * [Lychee](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
 
 ### Infrastructure
