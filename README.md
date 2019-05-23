@@ -424,7 +424,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Build Tools
 *Project build and automation tools.*
 
-* [Box](https://github.com/box-project/box2) - A utility to build PHAR files.
+* [Box](https://github.com/humbug/box) - A utility to build PHAR files.
 * [Construct](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
 * [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
 
