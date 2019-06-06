@@ -306,6 +306,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
 * [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
+* [SitPHP Doubles](https://github.com/sitphp/doubles) - Simple yet powerful library to make class doubles for testing.
 * [VFS Stream](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
 
 ### Continuous Integration
@@ -581,6 +582,7 @@ Libraries to help manage database schemas and migrations.
 * [Hoa Console](https://github.com/hoaproject/Console) - Another command line library.
 * [PsySH](https://github.com/bobthecow/psysh) - Another PHP REPL.
 * [ShellWrap](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
+* [SitPHP Commands](https://github.com/sitphp/commands) - Simple yet powerful library to run commands from other libraries or to build a command application.
 
 ### Authentication and Authorization
 *Libraries for implementing user authentication and authorization.*
