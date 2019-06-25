@@ -139,6 +139,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Drupal](https://www.drupal.org) - An enterprise level CMS.
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
+* [OctoberCMS](https://octobercms.com/) - Simplicity, flexibility and modern design. Based on Laravel
 * [WordPress](https://wordpress.org/) A blogging platform and CMS.
 
 ### Components
