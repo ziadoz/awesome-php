@@ -115,6 +115,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Web development frameworks.*
 
 * [Aura Framework](http://auraphp.com/framework/) - A framework built from independent components.
+* [CodeIgniter](https://codeigniter.com) - The classical CodeIgniter Framework.
 * [CakePHP](https://cakephp.org/) - A rapid application development framework (CP).
 * [Laravel 5](https://laravel.com/) - Another PHP framework (L5).
 * [Nette](https://nette.org) - Another framework comprised of individual components.
