@@ -124,6 +124,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Zend Framework 2](https://framework.zend.com) - Another framework comprised of individual components (ZF2).
 * [Ice](https://www.iceframework.org/) - Another simple and fast PHP framework delivered as C-extension.
+* [Swoft](https://github.com/swoft-cloud/swoft) - A PHP microservice coroutine framework
 
 ### Framework Extras
 *Extras related to web development frameworks.*
