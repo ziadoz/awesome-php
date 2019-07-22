@@ -564,6 +564,7 @@ Libraries to help manage database schemas and migrations.
 * [Solarium](https://www.solarium-project.org/) - A client library for [Solr](https://lucene.apache.org/solr/).
 * [Sphinx Search](https://github.com/ripaclub/sphinxsearch) - Sphinx Search library provides SphinxQL indexing and searching features
 * [SphinxQL query builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](https://sphinxsearch.com/) search engine.
+* [Algolia Search](https://github.com/algolia/algoliasearch-client-php) - A web search product through a SaaS model.
 
 ### Command Line
 *Libraries related to the command line.*
