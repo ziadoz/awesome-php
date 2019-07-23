@@ -292,7 +292,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Atoum](https://github.com/atoum/atoum) - A simple testing library.
 * [Behat](http://docs.behat.org/en/v2.5/) - A behaviour driven development (BDD) testing framework.
 * [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
-* [DBUnit](https://github.com/sebastianbergmann/dbunit) - A database testing library for PHPUnit.
 * [Faker](https://github.com/fzaninotto/Faker) - A fake data generator library.
 * [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
 * [Kahlan](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
