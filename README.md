@@ -471,7 +471,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 ### Event
 *Libraries that are event-driven or implement non-blocking event loops.*
-
 * [Amp](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
 * [Broadway](https://github.com/broadway/broadway) - An event source and CQRS library.
 * [Cake Event](https://github.com/cakephp/event) - An event dispatcher library (CP).
@@ -485,6 +484,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [React](https://github.com/reactphp/react) - An event driven non-blocking I/O library.
 * [RxPHP](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
 * [Workerman](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
+* [Swoole](https://github.com/swoole/swoole-src) - An event-driven asynchronous & concurrent networking communication framework with high performance written only in C for PHP.
 
 ### Logging
 *Libraries for generating and working with log files.*
