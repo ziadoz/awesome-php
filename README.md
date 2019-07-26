@@ -717,6 +717,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries and tools to help build serverless web applications.*
 
 * [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
+* [OpenWhisk](http://openwhisk.apache.org/) - An open source serverless cloud platform.
 * [Serverless Framework](https://serverless.com/framework/) - An open source framework for building serverless applications.
 
 ## Configuration
