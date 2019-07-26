@@ -66,6 +66,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Deployment](#deployment)
     - [Internationalisation and Localisation](#internationalisation-and-localisation)
     - [Serverless](#serverless)
+    - [Configuration](#configuration)
     - [Third Party APIs](#third-party-apis)
     - [Extensions](#extensions)
     - [Miscellaneous](#miscellaneous)
@@ -717,6 +718,12 @@ Libraries to help manage database schemas and migrations.
 
 * [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
 * [Serverless Framework](https://serverless.com/framework/) - An open source framework for building serverless applications.
+
+## Configuration
+*Libraries and tools for configuration.**
+
+* [PHP Dotenv](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
+* [Symfony Dotenv](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
 
 ### Third Party APIs
 *Libraries for accessing third party APIs.*
