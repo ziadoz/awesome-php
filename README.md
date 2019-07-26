@@ -483,8 +483,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Ratchet](https://github.com/ratchetphp/Ratchet) - A web socket library.
 * [React](https://github.com/reactphp/react) - An event driven non-blocking I/O library.
 * [RxPHP](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
-* [Workerman](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
 * [Swoole](https://github.com/swoole/swoole-src) - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
+* [Workerman](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
 
 ### Logging
 *Libraries for generating and working with log files.*
