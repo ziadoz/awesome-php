@@ -8,7 +8,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
     - [Composer Repositories](#composer-repositories)
-    - [Dependency Management](#dependency-management)z
+    - [Dependency Management](#dependency-management)
     - [Dependency Management Extras](#dependency-management-extras)
     - [Frameworks](#frameworks)
     - [Framework Extras](#framework-extras)
