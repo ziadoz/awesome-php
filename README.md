@@ -65,6 +65,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Notifications](#notifications)
     - [Deployment](#deployment)
     - [Internationalisation and Localisation](#internationalisation-and-localisation)
+    - [Serverless](#serverless)
     - [Third Party APIs](#third-party-apis)
     - [Extensions](#extensions)
     - [Miscellaneous](#miscellaneous)
@@ -710,6 +711,12 @@ Libraries to help manage database schemas and migrations.
 
 * [Aura.Intl](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
 * [Cake I18n](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers (CP)
+
+### Serverless
+*Libraries and tools to help build serverless web applications.*
+
+* [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
+* [Serverless Framework](https://serverless.com/framework/) - An open source framework for building serverless applications.
 
 ### Third Party APIs
 *Libraries for accessing third party APIs.*
