@@ -806,7 +806,7 @@ Libraries to help manage database schemas and migrations.
 ### Virtual Machines
 *Alternative PHP virtual machines.*
 
-* [Hack](https://hacklang.org/) - A programming language for HHVM that interoperates seamlessly with PHP.
+* [Hack](https://hacklang.org/) - A programming language for HHVM.
 * [HHVM](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 
 ### Text Editors and IDEs
