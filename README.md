@@ -151,7 +151,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Hoa Project](https://hoa-project.net/En/) - Another package of PHP components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
 * [Symfony Components](https://symfony.com/doc/master/components/index.html) - The components that make Symfony.
-* [Zend Framework 2 Components](https://docs.zendframework.com/) - The components that make Zend Framework.
+* [Zend Framework Components](https://docs.zendframework.com/) - The components that make Zend Framework.
 
 ### Micro Frameworks
 *Micro frameworks and routers.*
