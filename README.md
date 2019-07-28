@@ -812,6 +812,7 @@ Libraries to help manage database schemas and migrations.
 ### Text Editors and IDEs
 *Text Editors and Integrated Development Environments (IDE) with support for PHP.*
 
+* [Adobe Brackets](http://brackets.io/) - A modern, open source text editor that understands PHP.
 * [Atom](https://atom.io/) - A hackable text editor.
 * [Atom IDE](https://ide.atom.io/) - An IDE extension for Atom.
 * [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - A PHP IDE based on the Eclipse platform.
