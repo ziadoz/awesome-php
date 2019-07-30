@@ -791,6 +791,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP Build](https://github.com/php-build/php-build) - Another PHP version installer.
 * [PHP OSX](https://php-osx.liip.ch/) - A PHP installer for OSX.
 * [VirtPHP](http://virtphp.org/) - A tool for creating and managing isolated PHP environments.
+* [ASDF](https://github.com/odarriba/asdf-php) - Manage multiple runtime versions with a single CLI tool, here is the php plugin.
 
 ### Development Environment
 *Software and tools for creating a sandboxed development environment.*
