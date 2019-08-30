@@ -430,6 +430,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Box](https://github.com/humbug/box) - A utility to build PHAR files.
 * [Construct](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
 * [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
+* [WP Kickstart](https://produkte.webtimal.ch/wp-kickstart/) - A lightweight tool for automating WordPress installations.
 
 ### Task Runners
 *Libraries for automating and running tasks.*
