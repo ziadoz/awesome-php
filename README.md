@@ -808,6 +808,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Hack](https://hacklang.org/) - A programming language for HHVM.
 * [HHVM](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
+* [jPHP](https://github.com/jphp-group/jphp/) - A new implementation for PHP which uses the Java VM.
 
 ### Text Editors and IDEs
 *Text Editors and Integrated Development Environments (IDE) with support for PHP.*
