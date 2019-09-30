@@ -120,7 +120,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CakePHP](https://cakephp.org/) - A rapid application development framework (CP).
 * [Laravel 6](https://laravel.com/) - Another PHP framework (L6).
 * [Nette](https://nette.org) - Another framework comprised of individual components.
-* [Phalcon](https://phalconphp.com/en/) - A framework implemented as a C extension.
+* [Phalcon](https://phalcon.io/en/) - A framework implemented as a C extension.
 * [PPI Framework 2](https://github.com/ppi) - An interoperability framework.
 * [Symfony](https://symfony.com/) - A framework comprised of individual components (SF).
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
@@ -422,7 +422,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
-* [Z-Ray](https://www.zend.com/en/products/server/z-ray) - A debug and profile tool for Zend Server.
+* [Z-Ray](https://www.zend.com/products/server/z-ray) - A debug and profile tool for Zend Server.
 
 ### Build Tools
 *Project build and automation tools.*
@@ -719,7 +719,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
 * [OpenWhisk](http://openwhisk.apache.org/) - An open source serverless cloud platform.
-* [Serverless Framework](https://serverless.com/framework/) - An open source framework for building serverless applications.
+* [Serverless Framework](https://serverless.com/cli/) - An open source framework for building serverless applications.
 
 ## Configuration
 *Libraries and tools for configuration.**
@@ -868,7 +868,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Semantic Versioning](https://semver.org/) - A website explaining semantic versioning.
 * [Servers for Hackers](https://serversforhackers.com/) - A newsletter about server management.
 * [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) - An open software security community.
-* [WebSec IO](https://websec.io/) - A web security community resource.
 
 ### PHP Books
 *Fantastic PHP-related books.*
