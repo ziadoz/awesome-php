@@ -509,6 +509,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPPdf](https://github.com/psliwa/PHPPdf) - A library for generating PDFs and images from XML.
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 * [WKHTMLToPDF](https://github.com/wkhtmltopdf/wkhtmltopdf) - A tool to convert HTML to PDF.
+* [TCPDF](https://github.com/tecnickcom/TCPDF) - Feature rich standalone PDF generator.
 
 ### Office
 *Libraries for working with office suite documents.*
@@ -819,6 +820,7 @@ Libraries to help manage database schemas and migrations.
 * [Netbeans](https://netbeans.org) - An IDE with support for PHP and HTML5.
 * [PhpStorm](https://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
 * [VS Code](https://code.visualstudio.com/) - An open source code editor.
+* [PhpEd](http://www.nusphere.com/products/phped.htm/) - An IDE with professional commercial debugger.
 
 ### Web Applications
 *Web-based applications and tools.*
