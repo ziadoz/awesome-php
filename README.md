@@ -121,7 +121,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CakePHP](https://cakephp.org/) - A rapid application development framework (CP).
 * [Laravel 6](https://laravel.com/) - Another PHP framework (L6).
 * [Nette](https://nette.org) - Another framework comprised of individual components.
-* [Phalcon](https://phalcon.io/en-us/ ) - A framework implemented as a C extension.
+* [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
 * [PPI Framework 2](https://github.com/ppi) - An interoperability framework.
 * [Symfony](https://symfony.com/) - A framework comprised of individual components (SF).
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
