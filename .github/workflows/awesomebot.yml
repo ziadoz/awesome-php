@@ -1,0 +1,18 @@
+name: Awesome Bot
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+    - name: Install Awesome Bot
+      run: gem install awesome_bot
+    - name: Run Awesome Bot
+      run: awesome_bot README.md --white-list igor.io,symfony,toranproxy.com,vagrantup.com,3v4l.org,voicesoftheelephpant.com,drupal.org
