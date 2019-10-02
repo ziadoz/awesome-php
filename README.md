@@ -20,6 +20,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Templating](#templating)
     - [Static Site Generators](#static-site-generators)
     - [HTTP](#http)
+    - [Scraping](#scraping)
     - [Middlewares](#middlewares)
     - [URL](#url)
     - [Email](#email)
