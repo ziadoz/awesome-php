@@ -143,6 +143,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
 * [WordPress](https://wordpress.org/) A blogging platform and CMS.
+* [ProcessWire](https://processwire.com) A powerful CMS with an API both CMS / CMF
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
