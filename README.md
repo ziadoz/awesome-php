@@ -610,6 +610,7 @@ Libraries to help manage database schemas and migrations.
 * [Emoji](https://github.com/heyupdate/Emoji) - A library that converts unicode characters and names into emoji images.
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
+* [HtmlMin](https://github.com/voku/HtmlMin) - An HTML compressor and minifier library.
 * [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
 * [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
 
