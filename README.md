@@ -400,6 +400,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Architectural
 *Libraries related to design patterns, programming approaches and ways to organize code.*
 
+* [Arrayy](https://github.com/voku/Arrayy) - A library that provides array/iterator manipulation.
 * [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP) - A repository of software patterns implemented in PHP.
 * [Finite](https://yohan.giarel.li/Finite/) - A simple PHP finite state machine.
 * [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
