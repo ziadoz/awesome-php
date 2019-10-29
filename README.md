@@ -723,7 +723,7 @@ Libraries to help manage database schemas and migrations.
 * [Serverless Framework](https://serverless.com/cli/) - An open source framework for building serverless applications.
 
 ## Configuration
-*Libraries and tools for configuration.**
+*Libraries and tools for configuration.*
 
 * [PHP Dotenv](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
 * [Symfony Dotenv](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
