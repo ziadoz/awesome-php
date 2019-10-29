@@ -446,7 +446,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Tools for building navigation structures.*
 
 * [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
-* [Menu](https://github.com/spatie/menu) - Very flexible menu library with fluent interface.
+* [Menu](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
 
 ### Asset Management
 *Tools for managing, compressing and minifying website assets.*
