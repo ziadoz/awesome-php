@@ -152,6 +152,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CakePHP Plugins](https://plugins.cakephp.org/) - A directory of CakePHP plugins.
 * [Hoa Project](https://hoa-project.net/En/) - Another package of PHP components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
+* [Spatie Open Source](https://spatie.be/open-source/packages) - A collection of open source PHP and Laravel packages.
 * [Symfony Components](https://symfony.com/doc/master/components/index.html) - The components that make Symfony.
 * [Zend Framework Components](https://docs.zendframework.com/) - The components that make Zend Framework.
 
