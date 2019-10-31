@@ -325,6 +325,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [SemaphoreCI](https://semaphoreci.com/) - A continuous integration platform for open source and private projects.
 * [Shippable](https://www.shippable.com/) - A Docker based continious integration platform for open source and private projects.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
+* [Setup PHP](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
 
 ### Documentation
 *Libraries for generating project documentation.*
