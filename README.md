@@ -418,6 +418,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
 * [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
 * [Blackfire.io](https://blackfire.io) - A low-overhead code profiler.
+* [Dephpugger](http://dephpugger.com) - A debugger to use in terminal.
 * [Kint](https://github.com/kint-php/kint) - A debugging and profiling tool.
 * [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
