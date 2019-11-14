@@ -666,6 +666,7 @@ Libraries to help manage database schemas and migrations.
 
 * [API Platform](https://api-platform.com ) - Expose in minutes an hypermedia REST API that embraces JSON-LD, Hydra format.
 * [Apigility](https://github.com/zfcampus/zf-apigility-skeleton) - An API builder built with Zend Framework 2.
+* [Bearer](https://www.bearer.sh) - Consume any APIs with Bearer's PHP client.
 * [Drest](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
 * [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
 * [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
