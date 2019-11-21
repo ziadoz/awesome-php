@@ -142,6 +142,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Drupal](https://www.drupal.org) - An enterprise level CMS.
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
+* [Magento](https://magento.com/) - The most popular ecommerce platform.
 * [WordPress](https://wordpress.org/) A blogging platform and CMS.
 
 ### Components
@@ -151,6 +152,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CakePHP Plugins](https://plugins.cakephp.org/) - A directory of CakePHP plugins.
 * [Hoa Project](https://hoa-project.net/En/) - Another package of PHP components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
+* [Spatie Open Source](https://spatie.be/open-source/packages) - A collection of open source PHP and Laravel packages.
 * [Symfony Components](https://symfony.com/doc/master/components/index.html) - The components that make Symfony.
 * [Zend Framework Components](https://docs.zendframework.com/) - The components that make Zend Framework.
 
@@ -323,6 +325,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [SemaphoreCI](https://semaphoreci.com/) - A continuous integration platform for open source and private projects.
 * [Shippable](https://www.shippable.com/) - A Docker based continious integration platform for open source and private projects.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
+* [Setup PHP](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
 
 ### Documentation
 *Libraries for generating project documentation.*
@@ -388,6 +391,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries for performing static analysis of PHP code.*
 
 * [Exakat](https://github.com/exakat/exakat) - A static analysis engine for PHP.
+* [Deptrac](https://github.com/sensiolabs-de/deptrac) - A static code analysis tool that helps to enforce rules for dependencies between software layers.
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 * [phan](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
 * [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
@@ -444,6 +448,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Tools for building navigation structures.*
 
 * [KnpMenu](https://github.com/KnpLabs/KnpMenu) - A menu library.
+* [Menu](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
 
 ### Asset Management
 *Tools for managing, compressing and minifying website assets.*
@@ -481,8 +486,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Hoa EventSource](https://github.com/hoaproject/Eventsource) - An event source library.
 * [Hoa WebSocket](https://github.com/hoaproject/Websocket) - Another web socket library.
 * [Prooph Event Store](https://github.com/prooph/event-store) - An event source component to persist event messages
+* [PHP Defer](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
 * [Ratchet](https://github.com/ratchetphp/Ratchet) - A web socket library.
-* [React](https://github.com/reactphp/react) - An event driven non-blocking I/O library.
+* [React](https://github.com/reactphp/reactphp) - An event driven non-blocking I/O library.
 * [RxPHP](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
 * [Swoole](https://github.com/swoole/swoole-src) - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
 * [Workerman](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
@@ -625,6 +631,7 @@ Libraries to help manage database schemas and migrations.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
 * [Portable ASCII](https://github.com/voku/portable-ascii) - A library to convert strings to ascii.
+* [Portable UTF-8](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
 * [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
 * [Stringy](https://github.com/danielstjules/Stringy) - A string manipulation library with multibyte support.
@@ -724,7 +731,7 @@ Libraries to help manage database schemas and migrations.
 * [Serverless Framework](https://serverless.com/cli/) - An open source framework for building serverless applications.
 
 ## Configuration
-*Libraries and tools for configuration.**
+*Libraries and tools for configuration.*
 
 * [PHP Dotenv](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
 * [Symfony Dotenv](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
@@ -761,6 +768,7 @@ Libraries to help manage database schemas and migrations.
 * [Hprose-PHP](https://github.com/hprose/hprose-php) - A very newbility RPC Library, support 25+ languages now.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 * [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) - A library for validating JSONP callbacks.
+* [Lock](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 * [Nmap](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](https://nmap.org/).
@@ -911,9 +919,10 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ### PHP Podcasts
 *Podcasts with a focus on PHP topics.*
 
+* [PHP Internals New](https://phpinternals.news) - A podcast about PHP internals.
+* [PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 * [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com/) Interviews with the people that make the PHP community special.
-* [PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 
 ### PHP Reading
 *PHP-releated reading materials.*
