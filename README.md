@@ -143,6 +143,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
 * [Magento](https://magento.com/) - The most popular ecommerce platform.
+* [ProcessWire](https://processwire.com/) An open source CMS with a powerful API.
 * [WordPress](https://wordpress.org/) A blogging platform and CMS.
 
 ### Components
