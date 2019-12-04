@@ -554,6 +554,7 @@ Libraries to help manage database schemas and migrations.
 
 * [PHPMongo](https://github.com/sokil/php-mongo) - A MongoDB ORM.
 * [Predis](https://github.com/nrk/predis) - A feature complete Redis library.
+* [PDONoSql](https://github.com/HeavenMercy/PDONoSQL) - A **PHP PDO-based module** to communicate with **SQL databases** using a kind of **NoSQL abstraction**. *(Not for NoSQL databases, I admit)*
 
 ### Queue
 *Libraries for working with event and task queues.*
