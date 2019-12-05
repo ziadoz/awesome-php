@@ -728,6 +728,7 @@ Libraries to help manage database schemas and migrations.
 * [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
 * [OpenWhisk](http://openwhisk.apache.org/) - An open source serverless cloud platform.
 * [Serverless Framework](https://serverless.com/cli/) - An open source framework for building serverless applications.
+* [Laravel Vapor](https://vapor.laravel.com/) - Serverless deployment platform for Laravel, powered by AWS.
 
 ## Configuration
 *Libraries and tools for configuration.*
