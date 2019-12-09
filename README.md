@@ -333,7 +333,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
 * [daux.io](https://github.com/justinwalsh/daux.io) - A documentation generator which uses Markdown files.
-* [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor2) - A documentation generator.
+* [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor) - A documentation generator.
 * [phpDox](http://phpdox.de/) - A documentation generator for PHP projects (that is not limited to API documentation).
 * [Sami](https://github.com/FriendsOfPHP/Sami) - An API documentation generator.
 
@@ -655,7 +655,7 @@ Libraries to help manage database schemas and migrations.
 * [Cake Validation](https://github.com/cakephp/validation) - Another validation library (CP).
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
-* [JSON Schema](https://github.com/justinrainbow/json-schema) - A [JSON Schema](http://json-schema.org) validation library.
+* [JSON Schema](https://github.com/justinrainbow/json-schema) - A [JSON Schema](https://json-schema.org/) validation library.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 * [Respect Validation](https://github.com/Respect/Validation) - A simple validation library.
 * [Upload](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
@@ -859,7 +859,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
 * [PHP Best Practices](https://phpbestpractices.org/) - A PHP best practice guide.
 * [PHP FIG](https://www.php-fig.org/) - The PHP Framework Interoperability Group.
-* [PHP Mentoring](https://php-mentoring.org/) - Peer to peer PHP mentorship organization.
 * [PHP Package Development Standards](http://php-pds.com) - Package development standards for PHP.
 * [PHP School](https://www.phpschool.io/) - Open Source Learning for PHP.
 * [PHP Security](https://phpsecurity.readthedocs.io/en/latest/index.html) - A guide to PHP security.
