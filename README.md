@@ -143,8 +143,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
 * [Magento](https://magento.com/) - The most popular ecommerce platform.
-* [WordPress](https://wordpress.org/) A blogging platform and CMS.
-* [Moodle](https://moodle.org/) Open-source learning platform.
+* [WordPress](https://wordpress.org/) - A blogging platform and CMS.
+* [Moodle](https://moodle.org/) - An open-source learning platform.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
@@ -729,7 +729,7 @@ Libraries to help manage database schemas and migrations.
 * [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
 * [OpenWhisk](http://openwhisk.apache.org/) - An open source serverless cloud platform.
 * [Serverless Framework](https://serverless.com/cli/) - An open source framework for building serverless applications.
-* [Laravel Vapor](https://vapor.laravel.com/) - Serverless deployment platform for Laravel, powered by AWS.
+* [Laravel Vapor](https://vapor.laravel.com/) - A serverless deployment platform for Laravel, powered by AWS.
 
 ## Configuration
 *Libraries and tools for configuration.*
