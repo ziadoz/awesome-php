@@ -849,7 +849,7 @@ Libraries to help manage database schemas and migrations.
 *Text Editors and Integrated Development Environments (IDE) with support for PHP.*
 
 * [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - A PHP IDE based on the Eclipse platform.
-* [Netbeans](https://netbeans.org) - An IDE with support for PHP and HTML5.
+* [Apache NetBeans](https://netbeans.apache.org/) - An IDE with support for PHP and HTML5.
 * [PhpStorm](https://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
 * [VS Code](https://code.visualstudio.com/) - An open source code editor.
 
