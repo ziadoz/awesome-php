@@ -145,6 +145,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Magento](https://magento.com/) - The most popular ecommerce platform.
 * [WordPress](https://wordpress.org/) - A blogging platform and CMS.
 * [Moodle](https://moodle.org/) - An open-source learning platform.
+* [Silverstripe CMS](https://www.silverstripe.org/software/cms/) - A flexibility open-source CMS.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
