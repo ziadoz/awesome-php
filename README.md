@@ -845,6 +845,7 @@ Libraries to help manage database schemas and migrations.
 * [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
 * [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
 * [Lychee](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
+* [Leantime](https://leantime.io) - Lean project management system for small teams and startups
 
 ### Infrastructure
 *Infrastructure for providing PHP applications and services.*
