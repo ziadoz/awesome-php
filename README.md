@@ -223,6 +223,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A simple web scraper.
 * [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
 * [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
+* [Spider](https://github.com/Mediashare/Spider) - A website crawler easily modulable.
 
 ### Middlewares
 *Libraries for building application using middlewares.*
