@@ -807,6 +807,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP Build](https://github.com/php-build/php-build) - Another PHP version installer.
 * [PHP OSX](https://php-osx.liip.ch/) - A PHP installer for OSX.
 * [VirtPHP](http://virtphp.org/) - A tool for creating and managing isolated PHP environments.
+* [PHP Static](https://github.com/phpstatic/phpstatic.com) A tools to provide PHP packages without dependency hell.
 
 ### Development Environment
 *Software and tools for creating a sandboxed development environment.*
