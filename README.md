@@ -209,10 +209,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Scraping
 *Libraries for scraping websites.*
 
+* [DiDOM](https://github.com/Imangazaliev/DiDOM) - super fast HTML scrapper/parser (because it was build on top of plain PHP).
 * [Embed](https://github.com/oscarotero/Embed) - An information extractor from any web service or page.
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A simple web scraper.
 * [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
-* [DiDOM](https://github.com/Imangazaliev/DiDOM) - super fast HTML scrapper/parser (because it was build on top of plain PHP).
 
 ## Middlewares
 *Libraries for building application using middlewares.*
