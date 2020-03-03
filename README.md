@@ -165,6 +165,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.
 * [Expressive](https://getexpressive.org/) - A micro-framework by Zend.
+* [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
 
 ### Micro Framework Extras
 *Extras related to micro frameworks and routers.*
