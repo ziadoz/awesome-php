@@ -133,6 +133,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 * [Knp RAD Components](https://rad.knplabs.com/) - A set of Rapid Application Development (RAD) components for Symfony.
+* [LaravelS](https://github.com/hhxsv5/laravel-s) - A glue that is used to quickly integrate Swoole into Laravel or Lumen, and then give them better performance and more possibilities.
 * [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - A Content Management Framework to create custom CMS.
 
 ### Content Management Systems (CMS)
