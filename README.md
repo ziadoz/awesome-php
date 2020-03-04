@@ -878,6 +878,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Securing PHP](https://www.securingphp.com/) - A newsletter about PHP security and library recommendations.
 * [Seven PHP](https://7php.com/) - A website that interviews members of the PHP community.
 * [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/) - A monthly digest of PHP news.
+* [FastSitePHP Code Playground](https://www.fastsitephp.com/en/playground) - Create Temporary PHP Sites with 1 button click on a live Linux Server.
 
 ### Other Websites
 *Useful websites related to web development.*
