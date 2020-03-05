@@ -816,6 +816,7 @@ Libraries to help manage database schemas and migrations.
 *Software and tools for creating a sandboxed development environment.*
 
 * [Ansible](https://www.ansible.com/) - A radically simple orchestration framework.
+* [Nanobox](https://nanobox.io/) - A micro-PaaS (μPaaS) for creating consistent, isolated PHP environments deployable anywhere.
 * [Phansible](http://phansible.com/) - A web tool for building PHP development virtual machines with Ansible.
 * [Protobox](https://www.getprotobox.com/) - Another web tool for building PHP development virtual machines.
 * [PuPHPet](https://puphpet.com/) - A web tool for building PHP development virtual machines.
