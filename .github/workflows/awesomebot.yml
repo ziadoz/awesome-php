@@ -20,4 +20,4 @@ jobs:
       if: failure()
       with:
         name: ab-results
-        path: ab-results-README.md.json
+        path: ab-results-README.md-filtered.json
