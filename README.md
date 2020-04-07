@@ -879,6 +879,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Securing PHP](https://www.securingphp.com/) - A newsletter about PHP security and library recommendations.
 * [Seven PHP](https://7php.com/) - A website that interviews members of the PHP community.
 * [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/) - A monthly digest of PHP news.
+* [PHP.Watch](https://php.watch/versions) - A web site to track and learn what's new and changing in PHP versions.
 
 ### Other Websites
 *Useful websites related to web development.*
