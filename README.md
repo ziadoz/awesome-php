@@ -798,6 +798,8 @@ Libraries to help manage database schemas and migrations.
 * [Symfony VarDumper](https://github.com/symfony/var-dumper) - A variable dumper component (SF).
 * [Underscore](https://anahkiasen.github.io/underscore-php/) - A PHP port of the Underscore JS library.
 * [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
+* [myclabs/php-enum](myclabs/php-enum) - A PHP Enum type implementation
+* [PaLabs/php-enum](https://github.com/PaLabs/php-enum) - A Java-like php Enum implementation
 
 # Software
 *Software for creating a development environment.*
