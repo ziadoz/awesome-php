@@ -127,6 +127,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
 * [Zend Framework 3](https://framework.zend.com/learn) - A framework comprised of individual components (ZF3).
 * [Ice](https://www.iceframework.org/) - Another simple and fast PHP framework delivered as C-extension.
+* [Ecotone](https://docs.ecotone.tech/) - Enables message driven architecture and provides building blocks to follow DDD and CQRS principles.
 
 ### Framework Extras
 *Extras related to web development frameworks.*
