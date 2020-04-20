@@ -730,6 +730,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Aura.Intl](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
 * [Cake I18n](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers (CP)
+* [php-isocodes](https://github.com/sokil/php-isocodes) - PHP library providing ISO codes with localization: country (ISO 3166-1), subdivision (ISO 3166-2), language (ISO 639-3), currency (ISO 4217) and scripts (ISO 15924)
 
 ### Serverless
 *Libraries and tools to help build serverless web applications.*
