@@ -293,6 +293,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Imagine](https://imagine.readthedocs.io/en/latest/index.html) - An image manipulation library.
 * [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
 * [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
+* [imgix-php](https://docs.imgix.com/libraries/imgix-php) - Easily update image urls to be fast and responsive.
 
 ### Testing
 *Libraries for testing codebases and generating test data.*
