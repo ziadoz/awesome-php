@@ -249,7 +249,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 * [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [Mandrill](https://mailchimp.com/features/transactional-email/).
 * [SwiftMailer](https://swiftmailer.symfony.com) - A mailer solution.
-* [Symfony Mailer](https://symfony.com/mailer) - The Mailer component helps sending emails.
+* [Symfony Mailer](https://github.com/symfony/mailer) - The Mailer component helps sending emails.
 
 ### Files
 *Libraries for file manipulation and MIME type detection.*
