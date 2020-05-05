@@ -916,6 +916,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
 * [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 * [Taking PHP Seriously](https://www.infoq.com/presentations/php-history/) - A talk outlining PHP's strengths by Keith Adams of Facebook.
+* [Laracasts](https://laracasts.com) - Video series about PHP programming but also generally OOP, Tools/Frameworks/IDEs, HTML/CSS/JavaScript, Testing, and of course, Laravel. Many videos are free.
 
 ### PHP Podcasts
 *Podcasts with a focus on PHP topics.*
