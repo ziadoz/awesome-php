@@ -110,7 +110,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Composed](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
 * [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several composer.json files.
 * [Prestissimo](https://github.com/hirak/prestissimo) - A composer plugin which enables parallel install process.
-* [Repman](https://repman.io) - Private PHP package repository manager & packagist proxy
+* [Repman](https://repman.io) - A private PHP package repository manager and Packagist proxy.
 * [Satis](https://github.com/composer/satis) - A static Composer repository generator.
 * [tooly](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in project using Composer.
 * [Toran Proxy](https://toranproxy.com) - A static Composer repository and proxy.
