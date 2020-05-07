@@ -342,18 +342,20 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Sami](https://github.com/FriendsOfPHP/Sami) - An API documentation generator.
 
 ### Security
-*Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
+*Libraries for generating secure random numbers, encrypting data and scanning and testing for vulnerabilities.*
 
 * [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium).
 * [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [IniScan](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 * [Optimus](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
+* [PHPGGC](https://github.com/ambionics/phpggc) - A library of PHP unserializeable payloads along with a tool to generate them.
 * [PHP Encryption](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
 * [PHP SSH](https://github.com/Herzult/php-ssh) - An experimental object orientated SSH wrapper library.
 * [PHPSecLib](http://phpseclib.sourceforge.net/) - A pure PHP secure communications library.
 * [random_compat](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
 * [RandomLib](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
 * [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
+* [SQLMap](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool. 
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 * [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
 * [Zed](https://owasp.org/www-project-zap/) - An integrated penetration testing tool for web applications.
