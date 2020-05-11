@@ -816,10 +816,10 @@ Libraries to help manage database schemas and migrations.
 *Software and tools for creating a sandboxed development environment.*
 
 * [Ansible](https://www.ansible.com/) - A radically simple orchestration framework.
-* [Puppet](https://puppet.com/) - A server automation framework and application.
-* [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
 * [Docker](https://www.docker.com/) - A containerization platform.
 * [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
+* [Puppet](https://puppet.com/) - A server automation framework and application.
+* [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
 
 ### Virtual Machines
 *Alternative PHP virtual machines.*
