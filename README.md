@@ -82,6 +82,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [PHP Websites](#php-websites)
     - [Other Websites](#other-websites)
     - [PHP Books](#php-books)
+    - [Other Books](#other-books)
     - [PHP Videos](#php-videos)
     - [PHP Podcasts](#php-podcasts)
     - [PHP Reading](#php-reading)
