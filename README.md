@@ -94,7 +94,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Packagist](https://packagist.org/) - The PHP Package Repository.
 * [Private Packagist](https://packagist.com/) - Composer package archive as a service for PHP.
 * [WordPress Packagist](https://wpackagist.org/) - Manage your plugins with Composer.
-* [Zend Framework Packages](https://packages.zendframework.com/) - Zend Framework Composer Repository.
 
 ### Dependency Management
 *Libraries for dependency and package management.*
@@ -120,13 +119,12 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Aura Framework](http://auraphp.com/framework/) - A framework built from independent components.
 * [CakePHP](https://cakephp.org/) - A rapid application development framework (CP).
-* [Laravel 6](https://laravel.com/) - Another PHP framework (L6).
+* [Laravel](https://laravel.com/) - Another PHP framework.
 * [Nette](https://nette.org) - Another framework comprised of individual components.
 * [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
-* [PPI Framework 2](https://github.com/ppi) - An interoperability framework.
-* [Symfony](https://symfony.com/) - A framework comprised of individual components (SF).
+* [Symfony](https://symfony.com/) - A framework comprised of individual components.
 * [Yii2](https://github.com/yiisoft/yii2/) - Another PHP framework.
-* [Zend Framework 3](https://framework.zend.com/learn) - A framework comprised of individual components (ZF3).
+* [Laminas](https://getlaminas.org/) - A framework comprised of individual components (previously Zend Framework).
 * [Ice](https://www.iceframework.org/) - Another simple and fast PHP framework delivered as C-extension.
 
 ### Framework Extras
@@ -154,10 +152,11 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Aura](http://auraphp.com/) - Independent components, fully decoupled from each other and from any framework.
 * [CakePHP Plugins](https://plugins.cakephp.org/) - A directory of CakePHP plugins.
 * [Hoa Project](https://hoa-project.net/En/) - Another package of PHP components.
+* [Laravel Components](https://github.com/illuminate) - The Laravel Framework components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
 * [Spatie Open Source](https://spatie.be/open-source/packages) - A collection of open source PHP and Laravel packages.
 * [Symfony Components](https://symfony.com/doc/master/components/index.html) - The components that make Symfony.
-* [Zend Framework Components](https://docs.zendframework.com/) - The components that make Zend Framework.
+* [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
 
 ### Micro Frameworks
 *Micro frameworks and routers.*
@@ -165,9 +164,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
 * [Lumen](https://lumen.laravel.com) - A micro-framework by Laravel.
+* [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.
-* [Expressive](https://getexpressive.org/) - A micro-framework by Zend.
 
 ### Micro Framework Extras
 *Extras related to micro frameworks and routers.*
@@ -212,7 +211,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
 * [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
 * [Symfony HTTP Client](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
-* [zend-diactoros](https://github.com/zendframework/zend-diactoros) - PSR-7 HTTP Message implementation.
+* [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
 
 ### Scraping
 *Libraries for scraping websites.*
@@ -226,11 +225,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Middlewares
 *Libraries for building application using middlewares.*
 
-* [Expressive](https://zendframework.github.io/zend-expressive/) - PSR-7 Middleware framework from Zend.
 * [PSR7-Middlewares](https://github.com/oscarotero/psr7-middlewares) - Inspiring collection of handy middlewares.
 * [Relay](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
 * [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
-* [zend-stratigility](https://github.com/zendframework/zend-stratigility) - Middleware for PHP built on top of PSR-7.
+* [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
 
 ### URL
 *Libraries for parsing URLs.*
@@ -277,7 +275,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Disco](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
 * [PHP-DI](http://php-di.org/) - A dependency injection container that supports autowiring.
 * [Pimple](https://pimple.symfony.com/) - A tiny dependency injection container.
-* [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component (SF).
+* [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
 
 ### Imagery
 *Libraries for manipulating images.*
@@ -540,7 +538,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Cycle ORM](https://github.com/cycle/orm) - PHP DataMapper, ORM.
 * [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 * [Doctrine](https://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
-* [Eloquent](https://github.com/illuminate/database) - A simple ORM (L6).
+* [Laravel Eloquent](https://github.com/illuminate/database) - A simple ORM.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
 * [RedBean](https://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
@@ -672,7 +670,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries and web tools for developing APIs.*
 
 * [API Platform](https://api-platform.com ) - Expose in minutes an hypermedia REST API that embraces JSON-LD, Hydra format.
-* [Apigility](https://github.com/zfcampus/zf-apigility-skeleton) - An API builder built with Zend Framework 2.
+* [Laminas API Tool Skeleton](https://github.com/laminas-api-tools/api-tools-skeleton) - An API builder built with the Laminas Framework.
 * [Drest](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
 * [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
 * [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
@@ -690,7 +688,7 @@ Libraries to help manage database schemas and migrations.
 * [Doctrine Cache](https://github.com/doctrine/cache) - A caching library.
 * [Metaphore](https://github.com/sobstel/metaphore) - Cache slam defense using a semaphore to prevent dogpile effect.
 * [Stash](https://github.com/tedious/Stash) - Another library for caching.
-* [Zend Cache](https://github.com/zendframework/zend-cache) - Another caching library (ZF2).
+* [Laminas Cache](https://github.com/laminas/laminas-cache) - Another caching library.
 
 ### Data Structure and Storage
 *Libraries that implement data structure or storage techniques.*
@@ -706,7 +704,7 @@ Libraries to help manage database schemas and migrations.
 * [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction framework.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 * [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
-* [Zend Serializer](https://github.com/zendframework/zend-serializer) - Another library for serialising and de-serialising data (ZF2).
+* [Laminas Serializer](https://github.com/laminas/laminas-serializer) - Another library for serialising and de-serialising data.
 
 ### Notifications
 *Libraries for working with notification software.*
@@ -796,7 +794,7 @@ Libraries to help manage database schemas and migrations.
 * [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
-* [Symfony VarDumper](https://github.com/symfony/var-dumper) - A variable dumper component (SF).
+* [Symfony VarDumper](https://github.com/symfony/var-dumper) - A variable dumper component.
 * [Underscore](https://anahkiasen.github.io/underscore-php/) - A PHP port of the Underscore JS library.
 * [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
 
