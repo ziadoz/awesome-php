@@ -497,7 +497,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Prooph Event Store](https://github.com/prooph/event-store) - An event source component to persist event messages
 * [PHP Defer](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
 * [Ratchet](https://github.com/ratchetphp/Ratchet) - A web socket library.
-* [React](https://github.com/reactphp/reactphp) - An event driven non-blocking I/O library.
+* [ReactPHP](https://github.com/reactphp/reactphp) - An event driven non-blocking I/O library.
 * [RxPHP](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
 * [Swoole](https://github.com/swoole/swoole-src) - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
 * [Workerman](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
