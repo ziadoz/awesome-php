@@ -266,6 +266,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Streams
 *Libraries for working with streams.*
 
+* [ByteStream](https://amphp.org/byte-stream/) - An asynchronous stream abstraction.
 * [Streamer](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
 
 ### Dependency Injection
