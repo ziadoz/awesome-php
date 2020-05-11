@@ -415,6 +415,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
 * [Patchwork](http://patchwork2.org/) - A library for redefining userland functions.
 * [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
+* [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
+* [Ruler](https://github.com/bobthecow/Ruler) - A simple stateless production rules engine.
 * [RulerZ](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
 
 ### Debugging and Profiling
@@ -705,7 +707,6 @@ Libraries to help manage database schemas and migrations.
 * [Knapsack](https://github.com/DusanKasan/Knapsack) - Collection library inspired by Clojure's sequences.
 * [msgpack.php](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
 * [PINQ](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
-* [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction framework.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 * [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
 * [Laminas Serializer](https://github.com/laminas/laminas-serializer) - Another library for serialising and de-serialising data.
