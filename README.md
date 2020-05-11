@@ -143,6 +143,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
 * [Magento](https://magento.com/) - The most popular ecommerce platform.
+* [Pico CMS](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
 * [WordPress](https://wordpress.org/) - A blogging platform and CMS.
 * [Moodle](https://moodle.org/) - An open-source learning platform.
 
