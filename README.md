@@ -119,7 +119,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Web development frameworks.*
 
 * [Aura Framework](http://auraphp.com/framework/) - A framework built from independent components.
-* [CakePHP](https://cakephp.org/) - A rapid application development framework (CP).
+* [CakePHP](https://cakephp.org/) - A rapid application development framework.
 * [Laravel](https://laravel.com/) - Another PHP framework.
 * [Nette](https://nette.org) - Another framework comprised of individual components.
 * [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
@@ -482,7 +482,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries that are event-driven or implement non-blocking event loops.*
 * [Amp](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
 * [Broadway](https://github.com/broadway/broadway) - An event source and CQRS library.
-* [Cake Event](https://github.com/cakephp/event) - An event dispatcher library (CP).
+* [CakePHP Event](https://github.com/cakephp/event) - An event dispatcher library.
 * [Elephant.io](https://github.com/Wisembly/Elephant.io) - Yet another web socket library.
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
@@ -535,7 +535,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Aura.Sql](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
 * [Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
-* [Cake ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern (CP).
+* [CakePHP ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern.
 * [Cycle ORM](https://github.com/cycle/orm) - PHP DataMapper, ORM.
 * [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 * [Doctrine](https://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
@@ -657,7 +657,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Assert](https://github.com/beberlei/assert) - A validation library with a rich set of assertions. Supports assertion chaining and lazy assertions.
 * [Aura.Filter](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
-* [Cake Validation](https://github.com/cakephp/validation) - Another validation library (CP).
+* [CakePHP Validation](https://github.com/cakephp/validation) - Another validation library.
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
 * [JSON Schema](https://github.com/justinrainbow/json-schema) - A [JSON Schema](https://json-schema.org/) validation library.
@@ -685,7 +685,7 @@ Libraries to help manage database schemas and migrations.
 * [Alternative PHP Cache (APC)](https://www.php.net/manual/en/book.apc.php) - Open opcode cache for PHP.
 * [APIx Cache](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing.
 * [CacheTool](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
-* [Cake Cache](https://github.com/cakephp/cache) - A caching library (CP).
+* [CakePHP Cache](https://github.com/cakephp/cache) - A caching library.
 * [Doctrine Cache](https://github.com/doctrine/cache) - A caching library.
 * [Metaphore](https://github.com/sobstel/metaphore) - Cache slam defense using a semaphore to prevent dogpile effect.
 * [Stash](https://github.com/tedious/Stash) - Another library for caching.
@@ -694,7 +694,7 @@ Libraries to help manage database schemas and migrations.
 ### Data Structure and Storage
 *Libraries that implement data structure or storage techniques.*
 
-* [Cake Collection](https://github.com/cakephp/collection) - A simple collections library (CP).
+* [CakePHP Collection](https://github.com/cakephp/collection) - A simple collections library.
 * [Fractal](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
 * [Ginq](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
 * [JsonMapper](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
@@ -727,7 +727,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries for Internationalization (I18n) and Localization (L10n).*
 
 * [Aura.Intl](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
-* [Cake I18n](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers (CP)
+* [CakePHP I18n](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers.
 
 ### Serverless
 *Libraries and tools to help build serverless web applications.*
@@ -767,7 +767,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
 * [BotMan](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chat bots.
-* [Cake Utility](https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and Xml (CP).
+* [CakePHP Utility](https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and XML.
 * [Chief](https://github.com/adamnicholson/Chief) - A command bus library.
 * [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - A library for optimising autoloading.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
