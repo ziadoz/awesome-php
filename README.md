@@ -571,7 +571,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP AMQP](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
 * [Tarantool Queue](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
 * [Thumper](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
-* [Enqueue](https://github.com/php-enqueue/enqueue-dev) - Message queue packages for PHP. RabbitMQ, AMQP, STOMP, Amazon SQS, Redis, Doctrine transports. 
+* [Enqueue](https://github.com/php-enqueue/enqueue-dev) - A message queue packages for PHP that supports RabbitMQ, AMQP, STOMP, Amazon SQS, Redis and Doctrine transports. 
 
 ### Search
 *Libraries and software for indexing and performing search queries on data.*
