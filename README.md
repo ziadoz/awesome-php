@@ -931,6 +931,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ### PHP Podcasts
 *Podcasts with a focus on PHP topics.*
 
+* [Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
 * [PHP Internals New](https://phpinternals.news) - A podcast about PHP internals.
 * [PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 * [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
