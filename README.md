@@ -162,7 +162,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Micro Frameworks
 *Micro frameworks and routers.*
 
-* [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
 * [Lumen](https://lumen.laravel.com) - A micro-framework by Laravel.
 * [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
