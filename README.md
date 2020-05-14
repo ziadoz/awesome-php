@@ -256,7 +256,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries for file manipulation and MIME type detection.*
 
 * [CSV](https://github.com/thephpleague/csv) - A CSV data manipulation library.
-* [Flysystem](https://github.com/thephpleague/Flysystem) - Another filesystem abstraction layer.
+* [Flysystem](https://github.com/thephpleague/Flysystem) - Abstraction for local and remote filesystems.
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 * [Hoa Mime](https://github.com/hoaproject/Mime) - Another MIME detection library.
 * [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
