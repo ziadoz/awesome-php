@@ -643,7 +643,7 @@ Libraries to help manage database schemas and migrations.
 * [Portable UTF-8](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
 * [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
-* [Stringy](https://github.com/danielstjules/Stringy) - A string manipulation library with multibyte support.
+* [Stringy](https://github.com/voku/Stringy) - A string manipulation library with multibyte support.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
 * [URLify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
 * [UUID](https://github.com/ramsey/uuid) - A library for generating UUIDs.
