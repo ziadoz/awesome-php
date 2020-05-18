@@ -824,6 +824,7 @@ Libraries to help manage database schemas and migrations.
 * [Docker](https://www.docker.com/) - A containerization platform.
 * [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel. 
 * [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
+* [DockerStacks](https://docker-stacks.com/) - A Laradock GUI.
 * [Puppet](https://puppet.com/) - A server automation framework and application.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
 
