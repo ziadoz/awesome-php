@@ -336,6 +336,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor) - A documentation generator.
 * [phpDox](http://phpdox.de/) - A documentation generator for PHP projects (that is not limited to API documentation).
 * [Sami](https://github.com/FriendsOfPHP/Sami) - An API documentation generator.
+* [Swagger](https://github.com/zircote/swagger-php) - Generate interactive Swagger documentation for your RESTful API using doctrine annotations.
 
 ### Security
 *Libraries for generating secure random numbers, encrypting data and scanning and testing for vulnerabilities.*
