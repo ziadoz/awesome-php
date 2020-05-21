@@ -676,6 +676,7 @@ Libraries to help manage database schemas and migrations.
 ### API
 *Libraries and web tools for developing APIs.*
 
+* [API Generator](https://github.com/SoliDry/api-generator) - PHP-code generator (based on OAS) for Laravel framework, with complete support of JSON-API data format
 * [API Platform](https://api-platform.com ) - Expose in minutes an hypermedia REST API that embraces JSON-LD, Hydra format.
 * [Laminas API Tool Skeleton](https://github.com/laminas-api-tools/api-tools-skeleton) - An API builder built with the Laminas Framework.
 * [Drest](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
