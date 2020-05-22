@@ -837,7 +837,6 @@ Libraries to help manage database schemas and migrations.
 ### Text Editors and IDEs
 *Text Editors and Integrated Development Environments (IDE) with support for PHP.*
 
-* [Atom IDE](https://ide.atom.io/) - An IDE extension for Atom.
 * [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - A PHP IDE based on the Eclipse platform.
 * [Netbeans](https://netbeans.org) - An IDE with support for PHP and HTML5.
 * [PhpStorm](https://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
