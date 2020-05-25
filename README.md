@@ -803,6 +803,7 @@ Libraries to help manage database schemas and migrations.
 * [Symfony VarDumper](https://github.com/symfony/var-dumper) - A variable dumper component.
 * [Underscore](https://anahkiasen.github.io/underscore-php/) - A PHP port of the Underscore JS library.
 * [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
+* [Bottomline](https://github.com/maciejczyzewski/bottomline) - bottomline is a PHP utility library, similar to Underscore/Lodash.
 
 # Software
 *Software for creating a development environment.*
