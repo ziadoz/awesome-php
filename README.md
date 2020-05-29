@@ -461,9 +461,11 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Tools for managing, compressing and minifying website assets.*
 
 * [JShrink](https://github.com/tedious/JShrink) - A JavaScript minifier library.
-* [Munee](https://github.com/meenie/munee) - An asset optimiser library.
-* [Puli](https://github.com/puli/repository) - A library for determining assets absolute paths.
-* [BowerPHP](https://github.com/Bee-Lab/bowerphp) - A PHP implementation of Bower. A package manager for the web
+* [Laravel Mix](https://github.com/JeffreyWay/laravel-mix) - An elegant wrapper around Webpack for the 80% use case.
+* [Symfony Asset](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets.
+* [Symfony Encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing and compiling assets built around Webpack.
+
+https://github.com/symfony/webpack-encore
 
 ### Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
