@@ -465,8 +465,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Symfony Asset](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets.
 * [Symfony Encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing and compiling assets built around Webpack.
 
-https://github.com/symfony/webpack-encore
-
 ### Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
