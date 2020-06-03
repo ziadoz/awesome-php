@@ -314,6 +314,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
 * [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
 * [VFS Stream](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
+* [Pest](https://pestphp.com/) - An elegant PHP testing framework for productivity.
 
 ### Continuous Integration
 *Libraries and applications for continuous integration.*
