@@ -123,6 +123,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Laravel](https://laravel.com/) - A web application framework with expressive, elegant syntax.
 * [Nette](https://nette.org) - A web framework comprised of mature components.
 * [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
+* [Spiral](https://spiral.dev/) - A high performance PHP/Go framework.
 * [Symfony](https://symfony.com/) - A set of reuseable components and a web framework.
 * [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
 
@@ -826,6 +827,7 @@ Libraries to help manage database schemas and migrations.
 * [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
 * [Puppet](https://puppet.com/) - A server automation framework and application.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
+* [Vessel](https://vessel.shippingdocker.com/) - Simple Docker development environments for Laravel.
 
 ### Virtual Machines
 *Alternative PHP virtual machines.*
@@ -930,7 +932,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *Podcasts with a focus on PHP topics.*
 
 * [Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
-* [PHP Internals New](https://phpinternals.news) - A podcast about PHP internals.
+* [PHP Internals News](https://phpinternals.news) - A podcast about PHP internals.
 * [PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 * [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com/) Interviews with the people that make the PHP community special.
@@ -955,6 +957,8 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ### PHP Internals Reading
 *Reading materials related to the PHP internals or performance.*
 
+* [Externals](https://externals.io/) - PHP internal discussions. 
+* [PHP RFC Watch](https://php-rfc-watch.beberlei.de/) - Watch the latest PHP [RFCs](https://wiki.php.net/rfc).
 * [Disproving the Single Quotes Myth](https://nikic.github.io/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - An article about performance of single and double quoted strings.
 * [How Big Are PHP Arrays (And Values) Really?](https://nikic.github.io/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html) - An article about array internals.
 * [How Foreach Works](https://stackoverflow.com/questions/10057671/how-does-php-foreach-actually-work/14854568#14854568) - A detailed StackOverflow answer about foreach.
