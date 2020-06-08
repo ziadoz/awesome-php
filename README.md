@@ -958,6 +958,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ### PHP Internals Reading
 *Reading materials related to the PHP internals or performance.*
 
+* [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (Request for Comments).
 * [Externals](https://externals.io/) - PHP internal discussions. 
 * [PHP RFC Watch](https://php-rfc-watch.beberlei.de/) - Watch the latest PHP [RFCs](https://wiki.php.net/rfc).
 * [Disproving the Single Quotes Myth](https://nikic.github.io/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - An article about performance of single and double quoted strings.
@@ -966,7 +967,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [How Long is a Piece of String](http://blog.golemon.com/2006/06/how-long-is-piece-of-string.html) - An article about string internals.
 * [PHP Evaluation Order](https://gist.github.com/nikic/6699370) - An article about evaluation order in PHP.
 * [PHP Internals Book](http://www.phpinternalsbook.com) - An online book about PHP internals, written by three core developers.
-* [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (Request for Comments).
 * [Print vs Echo, Which One is Faster?](http://fabien.potencier.org/print-vs-echo-which-one-is-faster.html) - An article about print and echo performance.
 * [The PHP Ternary Operator. Fast or Not?](http://fabien.potencier.org/the-php-ternary-operator-fast-or-not.html) - An article ternary performance.
 * [Understanding OpCodes](http://blog.golemon.com/2008/01/understanding-opcodes.html) - An article about opcodes.
