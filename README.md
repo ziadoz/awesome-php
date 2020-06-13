@@ -805,6 +805,7 @@ Libraries to help manage database schemas and migrations.
 * [Symfony VarDumper](https://github.com/symfony/var-dumper) - A variable dumper component.
 * [Underscore](https://anahkiasen.github.io/underscore-php/) - A PHP port of the Underscore JS library.
 * [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
+* [30 Seconds of PHP Code](https://github.com/appzcoder/30-seconds-of-php-code) - A curated collection of useful PHP snippets that you can understand in 30 seconds or less.
 
 # Software
 *Software for creating a development environment.*
