@@ -780,6 +780,7 @@ Libraries to help manage database schemas and migrations.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 * [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
 * [Essence](https://github.com/essence/essence) - A library for extracting web media.
+* [Ganesha](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
 * [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 * [Hprose-PHP](https://github.com/hprose/hprose-php) - A very newbility RPC Library, support 25+ languages now.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
