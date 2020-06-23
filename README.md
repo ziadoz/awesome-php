@@ -501,6 +501,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [RxPHP](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
 * [Swoole](https://github.com/swoole/swoole-src) - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
 * [Workerman](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
+* [Pub/Sub Redis PHP](https://github.com/RioRizkyRainey/pubsub-redis-php) - Simple event-driven asynchronous use Redis Pub/Sub for PHP
 
 ### Logging
 *Libraries for generating and working with log files.*
