@@ -496,12 +496,12 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Hoa WebSocket](https://github.com/hoaproject/Websocket) - Another web socket library.
 * [Prooph Event Store](https://github.com/prooph/event-store) - An event source component to persist event messages
 * [PHP Defer](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
+* [Pub/Sub Redis PHP](https://github.com/RioRizkyRainey/pubsub-redis-php) - Simple event-driven asynchronous use Redis Pub/Sub for PHP.
 * [Ratchet](https://github.com/ratchetphp/Ratchet) - A web socket library.
 * [ReactPHP](https://github.com/reactphp/reactphp) - An event driven non-blocking I/O library.
 * [RxPHP](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
 * [Swoole](https://github.com/swoole/swoole-src) - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
 * [Workerman](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
-* [Pub/Sub Redis PHP](https://github.com/RioRizkyRainey/pubsub-redis-php) - Simple event-driven asynchronous use Redis Pub/Sub for PHP
 
 ### Logging
 *Libraries for generating and working with log files.*
