@@ -422,7 +422,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [RulerZ](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
 
 ### Debugging and Profiling
-*Libraries and tools for debugging and profiling code.*
+*Libraries and tools for debugging errors and profiling code.*
 
 * [APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
 * [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
@@ -432,8 +432,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 * [PHPBench](https://github.com/phpbench/phpbench) - A benchmarking Framework.
 * [PHPSpy](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
+* [Symfony VarDumper](https://github.com/symfony/var-dumper) - A variable dumper component.
 * [Tideways.io](https://tideways.com/) - Monitoring and profiling tool.
 * [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
+* [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 * [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
@@ -780,6 +782,7 @@ Libraries to help manage database schemas and migrations.
 * [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 * [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
 * [Essence](https://github.com/essence/essence) - A library for extracting web media.
+* [Expose](https://github.com/beyondcode/expose) - An open source PHP tunneling service.
 * [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 * [Hprose-PHP](https://github.com/hprose/hprose-php) - A very newbility RPC Library, support 25+ languages now.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
@@ -802,9 +805,7 @@ Libraries to help manage database schemas and migrations.
 * [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 * [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
-* [Symfony VarDumper](https://github.com/symfony/var-dumper) - A variable dumper component.
 * [Underscore](https://anahkiasen.github.io/underscore-php/) - A PHP port of the Underscore JS library.
-* [Whoops](https://github.com/filp/whoops) - A pretty error handling library.
 
 # Software
 *Software for creating a development environment.*
