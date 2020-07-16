@@ -249,6 +249,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Fetch](https://github.com/tedious/Fetch) - An IMAP library.
 * [Mautic](https://github.com/mautic/mautic) - Email marketing automation
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
+* [PHP IMAP](https://github.com/barbushin/php-imap) - A library to access mailboxes via POP3, IMAP and NNTP.
 * [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [Mandrill](https://mailchimp.com/features/transactional-email/).
 * [SwiftMailer](https://swiftmailer.symfony.com) - A mailer solution.
 * [Symfony Mailer](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
@@ -355,7 +356,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [SQLMap](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool. 
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 * [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
-* [Zed](https://owasp.org/www-project-zap/) - An integrated penetration testing tool for web applications.
+* [Zap](https://owasp.org/www-project-zap/) - An integrated penetration testing tool for web applications.
 
 ### Passwords
 *Libraries and tools for working with and storing passwords.*
