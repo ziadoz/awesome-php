@@ -429,6 +429,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
 * [Blackfire.io](https://blackfire.io) - A low-overhead code profiler.
 * [Kint](https://github.com/kint-php/kint) - A debugging and profiling tool.
+* [PCOV](https://github.com/krakjoe/pcov) - A self contained code coverage compatible driver.
 * [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 * [PHPBench](https://github.com/phpbench/phpbench) - A benchmarking Framework.
