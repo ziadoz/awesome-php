@@ -897,6 +897,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Semantic Versioning](https://semver.org/) - A website explaining semantic versioning.
 * [Servers for Hackers](https://serversforhackers.com/) - A newsletter about server management.
 * [The Open Web Application Security Project (OWASP)](https://owasp.org/) - An open software security community.
+* [Beginner Project PHP SQL](https://github.com/fulldecent/beginner-project-php-sql) - An entry-level beginner project to learn PHP and SQL.
 
 ### PHP Books
 *Fantastic PHP-related books.*
