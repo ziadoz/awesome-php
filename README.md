@@ -126,6 +126,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Spiral](https://spiral.dev/) - A high performance PHP/Go framework.
 * [Symfony](https://symfony.com/) - A set of reuseable components and a web framework.
 * [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
+* [CodeIgniter](https://codeigniter.com/) - CodeIgniter is a powerful PHP framework with a very small footprint.
 
 ### Framework Extras
 *Extras related to web development frameworks.*
