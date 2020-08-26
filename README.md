@@ -789,6 +789,7 @@ Libraries to help manage database schemas and migrations.
 * [Hprose-PHP](https://github.com/hprose/hprose-php) - A very newbility RPC Library, support 25+ languages now.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 * [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) - A library for validating JSONP callbacks.
+- [LaraPersonate](https://github.com/SupianIDz/LaraPersonate) - Login as a different user quickly.
 * [Lock](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
