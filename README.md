@@ -374,7 +374,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries and tools for analysing, parsing and manipulating codebases.*
 
 * [Better Reflection](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
-* [Codeac](https://www.codeac.io/php.html?ref=awesome-php) - Automated code review tool integrates with GitHub, Bitbucket and GitLab (even self-hosted). Identifies complexty, architectre and security issues.
+* [Codeac](https://www.codeac.io/php.html?ref=awesome-php) - Automated code review tool integrates with GitHub, Bitbucket and GitLab (even self-hosted). Identifies complexty, architecture and security issues.
 * [Code Climate](https://codeclimate.com) - An automated code review.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
