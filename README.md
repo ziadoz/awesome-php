@@ -109,11 +109,12 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Composed](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
 * [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several composer.json files.
+* [Compoer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
+* [Composer Unused](https://github.com/composer-unused/composer-unused) - A CLI Tool to scan for unused composer packages.
 * [Prestissimo](https://github.com/hirak/prestissimo) - A composer plugin which enables parallel install process.
 * [Satis](https://github.com/composer/satis) - A static Composer repository generator.
 * [tooly](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in project using Composer.
 * [Toran Proxy](https://toranproxy.com) - A static Composer repository and proxy.
-* [Composer Unused](https://github.com/composer-unused/composer-unused) - A CLI Tool to scan for unused composer packages.
 
 ### Frameworks
 *Web development frameworks.*
