@@ -427,6 +427,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
 * [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
+* [Elastic APM PHP Agent](https://github.com/subzerobo/elastic-apm-php-agent) - PHP Agent for Elastic APM With Intake API v2 Support.
 * [Blackfire.io](https://blackfire.io) - A low-overhead code profiler.
 * [Kint](https://github.com/kint-php/kint) - A debugging and profiling tool.
 * [PCOV](https://github.com/krakjoe/pcov) - A self contained code coverage compatible driver.
