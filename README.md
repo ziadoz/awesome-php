@@ -155,7 +155,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Hoa Project](https://hoa-project.net/En/) - Another package of PHP components.
 * [Laravel Components](https://github.com/illuminate) - The Laravel Framework components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
-* [Spatie Open Source](https://spatie.be/open-source/packages) - A collection of open source PHP and Laravel packages.
+* [Spatie Open Source](https://spatie.be/open-source) - A collection of open source PHP and Laravel packages.
 * [Symfony Components](https://symfony.com/doc/master/components/index.html) - The components that make Symfony.
 * [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
 
