@@ -147,6 +147,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Pico CMS](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
 * [WordPress](https://wordpress.org/) - A blogging platform and CMS.
 * [Moodle](https://moodle.org/) - An open-source learning platform.
+* [LUYA](https://luya.io) - LUYA is a scalable web framework and content management based on the Yii2 Framework.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
