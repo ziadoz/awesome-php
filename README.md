@@ -374,6 +374,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Code Analysis
 *Libraries and tools for analysing, parsing and manipulating codebases.*
 
+* [Awesome PHP Migrations](https://github.com/migrify/awesome-php-migrations) - Awesome list about PHP code bases migrations, legacy refactoring and instant upgrades
 * [Better Reflection](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
 * [Code Climate](https://codeclimate.com) - An automated code review.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
