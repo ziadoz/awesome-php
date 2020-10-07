@@ -794,6 +794,7 @@ Libraries to help manage database schemas and migrations.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 * [Nmap](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](https://nmap.org/).
+* [OctoLinker](https://octolinker.now.sh) - A code navigation browser extension for GitHub
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [PHP PassBook](https://github.com/eymengunay/php-passbook) - A PHP library for iOS PassBook.
 * [PHP-ML](https://github.com/php-ai/php-ml) - A library for Machine Learning in PHP.
