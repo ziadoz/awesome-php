@@ -82,7 +82,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [PHP Websites](#php-websites)
     - [Other Websites](#other-websites)
     - [PHP Books](#php-books)
-    - [Other Books](#other-books)
     - [PHP Videos](#php-videos)
     - [PHP Podcasts](#php-podcasts)
     - [PHP Reading](#php-reading)
@@ -915,14 +914,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Signaling PHP](https://leanpub.com/signalingphp) - A book about catching PCNTL signals in CLI scripts by Cal Evans.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - A book about building testing PHP applications by Chris Hartjes.
 * [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) - This book covers parsing and validating XML documents, leveraging XPath expressions, and working with namespaces as well as how to create and modify XML files programmatically.
-
-### Other Books
-*Books related to general computing and web development.*
-
-* [Eloquent JavaScript](https://eloquentjavascript.net/) - A book about JavaScript programming by Marijn Haverbeke.
-* [Pro Git](https://git-scm.com/book/en/v2) - A book about Git by Scott Chacon and Ben Straub.
-* [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
-* [The Tangled Web — Securing Web Applications](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886) - A book about securing web applications by Michal Zalewski.
 
 ### PHP Videos
 *Fantastic PHP-related videos.*
