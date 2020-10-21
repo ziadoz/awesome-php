@@ -146,6 +146,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Pico CMS](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
 * [WordPress](https://wordpress.org/) - A blogging platform and CMS.
 * [Moodle](https://moodle.org/) - An open-source learning platform.
+* [Silverstripe CMS](https://www.silverstripe.org/software/cms/) - A flexibility open-source CMS.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
