@@ -146,6 +146,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Pico CMS](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
 * [WordPress](https://wordpress.org/) - A blogging platform and CMS.
 * [Moodle](https://moodle.org/) - An open-source learning platform.
+* [LUYA](https://luya.io) - LUYA is a scalable web framework and content management based on the Yii2 Framework.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
@@ -218,6 +219,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Scraping
 *Libraries for scraping websites.*
 
+* [Crawler](https://github.com/nadar/crawler) - A highly extendible, dependency free Crawler for HTML, PDF or any other type of Documents.
 * [DiDOM](https://github.com/Imangazaliev/DiDOM) - A super fast HTML scrapper and parser.
 * [Embed](https://github.com/oscarotero/Embed) - An information extractor from any web service or page.
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A simple web scraper.
