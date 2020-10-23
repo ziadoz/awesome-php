@@ -136,16 +136,19 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 ### Content Management Systems (CMS)
 *Tools for managing digital content.*
+
 * [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium sized business and non-profits (a fork of Drupal).
 * [Concrete5](https://www.concrete5.org/) - A CMS targeting users with a minimum of technical skills.
+* [CraftCMS](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
 * [Drupal](https://www.drupal.org) - An enterprise level CMS.
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
 * [Kirby](https://getkirby.com/) - A flat-file CMS that adapts to any project.
 * [Magento](https://magento.com/) - The most popular ecommerce platform.
-* [Pico CMS](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
-* [WordPress](https://wordpress.org/) - A blogging platform and CMS.
 * [Moodle](https://moodle.org/) - An open-source learning platform.
+* [Pico CMS](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
+* [Statamic](https://statamic.com/) - Build beautiful, easy to manage websites.
+* [WordPress](https://wordpress.org/) - A blogging platform and CMS.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
