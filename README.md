@@ -84,6 +84,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [PHP Books](#php-books)
     - [PHP Videos](#php-videos)
     - [PHP Podcasts](#php-podcasts)
+    - [PHP Newsletters](#php-newsletters)
+    - [PHP Magazines](#php-magazines)    
     - [PHP Reading](#php-reading)
     - [PHP Internals Reading](#php-internals-reading)
 
@@ -937,6 +939,16 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com/) Interviews with the people that make the PHP community special.
 
+### PHP Newsletters
+*PHP-related news directly to your inbox.*
+
+* [PHP Weekly News](http://www.phpweekly.com/) - A weekly newsletter about PHP.
+
+### PHP Magazines
+*Fantastic PHP-related magazines.*
+
+* [php[architect]](https://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.
+
 ### PHP Reading
 *PHP-releated reading materials.*
 
@@ -974,8 +986,3 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [You're Being Lied To](http://blog.golemon.com/2007/01/youre-being-lied-to.html) - An article about internal ZVALs.
 * Collecting Garbage: [1](https://www.php.net/manual/en/features.gc.refcounting-basics.php) [2](https://www.php.net/manual/en/features.gc.collecting-cycles.php) [3](https://www.php.net/manual/en/features.gc.performance-considerations.php) - A series about the PHP garbage collection internals.
 * PHP Source Code for Developers: [1](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](https://nikic.github.io/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](https://nikic.github.io/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - A series about the PHP source code.
-
-### PHP Magazines
-*Fantastic PHP-related magazines.*
-
-* [php[architect]](https://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.
