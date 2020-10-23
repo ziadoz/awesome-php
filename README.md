@@ -942,7 +942,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ### PHP Newsletters
 *PHP-related news directly to your inbox.*
 
-* [PHP Weekly News](http://www.phpweekly.com/) - A weekly newsletter about PHP.
+* [PHP Weekly](http://www.phpweekly.com/) - A weekly newsletter about PHP.
 
 ### PHP Magazines
 *Fantastic PHP-related magazines.*
