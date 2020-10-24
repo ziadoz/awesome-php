@@ -283,7 +283,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Auryn](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
 * [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 * [Disco](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
-* [PHP-DI](http://php-di.org/) - A dependency injection container that supports autowiring.
+* [PHP-DI](https://php-di.org/) - A dependency injection container that supports autowiring.
 * [Pimple](https://pimple.symfony.com/) - A tiny dependency injection container.
 * [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
 
@@ -451,7 +451,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Build Tools
 *Project build and automation tools.*
 
-* [Box](https://github.com/humbug/box) - A utility to build PHAR files.
+* [Box](https://github.com/box-project/box) - A utility to build PHAR files.
 * [Construct](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
 * [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
 
@@ -574,7 +574,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries for working with "NoSQL" backends.*
 
 * [PHPMongo](https://github.com/sokil/php-mongo) - A MongoDB ORM.
-* [Predis](https://github.com/nrk/predis) - A feature complete Redis library.
+* [Predis](https://github.com/predis/predis) - A feature complete Redis library.
 
 ### Queue
 *Libraries for working with event and task queues.*
@@ -668,7 +668,7 @@ Libraries to help manage database schemas and migrations.
 * [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
-* [MathPHP](http://github.com/markrogoyski/math-php) - A math library for PHP.
+* [MathPHP](https://github.com/markrogoyski/math-php) - A math library for PHP.
 
 ### Filtering and Validation
 *Libraries for filtering and validating data.*
@@ -700,7 +700,6 @@ Libraries to help manage database schemas and migrations.
 ### Caching
 *Libraries for caching data.*
 
-* [Alternative PHP Cache (APC)](https://www.php.net/manual/en/book.apc.php) - Open opcode cache for PHP.
 * [APIx Cache](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing.
 * [CacheTool](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
 * [CakePHP Cache](https://github.com/cakephp/cache) - A caching library.
@@ -767,7 +766,6 @@ Libraries to help manage database schemas and migrations.
 * [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 * [AsyncAWS](https://async-aws.com/) - An unofficial asynchronous PHP AWS SDK.
 * [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
-* [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.
 * [Github](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
 * [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
 * [Square](https://github.com/square/connect-php-sdk) - The official Square PHP SDK for payments and other Square APIs.
@@ -859,7 +857,7 @@ Libraries to help manage database schemas and migrations.
 *Web-based applications and tools.*
 
 * [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
-* [DBV](https://dbv.vizuina.com/) - A database version control application.
+* [DBV](https://github.com/victorstanciu/dbv) - A database version control application.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 * [MailCatcher](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
 * [Cachet](https://github.com/cachethq/cachet) - The open source status page system.
@@ -912,7 +910,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Functional Programming in PHP](https://www.functionalphp.com/) - This book will show you how to leverage these new PHP5.3+ features by understanding functional programming principles
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
 * [Mastering Object-Orientated PHP](https://www.brandonsavage.net/) - A book about object-orientated PHP by Brandon Savage.
-* [Modern PHP New Features and Good Practices](https://shop.oreilly.com/product/0636920033868.do) - A book about new PHP features and best practices by Josh Lockhart.
+* [Modern PHP New Features and Good Practices](https://www.oreilly.com/library/view/~/9781491905173/) - A book about new PHP features and best practices by Josh Lockhart.
 * [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp) - A book about modernizing legacy PHP applications by Paul M. Jones.
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) - An ebook covering all of the features and changes in PHP 7 by Colin O'Dell.
 * [PHP Pandas](https://daylerees.com/php-pandas/) - A book about learning to write PHP by Dayle Rees.
@@ -965,7 +963,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Preventing CSRF Attacks](https://blog.ircmaxell.com/2013/02/preventing-csrf-attacks.html) - An article on preventing CSRF attacks.
 * [Seven Ways to Screw Up BCrypt](https://blog.ircmaxell.com/2012/12/seven-ways-to-screw-up-bcrypt.html) - An article about correct BCrypt implementation.
 * [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software) - A guide to building secure PHP software.
-* [Use Env](https://seancoates.com/blogs/use-env/) - An article about using the unix environment helper.
+* [Use Env](https://seancoates.com/blogs/use-env) - An article about using the unix environment helper.
 
 ### PHP Internals Reading
 *Reading materials related to the PHP internals or performance.*
