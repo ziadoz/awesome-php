@@ -807,6 +807,7 @@ Libraries to help manage database schemas and migrations.
 * [Procrastinator](https://github.com/lstrojny/Procrastinator) - A library for running time consuming tasks.
 * [Prooph Service Bus](https://github.com/prooph/service-bus) - Lightweight message bus supporting CQRS and Micro Services
 * [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
+* [RTCKit/SIP](https://github.com/rtckit/php-sip) - A RFC 3261 compliant SIP parsing/rendering library.
 * [sabre/vobject](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 * [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 * [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
