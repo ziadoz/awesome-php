@@ -880,6 +880,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 * [libs.garden: PHP](https://libs.garden/php) - An overview of fastest growing PHP libraries.
 * [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
+* [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/) - A monthly digest of PHP news.
 * [PHP Best Practices](https://phpbestpractices.org/) - A PHP best practice guide.
 * [PHP FIG](https://www.php-fig.org/) - The PHP Framework Interoperability Group.
 * [PHP Package Development Standards](http://php-pds.com) - Package development standards for PHP.
@@ -891,7 +892,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Weekly](http://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
 * [Securing PHP](https://www.securingphp.com/) - A newsletter about PHP security and library recommendations.
 * [Seven PHP](https://7php.com/) - A website that interviews members of the PHP community.
-* [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/) - A monthly digest of PHP news.
 
 ### PHP Books
 *Fantastic PHP-related books.*
