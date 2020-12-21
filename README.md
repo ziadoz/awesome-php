@@ -821,6 +821,7 @@ Libraries to help manage database schemas and migrations.
 *Software and tools for creating a sandboxed development environment.*
 
 * [Ansible](https://www.ansible.com/) - A radically simple orchestration framework.
+* [DECK](https://get-deck.com/) - A powerful and high performant local web development studio.
 * [Docker](https://www.docker.com/) - A containerization platform.
 * [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel. 
 * [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
