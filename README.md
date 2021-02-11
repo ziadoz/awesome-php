@@ -109,6 +109,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Composed](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
 * [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several composer.json files.
+* [Composer Patches](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
 * [Prestissimo](https://github.com/hirak/prestissimo) - A composer plugin which enables parallel install process.
 * [Repman](https://repman.io) - A private PHP package repository manager and Packagist proxy.
 * [Satis](https://github.com/composer/satis) - A static Composer repository generator.
@@ -317,6 +318,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Phake](https://github.com/mlively/Phake) - Another mock object library for testing.
 * [Pho](https://github.com/danielstjules/pho) - Another behaviour driven development testing framework.
 * [PHP-Mock](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
+* [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP. 
 * [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
 * [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
@@ -880,6 +882,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 * [libs.garden: PHP](https://libs.garden/php) - An overview of fastest growing PHP libraries.
 * [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
+* [Laravel News](https://laravel-news.com/) - The official Laravel blog.
 * [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/) - A monthly digest of PHP news.
 * [PHP Best Practices](https://phpbestpractices.org/) - A PHP best practice guide.
 * [PHP FIG](https://www.php-fig.org/) - The PHP Framework Interoperability Group.
@@ -889,6 +892,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP The Right Way](https://phptherightway.com/) - A PHP best practice quick reference guide.
 * [PHP UG](https://php.ug) - A website to help people locate their nearest PHP user group (UG).
 * [PHP Versions](http://phpversions.info/) - Lists which versions of PHP are available on several popular web hosts.
+* [PHP Watch](https://php.watch/) - PHP articles, news, upcoming changes, RFCs and more.
 * [PHP Weekly](http://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
 * [Securing PHP](https://www.securingphp.com/) - A newsletter about PHP security and library recommendations.
 * [Seven PHP](https://7php.com/) - A website that interviews members of the PHP community.
