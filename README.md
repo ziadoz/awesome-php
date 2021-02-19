@@ -150,6 +150,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Moodle](https://moodle.org/) - An open-source learning platform.
 * [Pico CMS](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
 * [Statamic](https://statamic.com/) - Build beautiful, easy to manage websites.
+* [Sulu](https://sulu.io/) - A CMS based on the Symfony Framework.
 * [WordPress](https://wordpress.org/) - A blogging platform and CMS.
 
 ### Components
