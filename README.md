@@ -767,6 +767,7 @@ Libraries to help manage database schemas and migrations.
 * [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 * [AsyncAWS](https://async-aws.com/) - An unofficial asynchronous PHP AWS SDK.
 * [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
+* [Cloudmersive](https://api.cloudmersive.com/) - Unified and free API library; supports PHP and other programming languages.
 * [Github](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
 * [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
 * [Square](https://github.com/square/connect-php-sdk) - The official Square PHP SDK for payments and other Square APIs.
