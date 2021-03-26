@@ -148,6 +148,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Kirby](https://getkirby.com/) - A flat-file CMS that adapts to any project.
 * [Magento](https://magento.com/) - The most popular ecommerce platform.
 * [Moodle](https://moodle.org/) - An open-source learning platform.
+* [Chamilo](https://chamilo.org/) - An open-source learning platform.
 * [Pico CMS](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
 * [Statamic](https://statamic.com/) - Build beautiful, easy to manage websites.
 * [WordPress](https://wordpress.org/) - A blogging platform and CMS.
