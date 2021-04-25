@@ -723,6 +723,7 @@ Libraries to help manage database schemas and migrations.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 * [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
 * [Laminas Serializer](https://github.com/laminas/laminas-serializer) - Another library for serialising and de-serialising data.
+* [Versatile Collections](https://github.com/rotexsoft/versatile-collections) - A feature rich collection library that enforces strict-typing of collection items.
 
 ### Notifications
 *Libraries for working with notification software.*
