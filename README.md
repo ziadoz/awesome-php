@@ -122,6 +122,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CakePHP](https://cakephp.org/) - A rapid application development framework.
 * [Laminas](https://getlaminas.org/) - A framework comprised of individual components (previously Zend Framework).
 * [Laravel](https://laravel.com/) - A web application framework with expressive, elegant syntax.
+* [Codeigniter](https://codeigniter.com/) - A powerful framework with a very small footprint.
 * [Nette](https://nette.org) - A web framework comprised of mature components.
 * [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
 * [Spiral](https://spiral.dev/) - A high performance PHP/Go framework.
