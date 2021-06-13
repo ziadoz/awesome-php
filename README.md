@@ -204,6 +204,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Tools for pre-processing content to generate web pages.*
 
 * [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
+* [Jigsaw](http://jigsaw.tighten.co/) - Simple static sites with Laravel's Blade.
 * [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
 * [Spress](http://spress.yosymfony.com) - An extensible tool that converts Markdown and Twig into HTML.
 
