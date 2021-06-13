@@ -596,7 +596,6 @@ Libraries to help manage database schemas and migrations.
 * [Elastica](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.
 * [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - The official client library for [ElasticSearch](https://www.elastic.co/).
 * [Solarium](https://www.solarium-project.org/) - A client library for [Solr](https://lucene.apache.org/solr/).
-* [Sphinx Search](https://github.com/ripaclub/sphinxsearch) - A library that provides SphinxQL indexing and searching features.
 * [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](https://sphinxsearch.com/) and [Manticore](https://manticoresearch.com/) search engines.
 
 ### Command Line
