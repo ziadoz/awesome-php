@@ -578,6 +578,7 @@ Libraries to help manage database schemas and migrations.
 
 * [PHPMongo](https://github.com/sokil/php-mongo) - A MongoDB ORM.
 * [Predis](https://github.com/predis/predis) - A feature complete Redis library.
+* [MongoDB](https://github.com/mongodb/mongo-php-driver) - The MongoDB PHP Driver.
 
 ### Queue
 *Libraries for working with event and task queues.*
