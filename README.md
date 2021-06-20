@@ -566,6 +566,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
 * [RedBean](https://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
 * [Spot2](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
+* [Propel](http://propelorm.org/) - A highly customizable and blazing fast ORM library for PHP 5.5+
 
 ### Migrations
 Libraries to help manage database schemas and migrations.
