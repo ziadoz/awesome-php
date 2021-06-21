@@ -231,6 +231,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A simple web scraper.
 * [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
 * [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
+* [PHP Scraper](https://github.com/spekulatius/phpscraper) - an highly opinionated web-interface.
 
 ### Middlewares
 *Libraries for building application using middlewares.*
@@ -363,7 +364,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [random_compat](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
 * [RandomLib](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
 * [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
-* [SQLMap](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool. 
+* [SQLMap](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 * [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
 * [Zap](https://owasp.org/www-project-zap/) - An integrated penetration testing tool for web applications.
@@ -591,7 +592,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP AMQP](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
 * [Tarantool Queue](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
 * [Thumper](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
-* [Enqueue](https://github.com/php-enqueue/enqueue-dev) - A message queue packages for PHP that supports RabbitMQ, AMQP, STOMP, Amazon SQS, Redis and Doctrine transports. 
+* [Enqueue](https://github.com/php-enqueue/enqueue-dev) - A message queue packages for PHP that supports RabbitMQ, AMQP, STOMP, Amazon SQS, Redis and Doctrine transports.
 
 ### Search
 *Libraries and software for indexing and performing search queries on data.*
@@ -764,7 +765,7 @@ Libraries to help manage database schemas and migrations.
 
 * [PHP Dotenv](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
 * [Symfony Dotenv](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
-* [Yo! Symfony TOML](https://github.com/yosymfony/toml) - A PHP parser for [TOML](https://github.com/toml-lang/toml). 
+* [Yo! Symfony TOML](https://github.com/yosymfony/toml) - A PHP parser for [TOML](https://github.com/toml-lang/toml).
 
 ### Third Party APIs
 *Libraries for accessing third party APIs.*
@@ -838,7 +839,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Ansible](https://www.ansible.com/) - A radically simple orchestration framework.
 * [Docker](https://www.docker.com/) - A containerization platform.
-* [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel. 
+* [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
 * [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
 * [Puppet](https://puppet.com/) - A server automation framework and application.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
@@ -970,7 +971,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *Reading materials related to the PHP internals or performance.*
 
 * [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (Request for Comments).
-* [Externals](https://externals.io/) - PHP internal discussions. 
+* [Externals](https://externals.io/) - PHP internal discussions.
 * [PHP RFC Watch](https://php-rfc-watch.beberlei.de/) - Watch the latest PHP [RFCs](https://wiki.php.net/rfc).
 * [Disproving the Single Quotes Myth](https://nikic.github.io/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - An article about performance of single and double quoted strings.
 * [How Big Are PHP Arrays (And Values) Really?](https://nikic.github.io/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html) - An article about array internals.
