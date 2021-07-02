@@ -129,6 +129,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Spiral](https://spiral.dev/) - A high performance PHP/Go framework.
 * [Symfony](https://symfony.com/) - A set of reuseable components and a web framework.
 * [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
+* [Hyperf](https://hyperf.io/) - A high-performance, highly flexible PHP CLI framework based on Swoole.
 
 ### Framework Extras
 *Extras related to web development frameworks.*
@@ -175,6 +176,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.
+* [Nano](https://nano.hyperf.wiki/) - A micro-framework by Hyperf.
 
 ### Micro Framework Extras
 *Extras related to micro frameworks and routers.*
