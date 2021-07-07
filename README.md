@@ -789,6 +789,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
 * [BotMan](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chat bots.
+* [MadelineProto](https://github.com/danog/MadelineProto) - PHP implementation of telegram's MTProto protocol.
 * [CakePHP Utility](https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and XML.
 * [Chief](https://github.com/adamnicholson/Chief) - A command bus library.
 * [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - A library for optimising autoloading.
