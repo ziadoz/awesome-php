@@ -645,6 +645,7 @@ Libraries to help manage database schemas and migrations.
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
 * [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
 * [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
+* [Simple Html Dom Parser](https://github.com/voku/simple_html_dom) - A DOM library for manipulate HTML in a very easy way.
 
 ### Strings
 *Libraries for parsing and manipulating strings.*
