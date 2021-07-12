@@ -95,6 +95,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Packagist](https://packagist.org/) - The PHP Package Repository.
 * [Private Packagist](https://packagist.com/) - Composer package archive as a service for PHP.
 * [WordPress Packagist](https://wpackagist.org/) - Manage your plugins with Composer.
+* [FriendsOfShopware Packages](https://packages.friendsofshopware.com/) - Manage your Shopware plugins with Composer.
 
 ### Dependency Management
 *Libraries for dependency and package management.*
