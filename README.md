@@ -907,6 +907,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *Fantastic PHP-related books.*
 
 * [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Real examples written in PHP showcasing DDD Architectural Styles.
+* [Exploring PHP 8.0](https://leanpub.com/exploringphp80) - A complete soup-to-nuts tour of the latest functionality in the groundbreaking 8.0 release of PHP, including how and when you would use it by Larry Garfield.
 * [Functional Programming in PHP](https://www.functionalphp.com/) - This book will show you how to leverage these new PHP5.3+ features by understanding functional programming principles
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
 * [Mastering Object-Orientated PHP](https://www.brandonsavage.net/) - A book about object-orientated PHP by Brandon Savage.
