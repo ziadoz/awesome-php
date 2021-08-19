@@ -56,7 +56,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Search](#search)
     - [Command Line](#command-line)
     - [Authentication and Authorization](#authentication-and-authorization)
-    - [Markup](#markup)
+    - [Markup and CSS](#markup-and-css)
     - [Strings](#strings)
     - [Numbers](#numbers)
     - [Filtering and Validation](#filtering-and-validation)
@@ -636,8 +636,8 @@ Libraries to help manage database schemas and migrations.
 * [Sentinel](https://cartalyst.com/manual/sentinel/2.0) - A framework agnostic authentication & authorisation library.
 * [TwitterOAuth](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
 
-### Markup
-*Libraries for working with markup.*
+### Markup and CSS
+*Libraries for working with markup and CSS.*
 
 * [Cebe Markdown](https://github.com/cebe/markdown) - An fast and extensible Markdown parser.
 * [CommonMark PHP](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
@@ -646,6 +646,7 @@ Libraries to help manage database schemas and migrations.
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
 * [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
+* [PHP CSS Parser](https://github.com/sabberworm/PHP-CSS-Parser) - A Parser for CSS Files written in PHP.
 * [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
 
 ### Strings
