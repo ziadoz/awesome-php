@@ -661,7 +661,7 @@ Libraries to help manage database schemas and migrations.
 * [VObject](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 
 ### JSON
-*Libraries for working with JSON.
+*Libraries for working with JSON.*
 
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 
