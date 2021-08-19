@@ -61,7 +61,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Numbers](#numbers)
     - [Filtering and Validation](#filtering-and-validation)
     - [API](#api)
-    - [Caching](#caching)
+    - [Caching and Locking](#caching-and-locking)
     - [Data Structure and Storage](#data-structure-and-storage)
     - [Notifications](#notifications)
     - [Deployment](#deployment)
@@ -444,6 +444,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
 * [Blackfire.io](https://blackfire.io) - A low-overhead code profiler.
 * [Kint](https://github.com/kint-php/kint) - A debugging and profiling tool.
+* [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [PCOV](https://github.com/krakjoe/pcov) - A self contained code coverage compatible driver.
 * [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
 * [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
@@ -463,6 +464,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Box](https://github.com/box-project/box) - A utility to build PHAR files.
 * [Construct](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
 * [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
+* [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
 
 ### Task Runners
 *Libraries for automating and running tasks.*
@@ -489,6 +491,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
+* [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 * [GeoCoder](https://geocoder-php.org/) - A geocoding library.
 * [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
 * [GeoTools](https://github.com/thephpleague/geotools) - A library of geo-related tools.
@@ -569,6 +572,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
 * [RedBean](https://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
+* [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 * [Spot2](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
 
 ### Migrations
@@ -640,11 +644,13 @@ Libraries to help manage database schemas and migrations.
 * [TwitterOAuth](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
 
 ### Markup and CSS
-*Libraries for working with markup and CSS.*
+*Libraries for highlighting, parsing, extracting and working with markup and CSS formats.
 
 * [Cebe Markdown](https://github.com/cebe/markdown) - An fast and extensible Markdown parser.
 * [CommonMark PHP](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
 * [Decoda](https://github.com/milesj/decoda) - A lightweight markup parser library.
+* [Essence](https://github.com/essence/essence) - A library for extracting web media.
+* [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
 * [Emoji](https://github.com/heyupdate/Emoji) - A library that converts unicode characters and names into emoji images.
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
@@ -652,6 +658,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP CSS Parser](https://github.com/sabberworm/PHP-CSS-Parser) - A Parser for CSS Files written in PHP.
 * [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
 * [Shiki PHP](https://github.com/spatie/shiki-php) - A [Shiki](https://github.com/shikijs/shiki) code highlighting package in PHP.
+* [VObject](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 
 ### Strings
 *Libraries for parsing and manipulating strings.*
@@ -711,8 +718,8 @@ Libraries to help manage database schemas and migrations.
 * [Restler](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
 * [wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - A tool to generate PHP classes from SOAP WSDL files.
 
-### Caching
-*Libraries for caching data.*
+### Caching and Locking
+*Libraries for caching data and acquiring locks.*
 
 * [APIx Cache](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasising cache tagging and indexing.
 * [CacheTool](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
@@ -721,6 +728,7 @@ Libraries to help manage database schemas and migrations.
 * [Metaphore](https://github.com/sobstel/metaphore) - Cache slam defense using a semaphore to prevent dogpile effect.
 * [Stash](https://github.com/tedious/Stash) - Another library for caching.
 * [Laminas Cache](https://github.com/laminas/laminas-cache) - Another caching library.
+* [Lock](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
 
 ### Data Structure and Storage
 *Libraries that implement data structure or storage techniques.*
@@ -793,39 +801,17 @@ Libraries to help manage database schemas and migrations.
 * [Zephir](https://github.com/phalcon/zephir) - A compiled language between PHP and C++ for developing PHP extensions.
 
 ### Miscellaneous
-*Useful libraries or tools that don't fit in the categories above.*
+*Useful libraries or utilities that don't fit into the categories above.*
 
-* [Annotations](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
+* [Annotations](https://github.com/doctrine/annotations) - An annotation library (part of Doctrine).
 * [BotMan](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chat bots.
-* [CakePHP Utility](https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and XML.
-* [Chief](https://github.com/adamnicholson/Chief) - A command bus library.
 * [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - A library for optimising autoloading.
-* [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
-* [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
-* [Essence](https://github.com/essence/essence) - A library for extracting web media.
-* [Expose](https://github.com/beyondcode/expose) - An open source PHP tunneling service.
-* [Graphviz](https://github.com/alexandresalome/graphviz) - A Graphviz library.
-* [Hprose-PHP](https://github.com/hprose/hprose-php) - A very newbility RPC Library, support 25+ languages now.
+* [Hprose-PHP](https://github.com/hprose/hprose-php) - A cross-language RPC.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
-* [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) - A library for validating JSONP callbacks.
-* [Lock](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
-* [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
-* [Nmap](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](https://nmap.org/).
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
-* [PHP PassBook](https://github.com/eymengunay/php-passbook) - A PHP library for iOS PassBook.
-* [PHP-ML](https://github.com/jorgecasas/php-ml) - A library for Machine Learning in PHP.
-* [PHPCR](https://github.com/phpcr/phpcr) - A PHP port of the Java Content Repository (JCR).
-* [print_o](https://github.com/koriym/print_o) - An object graph visualizer.
-* [Procrastinator](https://github.com/lstrojny/Procrastinator) - A library for running time consuming tasks.
-* [Prooph Service Bus](https://github.com/prooph/service-bus) - Lightweight message bus supporting CQRS and Micro Services
-* [RMT](https://github.com/liip/RMT) - A library for versioning and releasing software.
-* [sabre/vobject](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 * [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
-* [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
-* [Spork](https://github.com/kriswallsmith/spork) - A process forking library.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
-* [Underscore](https://anahkiasen.github.io/underscore-php/) - A PHP port of the Underscore JS library.
 
 # Software
 *Software for creating a development environment.*
@@ -841,11 +827,12 @@ Libraries to help manage database schemas and migrations.
 * [PHP OSX](https://php-osx.liip.ch/) - A PHP installer for OSX.
 
 ### Development Environment
-*Software and tools for creating a sandboxed development environment.*
+*Software and tools for creating and sharing a development environment.*
 
 * [Ansible](https://www.ansible.com/) - A radically simple orchestration framework.
 * [Docker](https://www.docker.com/) - A containerization platform.
 * [Docker PHP Extension Installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
+* [Expose](https://github.com/beyondcode/expose) - An open source PHP tunneling service.
 * [Lando](https://lando.dev/) - Push-button development environments.
 * [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel. 
 * [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
