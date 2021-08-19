@@ -651,6 +651,7 @@ Libraries to help manage database schemas and migrations.
 * [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
 * [PHP CSS Parser](https://github.com/sabberworm/PHP-CSS-Parser) - A Parser for CSS Files written in PHP.
 * [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
+* [Shiki PHP](https://github.com/spatie/shiki-php) - A [Shiki](https://github.com/shikijs/shiki) code highlighting package in PHP.
 
 ### Strings
 *Libraries for parsing and manipulating strings.*
