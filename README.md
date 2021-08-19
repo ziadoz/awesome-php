@@ -57,6 +57,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Command Line](#command-line)
     - [Authentication and Authorization](#authentication-and-authorization)
     - [Markup and CSS](#markup-and-css)
+    - [JSON](#json)
     - [Strings](#strings)
     - [Numbers](#numbers)
     - [Filtering and Validation](#filtering-and-validation)
@@ -643,7 +644,7 @@ Libraries to help manage database schemas and migrations.
 * [TwitterOAuth](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
 
 ### Markup and CSS
-*Libraries for highlighting, parsing, extracting and working with markup and CSS formats.
+*Libraries for working with markup and CSS formats.
 
 * [Cebe Markdown](https://github.com/cebe/markdown) - An fast and extensible Markdown parser.
 * [CommonMark PHP](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
@@ -658,6 +659,11 @@ Libraries to help manage database schemas and migrations.
 * [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
 * [Shiki PHP](https://github.com/spatie/shiki-php) - A [Shiki](https://github.com/shikijs/shiki) code highlighting package in PHP.
 * [VObject](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
+
+### JSON
+*Libraries for working with JSON.
+
+* [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 
 ### Strings
 *Libraries for parsing and manipulating strings.*
@@ -806,7 +812,6 @@ Libraries to help manage database schemas and migrations.
 * [BotMan](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chat bots.
 * [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - A library for optimising autoloading.
 * [Hprose-PHP](https://github.com/hprose/hprose-php) - A cross-language RPC.
-* [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
