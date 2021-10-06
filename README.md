@@ -625,6 +625,7 @@ Libraries to help manage database schemas and migrations.
 * [Hoa Console](https://github.com/hoaproject/Console) - Another command line library.
 * [PsySH](https://github.com/bobthecow/psysh) - Another PHP REPL.
 * [ShellWrap](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
+* [Termage](https://github.com/termage/termage) - Fluent and incredible powerful, object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
 
 ### Authentication and Authorization
 *Libraries for implementing user authentication and authorization.*
