@@ -857,20 +857,20 @@ Libraries to help manage database schemas and migrations.
 * [Apache NetBeans](https://netbeans.apache.org/) - An IDE with support for PHP and HTML5.
 * [PhpStorm](https://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
 * [VS Code](https://code.visualstudio.com/) - An open source code editor.
-* [PHPSandbox](https://phpsandbox.io) - An online IDE for PHP in the browser.
 
 ### Web Applications
 *Web-based applications and tools.*
 
 * [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
-* [DBV](https://github.com/victorstanciu/dbv) - A database version control application.
-* [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
-* [MailCatcher](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
-* [Cachet](https://github.com/cachethq/cachet) - The open source status page system.
-* [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - A simple web interface to manage [Redis](https://redis.io/) databases.
-* [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
 * [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
+* [Cachet](https://github.com/cachethq/cachet) - The open source status page system.
+* [DBV](https://github.com/victorstanciu/dbv) - A database version control application.
 * [Lychee](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
+* [MailCatcher](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
+* [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
+* [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
+* [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - A simple web interface to manage [Redis](https://redis.io/) databases.
+* [PHPSandbox](https://phpsandbox.io) - An online IDE for PHP in the browser.
 
 ### Infrastructure
 *Infrastructure for providing PHP applications and services.*
