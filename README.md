@@ -176,6 +176,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.
+* [Mezon](https://github.com/alexdodonov/mezon/) - Simple micro framework for Web applications and microservices.
 
 ### Micro Framework Extras
 *Extras related to micro frameworks and routers.*
@@ -192,6 +193,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Klein](https://github.com/klein/klein.php) - A flexible router.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
 * [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
+* [Mezon Router](https://github.com/alexdodonov/mezon-router) - Small and fast router
 
 ### Templating
 *Libraries and tools for templating and lexing.*
