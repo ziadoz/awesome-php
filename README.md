@@ -766,10 +766,11 @@ Libraries to help manage database schemas and migrations.
 * [Rocketeer](https://github.com/rocketeers/rocketeer) - A fast and easy deployer for the PHP world.
 
 ### Internationalisation and Localisation
-*Libraries for Internationalization (I18n) and Localization (L10n).*
+*Libraries and tools for Internationalization (I18n) and Localization (L10n).*
 
 * [Aura.Intl](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
 * [CakePHP I18n](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers.
+* [Free PO editor](https://pofile.net/free-po-editor) - A tool for translating PO files for PHP localization with Gettext.
 
 ### Serverless
 *Libraries and tools to help build serverless web applications.*
