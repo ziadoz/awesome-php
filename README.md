@@ -310,6 +310,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [AspectMock](https://github.com/Codeception/AspectMock) - A mocking framework for PHPUnit/Codeception.
 * [Atoum](https://github.com/atoum/atoum) - A simple testing library.
 * [Behat](https://docs.behat.org/en/latest/) - A behaviour driven development (BDD) testing framework.
+* [CakePHP Fixture Factories](https://github.com/vierge-noire/cakephp-fixture-factories) - Create test fixtures in no time, framework agnostic.
 * [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
 * [Faker](https://github.com/fakerphp/faker) - A fake data generator library.
 * [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
