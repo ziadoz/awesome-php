@@ -743,6 +743,7 @@ Libraries to help manage database schemas and migrations.
 * [JsonMapper](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
 * [JSON Machine](https://github.com/halaxa/json-machine) - Provides iteration over huge JSONs using simple `foreach`
 * [Knapsack](https://github.com/DusanKasan/Knapsack) - Collection library inspired by Clojure's sequences.
+* [lexorank-php](https://github.com/alexcrawford/lexorank-php) - Make storing ordered lists (ranks) O(1) instead of O(n).
 * [msgpack.php](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
 * [PINQ](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
