@@ -663,6 +663,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries for working with JSON.*
 
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
+* [JSONMapper](https://github.com/JsonMapper/JsonMapper) - A library for mapping JSON to PHP objects.
 
 ### Strings
 *Libraries for parsing and manipulating strings.*
