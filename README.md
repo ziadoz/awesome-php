@@ -101,7 +101,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Composer Installers](https://github.com/composer/installers) - A  multi framework Composer library installer.
 * [Composer](https://getcomposer.org/) - A package and dependency manager.
-* [Melody](https://melody.sensiolabs.org/) - A tool to build one file Composer scripts.
 * [Phive](https://phar.io/) - A PHAR manager.
 * [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
 
@@ -663,6 +662,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries for working with JSON.*
 
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
+* [JSONMapper](https://github.com/JsonMapper/JsonMapper) - A library for mapping JSON to PHP objects.
 
 ### Strings
 *Libraries for parsing and manipulating strings.*
@@ -862,14 +862,15 @@ Libraries to help manage database schemas and migrations.
 *Web-based applications and tools.*
 
 * [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
-* [DBV](https://github.com/victorstanciu/dbv) - A database version control application.
-* [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
-* [MailCatcher](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
-* [Cachet](https://github.com/cachethq/cachet) - The open source status page system.
-* [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - A simple web interface to manage [Redis](https://redis.io/) databases.
-* [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
 * [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
+* [Cachet](https://github.com/cachethq/cachet) - The open source status page system.
+* [DBV](https://github.com/victorstanciu/dbv) - A database version control application.
 * [Lychee](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
+* [MailCatcher](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
+* [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
+* [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
+* [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - A simple web interface to manage [Redis](https://redis.io/) databases.
+* [PHPSandbox](https://phpsandbox.io) - An online IDE for PHP in the browser.
 
 ### Infrastructure
 *Infrastructure for providing PHP applications and services.*
