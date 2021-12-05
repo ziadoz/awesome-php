@@ -651,7 +651,6 @@ Libraries to help manage database schemas and migrations.
 * [Decoda](https://github.com/milesj/decoda) - A lightweight markup parser library.
 * [Essence](https://github.com/essence/essence) - A library for extracting web media.
 * [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
-* [Emoji](https://github.com/heyupdate/Emoji) - A library that converts unicode characters and names into emoji images.
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
 * [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
