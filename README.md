@@ -876,6 +876,7 @@ Libraries to help manage database schemas and migrations.
 *Infrastructure for providing PHP applications and services.*
 
 * [appserver.io](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
+* [kubephp](https://github.com/sherifabdlnaby/kubephp) - Production Grade, Rootless, and Optimized PHP Container Image Template for Cloud-Native Deployments.
 * [php-pm](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
 * [RoadRunner](https://github.com/spiral/roadrunner) - High-performance PHP application server, load-balancer and process manager.
 
