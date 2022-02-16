@@ -24,7 +24,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Middlewares](#middlewares)
     - [URL](#url)
     - [Email](#email)
-    - [Files](#files)
+    - [Files](#Files)
     - [Streams](#streams)
     - [Dependency Injection](#dependency-injection)
     - [Imagery](#imagery)
