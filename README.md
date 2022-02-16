@@ -302,6 +302,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Imagine](https://imagine.readthedocs.io/en/latest/index.html) - An image manipulation library.
 * [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
 * [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
+* [Optical Mark Recognition](https://github.com/jansenfelipe/omr) - Library for recognition markings on questionnaires scans
 
 ### Testing
 *Libraries for testing codebases and generating test data.*
