@@ -611,7 +611,7 @@ Libraries to help manage database schemas and migrations.
 ### Command Line
 *Libraries related to the command line.*
 
-* [PHP CLI](https://github.com/splitbrain/php-cli) - PHP library to build command line tools.
+* [PHP CLI](https://github.com/splitbrain/php-cli) - PHP library to build command line tool.
 * [Aura.Cli](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
 * [Boris](https://github.com/borisrepl/boris) - A tiny PHP REPL.
 * [Cilex](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
