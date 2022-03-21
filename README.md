@@ -202,6 +202,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Smarty](https://www.smarty.net/) - A template engine to complement PHP.
 * [Twig](https://twig.symfony.com/) - A comprehensive templating language.
+* [Latte](https://latte.nette.org/) - The safest & truly intuitive templates for PHP
 
 ### Static Site Generators
 *Tools for pre-processing content to generate web pages.*
