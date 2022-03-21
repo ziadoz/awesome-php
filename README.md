@@ -196,13 +196,13 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Templating
 *Libraries and tools for templating and lexing.*
 
+* [Latte](https://latte.nette.org/) - The safest & truly intuitive templates for PHP.
 * [MtHaml](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
 * [Mustache](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
 * [PHPTAL](https://phptal.org/) - A PHP implementation of the [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Smarty](https://www.smarty.net/) - A template engine to complement PHP.
 * [Twig](https://twig.symfony.com/) - A comprehensive templating language.
-* [Latte](https://latte.nette.org/) - The safest & truly intuitive templates for PHP
 
 ### Static Site Generators
 *Tools for pre-processing content to generate web pages.*
