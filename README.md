@@ -216,6 +216,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Buzz](https://github.com/kriswallsmith/Buzz) - Another HTTP client.
 * [Guzzle]( https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
+* [Guzzle PSR-18 Adapter](https://github.com/ricardofiorani/guzzle-psr18-adapter) - A simple guzzle PSR-18 adapter
 * [HTTPlug](http://httplug.io) - An HTTP client abstraction without binding to a specific implementation.
 * [Nyholm PSR-7](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation. Very strict and very fast.
 * [PHP VCR](https://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
