@@ -798,6 +798,7 @@ Libraries to help manage database schemas and migrations.
 * [Square](https://github.com/square/connect-php-sdk) - The official Square PHP SDK for payments and other Square APIs.
 * [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 * [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
+* [Notion](https://github.com/brd6/notion-sdk-php/) - PHP library for the Notion API.
 
 ### Extensions
 *Libraries to help build PHP extensions.*
