@@ -872,6 +872,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 * [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - A simple web interface to manage [Redis](https://redis.io/) databases.
 * [PHPSandbox](https://phpsandbox.io) - An online IDE for PHP in the browser.
+* [Sneat Free Bootstrap 5 HTML Laravel Admin Template](https://github.com/themeselection/sneat-html-laravel-admin-template-free) - Most Powerful & Comprehensive Free Bootstrap 5 HTML Laravel Admin Dashboard Template built for developers!
 
 ### Infrastructure
 *Infrastructure for providing PHP applications and services.*
