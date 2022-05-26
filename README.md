@@ -672,6 +672,7 @@ Libraries to help manage database schemas and migrations.
 * [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
 * [Device Detector](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
+* [Emoji](https://github.com/aleksey-anisimov/emoji) - A library to detect emoji, remove emoji, encode emoji and decode emoji in string.
 * [Hoa String](https://github.com/hoaproject/Ustring) - Another UTF-8 string library.
 * [Jieba-PHP](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
