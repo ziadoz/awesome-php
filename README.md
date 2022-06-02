@@ -144,22 +144,22 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Tools for managing digital content.*
 
 * [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium sized business and non-profits (a fork of Drupal).
-* [Concrete5](https://www.concrete5.org/) - A CMS targeting users with a minimum of technical skills.
+* [Concrete5](https://www.concretecms.com/) - A CMS targeting users with a minimum of technical skills.
 * [CraftCMS](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
 * [Drupal](https://www.drupal.org) - An enterprise level CMS.
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
 * [Kirby](https://getkirby.com/) - A flat-file CMS that adapts to any project.
-* [Magento](https://magento.com/) - The most popular ecommerce platform.
+* [Magento](https://business.adobe.com/products/magento/magento-commerce.html) - The most popular ecommerce platform.
 * [Moodle](https://moodle.org/) - An open-source learning platform.
-* [Pico CMS](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
+* [Pico CMS](https://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
 * [Statamic](https://statamic.com/) - Build beautiful, easy to manage websites.
 * [WordPress](https://wordpress.org/) - A blogging platform and CMS.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
 
-* [Aura](http://auraphp.com/) - Independent components, fully decoupled from each other and from any framework.
+* [Aura](https://auraphp.com/) - Independent components, fully decoupled from each other and from any framework.
 * [CakePHP Plugins](https://plugins.cakephp.org/) - A directory of CakePHP plugins.
 * [Hoa Project](https://hoa-project.net/En/) - Another package of PHP components.
 * [Laravel Components](https://github.com/illuminate) - The Laravel Framework components.
@@ -172,7 +172,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Micro frameworks and routers.*
 
 * [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
-* [Lumen](https://lumen.laravel.com) - A micro-framework by Laravel.
+* [Lumen](https://lumen.laravel.com/docs) - A micro-framework by Laravel.
 * [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
@@ -209,7 +209,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Tools for pre-processing content to generate web pages.*
 
 * [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
-* [Jigsaw](http://jigsaw.tighten.co/) - Simple static sites with Laravel's Blade.
+* [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 * [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
 * [Spress](http://spress.yosymfony.com) - An extensible tool that converts Markdown and Twig into HTML.
 
@@ -221,7 +221,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [HTTPlug](http://httplug.io) - An HTTP client abstraction without binding to a specific implementation.
 * [Nyholm PSR-7](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation. Very strict and very fast.
 * [PHP VCR](https://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
-* [Requests](https://github.com/rmccue/Requests) - A simple HTTP library.
+* [Requests](https://github.com/WordPress/Requests) - A simple HTTP library.
 * [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
 * [Symfony HTTP Client](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
 * [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
@@ -262,7 +262,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Mautic](https://github.com/mautic/mautic) - Email marketing automation
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 * [PHP IMAP](https://github.com/barbushin/php-imap) - A library to access mailboxes via POP3, IMAP and NNTP.
-* [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [Mandrill](https://mailchimp.com/features/transactional-email/).
+* [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [Mandrill](https://mailchimp.com/en-gb/features/transactional-email/).
 * [SwiftMailer](https://swiftmailer.symfony.com) - A mailer solution.
 * [Symfony Mailer](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
 
@@ -317,12 +317,12 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
 * [Infection](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
 * [Kahlan](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
-* [Mink](http://mink.behat.org/en/latest/) - Web acceptance testing.
+* [Mink](https://mink.behat.org/en/latest/) - Web acceptance testing.
 * [Mockery](https://github.com/mockery/mockery) - A mock object library for testing.
 * [ParaTest](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
 * [Pest](https://pestphp.com/) - A testing framework with a focus on simplicity.
 * [Peridot](https://github.com/peridot-php/peridot) - An event driven test framework.
-* [Phake](https://github.com/mlively/Phake) - Another mock object library for testing.
+* [Phake](https://github.com/phake/phake) - Another mock object library for testing.
 * [Pho](https://github.com/danielstjules/pho) - Another behaviour driven development testing framework.
 * [PHP-Mock](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
 * [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP. 
@@ -341,7 +341,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
 * [PHPCI](https://github.com/dancryer/phpci) - An open source continuous integration platform for PHP.
 * [SemaphoreCI](https://semaphoreci.com/) - A continuous integration platform for open source and private projects.
-* [Shippable](https://www.shippable.com/) - A Docker based continious integration platform for open source and private projects.
+* [Shippable](https://jfrog.com/blog/weve-acquired-shippable-to-complete-devops-pipeline-automation-from-code-to-production/) - A Docker based continious integration platform for open source and private projects.
 * [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 * [Setup PHP](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
 
@@ -351,7 +351,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
 * [daux.io](https://github.com/dauxio/daux.io) - A documentation generator which uses Markdown files.
 * [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor) - A documentation generator.
-* [phpDox](http://phpdox.de/) - A documentation generator for PHP projects (that is not limited to API documentation).
+* [phpDox](https://phpdox.net/) - A documentation generator for PHP projects (that is not limited to API documentation).
 
 ### Security
 *Libraries for generating secure random numbers, encrypting data and scanning and testing for vulnerabilities.*
@@ -432,7 +432,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Finite](https://yohan.giarel.li/Finite/) - A simple PHP finite state machine.
 * [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
 * [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
-* [Patchwork](http://patchwork2.org/) - A library for redefining userland functions.
+* [Patchwork](https://patchwork2.org/) - A library for redefining userland functions.
 * [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 * [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
 * [RulerZ](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
@@ -442,7 +442,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
 * [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
-* [Blackfire.io](https://blackfire.io) - A low-overhead code profiler.
+* [Blackfire.io](https://www.blackfire.io) - A low-overhead code profiler.
 * [Kint](https://github.com/kint-php/kint) - A debugging and profiling tool.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [PCOV](https://github.com/krakjoe/pcov) - A self contained code coverage compatible driver.
@@ -606,7 +606,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Elastica](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.
 * [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - The official client library for [ElasticSearch](https://www.elastic.co/).
-* [Solarium](https://www.solarium-project.org/) - A client library for [Solr](https://lucene.apache.org/solr/).
+* [Solarium](https://www.solarium-project.org/) - A client library for [Solr](https://solr.apache.org/).
 * [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](https://sphinxsearch.com/) and [Manticore](https://manticoresearch.com/) search engines.
 
 ### Command Line
@@ -777,8 +777,8 @@ Libraries to help manage database schemas and migrations.
 *Libraries and tools to help build serverless web applications.*
 
 * [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
-* [OpenWhisk](http://openwhisk.apache.org/) - An open-source serverless cloud platform.
-* [Serverless Framework](https://www.serverless.com/open-source/) - An open-source framework for building serverless applications.
+* [OpenWhisk](https://openwhisk.apache.org/) - An open-source serverless cloud platform.
+* [Serverless Framework](https://www.serverless.com/framework) - An open-source framework for building serverless applications.
 * [Laravel Vapor](https://vapor.laravel.com/) - A serverless deployment platform for Laravel, powered by AWS.
 
 ## Configuration
@@ -890,7 +890,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [libs.garden: PHP](https://libs.garden/php) - An overview of fastest growing PHP libraries.
 * [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
 * [Laravel News](https://laravel-news.com/) - The official Laravel blog.
-* [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/) - A monthly digest of PHP news.
+* [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/tag/php-annotated-monthly/) - A monthly digest of PHP news.
 * [PHP Best Practices](https://phpbestpractices.org/) - A PHP best practice guide.
 * [PHP FIG](https://www.php-fig.org/) - The PHP Framework Interoperability Group.
 * [PHP Package Development Standards](http://php-pds.com) - Package development standards for PHP.
@@ -900,7 +900,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP UG](https://php.ug) - A website to help people locate their nearest PHP user group (UG).
 * [PHP Versions](http://phpversions.info/) - Lists which versions of PHP are available on several popular web hosts.
 * [PHP Watch](https://php.watch/) - PHP articles, news, upcoming changes, RFCs and more.
-* [PHP Weekly](http://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
+* [PHP Weekly](https://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
 * [Securing PHP](https://www.securingphp.com/) - A newsletter about PHP security and library recommendations.
 * [Seven PHP](https://7php.com/) - A website that interviews members of the PHP community.
 
@@ -937,14 +937,14 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 * [Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
 * [PHP Internals News](https://phpinternals.news) - A podcast about PHP internals.
-* [PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
+* [PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 * [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com/) Interviews with the people that make the PHP community special.
 
 ### PHP Newsletters
 *PHP-related news directly to your inbox.*
 
-* [PHP Weekly](http://www.phpweekly.com/) - A weekly newsletter about PHP.
+* [PHP Weekly](https://www.phpweekly.com/) - A weekly newsletter about PHP.
 
 ### PHP Reading
 *PHP-releated reading materials.*
@@ -957,4 +957,4 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (Request for Comments).
 * [Externals](https://externals.io/) - PHP internal discussions. 
 * [PHP RFC Watch](https://php-rfc-watch.beberlei.de/) - Watch the latest PHP [RFCs](https://wiki.php.net/rfc).
-* [PHP Internals Book](http://www.phpinternalsbook.com) - An online book about PHP internals, written by three core developers.
+* [PHP Internals Book](https://www.phpinternalsbook.com/) - An online book about PHP internals, written by three core developers.
