@@ -161,7 +161,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Aura](https://auraphp.com/) - Independent components, fully decoupled from each other and from any framework.
 * [CakePHP Plugins](https://plugins.cakephp.org/) - A directory of CakePHP plugins.
-* [Hoa Project](https://hoa-project.net/En/) - Another package of PHP components.
 * [Laravel Components](https://github.com/illuminate) - The Laravel Framework components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
 * [Spatie Open Source](https://spatie.be/open-source) - A collection of open source PHP and Laravel packages.
@@ -172,7 +171,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Micro frameworks and routers.*
 
 * [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
-* [Lumen](https://lumen.laravel.com/docs) - A micro-framework by Laravel.
+* [Lumen](https://lumen.laravel.com/) - A micro-framework by Laravel.
 * [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
 * [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
@@ -272,7 +271,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CSV](https://github.com/thephpleague/csv) - A CSV data manipulation library.
 * [Flysystem](https://github.com/thephpleague/Flysystem) - Abstraction for local and remote filesystems.
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
-* [Hoa Mime](https://github.com/hoaproject/Mime) - Another MIME detection library.
 * [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
 * [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 
@@ -514,8 +512,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Elephant.io](https://github.com/Wisembly/Elephant.io) - Yet another web socket library.
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
-* [Hoa EventSource](https://github.com/hoaproject/Eventsource) - An event source library.
-* [Hoa WebSocket](https://github.com/hoaproject/Websocket) - Another web socket library.
 * [Pawl](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
 * [Prooph Event Store](https://github.com/prooph/event-store) - An event source component to persist event messages
 * [PHP Defer](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
@@ -622,7 +618,6 @@ Libraries to help manage database schemas and migrations.
 * [Cron Expression](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
 * [GetOpt](https://github.com/getopt-php/getopt-php) - A command line opt parser.
 * [GetOptionKit](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
-* [Hoa Console](https://github.com/hoaproject/Console) - Another command line library.
 * [PsySH](https://github.com/bobthecow/psysh) - Another PHP REPL.
 * [ShellWrap](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
 
@@ -672,7 +667,6 @@ Libraries to help manage database schemas and migrations.
 * [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
 * [Device Detector](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
-* [Hoa String](https://github.com/hoaproject/Ustring) - Another UTF-8 string library.
 * [Jieba-PHP](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
