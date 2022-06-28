@@ -951,3 +951,4 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Externals](https://externals.io/) - PHP internal discussions. 
 * [PHP RFC Watch](https://php-rfc-watch.beberlei.de/) - Watch the latest PHP [RFCs](https://wiki.php.net/rfc).
 * [PHP Internals Book](https://www.phpinternalsbook.com/) - An online book about PHP internals, written by three core developers.
+* [Best PHP Testing libraries](https://kandi.openweaver.com/collections/testing/php-testing) - The best PHP testing tools allow developers to run tests in a simple way, from unit tests to functional testing.
