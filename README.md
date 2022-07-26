@@ -953,3 +953,8 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Externals](https://externals.io/) - PHP internal discussions. 
 * [PHP RFC Watch](https://php-rfc-watch.beberlei.de/) - Watch the latest PHP [RFCs](https://wiki.php.net/rfc).
 * [PHP Internals Book](https://www.phpinternalsbook.com/) - An online book about PHP internals, written by three core developers.
+
+### PHP Practice Projects
+
+  * [Build your own X (CodeCrafters.io)](https://codecrafters.io) — PHP mastery, by recreating Redis and Docker
+  * [Build your own X (repository)](https://github.com/codecrafters-io/build-your-own-x) — A list of _Build your own X_ style exercises in PHP and other languages
