@@ -847,7 +847,7 @@ Libraries to help manage database schemas and migrations.
 * [Hack](https://hacklang.org/) - A programming language for HHVM.
 * [HHVM](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 * [PeachPie](https://github.com/peachpiecompiler/peachpie) - PHP compiler and runtime for .NET and .NET Core.
-* [KPHP](https://github.com/VKCOM/kphp) - A compiler that translates PHP to C++.
+* [KPHP](https://github.com/VKCOM/kphp) - A compiler that translates PHP to C++ and runtime for C++.
 
 ### Text Editors and IDEs
 *Text Editors and Integrated Development Environments (IDE) with support for PHP.*
