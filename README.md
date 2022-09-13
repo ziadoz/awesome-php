@@ -842,7 +842,7 @@ Libraries to help manage database schemas and migrations.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
 
 ### Virtual Machines and Compilers
-*Alternative PHP virtual machines and compilers to translate PHP into other programming languages.*
+*Alternative PHP virtual machines and compilers.*
 
 * [Hack](https://hacklang.org/) - A programming language for HHVM.
 * [HHVM](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
