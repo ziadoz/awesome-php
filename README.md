@@ -128,7 +128,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Nette](https://nette.org) - A web framework comprised of mature components.
 * [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
 * [Spiral](https://spiral.dev/) - A high performance PHP/Go framework.
-* [Symfony](https://symfony.com/) - A set of reuseable components and a web framework.
+* [Symfony](https://symfony.com/) - A set of reusable components and a web framework.
 * [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
 
 ### Framework Extras
@@ -312,6 +312,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Behat](https://docs.behat.org/en/latest/) - A behaviour driven development (BDD) testing framework.
 * [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
 * [Faker](https://github.com/fakerphp/faker) - A fake data generator library.
+* [Foundry](https://github.com/zenstruck/foundry) - A fixture factory generation library for Doctrine.
 * [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
 * [Infection](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
 * [Kahlan](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
@@ -358,7 +359,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [IniScan](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 * [Optimus](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
-* [PHPGGC](https://github.com/ambionics/phpggc) - A library of PHP unserializeable payloads along with a tool to generate them.
+* [PHPGGC](https://github.com/ambionics/phpggc) - A library of PHP unserializable payloads along with a tool to generate them.
 * [PHP Encryption](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
 * [PHP SSH](https://github.com/Herzult/php-ssh) - An experimental object orientated SSH wrapper library.
 * [PHPSecLib](http://phpseclib.sourceforge.net/) - A pure PHP secure communications library.
@@ -670,6 +671,7 @@ Libraries to help manage database schemas and migrations.
 * [Jieba-PHP](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
+* [Portable ASCII](https://github.com/voku/portable-ascii) - A library to convert strings to ascii.
 * [Portable UTF-8](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
 * [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
@@ -941,7 +943,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Weekly](https://www.phpweekly.com/) - A weekly newsletter about PHP.
 
 ### PHP Reading
-*PHP-releated reading materials.*
+*PHP-related reading materials.*
 
 * [php[architect]](https://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.
 
