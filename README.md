@@ -676,6 +676,7 @@ Libraries to help manage database schemas and migrations.
 * [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
 * [Stringy](https://github.com/voku/Stringy) - A string manipulation library with multibyte support.
+* [T-Regx](https://github.com/T-Regx/T-Regx) - An advanced regular expressions library, eliminating the gotchas of PHP.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
 * [URLify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
 * [UUID](https://github.com/ramsey/uuid) - A library for generating UUIDs.
