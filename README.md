@@ -842,6 +842,7 @@ Libraries to help manage database schemas and migrations.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
 * [ddev](https://github.com/drud/ddev) - a local web development environment system for PHP.
 * [devilbox](https://github.com/cytopia/devilbox) -  A modern Docker LAMP stack and MEAN stack for local development.
+* [docksal](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 
 ### Virtual Machines
 *Alternative PHP virtual machines.*
