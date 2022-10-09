@@ -840,6 +840,8 @@ Libraries to help manage database schemas and migrations.
 * [Puppet](https://puppet.com/) - A server automation framework and application.
 * [Takeout](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
+* [ddev](https://github.com/drud/ddev) - a local web development environment system for PHP.
+* [devilbox](https://github.com/cytopia/devilbox) -  A modern Docker LAMP stack and MEAN stack for local development.
 
 ### Virtual Machines
 *Alternative PHP virtual machines.*
