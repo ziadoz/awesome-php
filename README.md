@@ -72,6 +72,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Third Party APIs](#third-party-apis)
     - [Extensions](#extensions)
     - [Miscellaneous](#miscellaneous)
+    - [Machine Learning](#machine-learning)
 - [Software](#software)
     - [PHP Installation](#php-installation)
     - [Development Environment](#development-environment)
@@ -813,6 +814,9 @@ Libraries to help manage database schemas and migrations.
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
+
+### Machine Learning
+* [Rubix ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language
 
 # Software
 *Software for creating a development environment.*
