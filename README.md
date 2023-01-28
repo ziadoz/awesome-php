@@ -571,6 +571,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [RedBean](https://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
 * [Slimdump](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 * [Spot2](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
+* [LeanOrm](https://github.com/rotexsoft/leanorm) - A light-weight, highly performant PHP ORM  based on the Table Data Gateway and Data Mapper patterns.
 
 ### Migrations
 Libraries to help manage database schemas and migrations.
