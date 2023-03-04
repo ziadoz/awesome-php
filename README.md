@@ -534,7 +534,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Brick\Money](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
 * [OmniPay](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
-* [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
+* [Shopware 5](https://github.com/shopware/shopware) - Highly customizable e-commerce software
+* [Shopware 6](https://github.com/shopware/platform) -  An open commerce platform based on Symfony Framework and Vue and supported by a worldwide community
 * [Swap](https://github.com/florianv/swap) - An exchange rates library.
 * [Sylius](https://sylius.com/) - An open source e-commerce solution.
 
