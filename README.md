@@ -940,6 +940,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *PHP-related news directly to your inbox.*
 
 * [PHP Weekly](https://www.phpweekly.com/) - A weekly newsletter about PHP.
+* [PHP Weekly recap](https://discu.eu/weekly/php/) - Each monday articles, tutorials and projects about PHP.
 
 ### PHP Reading
 *PHP-related reading materials.*
