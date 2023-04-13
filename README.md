@@ -902,6 +902,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ### PHP Books
 *Fantastic PHP-related books.*
 
+* [100 PHP Mistakes and How to Avoid Them](https://www.manning.com/books/100-php-mistakes-and-how-to-avoid-them) - The common mistakes that trip up even experienced PHP developers.
 * [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Real examples written in PHP showcasing DDD Architectural Styles.
 * [Functional Programming in PHP](https://www.functionalphp.com/) - This book will show you how to leverage these new PHP5.3+ features by understanding functional programming principles
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
