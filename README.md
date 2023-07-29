@@ -155,6 +155,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Pico CMS](https://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
 * [Statamic](https://statamic.com/) - Build beautiful, easy to manage websites.
 * [WordPress](https://wordpress.org/) - A blogging platform and CMS.
+* [WinterCMS](https://wintercms.com) - Free, open-source content management system based on the Laravel PHP framework.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
