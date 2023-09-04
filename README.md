@@ -935,6 +935,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 * [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com/) Interviews with the people that make the PHP community special.
+* [PHPUgly](https://www.phpugly.com) - The podcast your mother warned you about. The ramblings of a few overworked PHP Developers.  Hosted By [@shocm](https://twitter.com/shocm), [@realrideout](https://twitter.com/realrideout), and [@johncongdon](https://twitter.com/johncongdon)
 
 ### PHP Newsletters
 *PHP-related news directly to your inbox.*
