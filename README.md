@@ -6,13 +6,15 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) and [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) for details.
 
 ## Table of Contents
-- [Awesome PHP](#awesome-php)
+- [Awesome PHP ](#awesome-php-)
+  - [Contributing and Collaborating](#contributing-and-collaborating)
+  - [Table of Contents](#table-of-contents)
     - [Composer Repositories](#composer-repositories)
     - [Dependency Management](#dependency-management)
     - [Dependency Management Extras](#dependency-management-extras)
     - [Frameworks](#frameworks)
     - [Framework Extras](#framework-extras)
-    - [Content Management Systems](#content-management-systems-cms)
+    - [Content Management Systems (CMS)](#content-management-systems-cms)
     - [Components](#components)
     - [Micro Frameworks](#micro-frameworks)
     - [Micro Framework Extras](#micro-framework-extras)
@@ -24,7 +26,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Middlewares](#middlewares)
     - [URL](#url)
     - [Email](#email)
-    - [Files](#Files)
+    - [Files](#files)
     - [Streams](#streams)
     - [Dependency Injection](#dependency-injection)
     - [Imagery](#imagery)
@@ -68,7 +70,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
     - [Deployment](#deployment)
     - [Internationalisation and Localisation](#internationalisation-and-localisation)
     - [Serverless](#serverless)
-    - [Configuration](#configuration)
+  - [Configuration](#configuration)
     - [Third Party APIs](#third-party-apis)
     - [Extensions](#extensions)
     - [Miscellaneous](#miscellaneous)
@@ -390,6 +392,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Code Climate](https://codeclimate.com) - An automated code review.
 * [GrumPHP](https://github.com/phpro/grumphp) - A PHP code-quality tool.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
+* [PHP Parser TypeScript/JavaScript wrapper](https://github.com/RightCapitalHQ/php-parser) - A TypeScript/JavaScript wrapper of nicki's PHP-Parser
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
 * [Phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
@@ -398,7 +401,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Rector](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
 * [UBench](https://github.com/devster/ubench) - A simple micro benchmark library.
-
+* [PHPDoc parser](https://github.com/phpstan/phpdoc-parser) - Next-gen phpDoc parser with support for intersection types and generics
+* [PHPDoc parser(TypeScript)](https://github.com/RightCapitalHQ/phpdoc-parser) - A PHPDoc parser written in TypeScript
 ### Code Quality
 *Libraries for managing code quality, formatting and linting.*
 
