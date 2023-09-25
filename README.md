@@ -370,6 +370,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 * [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
 * [Zap](https://owasp.org/www-project-zap/) - An integrated penetration testing tool for web applications.
+* [CakeFuzzer](https://github.com/Zigrin-Security/CakeFuzzer) - The ultimate web application security testing tool for CakePHP-based web applications.
 
 ### Passwords
 *Libraries and tools for working with and storing passwords.*
