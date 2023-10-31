@@ -930,11 +930,18 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ### PHP Podcasts
 *Podcasts with a focus on PHP topics.*
 
-* [Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
+* [The Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
+* [Laravel News Podcast](https://podcast.laravel-news.com/) - The Laravel News Podcast brings you all the latest news and events related to the Laravel PHP Framework.
 * [PHP Internals News](https://phpinternals.news) - A podcast about PHP internals.
-* [PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
+* [The PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 * [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
-* [Voices of the ElePHPant](https://voicesoftheelephpant.com/) Interviews with the people that make the PHP community special.
+* [Voices of the ElePHPant](https://voicesoftheelephpant.com/) - Interviews with the people that make the PHP community special.
+* [The Laracasts Snippet](http://laracasts.audio/) - The Laracasts snippet, each episode, offers a single thought on some aspect of web development.
+* [php[podcast] episodes from php[architect]](https://www.phparch.com/podcast/) - The official podcast of php[architect] the industry's leading tech magazine and publisher focused on PHP and web development.
+* [Over Engineered](https://overengineered.fm/) - A podcast in mini-series where we explore unimportant programming questions in extreme detail.
+* [PHPUgly](https://www.phpugly.com/) - The ramblings of a few overworked PHP Developers.
+* [No Compromises](https://show.nocompromises.io/) - Two seasoned salty programming veterans talk best practices based on years of working with Laravel SaaS teams.
+* [North Meets South Web Podcast](https://www.northmeetssouth.audio/) - Jacob Bennett and Michael Dyrynda conquer a 14.5 hour time difference to talk about life as web developers.
 
 ### PHP Newsletters
 *PHP-related news directly to your inbox.*
