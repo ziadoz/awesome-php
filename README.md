@@ -111,6 +111,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
 * [Composer Normalize](https://github.com/ergebnis/composer-normalize) - A plugin for normalising `composer.json` files. 
 * [Composer Patches](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
+* [Composer Prefer Lowest](https://github.com/dereuromark/composer-prefer-lowest) - A plugin to check if minimum dependencies can be installed and tested.
 * [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
 * [Composer Unused](https://github.com/composer-unused/composer-unused) - A CLI Tool to scan for unused composer packages.
 * [Prestissimo](https://github.com/hirak/prestissimo) - A composer plugin which enables parallel install process.
