@@ -311,6 +311,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Atoum](https://github.com/atoum/atoum) - A simple testing library.
 * [Behat](https://docs.behat.org/en/latest/) - A behaviour driven development (BDD) testing framework.
 * [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
+* [Testomatio-reporter](https://github.com/testomatio/reporter) - Reporting and analytics for PHP tests from the Codecept team. Passed, failed, skipped test distribution. Automation coverage, flaky tests, slow tests, never-run tests and many more.
 * [Faker](https://github.com/fakerphp/faker) - A fake data generator library.
 * [Foundry](https://github.com/zenstruck/foundry) - A fixture factory generation library for Doctrine.
 * [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
