@@ -898,6 +898,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP Watch](https://php.watch/) - PHP articles, news, upcoming changes, RFCs and more.
 * [PHP Weekly](https://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
 * [Seven PHP](https://7php.com/) - A website that interviews members of the PHP community.
+* [PHP Tutorial](https://www.phptutorial.net/) - This modern PHP tutorial helps you learn how to develop dynamic websites and web applications using PHP from scratch.
 
 ### PHP Books
 *Fantastic PHP-related books.*
