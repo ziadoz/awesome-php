@@ -188,6 +188,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries for handling application routing.*
 
 * [Aura.Router](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
+* [Router](https://github.com/bramus/router) - Simple PHP router.
 * [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
 * [Klein](https://github.com/klein/klein.php) - A flexible router.
 * [Pux](https://github.com/c9s/Pux) - Another fast routing library.
