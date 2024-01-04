@@ -7,86 +7,86 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
-    - [Composer Repositories](#composer-repositories)
-    - [Dependency Management](#dependency-management)
-    - [Dependency Management Extras](#dependency-management-extras)
-    - [Frameworks](#frameworks)
-    - [Framework Extras](#framework-extras)
-    - [Content Management Systems](#content-management-systems-cms)
-    - [Components](#components)
-    - [Micro Frameworks](#micro-frameworks)
-    - [Micro Framework Extras](#micro-framework-extras)
-    - [Routers](#routers)
-    - [Templating](#templating)
-    - [Static Site Generators](#static-site-generators)
-    - [HTTP](#http)
-    - [Scraping](#scraping)
-    - [Middlewares](#middlewares)
-    - [URL](#url)
-    - [Email](#email)
-    - [Files](#Files)
-    - [Streams](#streams)
-    - [Dependency Injection](#dependency-injection)
-    - [Imagery](#imagery)
-    - [Testing](#testing)
-    - [Continuous Integration](#continuous-integration)
-    - [Documentation](#documentation)
-    - [Security](#security)
-    - [Passwords](#passwords)
-    - [Code Analysis](#code-analysis)
-    - [Code Quality](#code-quality)
-    - [Static Analysis](#static-analysis)
-    - [Architectural](#architectural)
-    - [Debugging and Profiling](#debugging-and-profiling)
-    - [Build Tools](#build-tools)
-    - [Task Runners](#task-runners)
-    - [Navigation](#navigation)
-    - [Asset Management](#asset-management)
-    - [Geolocation](#geolocation)
-    - [Date and Time](#date-and-time)
-    - [Event](#event)
-    - [Logging](#logging)
-    - [E-commerce](#e-commerce)
-    - [PDF](#pdf)
-    - [Office](#office)
-    - [Database](#database)
-    - [Migrations](#migrations)
-    - [NoSQL](#nosql)
-    - [Queue](#queue)
-    - [Search](#search)
-    - [Command Line](#command-line)
-    - [Authentication and Authorization](#authentication-and-authorization)
-    - [Markup and CSS](#markup-and-css)
-    - [JSON](#json)
-    - [Strings](#strings)
-    - [Numbers](#numbers)
-    - [Filtering and Validation](#filtering-and-validation)
-    - [API](#api)
-    - [Caching and Locking](#caching-and-locking)
-    - [Data Structure and Storage](#data-structure-and-storage)
-    - [Notifications](#notifications)
-    - [Deployment](#deployment)
-    - [Internationalisation and Localisation](#internationalisation-and-localisation)
-    - [Serverless](#serverless)
-    - [Configuration](#configuration)
-    - [Third Party APIs](#third-party-apis)
-    - [Extensions](#extensions)
-    - [Miscellaneous](#miscellaneous)
+  - [Composer Repositories](#composer-repositories)
+  - [Dependency Management](#dependency-management)
+  - [Dependency Management Extras](#dependency-management-extras)
+  - [Frameworks](#frameworks)
+  - [Framework Extras](#framework-extras)
+  - [Content Management Systems](#content-management-systems-cms)
+  - [Components](#components)
+  - [Micro Frameworks](#micro-frameworks)
+  - [Micro Framework Extras](#micro-framework-extras)
+  - [Routers](#routers)
+  - [Templating](#templating)
+  - [Static Site Generators](#static-site-generators)
+  - [HTTP](#http)
+  - [Scraping](#scraping)
+  - [Middlewares](#middlewares)
+  - [URL](#url)
+  - [Email](#email)
+  - [Files](#Files)
+  - [Streams](#streams)
+  - [Dependency Injection](#dependency-injection)
+  - [Imagery](#imagery)
+  - [Testing](#testing)
+  - [Continuous Integration](#continuous-integration)
+  - [Documentation](#documentation)
+  - [Security](#security)
+  - [Passwords](#passwords)
+  - [Code Analysis](#code-analysis)
+  - [Code Quality](#code-quality)
+  - [Static Analysis](#static-analysis)
+  - [Architectural](#architectural)
+  - [Debugging and Profiling](#debugging-and-profiling)
+  - [Build Tools](#build-tools)
+  - [Task Runners](#task-runners)
+  - [Navigation](#navigation)
+  - [Asset Management](#asset-management)
+  - [Geolocation](#geolocation)
+  - [Date and Time](#date-and-time)
+  - [Event](#event)
+  - [Logging](#logging)
+  - [E-commerce](#e-commerce)
+  - [PDF](#pdf)
+  - [Office](#office)
+  - [Database](#database)
+  - [Migrations](#migrations)
+  - [NoSQL](#nosql)
+  - [Queue](#queue)
+  - [Search](#search)
+  - [Command Line](#command-line)
+  - [Authentication and Authorization](#authentication-and-authorization)
+  - [Markup and CSS](#markup-and-css)
+  - [JSON](#json)
+  - [Strings](#strings)
+  - [Numbers](#numbers)
+  - [Filtering and Validation](#filtering-and-validation)
+  - [API](#api)
+  - [Caching and Locking](#caching-and-locking)
+  - [Data Structure and Storage](#data-structure-and-storage)
+  - [Notifications](#notifications)
+  - [Deployment](#deployment)
+  - [Internationalisation and Localisation](#internationalisation-and-localisation)
+  - [Serverless](#serverless)
+  - [Configuration](#configuration)
+  - [Third Party APIs](#third-party-apis)
+  - [Extensions](#extensions)
+  - [Miscellaneous](#miscellaneous)
 - [Software](#software)
-    - [PHP Installation](#php-installation)
-    - [Development Environment](#development-environment)
-    - [Virtual Machines](#virtual-machines)
-    - [Text Editors and IDEs](#text-editors-and-ides)
-    - [Web Applications](#web-applications)
-    - [Infrastructure](#infrastructure)
+  - [PHP Installation](#php-installation)
+  - [Development Environment](#development-environment)
+  - [Virtual Machines](#virtual-machines)
+  - [Text Editors and IDEs](#text-editors-and-ides)
+  - [Web Applications](#web-applications)
+  - [Infrastructure](#infrastructure)
 - [Resources](#resources)
-    - [PHP Websites](#php-websites)
-    - [PHP Books](#php-books)
-    - [PHP Videos](#php-videos)
-    - [PHP Podcasts](#php-podcasts)
-    - [PHP Newsletters](#php-newsletters)
-    - [PHP Reading](#php-reading)
-    - [PHP Internals Reading](#php-internals-reading)
+  - [PHP Websites](#php-websites)
+  - [PHP Books](#php-books)
+  - [PHP Videos](#php-videos)
+  - [PHP Podcasts](#php-podcasts)
+  - [PHP Newsletters](#php-newsletters)
+  - [PHP Reading](#php-reading)
+  - [PHP Internals Reading](#php-internals-reading)
 
 ### Composer Repositories
 *Composer Repositories.*
@@ -109,8 +109,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Composed](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
 * [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
-* [Composer Normalize](https://github.com/ergebnis/composer-normalize) - A plugin for normalising `composer.json` files. 
+* [Composer Normalize](https://github.com/ergebnis/composer-normalize) - A plugin for normalising `composer.json` files.
 * [Composer Patches](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
+* [Composer Prefer Lowest](https://github.com/dereuromark/composer-prefer-lowest) - A plugin to check if minimum dependencies can be installed and tested.
 * [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
 * [Composer Unused](https://github.com/composer-unused/composer-unused) - A CLI Tool to scan for unused composer packages.
 * [Prestissimo](https://github.com/hirak/prestissimo) - A composer plugin which enables parallel install process.
@@ -228,7 +229,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Scraping
 *Libraries for scraping websites.*
 
-* [Chrome PHP](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP. 
+* [Chrome PHP](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
 * [DiDOM](https://github.com/Imangazaliev/DiDOM) - A super fast HTML scrapper and parser.
 * [Embed](https://github.com/oscarotero/Embed) - An information extractor from any web service or page.
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A simple web scraper.
@@ -324,7 +325,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Phake](https://github.com/phake/phake) - Another mock object library for testing.
 * [Pho](https://github.com/danielstjules/pho) - Another behaviour driven development testing framework.
 * [PHP-Mock](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
-* [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP. 
+* [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
 * [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
 * [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
@@ -366,7 +367,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [random_compat](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
 * [RandomLib](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
 * [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
-* [SQLMap](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool. 
+* [SQLMap](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 * [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
 * [Zap](https://owasp.org/www-project-zap/) - An integrated penetration testing tool for web applications.
@@ -402,7 +403,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Code Quality
 *Libraries for managing code quality, formatting and linting.*
 
-* [CaptainHook](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library. 
+* [CaptainHook](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
 * [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
 * [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A coding standards fixer library.
 * [PHP Mess Detector](https://github.com/phpmd/phpmd) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
@@ -596,7 +597,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP AMQP](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
 * [Tarantool Queue](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
 * [Thumper](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
-* [Enqueue](https://github.com/php-enqueue/enqueue-dev) - A message queue packages for PHP that supports RabbitMQ, AMQP, STOMP, Amazon SQS, Redis and Doctrine transports. 
+* [Enqueue](https://github.com/php-enqueue/enqueue-dev) - A message queue packages for PHP that supports RabbitMQ, AMQP, STOMP, Amazon SQS, Redis and Doctrine transports.
 
 ### Search
 *Libraries and software for indexing and performing search queries on data.*
@@ -690,7 +691,7 @@ Libraries to help manage database schemas and migrations.
 * [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
-* [MathPHP](https://github.com/markrogoyski/math-php) - A math library for PHP. 
+* [MathPHP](https://github.com/markrogoyski/math-php) - A math library for PHP.
 
 ### Filtering and Validation
 *Libraries for filtering and validating data.*
@@ -782,7 +783,7 @@ Libraries to help manage database schemas and migrations.
 
 * [PHP Dotenv](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
 * [Symfony Dotenv](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
-* [Yo! Symfony TOML](https://github.com/yosymfony/toml) - A PHP parser for [TOML](https://github.com/toml-lang/toml). 
+* [Yo! Symfony TOML](https://github.com/yosymfony/toml) - A PHP parser for [TOML](https://github.com/toml-lang/toml).
 
 ### Third Party APIs
 *Libraries for accessing third party APIs.*
@@ -835,7 +836,7 @@ Libraries to help manage database schemas and migrations.
 * [Docker PHP Extension Installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
 * [Expose](https://github.com/beyondcode/expose) - An open source PHP tunneling service.
 * [Lando](https://lando.dev/) - Push-button development environments.
-* [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel. 
+* [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
 * [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
 * [Puppet](https://puppet.com/) - A server automation framework and application.
 * [Takeout](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
@@ -950,6 +951,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *Reading materials related to the PHP internals or performance.*
 
 * [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (Request for Comments).
-* [Externals](https://externals.io/) - PHP internal discussions. 
+* [Externals](https://externals.io/) - PHP internal discussions.
 * [PHP RFC Watch](https://php-rfc-watch.beberlei.de/) - Watch the latest PHP [RFCs](https://wiki.php.net/rfc).
 * [PHP Internals Book](https://www.phpinternalsbook.com/) - An online book about PHP internals, written by three core developers.
