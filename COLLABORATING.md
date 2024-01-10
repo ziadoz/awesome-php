@@ -13,9 +13,10 @@ If you provide feedback on a suggested project please be friendly and constructi
 ## Reviewing
 Please work through the following checklist when reviewing a project: 
 
-- Tag pull requests with the most relevant label(s).
-- Validate URLs work correctly and don't point to anything malicious.
 - Ensure suggestions adhere to [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md).
+- Validate URLs work correctly and don't point to anything malicious.
+- Two approvals per pull request is preferred, but not required.
+- Simple pull requests fixing typos, formatting and broken links can be merged with a single approval.
 
 ## Enhancements
 If you have an idea on how to improve the project, please open a ticket for discussion using the `Enhancement` label. Please don’t make any broad or sweeping changes without consulting other collaborators first and reaching a consensus.
