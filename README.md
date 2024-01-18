@@ -720,7 +720,7 @@ Libraries to help manage database schemas and migrations.
 * [Jane](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
 * [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
 * [Restler](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
-* [wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - A tool to generate PHP classes from SOAP WSDL files.
+* [PackageGenerator](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
 
 ### Caching and Locking
 *Libraries for caching data and acquiring locks.*
