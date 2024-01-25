@@ -312,7 +312,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
 * [Faker](https://github.com/fakerphp/faker) - A fake data generator library.
 * [Foundry](https://github.com/zenstruck/foundry) - A fixture factory generation library for Doctrine.
-* [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
 * [Infection](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
 * [Kahlan](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
 * [Mink](https://mink.behat.org/en/latest/) - Web acceptance testing.
