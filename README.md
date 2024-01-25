@@ -319,7 +319,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Nette Tester](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
 * [ParaTest](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
 * [Pest](https://pestphp.com/) - A testing framework with a focus on simplicity.
-* [Peridot](https://github.com/peridot-php/peridot) - An event-driven test framework.
 * [Phake](https://github.com/phake/phake) - Another mock object library for testing.
 * [Pho](https://github.com/danielstjules/pho) - Another behavior-driven development testing framework.
 * [PHP-Mock](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
