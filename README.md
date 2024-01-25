@@ -320,7 +320,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [ParaTest](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
 * [Pest](https://pestphp.com/) - A testing framework with a focus on simplicity.
 * [Phake](https://github.com/phake/phake) - Another mock object library for testing.
-* [Pho](https://github.com/danielstjules/pho) - Another behavior-driven development testing framework.
 * [PHP-Mock](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
 * [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
 * [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
