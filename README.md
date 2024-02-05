@@ -887,7 +887,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP FIG](https://www.php-fig.org/) - The PHP Framework Interoperability Group.
 * [PHP Package Development Standards](http://php-pds.com) - Package development standards for PHP.
 * [PHP School](https://www.phpschool.io/) - Open Source Learning for PHP.
-* [PHP Security](https://phpsecurity.readthedocs.io/en/latest/index.html) - A guide to PHP security.
 * [PHP The Right Way](https://phptherightway.com/) - A PHP best practice quick reference guide.
 * [PHP UG](https://php.ug) - A website to help people locate their nearest PHP user group (UG).
 * [PHP Versions](http://phpversions.info/) - Lists which versions of PHP are available on several popular web hosts.
