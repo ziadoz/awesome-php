@@ -884,7 +884,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Nomad PHP](https://nomadphp.com/) - A online PHP learning resource.
 * [Laravel News](https://laravel-news.com/) - The official Laravel blog.
 * [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/tag/php-annotated-monthly/) - A monthly digest of PHP news.
-* [PHP Best Practices](https://phpbestpractices.org/) - A PHP best practice guide.
 * [PHP FIG](https://www.php-fig.org/) - The PHP Framework Interoperability Group.
 * [PHP Package Development Standards](http://php-pds.com) - Package development standards for PHP.
 * [PHP School](https://www.phpschool.io/) - Open Source Learning for PHP.
