@@ -226,8 +226,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
 
 ### Scraping
-*Libraries for scraping websites.*
+*Libraries for scraping websites and detecting crawlers.*
 
+* [CrawlerDetect](https://github.com/JayBizzle/Crawler-Detect) - A PHP class for detecting bots/crawlers/spiders via the user agent.
 * [Chrome PHP](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
 * [DiDOM](https://github.com/Imangazaliev/DiDOM) - A super-fast HTML scrapper and parser.
 * [Embed](https://github.com/oscarotero/Embed) - An information extractor from any web service or page.
