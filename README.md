@@ -628,6 +628,7 @@ Libraries to help manage database schemas and migrations.
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colours.
 * [Device Detector](https://github.com/piwik/device-detector) - Another library for parsing user agent strings.
 * [Hoa String](https://github.com/hoaproject/Ustring) - Another UTF-8 string library.
+* [Hyphenation](https://github.com/heiglandreas/Org_Heigl_Hyphenator) - Text-Hyphenation based on the TeX-hyphenation Algorithm 
 * [Jieba-PHP](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
@@ -638,7 +639,6 @@ Libraries to help manage database schemas and migrations.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
 * [URLify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
 * [UUID](https://github.com/ramsey/uuid) - A library for generating UUIDs.
-* [Hyphenation](https://github.com/heiglandreas/Org_Heigl_Hyphenator) - Text-Hyphenation based on the TeX-hyphenation Algorithm 
 
 ## Numbers
 *Libraries for working with numbers.*
