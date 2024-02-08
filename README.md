@@ -88,8 +88,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
   - [PHP Reading](#php-reading)
   - [PHP Internals Reading](#php-internals-reading)
 - [Additional](#additional)
-  - [Docx](#docx)
-
+  - [Docx reader](#docx)
+  - [PDF Reader](https://www.geeksforgeeks.org/how-to-read-pdf-file-using-php/)
+  - [linkedin-pdf-resume-parser](https://github.com/lesterchan/linkedin-pdf-resume-parser)
+  - [linkedin-resume-parser](https://github.com/Persata/linkedin-resume-parser)
 
 #### Docx
 
