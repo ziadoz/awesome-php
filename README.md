@@ -543,6 +543,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Dompdf](https://github.com/dompdf/dompdf) - A HTML to PDF converter.
 * [Gotenberg](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
+* [TCPDF](https://tcpdf.org/) - An open source PHP class for generating PDF documents.
 
 ### Office
 *Libraries for working with office suite documents.*
