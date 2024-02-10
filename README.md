@@ -828,6 +828,7 @@ Libraries to help manage database schemas and migrations.
 *Software and tools for creating and sharing a development environment.*
 
 * [Ansible](https://www.ansible.com/) - A radically simple orchestration framework.
+* [DECK](https://get-deck.com/) - A powerful and high performant local web development studio.
 * [Docker](https://www.docker.com/) - A containerization platform.
 * [Docker PHP Extension Installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
 * [Expose](https://github.com/beyondcode/expose) - An open-source PHP tunneling service.
