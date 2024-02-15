@@ -154,7 +154,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Moodle](https://moodle.org/) - An open-source learning platform.
 * [Pico CMS](https://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
 * [Statamic](https://statamic.com/) - Build beautiful, easy-to-manage websites.
-* [WordPress](https://wordpress.org/) - A blogging platform and CMS.
+* [WordPress](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
