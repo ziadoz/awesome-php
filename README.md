@@ -830,10 +830,10 @@ Libraries to help manage database schemas and migrations.
 *Software and tools for creating and sharing a development environment.*
 
 * [Ansible](https://www.ansible.com/) - A radically simple orchestration framework.
-* [ddev](https://github.com/drud/ddev) - a local web development environment system for PHP.
+* [DDEV](https://github.com/drud/ddev) - a local web development environment system for PHP.
 * [Docker](https://www.docker.com/) - A containerization platform.
-* [docksal](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 * [Docker PHP Extension Installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
+* [Docksal](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 * [Expose](https://github.com/beyondcode/expose) - An open-source PHP tunneling service.
 * [Lando](https://lando.dev/) - Push-button development environments.
 * [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
