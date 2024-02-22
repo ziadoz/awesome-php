@@ -38,6 +38,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
   - [Static Analysis](#static-analysis)
   - [Architectural](#architectural)
   - [Debugging and Profiling](#debugging-and-profiling)
+  - [Error Tracking and Monitoring Services](#error-tracking-and-monitoring-services)
   - [Build Tools](#build-tools)
   - [Task Runners](#task-runners)
   - [Navigation](#navigation)
