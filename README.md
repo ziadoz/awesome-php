@@ -38,6 +38,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
   - [Static Analysis](#static-analysis)
   - [Architectural](#architectural)
   - [Debugging and Profiling](#debugging-and-profiling)
+  - [Error Tracking and Monitoring Services](#error-tracking-and-monitoring-services)
   - [Build Tools](#build-tools)
   - [Task Runners](#task-runners)
   - [Navigation](#navigation)
@@ -439,7 +440,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
 * [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
-* [Blackfire.io](https://www.blackfire.io) - A low-overhead code profiler.
 * [Kint](https://github.com/kint-php/kint) - A debugging and profiling tool.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [PCOV](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
@@ -448,12 +448,20 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPBench](https://github.com/phpbench/phpbench) - A benchmarking Framework.
 * [PHPSpy](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
 * [Symfony VarDumper](https://github.com/symfony/var-dumper) - A variable dumper component.
-* [Tideways.io](https://tideways.com/) - Monitoring and profiling tool.
 * [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
 * [Whoops](https://github.com/filp/whoops) - A pretty error-handling library.
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 * [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
+
+### Error Tracking and Monitoring Services
+*Self-hosted or cloud-based application performance monitoring & error tracking tools*
+
+* [Blackfire](https://www.blackfire.io) - A low-overhead code profiler.
+* [Honeybadger](https://www.honeybadger.io/) - Error Tracking & Application Monitoring for Developers.
+* [Rollbar](https://rollbar.com/) - Error Logging & Tracking Service for Software Teams.
+* [Sentry](https://sentry.io/welcome/) - Application Performance Monitoring & Error Tracking Software.
+* [Tideways](https://tideways.com/) - Monitoring and profiling tool.
 
 ### Build Tools
 *Project build and automation tools.*
