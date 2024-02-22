@@ -457,10 +457,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Self-hosted or cloud-based application performance monitoring & error tracking tools*
 
 * [Blackfire.io](https://www.blackfire.io) - A low-overhead code profiler.
-* [Tideways.io](https://tideways.com/) - Monitoring and profiling tool.
 * [Honeybadger](https://www.honeybadger.io/) - Error Tracking & Application Monitoring for Developers.
-* [Sentry](https://sentry.io/welcome/) - Application Performance Monitoring & Error Tracking Software.
 * [Rollbar](https://rollbar.com/) - Error Logging & Tracking Service for Software Teams.
+* [Sentry](https://sentry.io/welcome/) - Application Performance Monitoring & Error Tracking Software.
+* [Tideways.io](https://tideways.com/) - Monitoring and profiling tool.
 
 ### Build Tools
 *Project build and automation tools.*
