@@ -458,6 +458,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Self-hosted or cloud-based application performance monitoring & error tracking tools*
 
 * [Blackfire](https://www.blackfire.io) - A low-overhead code profiler.
+* [BugSnag](https://www.bugsnag.com/) - Error and Real User Monitoring. 
 * [Honeybadger](https://www.honeybadger.io/) - Error Tracking & Application Monitoring for Developers.
 * [Rollbar](https://rollbar.com/) - Error Logging & Tracking Service for Software Teams.
 * [Sentry](https://sentry.io/welcome/) - Application Performance Monitoring & Error Tracking Software.
