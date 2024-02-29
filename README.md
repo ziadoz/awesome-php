@@ -38,6 +38,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
   - [Static Analysis](#static-analysis)
   - [Architectural](#architectural)
   - [Debugging and Profiling](#debugging-and-profiling)
+  - [Error Tracking and Monitoring Services](#error-tracking-and-monitoring-services)
   - [Build Tools](#build-tools)
   - [Task Runners](#task-runners)
   - [Navigation](#navigation)
@@ -83,6 +84,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
   - [PHP Websites](#php-websites)
   - [PHP Books](#php-books)
   - [PHP Videos](#php-videos)
+  - [PHP Conferences](#php-conferences)
   - [PHP Podcasts](#php-podcasts)
   - [PHP Newsletters](#php-newsletters)
   - [PHP Reading](#php-reading)
@@ -439,7 +441,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
 * [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
-* [Blackfire.io](https://www.blackfire.io) - A low-overhead code profiler.
 * [Kint](https://github.com/kint-php/kint) - A debugging and profiling tool.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [PCOV](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
@@ -448,12 +449,21 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPBench](https://github.com/phpbench/phpbench) - A benchmarking Framework.
 * [PHPSpy](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
 * [Symfony VarDumper](https://github.com/symfony/var-dumper) - A variable dumper component.
-* [Tideways.io](https://tideways.com/) - Monitoring and profiling tool.
 * [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
 * [Whoops](https://github.com/filp/whoops) - A pretty error-handling library.
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 * [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
+
+### Error Tracking and Monitoring Services
+*Self-hosted or cloud-based application performance monitoring & error tracking tools*
+
+* [Blackfire](https://www.blackfire.io) - A low-overhead code profiler.
+* [BugSnag](https://www.bugsnag.com/) - Error and Real User Monitoring. 
+* [Honeybadger](https://www.honeybadger.io/) - Error Tracking & Application Monitoring for Developers.
+* [Rollbar](https://rollbar.com/) - Error Logging & Tracking Service for Software Teams.
+* [Sentry](https://sentry.io/welcome/) - Application Performance Monitoring & Error Tracking Software.
+* [Tideways](https://tideways.com/) - Monitoring and profiling tool.
 
 ### Build Tools
 *Project build and automation tools.*
@@ -916,13 +926,18 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ### PHP Videos
 *Fantastic PHP-related videos.*
 
-* [Nomad PHP Lightning Talks](https://www.youtube.com/c/nomadphp) - 10 to 15 minute Lightning Talks by PHP community members.
-* [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
-* [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
-* [Taking PHP Seriously](https://www.infoq.com/presentations/php-history/) - A talk outlining PHP's strengths by Keith Adams of Facebook.
 * [Laracasts](https://laracasts.com) - Screencasts about Laravel, Vue JS and more.
 * [Laravel YouTube Channel](https://www.youtube.com/channel/UCfO2GiQwb-cwJTb1CuRSkwg) - The official Laravel YouTube channel.
+* [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 * [SymfonyCasts](https://symfonycasts.com/) - Screencasts and tutorials about PHP and Symfony.
+
+### PHP Conferences
+*PHP conferences.*
+
+* [Laracon EU](https://www.youtube.com/@LaraconEU) - Laracon EU is a 2-day event for people who are interested in learning Laravel and related technologies, or who want to share their knowledge with others.
+* [PHP[TEK]](https://tek.phparch.com/) - The longest-running web developer conference in the United States that has a focus on the PHP programming language.
+* [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
+
 
 ### PHP Podcasts
 *Podcasts with a focus on PHP topics.*
