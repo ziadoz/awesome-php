@@ -902,7 +902,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP The Right Way](https://phptherightway.com/) - A PHP best practice quick reference guide.
 * [PHP UG](https://php.ug) - A website to help people locate their nearest PHP user group (UG).
 * [PHP Watch](https://php.watch/) - PHP articles, news, upcoming changes, RFCs and more.
-* [PHP Weekly](https://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
 * [Unit Testing Tips](https://testing-tips.sarvendev.com/) - Unit Testing Tips by examples in PHP.
 
 ### PHP Books
