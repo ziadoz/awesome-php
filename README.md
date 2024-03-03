@@ -364,7 +364,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [random_compat](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
 * [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
 * [SQLMap](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
-* [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
 * [Zap](https://github.com/OWASP/www-project-zap) - An integrated penetration testing tool for web applications.
 
 ### Passwords
