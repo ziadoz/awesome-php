@@ -435,6 +435,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 * [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
 * [RulerZ](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
+* [Schemator](https://github.com/Smoren/schemator-php) - Schematic data mapper for converting nested data structures (any composition of associative arrays, non-associative arrays and objects) according to the given conversion schema.
 
 ### Debugging and Profiling
 *Libraries and tools for debugging errors and profiling code.*
