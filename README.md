@@ -509,6 +509,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Chronos](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
 * [Moment.php](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
 * [Yasumi](https://github.com/azuyalabs/yasumi) - A library to help you calculate the dates and names of holidays.
+* [TimeHelper](https://github.com/zjkal/time-helper) - A smart PHP datetime helper library.
 
 ### Event
 *Libraries that are event-driven or implement non-blocking event loops.*
