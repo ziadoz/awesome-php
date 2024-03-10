@@ -815,6 +815,7 @@ Libraries to help manage database schemas and migrations.
 * [Annotations](https://github.com/doctrine/annotations) - An annotation library (part of Doctrine).
 * [BotMan](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chatbots.
 * [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
+* [Ganesha](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
 * [Hprose-PHP](https://github.com/hprose/hprose-php) - A cross-language RPC.
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
