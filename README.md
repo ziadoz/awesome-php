@@ -303,6 +303,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Imagine](https://imagine.readthedocs.io/en/latest/index.html) - An image manipulation library.
 * [Intervention Image](https://github.com/Intervention/image) - Another image manipulation library.
 * [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
+* [PHP QR Code](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader.
 
 ### Testing
 *Libraries for testing codebases and generating test data.*
