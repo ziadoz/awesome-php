@@ -418,6 +418,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Architecture Tester](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
 * [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
+* [PHPDoc Parser](https://github.com/phpstan/phpdoc-parser) - Next-gen phpDoc parser with support for intersection types and generics
 * [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
 * [PHP Migration](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
 * [PHPStan](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
