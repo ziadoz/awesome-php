@@ -155,8 +155,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Magento](https://github.com/magento/magento2) - The most popular e-commerce platform.
 * [Moodle](https://moodle.org/) - An open-source learning platform.
 * [Pico CMS](https://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
-* [Statamic](https://statamic.com/) - Build beautiful, easy-to-manage websites.
-* [WordPress](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
+* [Statamic](https://statamic.com/) - Build beautiful, easy to manage websites.
+* [WordPress](https://wordpress.org/) - A blogging platform and CMS.
+* [WinterCMS](https://wintercms.com) - Free, open-source content management system based on the Laravel PHP framework.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
