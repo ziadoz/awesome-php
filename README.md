@@ -826,6 +826,7 @@ Libraries to help manage database schemas and migrations.
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
+* [RTCKit/SIP](https://github.com/rtckit/php-sip) - A RFC 3261 compliant SIP parsing/rendering library.
 
 # Software
 *Software for creating a development environment.*
