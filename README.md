@@ -149,6 +149,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Concrete5](https://www.concretecms.com/) - A CMS targeting users with a minimum of technical skills.
 * [CraftCMS](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
 * [Drupal](https://www.drupal.org) - An enterprise level CMS.
+* [Elgg](https://elgg.org) - An open source rapid development framework for socially aware web applications.
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
 * [Kirby](https://getkirby.com/) - A flat-file CMS that adapts to any project.
