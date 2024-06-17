@@ -173,6 +173,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Micro Frameworks
 *Micro frameworks and routers.*
 
+* [Fat-Free Framework](https://www.fatfreeframework.com/) - A powerful yet easy to use PHP micro-framework.
 * [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
 * [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
 * [Minicli](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
