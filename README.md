@@ -127,6 +127,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CakePHP](https://cakephp.org/) - A rapid application development framework.
 * [CodeIgniter](https://codeigniter.com/) - A powerful PHP framework with a very small footprint.
 * [Laminas](https://getlaminas.org/) - A framework comprised of individual components (previously Zend Framework).
+* [Ecotone](https://docs.ecotone.tech/) - A Service Bus for PHP based on architectural principles of DDD CQRS and Event Sourcing
 * [Laravel](https://laravel.com/) - A web application framework with expressive, elegant syntax.
 * [Nette](https://nette.org) - A web framework comprised of mature components.
 * [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
