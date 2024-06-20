@@ -274,6 +274,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Flysystem](https://github.com/thephpleague/Flysystem) - Abstraction for local and remote filesystems.
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 * [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
+* [PHP Mime Detector](https://github.com/SoftCreatR/php-mime-detector) - Mime Detection of files, using magic numbers.
 * [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 
 ### Streams
