@@ -6,89 +6,91 @@ A curated list of amazingly awesome PHP libraries, resources, and shiny things.
 Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) and [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) for details.
 
 ## Table of Contents
-- [Awesome PHP](#awesome-php)
-  - [Composer Repositories](#composer-repositories)
-  - [Dependency Management](#dependency-management)
-  - [Dependency Management Extras](#dependency-management-extras)
-  - [Frameworks](#frameworks)
-  - [Framework Extras](#framework-extras)
-  - [Content Management Systems](#content-management-systems-cms)
-  - [Components](#components)
-  - [Micro Frameworks](#micro-frameworks)
-  - [Micro Framework Extras](#micro-framework-extras)
-  - [Routers](#routers)
-  - [Templating](#templating)
-  - [Static Site Generators](#static-site-generators)
-  - [HTTP](#http)
-  - [Scraping](#scraping)
-  - [Middlewares](#middlewares)
-  - [URL](#url)
-  - [Email](#email)
-  - [Files](#Files)
-  - [Streams](#streams)
-  - [Dependency Injection](#dependency-injection)
-  - [Imagery](#imagery)
-  - [Testing](#testing)
-  - [Continuous Integration](#continuous-integration)
-  - [Documentation](#documentation)
-  - [Security](#security)
-  - [Passwords](#passwords)
-  - [Code Analysis](#code-analysis)
-  - [Code Quality](#code-quality)
-  - [Static Analysis](#static-analysis)
-  - [Architectural](#architectural)
-  - [Debugging and Profiling](#debugging-and-profiling)
-  - [Error Tracking and Monitoring Services](#error-tracking-and-monitoring-services)
-  - [Build Tools](#build-tools)
-  - [Task Runners](#task-runners)
-  - [Navigation](#navigation)
-  - [Asset Management](#asset-management)
-  - [Geolocation](#geolocation)
-  - [Date and Time](#date-and-time)
-  - [Event](#event)
-  - [Logging](#logging)
-  - [E-commerce](#e-commerce)
-  - [PDF](#pdf)
-  - [Office](#office)
-  - [Database](#database)
-  - [Migrations](#migrations)
-  - [NoSQL](#nosql)
-  - [Queue](#queue)
-  - [Search](#search)
-  - [Command Line](#command-line)
-  - [Authentication and Authorization](#authentication-and-authorization)
-  - [Markup and CSS](#markup-and-css)
-  - [JSON](#json)
-  - [Strings](#strings)
-  - [Numbers](#numbers)
-  - [Filtering and Validation](#filtering-and-validation)
-  - [API](#api)
-  - [Caching and Locking](#caching-and-locking)
-  - [Data Structure and Storage](#data-structure-and-storage)
-  - [Notifications](#notifications)
-  - [Deployment](#deployment)
-  - [Internationalisation and Localisation](#internationalisation-and-localisation)
-  - [Serverless](#serverless)
+- [Awesome PHP ](#awesome-php-)
+  - [Contributing and Collaborating](#contributing-and-collaborating)
+  - [Table of Contents](#table-of-contents)
+    - [Composer Repositories](#composer-repositories)
+    - [Dependency Management](#dependency-management)
+    - [Dependency Management Extras](#dependency-management-extras)
+    - [Frameworks](#frameworks)
+    - [Framework Extras](#framework-extras)
+    - [Content Management Systems (CMS)](#content-management-systems-cms)
+    - [Components](#components)
+    - [Micro Frameworks](#micro-frameworks)
+    - [Micro Framework Extras](#micro-framework-extras)
+    - [Routers](#routers)
+    - [Templating](#templating)
+    - [Static Site Generators](#static-site-generators)
+    - [HTTP](#http)
+    - [Scraping](#scraping)
+    - [Middlewares](#middlewares)
+    - [URL](#url)
+    - [Email](#email)
+    - [Files](#files)
+    - [Streams](#streams)
+    - [Dependency Injection](#dependency-injection)
+    - [Imagery](#imagery)
+    - [Testing](#testing)
+    - [Continuous Integration](#continuous-integration)
+    - [Documentation](#documentation)
+    - [Security](#security)
+    - [Passwords](#passwords)
+    - [Code Analysis](#code-analysis)
+    - [Code Quality](#code-quality)
+    - [Static Analysis](#static-analysis)
+    - [Architectural](#architectural)
+    - [Debugging and Profiling](#debugging-and-profiling)
+    - [Error Tracking and Monitoring Services](#error-tracking-and-monitoring-services)
+    - [Build Tools](#build-tools)
+    - [Task Runners](#task-runners)
+    - [Navigation](#navigation)
+    - [Asset Management](#asset-management)
+    - [Geolocation](#geolocation)
+    - [Date and Time](#date-and-time)
+    - [Event](#event)
+    - [Logging](#logging)
+    - [E-commerce](#e-commerce)
+    - [PDF](#pdf)
+    - [Office](#office)
+    - [Database](#database)
+    - [Migrations](#migrations)
+    - [NoSQL](#nosql)
+    - [Queue](#queue)
+    - [Search](#search)
+    - [Command Line](#command-line)
+    - [Authentication and Authorization](#authentication-and-authorization)
+    - [Markup and CSS](#markup-and-css)
+    - [JSON](#json)
+    - [Strings](#strings)
+    - [Numbers](#numbers)
+    - [Filtering and Validation](#filtering-and-validation)
+    - [API](#api)
+    - [Caching and Locking](#caching-and-locking)
+    - [Data Structure and Storage](#data-structure-and-storage)
+    - [Notifications](#notifications)
+    - [Deployment](#deployment)
+    - [Internationalisation and Localisation](#internationalisation-and-localisation)
+    - [Serverless](#serverless)
   - [Configuration](#configuration)
-  - [Third Party APIs](#third-party-apis)
-  - [Extensions](#extensions)
-  - [Miscellaneous](#miscellaneous)
+    - [Third Party APIs](#third-party-apis)
+    - [Extensions](#extensions)
+    - [Miscellaneous](#miscellaneous)
 - [Software](#software)
-  - [PHP Installation](#php-installation)
-  - [Development Environment](#development-environment)
-  - [Virtual Machines](#virtual-machines)
-  - [Text Editors and IDEs](#text-editors-and-ides)
-  - [Web Applications](#web-applications)
-  - [Infrastructure](#infrastructure)
+    - [PHP Installation](#php-installation)
+    - [Development Environment](#development-environment)
+    - [Virtual Machines](#virtual-machines)
+    - [Text Editors and IDEs](#text-editors-and-ides)
+    - [Web Applications](#web-applications)
+    - [Infrastructure](#infrastructure)
 - [Resources](#resources)
-  - [PHP Websites](#php-websites)
-  - [PHP Books](#php-books)
-  - [PHP Videos](#php-videos)
-  - [PHP Conferences](#php-conferences)
-  - [PHP Podcasts](#php-podcasts)
-  - [PHP Newsletters](#php-newsletters)
-  - [PHP Reading](#php-reading)
-  - [PHP Internals Reading](#php-internals-reading)
+    - [PHP Websites](#php-websites)
+    - [PHP Books](#php-books)
+    - [PHP Videos](#php-videos)
+    - [PHP Conferences](#php-conferences)
+    - [PHP Podcasts](#php-podcasts)
+    - [PHP Newsletters](#php-newsletters)
+    - [PHP Reading](#php-reading)
+    - [PHP Internals Reading](#php-internals-reading)
 
 ### Composer Repositories
 *Composer Repositories.*
@@ -460,7 +462,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Self-hosted or cloud-based application performance monitoring & error tracking tools*
 
 * [Blackfire](https://www.blackfire.io) - A low-overhead code profiler.
-* [BugSnag](https://www.bugsnag.com/) - Error and Real User Monitoring. 
+* [BugSnag](https://www.bugsnag.com/) - Error and Real User Monitoring.
 * [Honeybadger](https://www.honeybadger.io/) - Error Tracking & Application Monitoring for Developers.
 * [Rollbar](https://rollbar.com/) - Error Logging & Tracking Service for Software Teams.
 * [Sentry](https://sentry.io/welcome/) - Application Performance Monitoring & Error Tracking Software.
@@ -522,7 +524,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Elephant.io](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
-* [Fast CGI Client](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket. 
+* [Fast CGI Client](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket.
 * [Pawl](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
 * [Prooph Event Store](https://github.com/prooph/event-store) - An event source component to persist event messages
 * [PHP Defer](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
@@ -679,7 +681,7 @@ Libraries to help manage database schemas and migrations.
 * [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colors.
 * [Device Detector](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
-* [Hyphenation](https://github.com/heiglandreas/Org_Heigl_Hyphenator) - Text-Hyphenation based on the TeX-hyphenation Algorithm 
+* [Hyphenation](https://github.com/heiglandreas/Org_Heigl_Hyphenator) - Text-Hyphenation based on the TeX-hyphenation Algorithm
 * [Jieba-PHP](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
@@ -703,6 +705,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
 * [MathPHP](https://github.com/markrogoyski/math-php) - A math library for PHP.
+* [Bc](https://github.com/tetthys/Bc) - A library that makes you to use ugly bcmath functions beautifully.
 
 ### Filtering and Validation
 *Libraries for filtering and validating data.*
