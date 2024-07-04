@@ -695,6 +695,7 @@ Libraries to help manage database schemas and migrations.
 ### Numbers
 *Libraries for working with numbers.*
 
+* [Bc](https://github.com/tetthys/Bc) - A library that makes accurate calculations without rounding issues and allows you to use the bcmath function easily and beautifully.
 * [Brick\Math](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
 * [ByteUnits](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
 * [DecimalObject](https://github.com/php-collective/decimal-object) - A value object to handle decimals/floats easily and more precisely.
@@ -703,7 +704,6 @@ Libraries to help manage database schemas and migrations.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
 * [MathPHP](https://github.com/markrogoyski/math-php) - A math library for PHP.
-* [Bc](https://github.com/tetthys/Bc) - A library that makes accurate calculations without rounding issues and allows you to use the bcmath function easily and beautifully.
 
 ### Filtering and Validation
 *Libraries for filtering and validating data.*
