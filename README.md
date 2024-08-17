@@ -868,6 +868,7 @@ Libraries to help manage database schemas and migrations.
 * [Expose](https://github.com/beyondcode/expose) - An open-source PHP tunneling service.
 * [Lando](https://lando.dev/) - Push-button development environments.
 * [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
+* [Laravel Herd](https://herd.laravel.com/) - A one click PHP development environment for macOS and Windows.
 * [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
 * [Puppet](https://www.puppet.com) - A server automation framework and application.
 * [Takeout](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
