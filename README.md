@@ -723,6 +723,7 @@ Libraries to help manage database schemas and migrations.
 * [Respect Validation](https://github.com/Respect/Validation) - A simple validation library.
 * [Upload](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
 * [Valitron](https://github.com/vlucas/valitron) - Another validation library.
+* [Valinor](https://github.com/CuyZ/Valinor) - A library for mapping to strongly typed value objects.
 * [Volan](https://github.com/serkin/Volan) - Another simplified validation library.
 
 ### API
