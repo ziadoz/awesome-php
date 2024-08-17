@@ -852,7 +852,6 @@ Libraries to help manage database schemas and migrations.
 
 * [Brew PHP Switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher.
 * [HomeBrew](https://brew.sh/) - A package manager for OSX.
-* [Laravel Valet](https://laravel.com/docs/master/valet) - A development environment for macOS.
 * [PHP Brew](https://github.com/phpbrew/phpbrew) - A PHP version manager and installer.
 * [PHP Build](https://github.com/php-build/php-build) - Another PHP version installer.
 * [Static PHP CLI](https://github.com/crazywhalecc/static-php-cli) - Build or [download](https://dl.static-php.dev/static-php-cli/) static versions of PHP CLI and FPM.
@@ -870,6 +869,7 @@ Libraries to help manage database schemas and migrations.
 * [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
 * [Laravel Herd](https://herd.laravel.com/) - A one click PHP development environment for macOS and Windows.
 * [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
+* [PHPMon](https://phpmon.app/) - A macOS menu bar app for managing PHP installations (works with [Laravel Valet](https://laravel.com/docs/master/valet)).
 * [Puppet](https://www.puppet.com) - A server automation framework and application.
 * [Takeout](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
