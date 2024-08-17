@@ -61,7 +61,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
   - [JSON](#json)
   - [Strings](#strings)
   - [Numbers](#numbers)
-  - [Filtering and Validation](#filtering-and-validation)
+  - [Filtering, Sanitizing and Validation](#filtering-sanitizing-and-validation)
   - [API](#api)
   - [Caching and Locking](#caching-and-locking)
   - [Data Structure and Storage](#data-structure-and-storage)
@@ -360,7 +360,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [AntiXSS](https://github.com/voku/anti-xss) - A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting.
 * [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium).
-* [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [Optimus](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
 * [OWASP](https://owasp.org/) - Explore the world of cyber security.
 * [PHPGGC](https://github.com/ambionics/phpggc) - A library of PHP unserializable payloads along with a tool to generate them.
@@ -710,17 +709,19 @@ Libraries to help manage database schemas and migrations.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
 * [MathPHP](https://github.com/markrogoyski/math-php) - A math library for PHP.
 
-### Filtering and Validation
-*Libraries for filtering and validating data.*
+### Filtering, Sanitizing and Validation
+*Libraries for filtering, sanitizing and validating data.*
 
 * [Assert](https://github.com/beberlei/assert) - A validation library with a rich set of assertions. Supports assertion chaining and lazy assertions.
 * [Aura.Filter](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
 * [CakePHP Validation](https://github.com/cakephp/validation) - Another validation library.
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
+* [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
 * [JSON Schema](https://github.com/jsonrainbow/json-schema) - A [JSON Schema](https://json-schema.org/) validation library.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 * [Respect Validation](https://github.com/Respect/Validation) - A simple validation library.
+* [Symfony HTML Sanitizer](https://github.com/symfony/html-sanitizer) - An HTML sanitizer library.
 * [Upload](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
 * [Valitron](https://github.com/vlucas/valitron) - Another validation library.
 * [Valinor](https://github.com/CuyZ/Valinor) - A library for mapping to strongly typed value objects.
