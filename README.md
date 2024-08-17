@@ -852,6 +852,7 @@ Libraries to help manage database schemas and migrations.
 * [Laravel Valet](https://laravel.com/docs/master/valet) - A development environment for macOS.
 * [PHP Brew](https://github.com/phpbrew/phpbrew) - A PHP version manager and installer.
 * [PHP Build](https://github.com/php-build/php-build) - Another PHP version installer.
+* [Static PHP CLI](https://github.com/crazywhalecc/static-php-cli) - Build or [download](https://dl.static-php.dev/static-php-cli/) static versions of PHP CLI and FPM.
 
 ### Development Environment
 *Software and tools for creating and sharing a development environment.*
