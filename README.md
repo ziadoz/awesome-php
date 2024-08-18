@@ -839,10 +839,10 @@ Libraries to help manage database schemas and migrations.
 * [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
 * [Ganesha](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
 * [Hprose-PHP](https://github.com/hprose/hprose-php) - A cross-language RPC.
+* [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
-* [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
 
 # Software
 *Software for creating a development environment.*
