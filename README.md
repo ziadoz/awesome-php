@@ -330,6 +330,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
 * [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
+* [PHPUnit Polyfills](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
 * [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
 * [VFS Stream](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
 
