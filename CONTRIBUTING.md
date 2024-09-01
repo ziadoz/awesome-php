@@ -1,5 +1,5 @@
 # Contribution Guidelines
-The aim of Awesome PHP is to be a concise list of the best packages, frameworks, tools and software the PHP ecosystem has to offer. Unfortunately this means not everything can or should be included. Therefore, suggested software should ideally be one of the following:
+The aim of Awesome PHP is to be a concise list of the best packages, frameworks, tools and software the PHP ecosystem has to offer. Unfortunately, this means not everything can or should be included. Therefore, suggested software should ideally be one of the following:
 
 * Widely known or recognised within the PHP community
 * Established and mature
