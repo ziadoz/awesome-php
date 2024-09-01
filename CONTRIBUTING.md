@@ -18,7 +18,7 @@ Where applicable, preference will be give to software that:
 
 Also, please ensure your pull request adheres to the following guidelines:
 
-* Your suggestion hasn't been previously rejected or is a duplicate, otherwise it will be closed.
+* Your suggestion will be closed if it has been previously rejected or is a duplicate.
 * Write a meaningful pull request description which includes a link to the project.
 * Adheres to the following Markdown format: `[LIBRARY](LINK) - DESCRIPTION.`
 * Your description is short, clear, unbiased, and doesn't contain any jargon.
