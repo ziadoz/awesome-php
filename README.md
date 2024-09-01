@@ -656,7 +656,7 @@ Libraries to help manage database schemas and migrations.
 * [TwitterOAuth](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
 
 ### Markup and CSS
-*Libraries for working with markup and CSS formats.
+*Libraries for working with markup and CSS formats.*
 
 * [Cebe Markdown](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
 * [CommonMark PHP](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
