@@ -330,6 +330,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
 * [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
+* [PHPUnit Polyfills](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
 * [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
 * [VFS Stream](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
 
@@ -351,7 +352,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
 * [daux.io](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
-* [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor) - A documentation generator.
+* [phpDocumentor](https://phpdoc.org/) - A documentation generator.
 * [phpDox](https://phpdox.net/) - A documentation generator for PHP projects (that is not limited to API documentation).
 * [zircote/swagger-php](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
 
@@ -406,7 +407,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries for managing code quality, formatting and linting.*
 
 * [CaptainHook](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
-* [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
+* [PHP CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
 * [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A coding standards fixer library.
 * [PHP Mess Detector](https://github.com/phpmd/phpmd) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
 * [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
