@@ -1,12 +1,12 @@
 # Contribution Guidelines
-The aim of Awesome PHP is to be a concise list of the best packages, frameworks, tools and software the PHP ecosystem has to offer. Unfortunately, this means not everything can or should be included. Therefore, suggested software should ideally be one of the following:
+Awesome PHP aims to be a concise list of the best packages, frameworks, tools, and software the PHP ecosystem has to offer. Unfortunately, this means not everything can or should be included. The suggested software should ideally be one of the following:
 
 * Widely known or recognised within the PHP community
 * Established and mature
 * Unique in its approach
 * Fulfill a niche gap in the market
 
-Where applicable, preference will be give to software that:
+Where applicable, preference will be given to software that:
 
 * Targets supported versions of PHP
 * Can be installed using Composer
@@ -19,7 +19,7 @@ Where applicable, preference will be give to software that:
 Also, please ensure your pull request adheres to the following guidelines:
 
 * Your suggestion will be closed if it has been previously rejected or is a duplicate
-* Write a meaningful pull request description which includes a link to the project
+* Write a meaningful pull request description that includes a link to the project
 * Adheres to the following Markdown format: `[LIBRARY](LINK) - DESCRIPTION.`
 * Your description is short, clear, unbiased, and doesn't contain any jargon
 * The description ends with a full stop/period and no trailing whitespace
