@@ -22,7 +22,7 @@ Also, please ensure your pull request adheres to the following guidelines:
 * Write a meaningful pull request description which includes a link to the project.
 * Adheres to the following Markdown format: `[LIBRARY](LINK) - DESCRIPTION.`
 * Your description is short, clear, unbiased, and doesn't contain any jargon.
-* The description ends with a full stop/period, and has no trailing whitespace.
+* The description ends with a full stop/period and no trailing whitespace.
 * Your spelling and grammar are correct.
 * Your entry is added alphabetically to the category.
 * The library is prefixed with the vendor name (e.g. `Foo\Bar` becomes `Foo Bar`) if it shares the same name as another entry.
