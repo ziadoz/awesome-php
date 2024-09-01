@@ -9,8 +9,8 @@ The aim of Awesome PHP is to be a concise list of the best packages, frameworks,
 Where applicable, preference will be give to software that:
 
 * Targets supported versions of PHP
-* Installable using Composer
-* PSR compliant
+* Can be installed using Composer
+* Is PSR compliant
 * Semantically versioned
 * Thoroughly tested
 * Actively maintained
