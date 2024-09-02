@@ -1,27 +1,33 @@
 # Contribution Guidelines
-Unfortunately, not every library, tool or framework can be considered for inclusion. The aim of Awesome PHP is to be a concise list of noteworthy and interesting software written in modern PHP. Therefore, suggested software should:
+Awesome PHP aims to be a concise list of the best packages, frameworks, tools, and software the PHP ecosystem has to offer. Unfortunately, this means not everything can or should be included. The suggested software should ideally be one of the following:
 
-1. Be widely recommended
-2. Well known or discussed within the PHP community
-3. Be unique in its approach or function
-4. Fill a niche gap in the market
+* Widely known or recognised within the PHP community
+* Established and mature
+* Unique in its approach
+* Fulfill a niche gap in the market
 
-Self-promotion is frowned upon, so please consider seriously whether your project meets the criteria before opening a pull request, otherwise it may be closed without being reviewed.
+Where applicable, preference will be given to software that:
+
+* Targets supported versions of PHP
+* Can be installed using Composer
+* Is PSR compliant
+* Semantically versioned
+* Thoroughly tested
+* Actively maintained
+* Well documented in English
 
 Also, please ensure your pull request adheres to the following guidelines:
 
-* Software that is PHP 8.0+, Composer-installable, PSR compliant, semantically versioned, unit tested, actively maintained and well documented in English.
-* Please search previous suggestions before making a new one, as yours may be a duplicate and will be closed.
-* Enter a meaningful pull request description.
-* Put a link to each library in your pull request ticket so it's easier to review.
-* Please make an individual commit for each suggestion in a separate pull request.
-* Use the following format for libraries: \[LIBRARY\]\(LINK\) - DESCRIPTION.
-* Prefix duplicate library names with their vendor or namespace followed by a space: Foo\Bar would be Foo Bar.
-* New categories, or improvements to the existing categorisation, are always welcome.
-* Please keep descriptions short, simple and unbiased. No buzzwords or marketing jargon please.
-* End all descriptions with a full stop/period.
-* Check your spelling and grammar.
-* Make sure your text editor is set to remove trailing whitespace.
-* Your entry has been added alphabetically within the category.
+* Your suggestion will be closed if it has been previously rejected or is a duplicate
+* Write a meaningful pull request description that includes a link to the project
+* Adheres to the following Markdown format: `[LIBRARY](LINK) - DESCRIPTION.`
+* Your description is short, clear, unbiased, and doesn't contain any jargon
+* The description ends with a full stop/period and no trailing whitespace
+* You've checked your spelling and grammar
+* Your entry is added alphabetically to the category
+* If your entry has the same name as another, it should be prefixed with the vendor (e.g., `Foo\Bar` becomes `Foo Bar`)
+* Feel free to suggest new categories or organisational improvements
+
+Please make sure your suggestion meets all the criteria before submitting a pull request, or it may be closed without review.
 
 Thank you for your suggestions!
