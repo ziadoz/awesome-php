@@ -409,6 +409,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CaptainHook](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
 * [PHP CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
 * [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A coding standards fixer library.
+* [PHP CS Fixer Configurator](https://mlocati.github.io/php-cs-fixer-configurator/) - A web application to help configure PHP CS Fixer rule sets.
 * [PHP Mess Detector](https://github.com/phpmd/phpmd) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
 * [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
