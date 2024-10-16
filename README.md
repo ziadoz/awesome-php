@@ -585,7 +585,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Cycle ORM](https://github.com/cycle/orm) - PHP DataMapper, ORM.
 * [Doctrine Extensions](https://github.com/doctrine-extensions/DoctrineExtensions ) - A collection of Doctrine behavioural extensions.
 * [Doctrine](https://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
-* [Flight Active Record](https://github.com/flightphp/active-record) - A framework agnostic ORM that is lightweight and extendible.
+* [Flight Active Record](https://github.com/flightphp/active-record) - A framework agnostic ORM that is lightweight and extensible.
 * [Laravel Eloquent](https://github.com/illuminate/database) - A simple ORM.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
