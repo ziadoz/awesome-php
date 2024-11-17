@@ -865,6 +865,7 @@ Libraries to help manage database schemas and migrations.
 * [DDEV](https://github.com/ddev/ddev) - a local web development environment system for PHP.
 * [Docker](https://www.docker.com/) - A containerization platform.
 * [Docker PHP Extension Installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
+* [All in One PHP Container](https://github.com/ParminCloud/Containers/blob/main/php/README.md) - A simple and complete base container image for every PHP project, supporting everything that you may think of, by keeping size as small as possible
 * [Docksal](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 * [Expose](https://github.com/beyondcode/expose) - An open-source PHP tunneling service.
 * [Lando](https://lando.dev/) - Push-button development environments.
