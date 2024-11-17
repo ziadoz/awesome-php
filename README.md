@@ -160,6 +160,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Statamic](https://statamic.com/) - Build beautiful, easy-to-manage websites.
 * [Sulu](https://sulu.io/) - A user and developer friendly focused CMS and Platform based on the Symfony Framework.
 * [WordPress](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
+* [IblockCMS](https://github.com/ru51a4/iblockcms) - Laravel based CMS (EAV Catalog).
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
