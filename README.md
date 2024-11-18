@@ -105,7 +105,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Composer Installers](https://github.com/composer/installers) - A  multi-framework Composer library installer.
 * [Composer](https://getcomposer.org/) - A package and dependency manager.
-* [Pie](https://github.com/php/pie) - The official PHP Installer for extensions.
+* [Pie](https://github.com/php/pie) - The official PHP installer for extensions.
 * [Phive](https://phar.io/) - A PHAR manager.
 * [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
 
