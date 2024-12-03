@@ -19,7 +19,7 @@ jobs:
     - name: Run Awesome Bot
       run: awesome_bot README.md --request-delay 1 --allow-dupe --white-list igor.io,symfony,toranproxy.com,vagrantup.com,3v4l.org,voicesoftheelephpant.com,drupal.org,oreilly.com,youtube.com,lumen.laravel.com
     
-    - uses: actions/upload-artifact@v1
+    - uses: actions/upload-artifact@v4
       if: failure()
       with:
         name: ab-results
