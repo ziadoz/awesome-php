@@ -815,6 +815,7 @@ Libraries to help manage database schemas and migrations.
 * [OpenAI Client](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 * [OpenAI Client for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
 * [PHP Mistral AI SDK](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
+* [AIpi - Universal API client for common AI models](https://github.com/skito/aipi-php) - Simple lightweight PHP library for interacting with common AI models, that provides universal interface.
 
 ### Third Party APIs
 *Libraries for accessing third party APIs.*
