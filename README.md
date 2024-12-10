@@ -277,7 +277,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 * [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
 * [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
-* [Parquet](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format 
+* [Parquet](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
+* [Penelope] (https://github.com/cmatosbc/penelope) - Asynchronous file handler using PHP 8.1+ Fibers
 
 ### Streams
 *Libraries for working with streams.*
