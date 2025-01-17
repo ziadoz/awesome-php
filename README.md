@@ -890,6 +890,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - A PHP IDE based on the Eclipse platform.
 * [Apache NetBeans](https://netbeans.apache.org/front/main/index.html) - An IDE with support for PHP and HTML5.
+* [PhpEd](https://www.nusphere.com/products/phped.htm) - An IDE with professional commercial debugger.
 * [PhpStorm](https://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
 * [VS Code](https://code.visualstudio.com/) - An open source code editor.
 
