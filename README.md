@@ -719,6 +719,7 @@ Libraries to help manage database schemas and migrations.
 * [Assert](https://github.com/beberlei/assert) - A validation library with a rich set of assertions. Supports assertion chaining and lazy assertions.
 * [Aura.Filter](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
 * [CakePHP Validation](https://github.com/cakephp/validation) - Another validation library.
+* [Disposable email filter](https://github.com/beeyev/disposable-email-filter-php) - Detects disposable (temporary/throwaway/fake) email addresses.
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
 * [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
