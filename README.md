@@ -155,7 +155,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Pico CMS](https://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
 * [ProcessWire](https://processwire.com) A powerful CMS with an API both CMS / CMF
 * [Statamic](https://statamic.com/) - Build beautiful, easy to manage websites.
-* [WordPress](https://wordpress.org/) A blogging platform and CMS.
+* [WordPress](https://wordpress.org/) - A blogging platform and CMS.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
