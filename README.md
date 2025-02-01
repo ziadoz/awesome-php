@@ -149,13 +149,13 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Drupal](https://www.drupal.org) - An enterprise level CMS.
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
-* [WordPress](https://wordpress.org/) A blogging platform and CMS.
-* [ProcessWire](https://processwire.com) A powerful CMS with an API both CMS / CMF
 * [Kirby](https://getkirby.com/) - A flat-file CMS that adapts to any project.
 * [Magento](https://business.adobe.com/products/magento/magento-commerce.html) - The most popular ecommerce platform.
 * [Moodle](https://moodle.org/) - An open-source learning platform.
 * [Pico CMS](https://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
+* [ProcessWire](https://processwire.com) A powerful CMS with an API both CMS / CMF
 * [Statamic](https://statamic.com/) - Build beautiful, easy to manage websites.
+* [WordPress](https://wordpress.org/) A blogging platform and CMS.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
