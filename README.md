@@ -907,6 +907,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 * [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - A simple web interface to manage [Redis](https://redis.io/) databases.
 * [PHPSandbox](https://phpsandbox.io) - An online IDE for PHP in the browser.
+* [Web POS](https://github.com/mailmug/laravel-easy-pos) - Invoice thermal printing option.
 
 ### Infrastructure
 *Infrastructure for providing PHP applications and services.*
