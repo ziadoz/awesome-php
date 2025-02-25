@@ -363,7 +363,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [AntiXSS](https://github.com/voku/anti-xss) - A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting.
 * [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium).
-* [Local PHP Security Checker](https://github.com/fabpot/local-php-security-checker) - A command line tool that checks if your PHP application depends on PHP packages with known security vulnerabilities.
 * [Optimus](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
 * [OWASP](https://owasp.org/) - Explore the world of cyber security.
 * [PHPGGC](https://github.com/ambionics/phpggc) - A library of PHP unserializable payloads along with a tool to generate them.
