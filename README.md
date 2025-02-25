@@ -278,7 +278,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 * [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
 * [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
-* [Parquet](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format 
+* [Parquet](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
 
 ### Streams
 *Libraries for working with streams.*
@@ -371,7 +371,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [random_compat](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
 * [Roave Security Advisories](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
 * [Secure Headers](https://github.com/BePsvPT/secure-headers) - A package that adds security related headers to HTTP response.
-* [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
 * [SQLMap](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
 * [Zap](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
 
