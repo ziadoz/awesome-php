@@ -930,6 +930,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP UG](https://php.ug) - A website to help people locate their nearest PHP user group (UG).
 * [PHP Watch](https://php.watch/) - PHP articles, news, upcoming changes, RFCs and more.
 * [Unit Testing Tips](https://testing-tips.sarvendev.com/) - Unit Testing Tips by examples in PHP.
+* [libs.tech](https://libs.tech/php) – Awesome PHP libraries and hidden gems.
 
 ### PHP Books
 *Fantastic PHP-related books.*
