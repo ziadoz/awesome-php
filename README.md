@@ -573,6 +573,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPWord](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
 * [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).
 * [OpenSpout](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
+
 ### Database
 *Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
 
@@ -582,6 +583,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
 * [CakePHP ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern.
 * [Cycle ORM](https://github.com/cycle/orm) - PHP DataMapper, ORM.
+* [yousha/dbal](https://github.com/yousha/dbalite) - A lightweight DBAL(Database Abstraction Layer) library for PHP 8.3.
 * [Doctrine Extensions](https://github.com/doctrine-extensions/DoctrineExtensions ) - A collection of Doctrine behavioural extensions.
 * [Doctrine](https://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
 * [Laravel Eloquent](https://github.com/illuminate/database) - A simple ORM.
