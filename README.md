@@ -583,7 +583,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
 * [CakePHP ORM](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern.
 * [Cycle ORM](https://github.com/cycle/orm) - PHP DataMapper, ORM.
-* [yousha/dbal](https://github.com/yousha/dbalite) - A lightweight DBAL(Database Abstraction Layer) library for PHP 8.3.
+* [yousha/dbal](https://github.com/yousha/dbalite) - A lightweight DBAL (Database Abstraction Layer) library.
 * [Doctrine Extensions](https://github.com/doctrine-extensions/DoctrineExtensions ) - A collection of Doctrine behavioural extensions.
 * [Doctrine](https://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
 * [Laravel Eloquent](https://github.com/illuminate/database) - A simple ORM.
