@@ -989,6 +989,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *PHP-related reading materials.*
 
 * [php[architect]](https://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.
+* [Article](https://yousha.blog.ir/post/187) - Quick guide to Laravel 10 package development.
 
 ### PHP Internals Reading
 *Reading materials related to the PHP internals or performance.*
