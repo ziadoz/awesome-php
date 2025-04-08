@@ -371,6 +371,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [random_compat](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
 * [Roave Security Advisories](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
 * [Secure Headers](https://github.com/BePsvPT/secure-headers) - A package that adds security related headers to HTTP response.
+* [PHP Security Linter](https://github.com/Yousha/php-security-linter) - A PHP tool to lint PHP files for security issues based on CIS and OWASP best practices.
 * [SQLMap](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
 * [Zap](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
 
