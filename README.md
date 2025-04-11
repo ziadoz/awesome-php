@@ -742,6 +742,7 @@ Libraries to help manage database schemas and migrations.
 * [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
 * [Restler](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
 * [PackageGenerator](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
+* [MockAPI-PHP](https://github.com/ka215/MockAPI-PHP) - A file-based mock API server with dynamic responses, schema validation, and OpenAPI 3.0 schema generation.
 
 ### Caching and Locking
 *Libraries for caching data and acquiring locks.*
