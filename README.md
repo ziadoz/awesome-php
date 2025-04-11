@@ -434,7 +434,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries related to design patterns, programming approaches and ways to organize code.*
 
 * [Design Patterns PHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP ) - A repository of software patterns implemented in PHP.
-* [Finite](https://yohan.giarel.li/Finite/) - A simple PHP finite state machine.
+* [Finite](https://github.com/yohang/Finite) - A simple PHP finite state machine.
 * [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
 * [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
 * [IterTools PHP](https://github.com/markrogoyski/itertools-php) - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
@@ -513,7 +513,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Date and Time
 *Libraries for working with dates and times.*
 
-* [CalendR](https://yohan.giarel.li/CalendR/) - A calendar management library.
+* [CalendR](https://github.com/yohang/CalendR) - A calendar management library.
 * [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
 * [Chronos](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
 * [Moment.php](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
