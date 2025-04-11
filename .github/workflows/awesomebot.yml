@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - master
-      
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,13 +12,13 @@ jobs:
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: '2.7'
-        
+
     - name: Install Awesome Bot
       run: gem install awesome_bot
-      
+
     - name: Run Awesome Bot
-      run: awesome_bot README.md --request-delay 1 --allow-dupe --white-list igor.io,symfony,toranproxy.com,vagrantup.com,3v4l.org,voicesoftheelephpant.com,drupal.org,oreilly.com,youtube.com,lumen.laravel.com
-    
+      run: awesome_bot README.md --request-delay 1 --allow-dupe --white-list oreilly.com,youtube.com
+
     - uses: actions/upload-artifact@v4
       if: failure()
       with:
