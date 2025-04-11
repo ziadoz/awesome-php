@@ -975,7 +975,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [The Laracasts Snippet](https://laracasts.simplecast.com) - The Laracasts snippet, each episode, offers a single thought on some aspect of web development.
 * [The Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
 * [The PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
-* [Voices of the ElePHPant](https://voicesoftheelephpant.com/) - Interviews with the people who make the PHP community special.
 
 ### PHP Newsletters
 *PHP-related news directly to your inbox.*
