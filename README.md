@@ -170,7 +170,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Laravel Components](https://github.com/illuminate) - The Laravel Framework components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
 * [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
-* [Symfony Components](https://symfony.com/packages) - The components that make Symfony.
+* [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
 * [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
 
 ### Micro Frameworks
