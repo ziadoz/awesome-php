@@ -344,7 +344,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
 * [PHPCI](https://github.com/dancryer/phpci) - An open-source continuous integration platform for PHP.
 * [SemaphoreCI](https://semaphore.io/) - A continuous integration platform for open-source and private projects.
-* [Shippable](https://jfrog.com/blog/weve-acquired-shippable-to-complete-devops-pipeline-automation-from-code-to-production/) - A Docker based continuous integration platform for open source and private projects.
 * [Travis CI](https://www.travis-ci.com) - A continuous integration platform.
 * [Setup PHP](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
 
