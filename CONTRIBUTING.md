@@ -27,6 +27,7 @@ Also, please ensure your pull request adheres to the following guidelines:
 * Your entry is added alphabetically to the category
 * If your entry has the same name as another, it should be prefixed with the vendor (e.g., `Foo\Bar` becomes `Foo Bar`)
 * Feel free to suggest new categories or organisational improvements
+* Your pull request isn't for self promotion
 
 Please make sure your suggestion meets all the criteria before submitting a pull request, or it may be closed without review.
 
