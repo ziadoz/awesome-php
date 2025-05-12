@@ -656,6 +656,7 @@ Libraries to help manage database schemas and migrations.
 * [Sentinel Social](https://cartalyst.com/manual/sentinel-social/2.0) - A library for social network authentication.
 * [Sentinel](https://cartalyst.com/manual/sentinel/2.0) - A framework agnostic authentication & authorisation library.
 * [TwitterOAuth](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
+* [Socialstream](https://github.com/joelbutcher/socialstream) - A simple Socialite implementation for Laravel Jetstream
 
 ### Markup and CSS
 *Libraries for working with markup and CSS formats.*
