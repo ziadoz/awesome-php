@@ -461,6 +461,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 * [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
+* [Trap](https://github.com/buggregator/trap) - An extended variable dumper with web interface and [IDE plugin](https://plugins.jetbrains.com/plugin/26344-buggregator).
 
 ### Error Tracking and Monitoring Services
 *Self-hosted or cloud-based application performance monitoring & error tracking tools*
@@ -471,6 +472,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Rollbar](https://rollbar.com/) - Error Logging & Tracking Service for Software Teams.
 * [Sentry](https://sentry.io/welcome/) - Application Performance Monitoring & Error Tracking Software.
 * [Tideways](https://tideways.com/) - Monitoring and profiling tool.
+* [Buggregator](https://buggregator.dev) - A debug tool that aggregates var-dumps, profiles, emails, logs, Sentry, and others.
 
 ### Build Tools
 *Project build and automation tools.*
