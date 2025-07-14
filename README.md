@@ -182,6 +182,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Minicli](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
 * [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.
+* [Neo](https://github.com/wemmbley/neo) - Good alternative to Lumen.
 
 ### Micro Framework Extras
 *Extras related to micro frameworks and routers.*
