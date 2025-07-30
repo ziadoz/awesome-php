@@ -820,8 +820,7 @@ Libraries to help manage database schemas and migrations.
 ### Feature management
 *Libraries for implementing feature flags, a/b tests, and remote configuration*
 
-* [Featurevisor](https://featurevisor.com) - Feature flags management with Git, supporting [PHP SDK](https://featurevisor.com/docs/sdks/php/)
-
+* [Featurevisor](https://featurevisor.com) - Feature flags management with Git, supporting [PHP SDK](https://featurevisor.com/docs/sdks/php/).
 
 ### Third Party APIs
 *Libraries for accessing third party APIs.*
