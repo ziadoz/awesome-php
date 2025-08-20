@@ -299,7 +299,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP-DI](https://php-di.org/) - A dependency injection container that supports autowiring.
 * [Pimple](https://github.com/silexphp/Pimple) - A tiny dependency injection container.
 * [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
-* [Spiral DI](https://github.com/spiral/core) - IoC container with scopes support. designed for Long Running applications.
+* [Spiral DI](https://github.com/spiral/core) - IoC container with scopes support designed for Long Running applications.
 
 ### Imagery
 *Libraries for manipulating images.*
@@ -831,9 +831,10 @@ Libraries to help manage database schemas and migrations.
 ### MCP
 *Libraries for creating MCP servers.*
 * [PHP MCP Server SDK](https://github.com/php-mcp/server) - A comprehensive PHP SDK for building Model Context Protocol (MCP) servers. Create production-ready MCP servers in PHP with modern architecture, extensive testing, and flexible transport options.
+* [Spiral MCP Server SDK](https://github.com/spiral-packages/mcp-server) - This package provides a complete MCP server solution with automatic tool discovery, attribute-based configuration with automatic JSON schema generation from DTO classes for Spiral Framework.
+* [MCP SDK](https://github.com/logiscape/mcp-sdk-php) - Model Context Protocol SDK for PHP.
 * [Symfony MCP PHP SDK](https://github.com/symfony/mcp-sdk) - Model Context Protocol SDK for Client and Server applications in PHP from Symfony.
 * [Laravel MCP Server SDK](https://github.com/laravel/mcp) - Laravel MCP makes it easy to add MCP servers to your project and let AI talk to your apps.
-* [Spiral MCP Server SDK](https://github.com/spiral-packages/mcp-server) - This package provides a complete MCP server solution with automatic tool discovery, attribute-based configuration with automatic JSON schema generation from DTO classes for Spiral Framework.
 
 ### Third Party APIs
 *Libraries for accessing third party APIs.*
