@@ -953,6 +953,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Program With Gio](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) - PHP 8 course by Gio.
 * [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 * [SymfonyCasts](https://symfonycasts.com/) - Screencasts and tutorials about PHP and Symfony.
+* [phpXtreamCodes](https://github.com/bmg1/phpXtreamCodes) - Forked engine of the original Xtream Codes Player API for use in a home network and on a Linux server, with 100% support for TiviMate on AndroidTV/GoogleTV.
 
 ### PHP Conferences
 *PHP conferences.*
