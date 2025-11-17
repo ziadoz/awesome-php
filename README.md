@@ -163,6 +163,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Sulu](https://sulu.io/) - A user and developer friendly focused CMS and Platform based on the Symfony Framework.
 * [TYPO3](https://typo3.org) - An enterprise level CMS.
 * [WordPress](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
+* [sagiadinos/garlic-hub](https://github.com/sagiadinos/garlic-hub) - Modern full featured Digital Signage Content and Device Management for self hosting.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
