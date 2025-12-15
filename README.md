@@ -664,6 +664,7 @@ Libraries to help manage database schemas and migrations.
 * [Cebe Markdown](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
 * [CommonMark PHP](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
 * [Decoda](https://github.com/milesj/decoda) - A lightweight markup parser library.
+* [Djot](https://github.com/php-collective/djot-php) - A PHP parser for [Djot](https://djot.net/), a modern light markup language (successor of Markdown).
 * [Essence](https://github.com/essence/essence) - A library for extracting web media.
 * [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
