@@ -136,6 +136,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Spiral](https://spiral.dev/) - A high-performance PHP/Go framework.
 * [Symfony](https://symfony.com/) - A set of reusable components and a web framework.
 * [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
+* [Tempest](https://tempestphp.com/) - A modern PHP framework built for the new era of PHP development.
 
 ### Framework Extras
 *Extras related to web development frameworks.*
@@ -163,6 +164,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Sulu](https://sulu.io/) - A user and developer friendly focused CMS and Platform based on the Symfony Framework.
 * [TYPO3](https://typo3.org) - An enterprise level CMS.
 * [WordPress](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
+* [OctoberCMS](https://octobercms.com/) - The Laravel-Based CMS Engineered For Simplicity.
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
@@ -217,6 +219,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Couscous](http://couscous.io) - Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.
 * [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
 * [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
+* [HydePHP](https://hydephp.com/) - The Static Site Generator You've Been Waiting, Blade, Markdown and Tailwind
 
 ### HTTP
 *Libraries for working with HTTP.*
