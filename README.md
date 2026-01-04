@@ -797,6 +797,7 @@ Libraries to help manage database schemas and migrations.
 ### Serverless
 *Libraries and tools to help build serverless web applications.*
 
+* [SiteKit](https://github.com/avansaber/sitekit) - Open Source Server management platform for deploying web applications. Provision servers, manage databases, issue SSL certificates, and deploy via Git. Alternative to Laravel Forge, Runcloud etc.
 * [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
 * [OpenWhisk](https://openwhisk.apache.org/) - An open-source serverless cloud platform.
 * [Serverless Framework](https://www.serverless.com/framework) - An open-source framework for building serverless applications.
