@@ -136,6 +136,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Spiral](https://spiral.dev/) - A high-performance PHP/Go framework.
 * [Symfony](https://symfony.com/) - A set of reusable components and a web framework.
 * [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
+* [Slim](https://www.slimframework.com/) – Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
+
 
 ### Framework Extras
 *Extras related to web development frameworks.*
