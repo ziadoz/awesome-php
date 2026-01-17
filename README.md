@@ -1,6 +1,6 @@
 # Awesome PHP [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of amazingly awesome PHP libraries, resources, and shiny things.
+A curated list of awesome PHP libraries, resources, and useful tools.
 
 ## Contributing and Collaborating
 Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) and [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) for details.
@@ -96,7 +96,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Firegento](https://packages.firegento.com/) - Magento Module Composer Repository.
 * [Packagist](https://packagist.org/) - The PHP Package Repository.
-* [Packalyst](https://packalyst.com/) - The Laravel Package Repository
+* [Packalyst](https://packalyst.com/) - The Laravel package repository.
 * [Private Packagist](https://packagist.com/) - Composer package archive as a service for PHP.
 * [WordPress Packagist](https://wpackagist.org/) - Manage your plugins with Composer.
 
