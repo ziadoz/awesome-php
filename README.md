@@ -123,6 +123,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Satis](https://github.com/composer/satis) - A static Composer repository generator.
 * [Tooly](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in a project using Composer.
 * [Toran Proxy](https://toranproxy.com) - A Composer proxy for speed and reliability. (:warning: Toran Proxy is being phased out.)
+* [Dependi]([https://dependi.io/](https://marketplace.visualstudio.com/items?itemName=fill-labs.dependi)) – A dependency management extension for Visual Studio Code supporting PHP, offering version management, vulnerability scanning, and multi-language compatibility. Free (Core) and Pro tiers available. 
 
 ### Frameworks
 *Web development frameworks.*
