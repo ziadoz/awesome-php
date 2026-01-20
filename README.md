@@ -657,6 +657,7 @@ Libraries to help manage database schemas and migrations.
 * [Sentinel Social](https://cartalyst.com/manual/sentinel-social/2.0) - A library for social network authentication.
 * [Sentinel](https://cartalyst.com/manual/sentinel/2.0) - A framework agnostic authentication & authorisation library.
 * [TwitterOAuth](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
+* [cidaas](https://www.cidaas.com/) library to integrate cidaas (cidaas is a European Cloud Identity & Access Management) for authentication and authorization of users. ([Github](https://github.com/Cidaas/cidaas-sdk-php))
 
 ### Markup and CSS
 *Libraries for working with markup and CSS formats.*
@@ -829,6 +830,7 @@ Libraries to help manage database schemas and migrations.
 * [Square](https://github.com/square/connect-php-sdk) - The official Square PHP SDK for payments and other Square APIs.
 * [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 * [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
+* [cidaas](https://www.cidaas.com/) The official cidaas library ([Github](https://github.com/Cidaas/cidaas-sdk-php))
 
 ### Extensions
 *Libraries to help build PHP extensions.*
