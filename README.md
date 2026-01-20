@@ -725,6 +725,7 @@ Libraries to help manage database schemas and migrations.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
 * [JSON Schema](https://github.com/jsonrainbow/json-schema) - A [JSON Schema](https://json-schema.org/) validation library.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
+* [PHP Number](https://github.com/madebybob/php-number) - Deal with numbers the right way in PHP.
 * [Respect Validation](https://github.com/Respect/Validation) - A simple validation library.
 * [Symfony HTML Sanitizer](https://github.com/symfony/html-sanitizer) - An HTML sanitizer library.
 * [Upload](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
