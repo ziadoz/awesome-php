@@ -565,6 +565,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Gotenberg](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 * [TCPDF](https://tcpdf.org/) - An open source PHP class for generating PDF documents.
+* [PDF to ZPL](https://github.com/benfaerber/pdf-to-zpl) - Render a PDF as a ZPL file. Allows for pixel perfect printing on Zebra printers with custom images and fonts!
 
 ### Office
 *Libraries for working with office suite documents.*
