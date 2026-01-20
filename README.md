@@ -295,6 +295,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Auryn](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
 * [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 * [Disco](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
+* [InterMix](https://github.com/infocyph/InterMix) - Dependency Injector (PSR-11), Fence, Class macro, Memoize.
 * [PHP-DI](https://php-di.org/) - A dependency injection container that supports autowiring.
 * [Pimple](https://github.com/silexphp/Pimple) - A tiny dependency injection container.
 * [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
@@ -373,6 +374,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Secure Headers](https://github.com/BePsvPT/secure-headers) - A package that adds security related headers to HTTP response.
 * [SQLMap](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
 * [Zap](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
+* [OTP](https://github.com/infocyph/OTP) - Simple but Secure Generic OTP, OCRA (RFC6287), TOTP (RFC6238) & HOTP (RFC4226) solution!
 
 ### Passwords
 *Libraries and tools for working with and storing passwords.*
@@ -700,6 +702,7 @@ Libraries to help manage database schemas and migrations.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
 * [Url highlight](https://github.com/vstelmakh/url-highlight) - A library for parsing URLs from text and converting them into clickable links.
 * [URLify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
+* [UID](https://github.com/infocyph/UID) - UUID (RFC 4122 + Unofficial/Draft), ULID, Snowflake ID, Sonyflake ID, TBSL (library exclusive) generator!.
 * [UUID](https://github.com/ramsey/uuid) - A library for generating UUIDs.
 
 ### Numbers
