@@ -159,6 +159,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Moodle](https://moodle.org/) - An open-source learning platform.
 * [OpenMage](https://github.com/OpenMage/magento-lts) - Fork of EoL Magento 1 e-commerce platform.
 * [Pico CMS](https://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
+* [Silverstripe](https://silverstripe.org) - A simple, flexible, and secure CMS. 
 * [Statamic](https://statamic.com/) - Build beautiful, easy-to-manage websites.
 * [Sulu](https://sulu.io/) - A user and developer friendly focused CMS and Platform based on the Symfony Framework.
 * [TYPO3](https://typo3.org) - An enterprise level CMS.
