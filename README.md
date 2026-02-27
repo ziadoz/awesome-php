@@ -829,6 +829,7 @@ Libraries to help manage database schemas and migrations.
 * [Square](https://github.com/square/connect-php-sdk) - The official Square PHP SDK for payments and other Square APIs.
 * [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 * [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
+* [Cloudflare](https://github.com/SergkeiM/php-cloudflare-api) - Unofficial PHP Client for Cloudflare REST API.
 
 ### Extensions
 *Libraries to help build PHP extensions.*
