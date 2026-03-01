@@ -71,6 +71,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
   - [Serverless](#serverless)
   - [Configuration](#configuration)
   - [LLMs](#llms)
+  - [Science](#science)
   - [Third Party APIs](#third-party-apis)
   - [Extensions](#extensions)
   - [Miscellaneous](#miscellaneous)
@@ -817,6 +818,11 @@ Libraries to help manage database schemas and migrations.
 * [OpenAI Client](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 * [OpenAI Client for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
 * [PHP Mistral AI SDK](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
+
+### Science
+*Libraries for scientific computing and bioinformatics.*
+
+* [UniProt PHP](https://github.com/saurabhgayali/UniprotPHPClass) - Production-ready PHP library for UniProt REST API with zero dependencies. Includes entry retrieval, advanced search with pagination, and ID mapping for protein research and bioinformatics applications.
 
 ### Third Party APIs
 *Libraries for accessing third party APIs.*
