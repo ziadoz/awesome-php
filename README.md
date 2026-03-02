@@ -669,6 +669,7 @@ Libraries to help manage database schemas and migrations.
 * [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
+* [HtmlMin](https://github.com/voku/HtmlMin) - An HTML compressor and minifier library.
 * [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
 * [PHP CSS Parser](https://github.com/MyIntervals/PHP-CSS-Parser) - A Parser for CSS Files written in PHP.
 * [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
