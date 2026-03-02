@@ -557,6 +557,11 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Swap](https://github.com/florianv/swap) - An exchange rates library.
 * [Sylius](https://sylius.com/) - An open source e-commerce solution.
 
+### Event Management
+*Applications and tools for managing events, selling tickets, and handling attendees.*
+
+* [Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source platform for selling tickets, managing events, and handling event check-ins.
+
 ### PDF
 *Libraries and software for working with PDF files.*
 
