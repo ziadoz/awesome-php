@@ -133,7 +133,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Laravel](https://laravel.com/) - A web application framework with expressive, elegant syntax.
 * [Nette](https://nette.org) - A web framework comprised of mature components.
 * [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
-* [Spiral](https://spiral.dev/) - A high-performance PHP/Go framework.
+* [Spiral](https://spiral.dev/) - A high-performance PHP/Go framework designed for long running applications.
 * [Symfony](https://symfony.com/) - A set of reusable components and a web framework.
 * [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
 
@@ -174,6 +174,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
 * [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
 * [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
+* [Spiral Packages](https://github.com/spiral-packages/) - The Spiral framework packages.
+* [RoadRunner integration packages](https://github.com/roadrunner-php/) - PHP SDK for RoadRunner.
 
 ### Micro Frameworks
 *Micro frameworks and routers.*
@@ -298,6 +300,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP-DI](https://php-di.org/) - A dependency injection container that supports autowiring.
 * [Pimple](https://github.com/silexphp/Pimple) - A tiny dependency injection container.
 * [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
+* [Spiral DI](https://github.com/spiral/core) - IoC container with scopes support designed for Long Running applications.
 
 ### Imagery
 *Libraries for manipulating images.*
@@ -462,6 +465,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 * [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
+* [Buggreagtor](https://github.com/buggregator/server) - Buggregator is a standalone server designed primarily for debugging PHP applications.
+* [Trap](https://github.com/buggregator/trap) - A local debug server and utilities set for PHP projects with UI.
 
 ### Error Tracking and Monitoring Services
 *Self-hosted or cloud-based application performance monitoring & error tracking tools*
@@ -502,6 +507,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Laravel Mix](https://github.com/laravel-mix/laravel-mix ) - An elegant wrapper around Webpack for the 80% use case.
 * [Symfony Asset](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets.
 * [Symfony Encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing and compiling assets built around Webpack.
+* [Laravel Meta tags manager](https://github.com/butschster/LaravelMetaTags) - Ppowerful and extendable tools for managing SEO Meta Tags in a Laravel project.
 
 ### Geolocation
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
@@ -573,6 +579,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPWord](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
 * [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).
 * [OpenSpout](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
+
 ### Database
 *Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
 
@@ -617,6 +624,7 @@ Libraries to help manage database schemas and migrations.
 * [Tarantool Queue](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
 * [Thumper](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
 * [Enqueue](https://github.com/php-enqueue/enqueue-dev) - A message queue packages for PHP that supports RabbitMQ, AMQP, STOMP, Amazon SQS, Redis and Doctrine transports.
+* [RoadRunner Jobs plugin](https://github.com/roadrunner-php/jobs) - RoadRunner Jobs (Queue) SDK.
 
 ### Search
 *Libraries and software for indexing and performing search queries on data.*
@@ -640,6 +648,7 @@ Libraries to help manage database schemas and migrations.
 * [GetOptionKit](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
 * [PsySH](https://github.com/bobthecow/psysh) - Another PHP REPL.
 * [ShellWrap](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
+* [Cron Expression Generator](https://github.com/butschster/CronExpressionGenerator) - Cron expression generator built on php8.
 
 ### Authentication and Authorization
 *Libraries for implementing user authentication and authorization.*
@@ -680,6 +689,7 @@ Libraries to help manage database schemas and migrations.
 
 * [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 * [JSONMapper](https://github.com/JsonMapper/JsonMapper) - A library for mapping JSON to PHP objects.
+* [JSON schema generator](https://github.com/spiral/json-schema-generator) - Provides the ability to generate JSON schemas from Data Transfer Object (DTO) classes.
 
 ### Strings
 *Libraries for parsing and manipulating strings.*
@@ -756,6 +766,7 @@ Libraries to help manage database schemas and migrations.
 * [Stash](https://github.com/tedious/Stash) - Another library for caching.
 * [Laminas Cache](https://github.com/laminas/laminas-cache) - Another caching library.
 * [Lock](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
+* [RoadRunner KV plugin](https://github.com/roadrunner-php/kv) - RoadRunner Key-Value storage SDK.
 
 ### Data Structure and Storage
 *Libraries that implement data structure or storage techniques.*
@@ -817,6 +828,15 @@ Libraries to help manage database schemas and migrations.
 * [OpenAI Client](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 * [OpenAI Client for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
 * [PHP Mistral AI SDK](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
+* [LLM agents framework](https://github.com/llm-agents-php/agents) - PHP library for building and managing LLM based agents. It provides a framework for creating autonomous agents that can perform complex tasks, make decisions, and interact with various tools and APIs.
+
+### MCP
+*Libraries for creating MCP servers.*
+* [PHP MCP Server SDK](https://github.com/php-mcp/server) - A comprehensive PHP SDK for building Model Context Protocol (MCP) servers. Create production-ready MCP servers in PHP with modern architecture, extensive testing, and flexible transport options.
+* [Spiral MCP Server SDK](https://github.com/spiral-packages/mcp-server) - This package provides a complete MCP server solution with automatic tool discovery, attribute-based configuration with automatic JSON schema generation from DTO classes for Spiral Framework.
+* [MCP SDK](https://github.com/logiscape/mcp-sdk-php) - Model Context Protocol SDK for PHP.
+* [Symfony MCP PHP SDK](https://github.com/symfony/mcp-sdk) - Model Context Protocol SDK for Client and Server applications in PHP from Symfony.
+* [Laravel MCP Server SDK](https://github.com/laravel/mcp) - Laravel MCP makes it easy to add MCP servers to your project and let AI talk to your apps.
 
 ### Third Party APIs
 *Libraries for accessing third party APIs.*
@@ -848,6 +868,10 @@ Libraries to help manage database schemas and migrations.
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
+* [DBML Parser](https://github.com/butschster/dbml-parser) - [DBML](https://dbml.dbdiagram.io/home) syntax parser written on PHP8.
+* [Proto parser](https://github.com/butschster/proto-parser) - Proto parser is a library for parsing Protocol Buffers files into AST.
+* [Prometheus parser](https://github.com/butschster/prometheus-parser) - Prometheus data parser to AST written on PHP8.
+* [Boson PHP](https://github.com/boson-php/boson) - Turn your PHP project into cross-platform, compact, fast, native applications for Windows, Linux and macOS.
 
 # Software
 *Software for creating a development environment.*
