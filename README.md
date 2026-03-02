@@ -71,6 +71,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
   - [Serverless](#serverless)
   - [Configuration](#configuration)
   - [LLMs](#llms)
+  - [Feature management](#feature-management)
   - [Third Party APIs](#third-party-apis)
   - [Extensions](#extensions)
   - [Miscellaneous](#miscellaneous)
@@ -817,6 +818,11 @@ Libraries to help manage database schemas and migrations.
 * [OpenAI Client](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 * [OpenAI Client for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
 * [PHP Mistral AI SDK](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
+
+### Feature management
+*Libraries for implementing feature flags, a/b tests, and remote configuration*
+
+* [Featurevisor](https://featurevisor.com) - Feature flags management with Git, supporting [PHP SDK](https://featurevisor.com/docs/sdks/php/).
 
 ### Third Party APIs
 *Libraries for accessing third party APIs.*
