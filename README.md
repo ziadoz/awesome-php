@@ -843,6 +843,7 @@ Libraries to help manage database schemas and migrations.
 * [BotMan](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chatbots.
 * [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
 * [Ganesha](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
+* [grpc-php-rs](https://github.com/BSN4/grpc-php-rs) - A drop-in replacement for ext-grpc built in Rust. Fixes ZTS crashes and OpenSSL conflicts.
 * [Hprose-PHP](https://github.com/hprose/hprose-php) - A cross-language RPC.
 * [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
