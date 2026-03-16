@@ -449,6 +449,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
 * [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
+* [DDLess](https://ddless.com) - A desktop PHP debugger that provides step debugging via AST instrumentation without requiring extensions or IDE plugins.
 * [Kint](https://github.com/kint-php/kint) - A debugging and profiling tool.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [PCOV](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
