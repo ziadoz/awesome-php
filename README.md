@@ -110,6 +110,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
 
 ### Dependency Management Extras
+* [ReleaseRun Composer Package Health](https://releaserun.com/tools/composer-package-health/) - A free web tool that checks any Composer package for abandonment status, latest version, and maintenance activity. Gives an instant A–F health grade.
 *Extras related to dependency management.*
 
 * [Composed](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
