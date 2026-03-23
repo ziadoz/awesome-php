@@ -113,6 +113,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Extras related to dependency management.*
 
 * [Composed](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
+* [Composer JSON Health Checker](https://releaserun.com/tools/composer-json-health/) - A web tool for analyzing composer.json dependency health, checks each package for latest versions, deprecated packages, and outdated pins against Packagist.
 * [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
 * [Composer Normalize](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
 * [Composer Patches](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
