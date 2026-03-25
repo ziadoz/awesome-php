@@ -807,7 +807,7 @@ Libraries to help manage database schemas and migrations.
 
 * [PHP Dotenv](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
 * [Symfony Dotenv](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
-* [TOML](https://github.com/php-collective/toml) - A TOML parser and encoder with AST access and error recovery.
+* [PHP Toml](https://github.com/php-collective/toml) - A TOML parser and encoder with AST access and error recovery.
 
 ### LLMs
 *Libraries for working with Large Language Models.*
