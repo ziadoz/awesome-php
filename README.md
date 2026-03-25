@@ -871,7 +871,6 @@ Libraries to help manage database schemas and migrations.
 * [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - A simple web interface to manage [Redis](https://redis.io/) databases.
 * [PHPSandbox](https://phpsandbox.io) - An online IDE for PHP in the browser.
 
-
 ### Infrastructure
 *Infrastructure for providing PHP applications and services.*
 
