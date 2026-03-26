@@ -133,6 +133,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Laravel](https://laravel.com/) - A web application framework with expressive, elegant syntax.
 * [Nette](https://nette.org) - A web framework comprised of mature components.
 * [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
+* [SmartFramework](https://github.com/unix-world/Smart.Framework) - A modern and high performance PHP / JavaScript Framework.
 * [Spiral](https://spiral.dev/) - A high-performance PHP/Go framework.
 * [Symfony](https://symfony.com/) - A set of reusable components and a web framework.
 * [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
