@@ -807,6 +807,7 @@ Libraries to help manage database schemas and migrations.
 * [AsyncAWS](https://async-aws.com/) - An unofficial asynchronous PHP AWS SDK.
 * [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
 * [Github](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
+* [LoginRadius](https://github.com/LoginRadius/php-sdk) - The official LoginRadius PHP SDK.
 * [Mailgun](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
 * [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 * [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
