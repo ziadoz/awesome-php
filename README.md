@@ -159,7 +159,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Moodle](https://moodle.org/) - An open-source learning platform.
 * [OpenMage](https://github.com/OpenMage/magento-lts) - Fork of EoL Magento 1 e-commerce platform.
 * [Pico CMS](https://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
-* [Silverstripe](https://silverstripe.org) - A simple, flexible, and secure CMS. 
+* [Silverstripe](https://www.silverstripe.org/) - A simple, flexible, and secure CMS.
 * [Statamic](https://statamic.com/) - Build beautiful, easy-to-manage websites.
 * [Sulu](https://sulu.io/) - A user and developer friendly focused CMS and Platform based on the Symfony Framework.
 * [TYPO3](https://typo3.org) - An enterprise level CMS.
@@ -266,7 +266,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Fetch](https://github.com/tedious/Fetch) - An IMAP library.
 * [Mautic](https://github.com/mautic/mautic) - Email marketing automation
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
-* [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/en-us), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
+* [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://www.twilio.com/en-us/sendgrid), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
 * [SwiftMailer](https://swiftmailer.symfony.com/docs/introduction.html) - A mailer solution.
 * [Symfony Mailer](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
 
@@ -329,7 +329,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP-Mock](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
 * [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
 * [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
-* [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
+* [PHPT](https://php.github.io/php-src/miscellaneous/writing-tests.html) - A test tool used by PHP itself.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
 * [PHPUnit Polyfills](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
 * [Prophecy](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
@@ -444,7 +444,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
 * [PCOV](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
 * [PHP Console](https://github.com/Seldaek/php-console) - A web debugging console.
-* [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
+* [PHP Debug Bar](https://php-debugbar.com/) - A debugging toolbar.
 * [PHPBench](https://github.com/phpbench/phpbench) - A benchmarking Framework.
 * [PHPSpy](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
 * [Symfony VarDumper](https://github.com/symfony/var-dumper) - A variable dumper component.
@@ -643,8 +643,7 @@ Libraries to help manage database schemas and migrations.
 * [Opauth](https://github.com/opauth/opauth) - A multi-provider authentication framework.
 * [Paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens.
 * [PHP oAuthLib](https://github.com/daviddesberg/PHPoAuthLib) - Another OAuth library.
-* [Sentinel Social](https://cartalyst.com/manual/sentinel-social/2.0) - A library for social network authentication.
-* [Sentinel](https://cartalyst.com/manual/sentinel/2.0) - A framework agnostic authentication & authorisation library.
+* [Sentinel](https://github.com/cartalyst/sentinel) - A framework agnostic authentication & authorisation library.
 * [TwitterOAuth](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
 
 ### Markup and CSS
@@ -697,7 +696,7 @@ Libraries to help manage database schemas and migrations.
 * [ByteUnits](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
 * [DecimalObject](https://github.com/php-collective/decimal-object) - A value object to handle decimals/floats easily and more precisely.
 * [IP](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
-* [PHP Conversion](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
+* [PHP Conversion](https://github.com/cniska/php-conversion) - Another library for converting between units of measure.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
 * [MathPHP](https://github.com/markrogoyski/math-php) - A math library for PHP.
 
@@ -855,11 +854,11 @@ Libraries to help manage database schemas and migrations.
 * [Lando](https://lando.dev/) - Push-button development environments.
 * [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
 * [Laravel Herd](https://herd.laravel.com/windows) - A one click PHP development environment for macOS and Windows.
-* [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
+* [Laradock](https://laradock.io/) - A full PHP development environment based on Docker.
 * [PHPMon](https://phpmon.app/) - A macOS menu bar app for managing PHP installations (works with [Laravel Valet](https://laravel.com/docs/master/valet)).
 * [Puppet](https://www.puppet.com) - A server automation framework and application.
 * [Takeout](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
-* [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
+* [Vagrant](https://developer.hashicorp.com/vagrant) - A portable development environment utility.
 
 ### Virtual Machines
 *Alternative PHP virtual machines.*
@@ -883,7 +882,6 @@ Libraries to help manage database schemas and migrations.
 * [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
 * [Adminer](https://www.adminer.org/en/) - Database management in a single PHP file.
 * [Cachet](https://github.com/cachethq/cachet) - The open source status page system.
-* [DBV](https://github.com/victorstanciu/dbv) - A database version control application.
 * [Lychee](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
 * [Leantime](https://leantime.io) - Strategic project management system for the non project manager
 * [MailCatcher](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
@@ -909,7 +907,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Laravel News](https://laravel-news.com/) - The official Laravel blog.
 * [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/tag/php-annotated-monthly/) - A monthly digest of PHP news.
 * [PHP FIG](https://www.php-fig.org/) - The PHP Framework Interoperability Group.
-* [PHP Package Development Standards](http://php-pds.com) - Package development standards for PHP.
+* [PHP Package Development Standards](https://php-pds.com/) - Package development standards for PHP.
 * [PHP School](https://www.phpschool.io/) - Open Source Learning for PHP.
 * [PHP The Right Way](https://phptherightway.com/) - A PHP best practice quick reference guide.
 * [PHP UG](https://php.ug) - A website to help people locate their nearest PHP user group (UG).
@@ -921,7 +919,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 
 * [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Real examples written in PHP showcasing DDD Architectural Styles.
 * [Functional Programming in PHP](https://www.functionalphp.com/) - This book will show you how to leverage these new PHP5.3+ features by understanding functional programming principles
-* [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
 * [Mastering Object-Orientated PHP](https://masteringobjectorientedphp.com/) - A book about object-orientated PHP by Brandon Savage.
 * [PHP Cookbook](https://www.oreilly.com/library/view/php-cookbook/9781098121310/) - This cookbook provides code recipes to help you resolve a variety of coding issues.
 * [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp) - A book about modernizing legacy PHP applications by Paul M. Jones.
