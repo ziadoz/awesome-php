@@ -17,7 +17,7 @@ jobs:
       run: gem install awesome_bot
 
     - name: Run Awesome Bot
-      run: awesome_bot README.md --request-delay 1 --allow-dupe --white-list oreilly.com,youtube.com
+      run: awesome_bot README.md --request-delay 1 --allow-dupe --white-list oreilly.com,youtube.com,new.drupal.org
 
     - uses: actions/upload-artifact@v4
       if: failure()
