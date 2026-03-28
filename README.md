@@ -108,6 +108,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Pie](https://github.com/php/pie) - The official PHP installer for extensions.
 * [Phive](https://phar.io/) - A PHAR manager.
 * [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
+* [ReleaseRun](https://releaserun.com) - Free composer.json health checker that scans PHP dependencies for CVEs, abandoned packages, and outdated versions.
 
 ### Dependency Management Extras
 *Extras related to dependency management.*
