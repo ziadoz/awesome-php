@@ -477,6 +477,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Bldr](https://bldr.io/) - A PHP Task runner built on Symfony components.
 * [Jobby](https://github.com/jobbyphp/jobby) - A PHP cron job manager without modifying crontab.
+* [Multitron](https://github.com/riki137/multitron) - Parallel PHP task runner for concurrent jobs, optimized for performance.
 * [Robo](https://github.com/consolidation/Robo) - A PHP Task runner with object-orientated configurations.
 * [Task](https://taskphp.github.io/) - A pure PHP task runner inspired by Grunt and Gulp.
 
