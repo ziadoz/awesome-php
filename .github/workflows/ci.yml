@@ -7,6 +7,8 @@ on:
   pull_request:
     branches:
       - master
+  schedule:
+    - cron: '0 9 * * 1'
 
 jobs:
   linkcheck:
