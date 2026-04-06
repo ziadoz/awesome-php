@@ -141,6 +141,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 * [Filament PHP](https://filamentphp.com/) - A powerful open source UI framework for Laravel.
+* [Inertia.js](https://inertiajs.com/) - An adapter for building single-page applications using server-side routing and controllers, without a separate API.
 * [LaravelS](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
 * [Livewire](https://livewire.laravel.com/) - Powerful, dynamic, front-end UIs without leaving PHP.
 
@@ -156,12 +157,14 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Kirby](https://getkirby.com/) - A flat-file CMS that adapts to any project.
 * [Magento](https://github.com/magento/magento2) - A widely used open-source e-commerce platform.
 * [Moodle](https://moodle.org/) - An open-source learning platform.
+* [OctoberCMS](https://octobercms.com/) - A CMS built on Laravel.
 * [OpenMage](https://github.com/OpenMage/magento-lts) - Fork of EoL Magento 1 e-commerce platform.
 * [Pico CMS](https://picocms.org/) - A lightweight flat-file CMS.
 * [Silverstripe](https://www.silverstripe.org/) - A simple, flexible, and secure CMS.
 * [Statamic](https://statamic.com/) - A flat-file and Git-based CMS built on Laravel.
 * [Sulu](https://sulu.io/) - A user- and developer-friendly CMS built on the Symfony Framework.
 * [TYPO3](https://typo3.org) - An enterprise level CMS.
+* [WinterCMS](https://wintercms.com) - A community-maintained fork of OctoberCMS built on Laravel.
 * [WordPress](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
 
 ### Components
@@ -447,6 +450,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPSpy](https://github.com/adsr/phpspy) - A low-overhead sampling profiler.
 * [Symfony VarDumper](https://github.com/symfony/var-dumper) - A variable dumper component.
 * [Tracy](https://github.com/nette/tracy) - A simple error detection, logging and time measuring library.
+* [Trap](https://github.com/buggregator/trap) - An extended variable dumper with a web interface and IDE plugin.
 * [Whoops](https://github.com/filp/whoops) - A pretty error-handling library.
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 * [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
@@ -456,6 +460,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Self-hosted or cloud-based application performance monitoring & error tracking tools*
 
 * [Blackfire](https://www.blackfire.io) - A low-overhead code profiler.
+* [Buggregator](https://buggregator.dev) - A debug server that aggregates var-dumps, profiling data, emails, logs and Sentry events.
 * [BugSnag](https://www.bugsnag.com/) - Error and Real User Monitoring.
 * [Honeybadger](https://www.honeybadger.io/) - Error Tracking & Application Monitoring for Developers.
 * [Rollbar](https://rollbar.com/) - Error Logging & Tracking Service for Software Teams.
@@ -786,6 +791,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### LLMs
 *Libraries for working with Large Language Models.*
 
+* [Anthropic](https://github.com/mozex/anthropic-php) - A PHP client for the Anthropic API, supporting messages, streaming, tool use, and batch processing.
+* [Anthropic for Laravel](https://github.com/mozex/anthropic-laravel) - A Laravel wrapper for the Anthropic PHP client with Facades, config publishing, and testing fakes.
 * [Instructor for PHP](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
 * [LLPhant](https://github.com/LLPhant/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
 * [OpenAI Client](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
