@@ -564,6 +564,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPWord](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
 * [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).
 * [OpenSpout](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
+* [Tapix](https://tapix.dev) - A CSV import wizard with smart column mapping, inline validation, relationship linking, and queue-powered processing.
 ### Database
 *Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
 
