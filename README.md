@@ -2,6 +2,7 @@
 
 A curated list of awesome PHP libraries, resources, and useful tools.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for PHP development workflow orchestration, automated code review, and multi-agent task coordination. MIT licensed.
 ## Contributing and Collaborating
 Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) and [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) for details.
 
