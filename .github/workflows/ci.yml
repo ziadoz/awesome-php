@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  linkcheck:
+    name: Link Check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --accept 200,206,429
+            --timeout 20
+            --exclude "leanpub\.com"
+            --exclude "oreilly\.com"
+            --exclude "youtube\.com"
+            --exclude "jetbrains\.com"
+            --exclude "wiki\.php\.net"
+            --exclude "new\.drupal\.org"
+            --exclude "zend\.com"
+            --exclude "nusphere\.com"
+            README.md
+          fail: true
+
+      - uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: lychee-results
+          path: lychee/out.md
