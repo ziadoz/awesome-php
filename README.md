@@ -793,6 +793,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Anthropic](https://github.com/mozex/anthropic-php) - A PHP client for the Anthropic API, supporting messages, streaming, tool use, and batch processing.
 * [Anthropic for Laravel](https://github.com/mozex/anthropic-laravel) - A Laravel wrapper for the Anthropic PHP client with Facades, config publishing, and testing fakes.
+* [Hao Code](https://github.com/sk-wang/hao-code) - A PHP Agent SDK with CLI for Anthropic-compatible APIs.
 * [Instructor for PHP](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
 * [LLPhant](https://github.com/LLPhant/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
 * [OpenAI Client](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
