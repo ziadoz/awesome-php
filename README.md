@@ -729,6 +729,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 * [Jane](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
 * [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
+* [Lumen JSON-RPC](https://github.com/larananas/lumen-json-rpc) - A JSON-RPC 2.0 server library for PHP.
 * [Restler](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
 * [PackageGenerator](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
 
