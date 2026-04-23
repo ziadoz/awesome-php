@@ -411,7 +411,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries for performing static analysis of PHP code.*
 
 * [Dead Code Detector](https://github.com/shipmonk-rnd/dead-code-detector) - A PHPStan extension for finding unused PHP code.
-* [Deptrac](https://github.com/qossmic/deptrac) - A static analysis tool for enforcing dependency rules between architectural layers.
+* [Deptrac](https://github.com/deptrac/deptrac) - A static analysis tool for enforcing dependency rules between architectural layers.
 * [Exakat](https://github.com/exakat/exakat) - A static analysis engine for PHP.
 * [Larastan](https://github.com/larastan/larastan) - A PHPStan wrapper for Laravel that adds static analysis to Laravel projects.
 * [Mago](https://github.com/carthage-software/mago) - A toolchain for PHP that aims to improve the developer experience.
