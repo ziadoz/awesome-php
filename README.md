@@ -218,6 +218,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Cecil](https://cecil.app/) - A simple and powerful content-driven static site generator.
 * [Couscous](https://couscous.io) - A tool for converting Markdown documentation into websites.
 * [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
+* [php-flat-file](https://github.com/slogsdon/php-flat-file) - A flat-file CMS and static-site generator with no database, no configuration, and Markdown content.
 * [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
 
 ### HTTP
