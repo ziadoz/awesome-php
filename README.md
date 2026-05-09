@@ -218,6 +218,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Cecil](https://cecil.app/) - A simple and powerful content-driven static site generator.
 * [Couscous](https://couscous.io) - A tool for converting Markdown documentation into websites.
 * [Jigsaw](https://jigsaw.tighten.com/) - Simple static sites with Laravel's Blade.
+* [php-flat-file](https://github.com/slogsdon/php-flat-file) - A flat-file CMS and static-site generator with no database, no configuration, and Markdown content.
 * [Sculpin](https://sculpin.io) - A tool that converts Markdown and Twig into static HTML.
 
 ### HTTP
@@ -350,7 +351,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [APIGen](https://github.com/apigen/apigen) - Another API documentation generator.
 * [daux.io](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
 * [phpDocumentor](https://phpdoc.org/) - A documentation generator.
-* [phpDox](https://phpdox.net/) - A documentation generator for PHP projects (that is not limited to API documentation).
+* [phpDox](https://github.com/theseer/phpdox) - A documentation generator for PHP projects (that is not limited to API documentation).
 * [Scramble](https://github.com/dedoc/scramble) - Automatically generates OpenAPI documentation from your code without annotations.
 * [zircote/swagger-php](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
 
