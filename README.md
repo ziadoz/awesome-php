@@ -663,6 +663,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Markdown](https://github.com/michelf/php-markdown) - A Markdown parser.
 * [Shiki PHP](https://github.com/spatie/shiki-php) - A [Shiki](https://github.com/shikijs/shiki) code highlighting package in PHP.
 * [VObject](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
+* [XmlExtractKit](https://github.com/SbWereWolf/xml-navigator) - A
+  streaming-first toolkit for extracting selected records from large
+  XML files into PHP arrays.
 
 ### JSON
 *Libraries for working with JSON.*
