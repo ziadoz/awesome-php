@@ -753,6 +753,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [JSON Machine](https://github.com/halaxa/json-machine) - Provides iteration over huge JSONs using simple `foreach`.
 * [msgpack.php](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
 * [Serializer](https://github.com/schmittjoh/serializer) - A library for serializing and de-serializing data.
+* [SweetEnum](https://github.com/leocello/sweet-enum) - A library that allows adding properties to enums via PHP Attributes and using enums as collections.
 * [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
 * [Laminas Serializer](https://github.com/laminas/laminas-serializer) - Another library for serialising and de-serialising data.
 
