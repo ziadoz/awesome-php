@@ -545,6 +545,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Money](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
 * [Brick Money](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
+* [CamerPay PHP SDK](https://github.com/camerpay/php-sdk) - Official PHP SDK for CamerPay payment gateway (Mobile Money, cards, PayPal) in Cameroon.
 * [OmniPay](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
 * [Shopsys Framework](https://github.com/shopsys/shopsys/) - An open source e-commerce platform for in-house development teams.
