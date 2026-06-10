@@ -367,6 +367,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Secure Headers](https://github.com/BePsvPT/secure-headers) - A package that adds security related headers to HTTP response.
 * [SQLMap](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
 * [Zap](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
+* [Laravel CSP Generator]([https://github.com/zaproxy/zaproxy](https://csp-generator.shakiltech.com)) - Visual Content Security Policy builder for PHP/Laravel apps. Generates policy strings, middleware code, and a pre-enforcement checklist.
 
 ### Passwords
 *Libraries and tools for working with and storing passwords.*
