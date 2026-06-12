@@ -550,6 +550,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software.
 * [Swap](https://github.com/florianv/swap) - An exchange rates library.
 * [Sylius](https://sylius.com/) - An open source e-commerce solution.
+* [Symfony Stripe Starter](https://github.com/0franco/symfony-stripe-starter) - A prebuilt Stripe frontend for Symfony with products, portal and Checkout integration.
 
 ### PDF
 *Libraries and software for working with PDF files.*
