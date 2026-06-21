@@ -831,6 +831,7 @@ Libraries to help manage database schemas and migrations.
 * [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
 * [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
+* [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) - A self-hosted CMS built on Laravel with a React + shadcn/ui admin, REST API v1, HMAC-signed webhooks, and headless mode.
 
 ## Infrastructure
 *Infrastructure for providing PHP applications and services.*
