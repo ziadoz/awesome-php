@@ -238,6 +238,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries for scraping websites and detecting crawlers.*
 
 * [Chrome PHP](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
+* [crawlberg](https://github.com/xberg-io/crawlberg) - High-performance web crawling and scraping engine (PHP binding over a Rust core) with HTML-to-Markdown conversion and a headless-Chrome fallback.
 * [CrawlerDetect](https://github.com/JayBizzle/Crawler-Detect) - A PHP class for detecting bots/crawlers/spiders via the user agent.
 * [DiDOM](https://github.com/Imangazaliev/DiDOM) - A super-fast HTML scrapper and parser.
 * [Embed](https://github.com/php-embed/Embed) - An information extractor from any web service or page.
@@ -559,6 +560,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Gotenberg](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 * [TCPDF](https://tcpdf.org/) - An open source PHP class for generating PDF documents.
+* [xberg](https://github.com/xberg-io/xberg) - Document intelligence library (PHP binding over a Rust core) that extracts text, tables, and metadata from PDFs, Office documents, images, and 97+ formats, with optional OCR.
 
 ### Office
 *Libraries for working with office suite documents.*
@@ -656,6 +658,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Essence](https://github.com/essence/essence) - A library for extracting web media.
 * [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
+* [html-to-markdown](https://github.com/xberg-io/html-to-markdown) - Fast, CommonMark-compliant HTML to Markdown converter (PHP binding over a Rust core).
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
 * [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
 * [PHP CSS Parser](https://github.com/MyIntervals/PHP-CSS-Parser) - A Parser for CSS Files written in PHP.
@@ -793,6 +796,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Anthropic](https://github.com/mozex/anthropic-php) - A PHP client for the Anthropic API, supporting messages, streaming, tool use, and batch processing.
 * [Anthropic for Laravel](https://github.com/mozex/anthropic-laravel) - A Laravel wrapper for the Anthropic PHP client with Facades, config publishing, and testing fakes.
 * [Instructor for PHP](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
+* [liter-llm](https://github.com/xberg-io/liter-llm) - Universal LLM API client (PHP binding over a Rust core) with one unified interface across 142+ providers and streaming.
 * [LLPhant](https://github.com/LLPhant/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
 * [OpenAI Client](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 * [OpenAI Client for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
