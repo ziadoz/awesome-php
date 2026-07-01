@@ -873,6 +873,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Apache NetBeans](https://netbeans.apache.org/front/main/index.html) - An IDE with support for PHP and HTML5.
 * [PhpEd](https://www.nusphere.com/products/phped.htm) - An IDE with professional commercial debugger.
 * [PhpStorm](https://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
+  * [Explyt](https://github.com/explyt/explyt) - An AI agent plugin that uses PhpStorm's debugger, refactorings, and static analysis.
 * [VS Code](https://code.visualstudio.com/) - An open source code editor.
 
 ### Web Applications
