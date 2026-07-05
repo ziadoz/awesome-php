@@ -598,6 +598,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [MongoDB](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
 * [MongoDB PHP Library](https://github.com/mongodb/mongo-php-library) - The official high-level MongoDB PHP library built on top of the MongoDB PHP Driver.
+* [php-bolt-driver](https://github.com/stefanak-michal/php-bolt-driver) - PHP library to provide connectivity to graph databases (Neo4j, Memgraph, etc) over TCP socket with Bolt specification. 
 * [Predis](https://github.com/predis/predis) - A feature-complete Redis library.
 
 ### Queue
