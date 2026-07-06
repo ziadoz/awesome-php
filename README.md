@@ -357,6 +357,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries for generating secure random numbers, encrypting data and scanning and testing for vulnerabilities.*
 
 * [AntiXSS](https://github.com/voku/anti-xss) - A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting.
+* [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - An autonomous AI penetration testing platform with a dedicated PHP sub-agent for detecting injection, deserialization and access control flaws.
 * [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium).
 * [Optimus](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
 * [OWASP](https://owasp.org/) - Explore the world of cyber security.
