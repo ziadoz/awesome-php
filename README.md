@@ -771,6 +771,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Aura.Intl](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
 * [CakePHP I18n](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers.
+* [Cosmo](https://github.com/salarmehr/cosmopolitan) - Effortlessly format dates, numbers, money and units for any language or region, with the same interface in PHP, JavaScript, Python and Java.
 
 ### Serverless
 *Libraries and tools to help build serverless web applications.*
