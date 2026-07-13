@@ -727,6 +727,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
 * [Hateoas](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 * [Jane](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
+* [JSON:API](https://github.com/haddowg/json-api) - A framework-agnostic, server-side library for building JSON:API 1.1 compliant APIs.
 * [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
 * [Restler](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
 * [PackageGenerator](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
