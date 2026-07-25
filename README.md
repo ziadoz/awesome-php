@@ -124,6 +124,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Frameworks
 *Web development frameworks.*
 
+* [ArtiFrame](https://github.com/artilingo/artiframe) - A lightweight, zero-dependency native PHP framework with a multilingual CLI.
 * [CakePHP](https://cakephp.org/) - A rapid application development framework.
 * [CodeIgniter](https://codeigniter.com/) - A powerful PHP framework with a very small footprint.
 * [Ecotone](https://docs.ecotone.tech/) - A Service Bus for PHP based on architectural principles of DDD CQRS and Event Sourcing.
