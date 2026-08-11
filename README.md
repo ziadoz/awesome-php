@@ -186,6 +186,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Minicli](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
 * [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.
+* [Mezon](https://github.com/alexdodonov/mezon/) - Simple micro framework for Web applications and microservices.
 
 ### Micro Framework Extras
 *Extras related to micro frameworks and routers.*
@@ -200,6 +201,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
 * [Klein](https://github.com/klein/klein.php) - A flexible router.
 * [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
+* [Mezon Router](https://github.com/alexdodonov/mezon-router) - Small and fast router
 
 ### Templating
 *Libraries and tools for templating and lexing.*
