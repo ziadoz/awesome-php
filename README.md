@@ -849,6 +849,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Docker PHP Extension Installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
 * [Docksal](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 * [Expose](https://github.com/exposedev/expose) - An open-source PHP tunneling service.
+* [Govard](https://github.com/ddtcorex/govard) - Go-based local development orchestrator for PHP projects (Magento, Laravel, Symfony, WordPress) with automatic framework discovery and Docker orchestration.
 * [Lando](https://lando.dev/) - Push-button development environments.
 * [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
 * [Laravel Herd](https://herd.laravel.com/windows) - A one click PHP development environment for macOS and Windows.
