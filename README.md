@@ -853,6 +853,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
 * [Laravel Herd](https://herd.laravel.com/windows) - A one click PHP development environment for macOS and Windows.
 * [Laradock](https://laradock.io/) - A full PHP development environment based on Docker.
+* [Lerd](https://lerd.sh) - A local PHP development environment for Linux and macOS.
 * [PHPMon](https://phpmon.app/) - A macOS menu bar app for managing PHP installations (works with [Laravel Valet](https://laravel.com/docs/master/valet)).
 * [Puppet](https://www.puppet.com) - A server automation framework and application.
 * [Solo](https://github.com/soloterm/solo) - A terminal application to manage processes for a Laravel application.
