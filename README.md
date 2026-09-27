@@ -544,6 +544,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Money](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
 * [Brick Money](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
+* [EU VAT Rates Data](https://github.com/vatnode/eu-vat-rates-data-php) - Library of VAT rates for 45 European countries, updated daily from the European Commission TEDB.
 * [OmniPay](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
 * [Shopsys Framework](https://github.com/shopsys/shopsys/) - An open source e-commerce platform for in-house development teams.
