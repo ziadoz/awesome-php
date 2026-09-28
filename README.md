@@ -809,6 +809,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Mailgun](https://github.com/mailgun/mailgun-php) - The official Mailgun PHP API.
 * [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 * [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
+* [Notion](https://github.com/brd6/notion-sdk-php/) - PHP library for the Notion API.
 
 ### Extensions
 *Libraries to help build PHP extensions.*
