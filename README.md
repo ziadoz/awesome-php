@@ -134,6 +134,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Spiral](https://spiral.dev/) - A high-performance PHP/Go framework.
 * [Symfony](https://symfony.com/) - A set of reusable components and a web framework.
 * [Tempest](https://github.com/tempestphp/tempest-framework) - A framework that gets out of your way.
+* [Veldora PHP](https://veldora.modrao.com) - A modern PHP framework for building web applications and APIs.
 * [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
 
 ### Framework Extras
