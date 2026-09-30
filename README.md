@@ -163,6 +163,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Silverstripe](https://www.silverstripe.org/) - A simple, flexible, and secure CMS.
 * [Statamic](https://statamic.com/) - A flat-file and Git-based CMS built on Laravel.
 * [Sulu](https://sulu.io/) - A user- and developer-friendly CMS built on the Symfony Framework.
+* [Total CMS](https://totalcms.co/) - A commercial flat-file CMS with structured content, a REST API and a built-in MCP server.
 * [TYPO3](https://typo3.org) - An enterprise level CMS.
 * [WinterCMS](https://wintercms.com) - A community-maintained fork of OctoberCMS built on Laravel.
 * [WordPress](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
