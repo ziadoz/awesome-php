@@ -802,6 +802,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Third Party APIs
 *Libraries for accessing third party APIs.*
 
+* [Aivie Trello](https://github.com/aiviemarketing/plugin-trello) - A Mautic plugin for creating Trello cards from contact records.
 * [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 * [AsyncAWS](https://async-aws.com/) - An unofficial asynchronous PHP AWS SDK.
 * [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
