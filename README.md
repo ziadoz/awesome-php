@@ -386,12 +386,14 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Editorconfig-Checker](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
 * [GrumPHP](https://github.com/phpro/grumphp) - A PHP code-quality tool.
 * [PHP AST Viewer](https://php-ast-viewer.com/) - A tool for viewing the Abstract Syntax Tree of PHP code.
+* [PHP LSP](https://github.com/jorgsowa/php-lsp) - A high-performance PHP language server written in Rust.
 * [PHP Magic Number Detector](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
 * [Phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
 * [PHPQA](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
 * [Rector](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
+* [Rust PHP Parser](https://github.com/jorgsowa/rust-php-parser) - A fast, fault-tolerant PHP parser written in Rust.
 * [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
 * [UBench](https://github.com/devster/ubench) - A simple micro-benchmark library.
 
@@ -414,6 +416,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Exakat](https://github.com/exakat/exakat) - A static analysis engine for PHP.
 * [Larastan](https://github.com/larastan/larastan) - A PHPStan wrapper for Laravel that adds static analysis to Laravel projects.
 * [Mago](https://github.com/carthage-software/mago) - A toolchain for PHP that aims to improve the developer experience.
+* [Mir](https://github.com/jorgsowa/mir) - A fast, incremental PHP static analyzer written in Rust, inspired by Psalm.
 * [phan](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
 * [PHP Architecture Tester](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
 * [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
