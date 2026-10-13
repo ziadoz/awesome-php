@@ -809,6 +809,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Mailgun](https://github.com/mailgun/mailgun-php) - The official Mailgun PHP API.
 * [Stripe](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 * [Twilio](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
+* [TCG Price Lookup](https://github.com/TCG-Price-Lookup/tcglookup-php) - Live trading card prices across Pokemon, MTG, Yu-Gi-Oh, Lorcana, One Piece, Star Wars Unlimited, and Flesh and Blood.
 
 ### Extensions
 *Libraries to help build PHP extensions.*
