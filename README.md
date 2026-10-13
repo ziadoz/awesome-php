@@ -439,6 +439,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
 * [Barbushin PHP Console](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
+* [Doctrine Doctor](https://github.com/ahmed-bhs/doctrine-doctor) - A runtime Doctrine ORM analyzer for the Symfony Web Profiler that detects N+1 queries, performance and security issues.
 * [Kint](https://github.com/kint-php/kint) - A debugging and profiling tool.
 * [LaraDumps](https://github.com/laradumps/laradumps) - A debugging tool for Laravel with a dedicated desktop application.
 * [Metrics](https://github.com/beberlei/metrics) - A simple metrics API library.
