@@ -827,6 +827,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
+* [php-zkteco](https://github.com/taha-rafi/php-zkteco) - A dual-protocol TCP/UDP library for ZKTeco biometric attendance machines with direct hardware attendance writing.
 * [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 
 # Software
