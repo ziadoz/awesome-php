@@ -269,6 +269,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 * [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://www.twilio.com/en-us/sendgrid), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
 * [Symfony Mailer](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
+* [Zeno Mailer](https://github.com/cmatosbc/zeno-mailer) - Modern mailer PHP 8.2+ solution with multiple transports and more resilient capabilities (beta).
 
 ### Files
 *Libraries for file manipulation and MIME type detection.*
