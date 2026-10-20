@@ -890,6 +890,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 * [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - A simple web interface to manage [Redis](https://redis.io/) databases.
 * [PHPSandbox](https://phpsandbox.io) - An online IDE for PHP in the browser.
+* [Synaplan](https://github.com/metadist/synaplan) - A self-hosted AI workspace with multi-provider chat, RAG document search, MCP server and embeddable chat widgets.
 
 ### Infrastructure
 *Infrastructure for providing PHP applications and services.*
