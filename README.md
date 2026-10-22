@@ -360,6 +360,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium).
 * [Optimus](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
 * [OWASP](https://owasp.org/) - Explore the world of cyber security.
+* [phpatchscan](https://github.com/PHPatch/phpatchscan) - A scanner that checks a website's PHP runtime against the patched releases for known critical CVEs.
 * [PHPGGC](https://github.com/ambionics/phpggc) - A library of PHP unserializable payloads along with a tool to generate them.
 * [PHP Encryption](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
 * [PHPSecLib](https://github.com/phpseclib/phpseclib) - A pure PHP secure communications library.
