@@ -606,6 +606,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [BunnyPHP](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
 * [Pheanstalk](https://github.com/pheanstalk/pheanstalk) - A Beanstalkd client library.
 * [PHP AMQP](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
+* [Rabbit RS](https://github.com/Goopil/php-rabbit-rs) - A native Rust RabbitMQ (AMQP 0-9-1) transport for PHP and Laravel with a PIE-installable extension.
 * [Tarantool Queue](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
 * [Thumper](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
 * [Enqueue](https://github.com/php-enqueue/enqueue-dev) - A message queue package for PHP that supports RabbitMQ, AMQP, STOMP, Amazon SQS, Redis and Doctrine transports.
