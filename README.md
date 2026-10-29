@@ -106,7 +106,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Composer](https://getcomposer.org/) - A package and dependency manager.
 * [Composer Installers](https://github.com/composer/installers) - A multi-framework Composer library installer.
 * [Phive](https://phar.io/) - A PHAR manager.
-* [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
 * [Pie](https://github.com/php/pie) - The official PHP installer for extensions.
 
 ### Dependency Management Extras
@@ -267,7 +266,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Fetch](https://github.com/tedious/Fetch) - An IMAP library.
 * [Mautic](https://github.com/mautic/mautic) - Email marketing automation.
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
-* [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://www.twilio.com/en-us/sendgrid), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
 * [Symfony Mailer](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
 
 ### Files
@@ -452,7 +450,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Trap](https://github.com/buggregator/trap) - An extended variable dumper with a web interface and IDE plugin.
 * [Whoops](https://github.com/filp/whoops) - A pretty error-handling library.
 * [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
-* [XHProf](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
+* [XHProf](https://github.com/longxinH/xhprof) - A profiling tool originally developed by Facebook.
 * [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
 
 ### Error Tracking and Monitoring Services
@@ -518,7 +516,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries that are event-driven or implement non-blocking event loops.*
 
 * [Amp](https://github.com/amphp/amp) - An event-driven non-blocking I/O library.
-* [Broadway](https://github.com/broadway/broadway) - An event source and CQRS library.
 * [CakePHP Event](https://github.com/cakephp/event) - An event dispatcher library.
 * [Elephant.io](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
@@ -626,7 +623,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CLIFramework](https://github.com/c9s/CLIFramework) - A command-line framework that supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
 * [CLImate](https://github.com/thephpleague/climate) - A library for outputting colors and special formatting.
 * [Commando](https://github.com/nategood/commando) - Another simple command line opt parser.
-* [Cron Expression](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
+* [Cron Expression](https://github.com/dragonmantank/cron-expression) - A library to calculate cron run dates.
 * [GetOpt](https://github.com/getopt-php/getopt-php) - A command line opt parser.
 * [GetOptionKit](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
 * [PsySH](https://github.com/bobthecow/psysh) - Another PHP REPL.
@@ -685,7 +682,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Portable ASCII](https://github.com/voku/portable-ascii) - A library to convert strings to ASCII.
 * [Portable UTF-8](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
 * [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
-* [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
+* [SQL Formatter](https://github.com/doctrine/sql-formatter) - A library for formatting SQL statements.
 * [Stringy](https://github.com/voku/Stringy) - A string manipulation library with multibyte support.
 * [Url highlight](https://github.com/vstelmakh/url-highlight) - A library for parsing URLs from text and converting them into clickable links.
 * [URLify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
@@ -785,7 +782,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Configuration
 *Libraries and tools for configuration.*
 
-* [PHP Dotenv](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
+* [PHP Dotenv](https://github.com/phpdotenv/phpdotenv) - Parse and load environment variables from `.env` files.
 * [Symfony Dotenv](https://github.com/symfony/dotenv) - Parse and load environment variables from `.env` files.
 * [Toml](https://github.com/php-collective/toml) - A TOML parser and encoder with AST access and error recovery.
 
@@ -827,7 +824,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Hprose-PHP](https://github.com/hprose/hprose-php) - A cross-language RPC.
 * [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
-* [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
+* [Pagerfanta](https://github.com/BabDev/Pagerfanta) - A pagination library.
 * [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 
 # Software
@@ -865,7 +862,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Alternative PHP virtual machines.*
 
 * [Hack](https://hacklang.org/) - A programming language for HHVM.
-* [HHVM](https://github.com/facebook/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
+* [HHVM](https://github.com/meta/hhvm) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 * [PeachPie](https://github.com/peachpiecompiler/peachpie) - PHP compiler and runtime for .NET and .NET Core.
 
 ### Text Editors and IDEs
@@ -883,7 +880,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
 * [Adminer](https://www.adminer.org/en/) - Database management in a single PHP file.
 * [Cachet](https://github.com/cachethq/cachet) - The open source status page system.
-* [Lychee](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
+* [Lychee](https://github.com/LycheeOrg/Lychee) - An easy to use and great looking photo-management-system.
 * [Leantime](https://leantime.io) - Strategic project management system for the non project manager.
 * [MailCatcher](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
 * [Mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool for developers.
