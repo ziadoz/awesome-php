@@ -513,6 +513,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Moment.php](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
 * [PHP RRule](https://github.com/rlanvin/php-rrule) - A library for working with recurring dates and times based on the iCalendar RRule spec.
 * [Yasumi](https://github.com/azuyalabs/yasumi) - A library to help you calculate the dates and names of holidays.
+* [Recurr](https://laravel-news.com/recurr) - A library for working with recurrence rules for calendar dates.
 
 ### Event
 *Libraries that are event-driven or implement non-blocking event loops.*
