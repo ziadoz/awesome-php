@@ -545,6 +545,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Money](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
 * [Brick Money](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
 * [OmniPay](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
+* [P2Flux PHP SDK](https://github.com/P2Flux/sdk-php) - A PHP SDK for USDC payments and recurring payments that settle directly to a merchant wallet.
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
 * [Shopsys Framework](https://github.com/shopsys/shopsys/) - An open source e-commerce platform for in-house development teams.
 * [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software.
