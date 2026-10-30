@@ -155,7 +155,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
 * [Kirby](https://getkirby.com/) - A flat-file CMS that adapts to any project.
 * [Magento](https://github.com/magento/magento2) - A widely used open-source e-commerce platform.
-* [Moodle](https://moodle.org/) - An open-source learning platform.
+* [Moodle](https://github.com/moodle/moodle) - An open-source learning platform.
 * [OctoberCMS](https://octobercms.com/) - A CMS built on Laravel.
 * [OpenMage](https://github.com/OpenMage/magento-lts) - Fork of EoL Magento 1 e-commerce platform.
 * [Pico CMS](https://picocms.org/) - A lightweight flat-file CMS.
