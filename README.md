@@ -961,6 +961,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ### PHP Newsletters
 *PHP-related news directly to your inbox.*
 
+* [La semana PHP](https://www.lasemanaphp.com/) - A weekly newsletter in Spanish about PHP and its ecosystem.
 * [PHP Weekly](https://www.phpweekly.com/) - A weekly newsletter about PHP.
 
 ### PHP Reading
