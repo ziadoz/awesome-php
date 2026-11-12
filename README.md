@@ -335,6 +335,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Continuous Integration
 *Libraries and applications for continuous integration.*
 
+* [Buddy](https://buddy.works) - A continuous integration and delivery platform with built-in actions for Composer and PHP deployments.
 * [CircleCI](https://circleci.com) - A continuous integration platform.
 * [GitLab CI](https://about.gitlab.com/solutions/continuous-integration/) - A continuous integration platform.
 * [Jenkins](https://www.jenkins.io/) - A continuous integration platform with [PHP support](https://www.jenkins.io/solutions/php/).
