@@ -556,6 +556,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Gotenberg](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 * [TCPDF](https://tcpdf.org/) - An open source PHP class for generating PDF documents.
+* [xberg](https://github.com/xberg-io/xberg) - Document intelligence library (PHP binding over a Rust core) that extracts text, tables, and metadata from PDFs, Office documents, images, and 97+ formats, with optional OCR.
 
 ### Office
 *Libraries for working with office suite documents.*
