@@ -237,6 +237,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries for scraping websites and detecting crawlers.*
 
 * [Chrome PHP](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
+* [crawlberg](https://github.com/xberg-io/crawlberg) - High-performance web crawling and scraping engine (PHP binding over a Rust core) with HTML-to-Markdown conversion and a headless-Chrome fallback.
 * [CrawlerDetect](https://github.com/JayBizzle/Crawler-Detect) - A PHP class for detecting bots/crawlers/spiders via the user agent.
 * [DiDOM](https://github.com/Imangazaliev/DiDOM) - A super-fast HTML scrapper and parser.
 * [Embed](https://github.com/php-embed/Embed) - An information extractor from any web service or page.
