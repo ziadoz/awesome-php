@@ -825,6 +825,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 * [Pagerfanta](https://github.com/BabDev/Pagerfanta) - A pagination library.
+* [Quittio](https://github.com/Quittio/quittio) - A library for creating, reading and validating EN 16931 e-invoices (ZUGFeRD/Factur-X, XRechnung, UBL and Peppol).
 * [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 
 # Software
