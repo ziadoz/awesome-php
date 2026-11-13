@@ -654,6 +654,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Essence](https://github.com/essence/essence) - A library for extracting web media.
 * [Embera](https://github.com/mpratt/Embera) - An Oembed consumer library.
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
+* [html-to-markdown](https://github.com/xberg-io/html-to-markdown) - Fast, CommonMark-compliant HTML to Markdown converter (PHP binding over a Rust core).
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
 * [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
 * [PHP CSS Parser](https://github.com/MyIntervals/PHP-CSS-Parser) - A Parser for CSS Files written in PHP.
