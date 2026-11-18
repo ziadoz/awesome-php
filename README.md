@@ -952,7 +952,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Over Engineered](https://overengineered.fm/) - A podcast in mini-series where we explore unimportant programming questions in extreme detail.
 * [PHP Internals News](https://phpinternals.news) - A podcast about PHP internals.
 * [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
-* [php[podcast] episodes from php[architect]](https://www.phparch.com/podcast/) - The official podcast of php[architect] the industry's leading tech magazine and publisher focused on PHP and web development.
+* [php[podcast] episodes from php[architect]](https://phparch.com/podcast/the-php-podcast) - The official podcast of php[architect] the industry's leading tech magazine and publisher focused on PHP and web development.
 * [PHPUgly](https://www.phpugly.com/) - The ramblings of a few overworked PHP Developers.
 * [The Laracasts Snippet](https://laracasts.simplecast.com) - The Laracasts snippet, each episode, offers a single thought on some aspect of web development.
 * [The Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
