@@ -267,6 +267,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Mautic](https://github.com/mautic/mautic) - Email marketing automation.
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 * [Symfony Mailer](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
+* [Zeno Mailer](https://github.com/cmatosbc/zeno-mailer) - Modern mailer PHP 8.2+ solution with multiple transports and more resilient capabilities (beta).
 
 ### Files
 *Libraries for file manipulation and MIME type detection.*
