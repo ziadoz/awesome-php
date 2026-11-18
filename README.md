@@ -15,6 +15,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
   - [Content Management Systems](#content-management-systems-cms)
   - [Components](#components)
   - [Micro Frameworks](#micro-frameworks)
+- [Spiral](https://github.com/spiral/framework) - Long-running PHP framework with RoadRunner application server.
   - [Micro Framework Extras](#micro-framework-extras)
   - [Routers](#routers)
   - [Templating](#templating)
