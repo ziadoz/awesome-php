@@ -197,9 +197,9 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Aura.Router](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
 * [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
+* [GLRoute](https://github.com/ellisgl/GLRoute) - Yet another PHP router.
 * [Klein](https://github.com/klein/klein.php) - A flexible router.
 * [Route](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
-* [GLRoute](https://github.com/ellisgl/GLRoute) - Yet another PHP router.
 
 ### Templating
 *Libraries and tools for templating and lexing.*
