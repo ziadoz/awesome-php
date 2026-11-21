@@ -7,6 +7,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 ## Table of Contents
 - [Awesome PHP](#awesome-php)
+  - [AI](#AI)
   - [Composer Repositories](#composer-repositories)
   - [Dependency Management](#dependency-management)
   - [Dependency Management Extras](#dependency-management-extras)
@@ -90,6 +91,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
   - [PHP Newsletters](#php-newsletters)
   - [PHP Reading](#php-reading)
   - [PHP Internals Reading](#php-internals-reading)
+
+### AI
+*AI-related tools and packages*
+* [Ralph](https://github.com/celyes/ralph) - A long-running AI agent loop that can code for days.
 
 ### Composer Repositories
 *Composer Repositories.*
