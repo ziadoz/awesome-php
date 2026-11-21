@@ -560,6 +560,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Office
 *Libraries for working with office suite documents.*
 
+* [OData Feed](https://github.com/abolfazl-moeini/odata-feed) - A library that embeds Power Query OData connections into PhpSpreadsheet workbooks for live Excel data refresh.
 * [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation) - A library for working with Microsoft PowerPoint Presentations.
 * [PHPWord](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
 * [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).
