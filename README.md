@@ -855,6 +855,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPMon](https://phpmon.app/) - A macOS menu bar app for managing PHP installations (works with [Laravel Valet](https://laravel.com/framework/docs/master/valet)).
 * [Puppet](https://www.puppet.com) - A server automation framework and application.
 * [Solo](https://github.com/soloterm/solo) - A terminal application to manage processes for a Laravel application.
+* [Stratos](https://stratosapp.dev) - Native macOS Swift local PHP (8.1–8.5), Laravel, and WordPress development environment with Nginx, SSL, databases, visual Tinker REPL, and a local MCP server.
 * [Takeout](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
 * [Vagrant](https://developer.hashicorp.com/vagrant) - A portable development environment utility.
 
